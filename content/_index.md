@@ -15,7 +15,7 @@ El botón de copiar código (cc) le permite copiar la taxonomía completa format
 - Estoy terminando el CMS para que ud mismo pueda seguir metiendo especies
 - Quiero ponerle un buen buscador general
 - Quiero ponerle filtros a la tabla de especies para que se pueda reorganizar
-- Cuando la tabla de especies sea muy grande, la página se podr´â hacer muy lenta. Entonces en algún punto sería bueno ponerle paginación.
+- Cuando la tabla de especies sea muy grande, la página se podría hacer muy lenta. Entonces en algún punto sería bueno ponerle paginación.
 - Que la tabla sea responsive
 
 ## Otras ideas
