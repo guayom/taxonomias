@@ -5,7 +5,7 @@
   <td>{{ index .Params.ordenes 0 }}</td>
   <td>{{ index .Params.familias 0 }}</td>
   <td>{{ index .Params.generos 0 }}</td>
-  <td>{{ .Title }}</td>
+  <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
   <td>{{ .Params.nombre_cientifico }}</td>
   <td>{{ .Params.nombre_comun }}</td>
   <td>{{ .Params.nombre_ingles }}</td>
