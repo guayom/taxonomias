@@ -4,7 +4,7 @@ title = "Taxonomías"
 
 [taxonomies]
   tag = "tags"
-  animalia = "animalia"
+  reino = "reinos"
   division = "divisiones"
   clase = "clases"
   orden = "ordenes"

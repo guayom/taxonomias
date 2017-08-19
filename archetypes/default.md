@@ -2,7 +2,7 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: false
-animalia: ["animalia"]
+reinos: ["reino"]
 divisiones: ["division"]
 clases: ["clase"]
 ordenes: ["orden"]
@@ -11,6 +11,7 @@ generos: ["genero"]
 nombre_cientifico:
 nombre_comun:
 nombre_ingles:
+otros_nombres:
 notas:
 links:
 ---
