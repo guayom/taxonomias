@@ -1,0 +1,13 @@
+<tr>
+  <td>{{ index .Params.reinos 0 }}</td>
+  <td>{{ index .Params.divisiones 0 }}</td>
+  <td>{{ index .Params.clases 0 }}</td>
+  <td>{{ index .Params.ordenes 0 }}</td>
+  <td>{{ index .Params.familias 0 }}</td>
+  <td>{{ index .Params.generos 0 }}</td>
+  <td>{{ .Title }}</td>
+  <td>{{ .Params.nombre_cientifico }}</td>
+  <td>{{ .Params.nombre_comun }}</td>
+  <td>{{ .Params.nombre_ingles }}</td>
+  <td>REINO: {{ index .Params.reinos 0 }} >DIVISION: {{ index .Params.divisiones 0 }} >CLASE: {{ index .Params.clases 0 }} >ORDEN: {{ index .Params.ordenes 0 }} >FAMILIA: {{ index .Params.familias 0 }} >GENERO: {{ index .Params.generos 0 }} >ESPECIE: {{ .Title }} >N.CIENTIFICO: {{ .Params.nombre_cientifico }}</td>
+</tr>

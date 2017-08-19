@@ -1,0 +1,21 @@
+{{ define "main" }}
+  <table>
+    <thead>
+      <tr>
+        <th>Reino</th>
+        <th>División</th>
+        <th>Clase</th>
+        <th>Órden</th>
+        <th>Familia</th>
+        <th>Géneros</th>
+        <th>Especie</th>
+        <th>Nombre científico</th>
+        <th>Nombre común</th>
+        <th>Nombre inglés</th>
+        <th>Código</th>
+      </tr>
+    {{ range .Pages }}
+      {{ .Render "li" }}
+    {{ end }}
+  </table>
+{{ end }}
