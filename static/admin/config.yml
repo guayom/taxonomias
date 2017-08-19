@@ -1,0 +1,30 @@
+backend:
+  name: github
+  repo: guayom/taxonomias
+  branch: master
+
+media_folder: "static/images"
+public_folder: "/images"
+
+collections:
+  - name: "especies" # Used in routes, e.g., /admin/collections/blog
+    label: "Especies" # Used in the UI
+    folder: "content/especies" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "string"} #Agregar default value
+      - {label: "Reino", name: "reinos", widget: "string"}
+      - {label: "División", name: "division", widget: "string"}
+      - {label: "Clase", name: "clases", widget: "string"}
+      - {label: "Órden", name: "ordenes", widget: "string"}
+      - {label: "Familia", name: "familias", widget: "string"}
+      - {label: "Género", name: "genero", widget: "string"}
+      - {label: "Nombre científico", name: "nombre_cientifico", widget: "string"}
+      - {label: "Nombre común", name: "nombre_comun", widget: "string"}
+      - {label: "Nombre inglés", name: "nombre_ingles", widget: "string"}
+      - {label: "Otros nombres", name: "otros_nombres", widget: "string"}
+      - {label: "Links", name: "links", widget: "string"}
+      - {label: "Notas", name: "notas", widget: "string"}
