@@ -28,3 +28,4 @@ collections:
       - {label: "Otros nombres", name: "otros_nombres", widget: "string"}
       - {label: "Links", name: "links", widget: "string"}
       - {label: "Notas", name: "notas", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
