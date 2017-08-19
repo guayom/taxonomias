@@ -15,13 +15,13 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Draft", name: "draft", widget: "string"}
-      - {label: "Reino", name: "reinos", widget: "string"}
-      - {label: "División", name: "division", widget: "string"}
-      - {label: "Clase", name: "clases", widget: "string"}
-      - {label: "Órden", name: "ordenes", widget: "string"}
-      - {label: "Familia", name: "familias", widget: "string"}
-      - {label: "Género", name: "genero", widget: "string"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: "true"}
+      - {label: "Reino", name: "reinos", widget: "list"}
+      - {label: "División", name: "divisiones", widget: "list"}
+      - {label: "Clase", name: "clases", widget: "list"}
+      - {label: "Órden", name: "ordenes", widget: "list"}
+      - {label: "Familia", name: "familias", widget: "list"}
+      - {label: "Género", name: "genero", widget: "list"}
       - {label: "Nombre científico", name: "nombre_cientifico", widget: "string"}
       - {label: "Nombre común", name: "nombre_comun", widget: "string"}
       - {label: "Nombre inglés", name: "nombre_ingles", widget: "string"}
