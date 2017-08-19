@@ -1,18 +1,14 @@
-
-      ---
-
-      title: "compta"
-      date: 2017-08-18T20:46:32-06:00
-      draft: false
-      reinos: ["Animalia"]
-      divisiones: ["Arthropoda"]
-      clases: ["Insecta"]
-      ordenes: ["Hemiptera"]
-      familias: ["Cicadellidae"]
-      generos: ["Sibovia"]
-      nombre_cientifico: "Sibovia compta"
-      nombre_comun: "Chicharrita"
-      nombre_ingles: "Leafhopper"
-      ---
-
-      
+---
+title: "compta"
+date: 2017-08-18T20:46:32-06:00
+draft: false
+reinos: ["Animalia"]
+divisiones: ["Arthropoda"]
+clases: ["Insecta"]
+ordenes: ["Hemiptera"]
+familias: ["Cicadellidae"]
+generos: ["Sibovia"]
+nombre_cientifico: "Sibovia compta"
+nombre_comun: "Chicharrita"
+nombre_ingles: "Leafhopper"
+---

@@ -1,18 +1,14 @@
-
-      ---
-
-      title: "graphialis"
-      date: 2017-08-18T20:46:32-06:00
-      draft: false
-      reinos: ["Animalia"]
-      divisiones: ["Arthropoda"]
-      clases: ["Insecta"]
-      ordenes: ["Lepidoptera"]
-      familias: ["Crambidae"]
-      generos: ["Nonazochis"]
-      nombre_cientifico: "Nonazochis graphialis"
-      nombre_comun: ""
-      nombre_ingles: ""
-      ---
-
-      
+---
+title: "graphialis"
+date: 2017-08-18T20:46:32-06:00
+draft: false
+reinos: ["Animalia"]
+divisiones: ["Arthropoda"]
+clases: ["Insecta"]
+ordenes: ["Lepidoptera"]
+familias: ["Crambidae"]
+generos: ["Nonazochis"]
+nombre_cientifico: "Nonazochis graphialis"
+nombre_comun: ""
+nombre_ingles: ""
+---

@@ -1,18 +1,14 @@
-
-      ---
-
-      title: "araneiformis"
-      date: 2017-08-18T20:46:32-06:00
-      draft: false
-      reinos: ["Animalia"]
-      divisiones: ["Arthropoda"]
-      clases: ["Insecta"]
-      ordenes: ["Coleoptera"]
-      familias: ["Cerambycidae"]
-      generos: ["Lagocheirus"]
-      nombre_cientifico: "Lagocheirus araneiformis"
-      nombre_comun: ""
-      nombre_ingles: ""
-      ---
-
-      
+---
+title: "araneiformis"
+date: 2017-08-18T20:46:32-06:00
+draft: false
+reinos: ["Animalia"]
+divisiones: ["Arthropoda"]
+clases: ["Insecta"]
+ordenes: ["Coleoptera"]
+familias: ["Cerambycidae"]
+generos: ["Lagocheirus"]
+nombre_cientifico: "Lagocheirus araneiformis"
+nombre_comun: ""
+nombre_ingles: ""
+---
