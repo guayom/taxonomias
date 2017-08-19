@@ -10,3 +10,34 @@ title = "Taxonomías"
   orden = "ordenes"
   familia = "familias"
   genero = "generos"
+
+[[menu.main]]
+    name = "Reinos"
+    weight = 1
+    identifier = "reinos"
+    url = "/reinos/"
+[[menu.main]]
+    name = "Divisiones"
+    weight = 2
+    identifier = "divisiones"
+    url = "/divisiones/"
+[[menu.main]]
+    name = "Clases"
+    weight = 3
+    identifier = "clases"
+    url = "/clases/"
+[[menu.main]]
+    name = "Órdenes"
+    weight = 4
+    identifier = "ordenes"
+    url = "/ordenes/"
+[[menu.main]]
+    name = "Familias"
+    weight = 5
+    identifier = "familias"
+    url = "/familias/"
+[[menu.main]]
+    name = "Géneros"
+    weight = 5
+    identifier = "generos"
+    url = "/generos/"
