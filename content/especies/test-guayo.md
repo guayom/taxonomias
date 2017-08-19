@@ -1,7 +1,7 @@
 ---
 title: Test Guayo
 date: 2017-08-19T18:39:44.743Z
-draft: 'true'
+draft: false
 reinos:
   - test reino
 divisiones:
@@ -22,3 +22,4 @@ links: test links
 notas: test notes
 ---
 Hola!
+
