@@ -1,7 +1,11 @@
 <tr>
-  <td><a href="{{ .Permalink }}">{{ .Title }}<br/><button class="btn btn-sm" data-clipboard-text="REINO: {{ index .Params.reinos 0 }} >DIVISION: {{ index .Params.divisiones 0 }} >CLASE: {{ index .Params.clases 0 }} >ORDEN: {{ index .Params.ordenes 0 }} >FAMILIA: {{ index .Params.familias 0 }} >GENERO: {{ index .Params.generos 0 }} >ESPECIE: {{ .Title }} >N.CIENTIFICO: {{ .Params.nombre_cientifico }}">
-  Copiar código
-  </button></a></td>
+  <td>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    <br/>
+    <button class="btn btn-sm" data-clipboard-text="REINO: {{ index .Params.reinos 0 }} >DIVISION: {{ index .Params.divisiones 0 }} >CLASE: {{ index .Params.clases 0 }} >ORDEN: {{ index .Params.ordenes 0 }} >FAMILIA: {{ index .Params.familias 0 }} >GENERO: {{ index .Params.generos 0 }} >ESPECIE: {{ .Title }} >N.CIENTIFICO: {{ .Params.nombre_cientifico }}">
+      Copiar código
+    </button>
+  </td>
   <td>{{ index .Params.reinos 0 }}</td>
   <td>{{ index .Params.divisiones 0 }}</td>
   <td>{{ index .Params.clases 0 }}</td>
