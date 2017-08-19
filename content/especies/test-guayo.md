@@ -12,7 +12,7 @@ ordenes:
   - test orden
 familias:
   - test familia
-genero:
+generos:
   - test genero
 nombre_cientifico: test n cientifico
 nombre_comun: Test Guayo
@@ -22,4 +22,3 @@ links: test links
 notas: test notes
 ---
 Hola!
-

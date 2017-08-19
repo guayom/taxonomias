@@ -21,7 +21,7 @@ collections:
       - {label: "Clase", name: "clases", widget: "list"}
       - {label: "Órden", name: "ordenes", widget: "list"}
       - {label: "Familia", name: "familias", widget: "list"}
-      - {label: "Género", name: "genero", widget: "list"}
+      - {label: "Género", name: "generos", widget: "list"}
       - {label: "Nombre científico", name: "nombre_cientifico", widget: "string"}
       - {label: "Nombre común", name: "nombre_comun", widget: "string"}
       - {label: "Nombre inglés", name: "nombre_ingles", widget: "string"}
