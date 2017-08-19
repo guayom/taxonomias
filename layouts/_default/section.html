@@ -1,6 +1,6 @@
 {{ define "main" }}
-  <table class="table table-hover">
-    <thead>
+  <table class="table table-striped" style="width: 100%;">
+    <thead class="thead-inverse">
       <tr>
         <th>Reino</th>
         <th>División</th>
@@ -14,8 +14,14 @@
         <th>Nombre inglés</th>
         <th>Código</th>
       </tr>
-    {{ range .Pages }}
-      {{ .Render "li" }}
-    {{ end }}
+    </thead>
+    <tbody>
+      {{ range .Pages }}
+        {{ .Render "li" }}
+      {{ end }}
+    </tbody>
   </table>
+  <script type="text/javascript">
+  new Clipboard('.btn');
+  </script>
 {{ end }}
