@@ -23,7 +23,7 @@
       </tr>
     </thead>
     <tbody>
-      {{ range .Pages }}
+      {{ range .Pages.ByTitle }}
         {{ .Render "summary" }}
       {{ end }}
     </tbody>
