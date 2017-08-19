@@ -14,18 +14,18 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
-      # - {label: "Publish Date", name: "date", widget: "datetime"}
-      # - {label: "Draft", name: "draft", widget: "string"}
-      # - {label: "Reino", name: "reinos", widget: "string"}
-      # - {label: "División", name: "division", widget: "string"}
-      # - {label: "Clase", name: "clases", widget: "string"}
-      # - {label: "Órden", name: "ordenes", widget: "string"}
-      # - {label: "Familia", name: "familias", widget: "string"}
-      # - {label: "Género", name: "genero", widget: "string"}
-      # - {label: "Nombre científico", name: "nombre_cientifico", widget: "string"}
-      # - {label: "Nombre común", name: "nombre_comun", widget: "string"}
-      # - {label: "Nombre inglés", name: "nombre_ingles", widget: "string"}
-      # - {label: "Otros nombres", name: "otros_nombres", widget: "string"}
-      # - {label: "Links", name: "links", widget: "string"}
-      # - {label: "Notas", name: "notas", widget: "string"}
-      # - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "string"}
+      - {label: "Reino", name: "reinos", widget: "string"}
+      - {label: "División", name: "division", widget: "string"}
+      - {label: "Clase", name: "clases", widget: "string"}
+      - {label: "Órden", name: "ordenes", widget: "string"}
+      - {label: "Familia", name: "familias", widget: "string"}
+      - {label: "Género", name: "genero", widget: "string"}
+      - {label: "Nombre científico", name: "nombre_cientifico", widget: "string"}
+      - {label: "Nombre común", name: "nombre_comun", widget: "string"}
+      - {label: "Nombre inglés", name: "nombre_ingles", widget: "string"}
+      - {label: "Otros nombres", name: "otros_nombres", widget: "string"}
+      - {label: "Links", name: "links", widget: "string"}
+      - {label: "Notas", name: "notas", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
