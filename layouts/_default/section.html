@@ -12,11 +12,12 @@
         <th>Nombre científico</th>
         <th>Nombre común</th>
         <th>Nombre inglés</th>
+        <th></th>
       </tr>
     </thead>
     <tbody>
       {{ range .Pages }}
-        {{ .Render "li" }}
+        {{ .Render "summary" }}
       {{ end }}
     </tbody>
   </table>
