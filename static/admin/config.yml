@@ -15,17 +15,17 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string", tagname: h1}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Reino", name: "reinos", widget: "list"}
-      - {label: "División", name: "divisiones", widget: "list"}
-      - {label: "Clase", name: "clases", widget: "list"}
-      - {label: "Órden", name: "ordenes", widget: "list"}
-      - {label: "Familia", name: "familias", widget: "list"}
-      - {label: "Género", name: "generos", widget: "list"}
-      - {label: "Nombre científico", name: "nombre_cientifico", widget: "string"}
-      - {label: "Nombre común", name: "nombre_comun", widget: "string"}
-      - {label: "Nombre inglés", name: "nombre_ingles", widget: "string"}
-      - {label: "Otros nombres", name: "otros_nombres", widget: "list"}
+      - {label: "Reino", name: "reinos", widget: "list", required: false}
+      - {label: "División", name: "divisiones", widget: "list", required: false}
+      - {label: "Clase", name: "clases", widget: "list", required: false}
+      - {label: "Órden", name: "ordenes", widget: "list", required: false}
+      - {label: "Familia", name: "familias", widget: "list", required: false}
+      - {label: "Género", name: "generos", widget: "list", required: false}
+      - {label: "Nombre científico", name: "nombre_cientifico", widget: "string", required: false}
+      - {label: "Nombre común", name: "nombre_comun", widget: "string", required: false}
+      - {label: "Nombre inglés", name: "nombre_ingles", widget: "string", required: false}
+      - {label: "Otros nombres", name: "otros_nombres", widget: "list", required: false}
       - {label: "Links", name: "links", widget: "string"}
       # - {label: "Notas", name: "notas", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Draft", name: "draft", widget: "hidden", default: "false"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - {label: "Draft", name: "draft", widget: "hidden", default: "false", required: false}
