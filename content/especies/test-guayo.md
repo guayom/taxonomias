@@ -9,7 +9,7 @@ divisiones:
 clases:
   - test clase
 ordenes:
-  - test orden
+
 familias:
   - test familia
 generos:
@@ -17,8 +17,10 @@ generos:
 nombre_cientifico: test n cientifico
 nombre_comun: Test Guayo
 nombre_ingles: test n ingles
-otros_nombres: test otros nombres
-links: test links
+otros_nombres:
+  - test otros nombres
+links:
+  - test links
 notas: test notes
 ---
 Hola!
