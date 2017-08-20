@@ -13,9 +13,8 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Title", name: "title", widget: "string", tagname: h1}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Draft", name: "draft", widget: "hidden", default: "false"}
       - {label: "Reino", name: "reinos", widget: "list"}
       - {label: "División", name: "divisiones", widget: "list"}
       - {label: "Clase", name: "clases", widget: "list"}
@@ -25,7 +24,8 @@ collections:
       - {label: "Nombre científico", name: "nombre_cientifico", widget: "string"}
       - {label: "Nombre común", name: "nombre_comun", widget: "string"}
       - {label: "Nombre inglés", name: "nombre_ingles", widget: "string"}
-      - {label: "Otros nombres", name: "otros_nombres", widget: "string"}
+      - {label: "Otros nombres", name: "otros_nombres", widget: "list"}
       - {label: "Links", name: "links", widget: "string"}
-      - {label: "Notas", name: "notas", widget: "string"}
+      # - {label: "Notas", name: "notas", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Draft", name: "draft", widget: "hidden", default: "false"}
