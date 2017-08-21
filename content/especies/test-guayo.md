@@ -1,7 +1,5 @@
 ---
 title: test Guayo
-date: 2017-08-19T18:39:44.743Z
-draft: false
 reinos:
   - test reino
 divisiones:
@@ -9,7 +7,7 @@ divisiones:
 clases:
   - test clase
 ordenes:
-
+  - test orden
 familias:
   - test familia
 generos:
@@ -17,10 +15,13 @@ generos:
 nombre_cientifico: test n cientifico
 nombre_comun: Test Guayo
 nombre_ingles: test n ingles
-otros_nombres:
-  - test otros nombres
 links:
   - test links
+date: 2017-08-19T18:39:44.743Z
 notas: test notes
+otros_nombres:
+  - test otros nombres
+draft: false
 ---
 Hola!
+
