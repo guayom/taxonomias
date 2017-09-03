@@ -1,5 +1,5 @@
 ---
-title: Amapola
+title: Schizopetalus
 reinos:
   - Plantae
 divisiones:
@@ -21,3 +21,4 @@ draft: 'false'
 date: 2017-09-03T00:08:11.613Z
 ---
 null
+
