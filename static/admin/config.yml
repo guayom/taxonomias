@@ -15,24 +15,24 @@ collections:
     editor:
       preview: false
     fields: # The fields for each document, usually in front matter
+      - {label: "Nombre científico", name: "nombre_cientifico", widget: "string", required: false}
       - {label: "Reino", name: "reinos", widget: "list", required: false}
       - {label: "División", name: "divisiones", widget: "list", required: false}
       - {label: "Clase", name: "clases", widget: "list", required: false}
       - {label: "Órden", name: "ordenes", widget: "list", required: false}
       - {label: "Familia", name: "familias", widget: "list", required: false}
       - {label: "Género", name: "generos", widget: "list", required: false}
-      - {label: "Nombre científico", name: "nombre_cientifico", widget: "string", required: false}
+      - {label: "Especie", name: "title", widget: "string"}
       - {label: "Nombre común", name: "nombre_comun", widget: "string", required: false}
       - {label: "Nombre inglés", name: "nombre_ingles", widget: "string", required: false}
-      - {label: "Especie", name: "title", widget: "string"}
       - {label: "Otros nombres", name: "otros_nombres", widget: "list", required: false}
       - {label: "Links", name: "links", widget: "string"}
       # - {label: "Notas", name: "notas", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
-      - {label: "Draft", name: "draft", widget: "hidden", default: "false", required: false}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
       - name: images
         label: Imágenes
         widget: list
         fields:
           - {label: URL de la imagen, name: url, widget: string}
+      - {label: "Draft", name: "draft", widget: "hidden", default: "false", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
