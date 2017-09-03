@@ -1,31 +1,60 @@
 {{ define "main" }}
-<dl class="row">
-  <dt class="col-sm-2">Reino</dt>
-  <dd class="col-sm-10">{{ with .Params.reinos }}{{ index . 0 }}{{ end }}</dd>
-  <dt class="col-sm-2">Dvisión</dt>
-  <dd class="col-sm-10">{{ with .Params.divisiones }}{{ index . 0 }}{{ end }}</dd>
-  <dt class="col-sm-2">Clase</dt>
-  <dd class="col-sm-10">{{ with .Params.clases }}{{ index . 0 }}{{ end }}</dd>
-  <dt class="col-sm-2">Órden</dt>
-  <dd class="col-sm-10">{{ with .Params.ordenes }}{{ index . 0 }}{{ end }}</dd>
-  <dt class="col-sm-2">Familia</dt>
-  <dd class="col-sm-10">{{ with .Params.familias }}{{ index . 0 }}{{ end }}</dd>
-  <dt class="col-sm-2">Género</dt>
-  <dd class="col-sm-10">{{ with .Params.generos }}{{ index . 0 }}{{ end }}</dd>
-  <dt class="col-sm-2">Nombre científico</dt>
-  <dd class="col-sm-10">{{ with .Params.nombre_cientifico }}{{ . }}{{ end }}</dd>
-  <dt class="col-sm-2">Nombre común</dt>
-  <dd class="col-sm-10">{{ with .Params.nombre_comun }}{{ . }}{{ end }}</dd>
-  <dt class="col-sm-2">Nombre en inglés</dt>
-  <dd class="col-sm-10">{{ with .Params.nombre_ingles }}{{ . }}{{ end }}</dd>
-  <dt class="col-sm-2">Código</dt>
-  <dd class="col-sm-10">{{ partial "code.html" . }}
-    <br/><br/>
-    <button class="btn btn-primary  btn-sm" data-clipboard-text="{{ partial "code.html" . }}">
-      Copiar código
-    </button>
-  </dd>
-</dl>
+<div class="row">
+  <div class="col-md-4">
+    <dl class="row">
+      <dt class="col-sm-2">Reino</dt>
+      <dd class="col-sm-10">{{ with .Params.reinos }}{{ index . 0 }}{{ end }}</dd>
+      <dt class="col-sm-2">Dvisión</dt>
+      <dd class="col-sm-10">{{ with .Params.divisiones }}{{ index . 0 }}{{ end }}</dd>
+      <dt class="col-sm-2">Clase</dt>
+      <dd class="col-sm-10">{{ with .Params.clases }}{{ index . 0 }}{{ end }}</dd>
+      <dt class="col-sm-2">Órden</dt>
+      <dd class="col-sm-10">{{ with .Params.ordenes }}{{ index . 0 }}{{ end }}</dd>
+      <dt class="col-sm-2">Familia</dt>
+      <dd class="col-sm-10">{{ with .Params.familias }}{{ index . 0 }}{{ end }}</dd>
+      <dt class="col-sm-2">Género</dt>
+      <dd class="col-sm-10">{{ with .Params.generos }}{{ index . 0 }}{{ end }}</dd>
+      <dt class="col-sm-2">Nombre científico</dt>
+      <dd class="col-sm-10">{{ with .Params.nombre_cientifico }}{{ . }}{{ end }}</dd>
+      <dt class="col-sm-2">Nombre común</dt>
+      <dd class="col-sm-10">{{ with .Params.nombre_comun }}{{ . }}{{ end }}</dd>
+      <dt class="col-sm-2">Nombre en inglés</dt>
+      <dd class="col-sm-10">{{ with .Params.nombre_ingles }}{{ . }}{{ end }}</dd>
+      <dt class="col-sm-2">Código</dt>
+      <dd class="col-sm-10">{{ partial "code.html" . }}
+        <br/><br/>
+        <button class="btn btn-primary  btn-sm" data-clipboard-text="{{ partial "code.html" . }}">
+          Copiar código
+        </button>
+      </dd>
+    </dl>
+  </div>
+  <div class="col-md-8">
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        {{ range $index, $image := .Params.images }}
+          <li data-target="#carouselExampleIndicators" data-slide-to="{{ $index }}" {{if eq $index 1}}class="active"{{ end }}></li>
+        {{ end }}
+      </ol>
+      <div class="carousel-inner">
+        {{ range $index, $image := .Params.images }}
+          <div class="carousel-item {{if eq $index 1}}active{{ end }}">
+            <img class="d-block w-100" src="{{ $image.url }}" alt="First slide">
+          </div>
+        {{ end }}
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </div>
+</div>
+
 <script type="text/javascript">
 new Clipboard('.btn');
 </script>
