@@ -1,23 +1,14 @@
 ---
-title: discolor
-reinos:
-  - Plantae
-divisiones:
-  - Angiosperms
-clases:
-  - Monocots
-ordenes:
-  - Asparagales
-familias:
-  - Orchidaceae
-generos:
-  - Warczewiczella
-nombre_cientifico: "Warczewiczella\_discolor"
-nombre_comun: Orquídea
-nombre_ingles: null
-otros_nombres: null
-links: 'https://flic.kr/p/X7WHtC'
-draft: 'false'
-date: 2017-09-03T00:56:30.463Z
+title: "discolor"
+date: 2017-08-18T20:46:32-06:00
+draft: false
+reinos: ["Animalia"]
+divisiones: ["Chordata"]
+clases: ["Aves"]
+ordenes: ["Passeriformes"]
+familias: ["Parulidae "]
+generos: ["Setophaga"]
+nombre_cientifico: "Setophaga discolor"
+nombre_comun: "Reinita Galana"
+nombre_ingles: "Prairie Warbler"
 ---
-null
