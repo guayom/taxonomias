@@ -5,7 +5,7 @@ reinos:
 divisiones:
   - Chordata
 clases:
-  - Mammalia
+  - MAmalia
 ordenes:
   - Rodentia
 familias:
@@ -13,7 +13,7 @@ familias:
 generos:
   - Sciurus
 title: variegatoides
-nombre_comun: 'Ardilla '
+nombre_comun: Ardilla
 nombre_ingles: Variegated squirrel
 otros_nombres:
   - Chiza
@@ -21,6 +21,6 @@ links: 'https://flic.kr/p/JFKjCu'
 images:
   - url: 'https://flic.kr/p/JFKjCu'
 draft: 'false'
-date: 2017-09-04T02:18:25.401Z
+date: 2017-09-04T02:22:02.518Z
 ---
 null
