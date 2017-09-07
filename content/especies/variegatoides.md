@@ -5,7 +5,7 @@ reinos:
 divisiones:
   - Chordata
 clases:
-  - MAmalia
+  - Mammalia
 ordenes:
   - Rodentia
 familias:
@@ -24,3 +24,4 @@ draft: 'false'
 date: 2017-09-04T02:22:02.518Z
 ---
 null
+
