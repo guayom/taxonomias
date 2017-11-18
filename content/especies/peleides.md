@@ -13,7 +13,7 @@ familias:
 generos:
   - Morpho
 title: ' helenor marinita'
-nombre_comun: morfo azul
+nombre_comun: 'morfo azul, Celeste común'
 nombre_ingles: Peleides blue morpho
 otros_nombres:
   - antes Morpho peleides
