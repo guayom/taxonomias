@@ -1,7 +1,7 @@
 ---
 nombre_cientifico: Hamadryas saurites
 reinos:
-  - Animal
+  - Animalia
 divisiones:
   - Arthropoda
 clases:
