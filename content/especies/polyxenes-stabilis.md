@@ -1,7 +1,7 @@
 ---
 nombre_cientifico: Papilio polyxenes stabilis
 reinos:
-  - Animal
+  - Animalia
 divisiones:
   - Arthropoda
 clases:
