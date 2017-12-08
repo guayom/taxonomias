@@ -1,7 +1,7 @@
 ---
 nombre_cientifico: Trogon melanocephalus
 reinos:
-  - Animal
+  - Animalia
 divisiones:
   - Chordata
 clases:
