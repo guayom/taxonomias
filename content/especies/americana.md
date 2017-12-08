@@ -1,7 +1,7 @@
 ---
 nombre_cientifico: Mycteria americana
 reinos:
-  - Animal
+  - Animalia
 divisiones:
   - Chordata
 clases:
