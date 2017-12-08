@@ -1,7 +1,7 @@
 ---
 nombre_cientifico: Caligo brasiliensis sulanus
 reinos:
-  - Animal
+  - Animalia
 divisiones:
   - Arthropoda
 clases:
