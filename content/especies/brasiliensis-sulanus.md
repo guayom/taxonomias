@@ -3,7 +3,7 @@ nombre_cientifico: Caligo brasiliensis sulanus
 reinos:
   - Animal
 divisiones:
-  - Arhropoda
+  - Arthropoda
 clases:
   - Insecta
 ordenes:
