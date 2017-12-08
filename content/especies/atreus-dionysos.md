@@ -1,7 +1,7 @@
 ---
 nombre_cientifico: Caligo atreus dionysos
 reinos:
-  - Animal
+  - Animalia
 divisiones:
   - Arthropoda
 clases:
