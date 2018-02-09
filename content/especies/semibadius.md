@@ -1,14 +1,24 @@
 ---
-title: "semibadius"
-date: 2017-08-18T20:46:32-06:00
-draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Troglodytidae "]
-generos: ["Cantorchilus"]
-nombre_cientifico: "Cantorchilus semibadius"
-nombre_comun: "Soterrey Pechibarreteado"
-nombre_ingles: "Riverside Wren"
+nombre_cientifico: Cantorchilus semibadius
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - Troglodytidae
+generos:
+  - Cantorchilus
+title: semibadius
+nombre_comun: Soterrey Pechibarreteado
+nombre_ingles: Riverside Wren
+links: 'https://flic.kr/p/C5iLw9'
+images:
+  - url: 'https://flic.kr/p/C5iLw9'
+draft: 'false'
+date: 2018-02-08T13:46:17.231Z
 ---
+

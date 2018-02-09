@@ -1,26 +1,24 @@
 ---
-nombre_cientifico: Puma costaricensis
+nombre_cientifico: Ramphocelus costaricensis
 reinos:
   - Animalia
 divisiones:
   - Chordata
 clases:
-  - Mammalia
+  - Aves
 ordenes:
-  - Carnivora
+  - Passeriformes
 familias:
-  - Felidae
+  - Thraupida
 generos:
-  - Puma
+  - Ramphocelus
 title: costaricensis
-nombre_comun: Puma
-nombre_ingles: Costa Rican cougar
-otros_nombres:
-  - Puma concolor costaricensis
-links: 'https://flic.kr/p/vVe3Wt'
+nombre_comun: Sargento
+nombre_ingles: Cherries's Tanager
+links: 'https://flic.kr/p/mw2sHc'
 images:
-  - url: 'https://flic.kr/p/vVe3Wt'
+  - url: 'https://flic.kr/p/mw2sHc'
 draft: 'false'
-date: 2017-09-04T02:47:42.569Z
+date: 2018-02-08T13:33:03.063Z
 ---
-null
+

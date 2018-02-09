@@ -1,14 +1,28 @@
 ---
-title: "americana"
-date: 2017-08-18T20:46:32-06:00
-draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Cardinalidae "]
-generos: ["Spiza"]
-nombre_cientifico: "Spiza americana"
-nombre_comun: "Sabanero Arrocero "
-nombre_ingles: "Dickcissel"
+nombre_cientifico: Mycteria americana
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Ciconiiformes
+familias:
+  - Ciconiidae
+generos:
+  - Mycteria
+title: americana
+nombre_comun: Cigüeñón
+nombre_ingles: Wood Stork
+otros_nombres:
+  - Garzón
+  - Guairón
+  - Cigüeña
+links: 'https://flic.kr/p/qBpzoL'
+images:
+  - url: 'https://flic.kr/p/qBpzoL'
+draft: 'false'
+date: 2017-11-16T13:23:40.404Z
 ---
+

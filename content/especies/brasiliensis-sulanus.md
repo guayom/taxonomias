@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Morpho helenor marinita
+nombre_cientifico: Caligo brasiliensis sulanus
 reinos:
   - Animalia
 divisiones:
@@ -9,20 +9,18 @@ clases:
 ordenes:
   - Lepidoptera
 familias:
-  - Nymphalidae
+  - Ninphalidae
 generos:
-  - Morpho
-title: ' helenor marinita'
-nombre_comun: 'morfo azul, Celeste común'
-nombre_ingles: Peleides blue morpho
-otros_nombres:
-  - antes Morpho peleides
+  - Caligo
+title: brasiliensis sulanus
+nombre_comun: Buhito pardo
+nombre_ingles: Owl butterfly
 links: >-
   https://www.flickr.com/photos/eduardomena/albums/72157667840178261/with/32252193644/
 images:
   - url: >-
       https://www.flickr.com/photos/eduardomena/albums/72157667840178261/with/32252193644/
-draft: false
-date: 2017-08-19T02:46:32.000Z
+draft: 'false'
+date: 2017-11-18T20:48:20.632Z
 ---
 

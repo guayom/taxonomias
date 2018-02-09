@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Morpho helenor marinita
+nombre_cientifico: Caligo atreus dionysos
 reinos:
   - Animalia
 divisiones:
@@ -11,18 +11,15 @@ ordenes:
 familias:
   - Nymphalidae
 generos:
-  - Morpho
-title: ' helenor marinita'
-nombre_comun: 'morfo azul, Celeste común'
-nombre_ingles: Peleides blue morpho
-otros_nombres:
-  - antes Morpho peleides
+  - Caligo
+title: atreus dionysos
+nombre_ingles: Caligo Owl Butterfly
 links: >-
   https://www.flickr.com/photos/eduardomena/albums/72157667840178261/with/32252193644/
 images:
   - url: >-
       https://www.flickr.com/photos/eduardomena/albums/72157667840178261/with/32252193644/
-draft: false
-date: 2017-08-19T02:46:32.000Z
+draft: 'false'
+date: 2017-11-18T21:03:43.563Z
 ---
 
