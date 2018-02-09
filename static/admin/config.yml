@@ -26,13 +26,13 @@ collections:
       - {label: "Nombre común", name: "nombre_comun", widget: "string", required: false}
       - {label: "Nombre inglés", name: "nombre_ingles", widget: "string", required: false}
       - {label: "Otros nombres", name: "otros_nombres", widget: "list", required: false}
-      - {label: "Links", name: "links", widget: "string"}
+      - {label: "Links", name: "links", widget: "string", required: false}
       # - {label: "Notas", name: "notas", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - name: images
         label: Imágenes
         widget: list
         fields:
-          - {label: URL de la imagen, name: url, widget: string}
+          - {label: URL de la imagen, name: url, widget: string, required: false}
       - {label: "Draft", name: "draft", widget: "hidden", default: "false", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
