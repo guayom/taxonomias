@@ -12,7 +12,7 @@
   <td>{{ with .Params.nombre_cientifico }}{{ . }}{{ end }}</td>
   <td>{{ with .Params.nombre_comun }}{{ . }}{{ end }}</td>
   <td>{{ with .Params.nombre_ingles }}{{ . }}{{ end }}</td>
-  <td>{{ with .Params.nombre_cientifico }}{{ . }}{{ end }} {{ with .Params.nombre_ingles }}{{ . }}{{ end }} {{ with .Params.nombre_comun }}{{ . }}{{ end }}</td>
+  <td>{{ with .Params.nombre_cientifico }}{{ . }}{{ end }}, {{ with .Params.nombre_ingles }}{{ . }}{{ end }}, {{ with .Params.nombre_comun }}{{ . }}{{ end }}</td>
   <td>
     <button class="btn btn-sm btn-primary" data-clipboard-text="{{ partial "code.html" . }}">
       CC
