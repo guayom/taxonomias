@@ -1,14 +1,21 @@
 ---
-title: "spectabilis"
-date: 2017-08-18T20:46:32-06:00
-draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Piciformes"]
-familias: ["Ramphastidae "]
-generos: ["Selenidera"]
-nombre_cientifico: "Selenidera spectabilis"
-nombre_comun: "Tucancillo Orejiamarillo"
-nombre_ingles: "Yellow-eared Toucanet"
+nombre_cientifico: Eugenes spectabilis
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Apodiformes
+familias:
+  - Trochilidae
+generos:
+  - Eugenes
+title: spectabilis
+nombre_comun: Colibrí Magnífico
+nombre_ingles: Magnificent Hummingbird
+draft: 'false'
+date: 2018-02-18T18:55:27.087Z
 ---
+
