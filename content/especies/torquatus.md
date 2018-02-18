@@ -1,14 +1,25 @@
 ---
-title: "torquatus"
-date: 2017-08-18T20:46:32-06:00
-draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Parulidae "]
-generos: ["Myioborus"]
-nombre_cientifico: "Myioborus torquatus"
-nombre_comun: "Candelita Collareja "
-nombre_ingles: "Collared Redstart"
+nombre_cientifico: Pteroglossus torquatus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Piciformes
+familias:
+  - Ramphastidae
+generos:
+  - Pteroglossus
+title: torquatus
+nombre_comun: Tucancillo Collarejo
+nombre_ingles: Collared Aracari
+otros_nombres:
+  - Cusingo
+  - Tití
+  - Félix
+draft: 'false'
+date: 2018-02-18T19:13:25.718Z
 ---
+
