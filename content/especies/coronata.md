@@ -1,14 +1,21 @@
 ---
-title: "coronata"
-date: 2017-08-18T20:46:32-06:00
-draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Parulidae "]
-generos: ["Zeledonia"]
-nombre_cientifico: "Zeledonia coronata"
-nombre_comun: "Zeledonia"
-nombre_ingles: "Wrenthrush"
+nombre_cientifico: Lepidothrix coronata
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Pipridae
+ordenes:
+  - Aves
+familias:
+  - Passeriformes
+generos:
+  - Lepidothrix
+title: coronata
+nombre_comun: Saltarín Coroniceleste
+nombre_ingles: Blue-crowned Manakin
+draft: 'false'
+date: 2018-02-18T23:31:12.984Z
 ---
+
