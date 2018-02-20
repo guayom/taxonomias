@@ -1,14 +1,24 @@
 ---
-title: "frantzii"
-date: 2017-08-18T20:46:32-06:00
-draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Turdidae "]
-generos: ["Catharus"]
-nombre_cientifico: "Catharus frantzii"
-nombre_comun: "Zorzal Gorrirojizo "
-nombre_ingles: "Ruddy-capped Nightingale-Thrush"
+nombre_cientifico: Elaenia frantzii
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - Tyrannidae
+generos:
+  - Elaenia
+title: frantzii
+nombre_comun: Elainia Montañera
+nombre_ingles: Mountain Elaenia
+otros_nombres:
+  - Tontillo
+  - Bobillo
+draft: 'false'
+date: 2018-02-18T03:07:01.656Z
 ---
+
