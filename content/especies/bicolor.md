@@ -1,14 +1,25 @@
 ---
-title: "bicolor"
-date: 2017-08-18T20:46:32-06:00
-draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Hirundinidae "]
-generos: ["Tachycineta"]
-nombre_cientifico: "Tachycineta bicolor"
-nombre_comun: "Golondrina Bicolor"
-nombre_ingles: "Tree Swallow"
+nombre_cientifico: Accipiter bicolor
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Accipitriformes
+familias:
+  - Accipitridae
+generos:
+  - Accipiter
+title: bicolor
+nombre_comun: Gavilán Bicolor
+nombre_ingles: Bicolored Hawk
+otros_nombres:
+  - Camaleón
+vista: true
+los_cielos: true
+draft: 'false'
+date: 2018-03-05T14:00:11.502Z
 ---
+
