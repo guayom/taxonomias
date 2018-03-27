@@ -1,0 +1,20 @@
+{
+  "name": "taxonomias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "rename": "node import/rename.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guayom/taxonomias.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guayom/taxonomias/issues"
+  },
+  "homepage": "https://github.com/guayom/taxonomias#readme"
+}
