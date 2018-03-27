@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/guayom/taxonomias#readme",
   "dependencies": {
-    "parser-front-matter": "^1.6.4"
+    "parser-front-matter": "^1.6.4",
+    "slug": "^0.9.1"
   }
 }
