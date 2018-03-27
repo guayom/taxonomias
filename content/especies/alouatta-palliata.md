@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Alouatta palliata
+nombre_cientifico: Alouatta Alouatta palliata, Mantled howler, Mono aullador
 reinos:
   - Animalia
 divisiones:

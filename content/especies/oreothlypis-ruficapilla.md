@@ -1,5 +1,5 @@
 ---
-title: "ruficapilla"
+title: "Oreothlypis ruficapilla, Nashville Warbler, Reinita Cachetigrís"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

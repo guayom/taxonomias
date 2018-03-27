@@ -1,5 +1,5 @@
 ---
-title: "episcopus"
+title: "Thraupis episcopus, Blue-gray Tanager, Tangara Azuleja "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

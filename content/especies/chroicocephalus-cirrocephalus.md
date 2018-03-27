@@ -1,5 +1,5 @@
 ---
-title: "cirrocephalus"
+title: "Chroicocephalus cirrocephalus, Gray-hooded Gull, Gaviota Cabecigris"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

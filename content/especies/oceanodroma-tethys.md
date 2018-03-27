@@ -1,5 +1,5 @@
 ---
-title: "tethys"
+title: "Oceanodroma tethys, Wedge-rumped Storm-Petrel, Paiño Danzarin"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

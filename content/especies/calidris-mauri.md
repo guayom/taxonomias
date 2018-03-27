@@ -1,5 +1,5 @@
 ---
-title: "mauri"
+title: "Calidris mauri, Western Sandpiper, Correlimos Occidental "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

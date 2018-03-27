@@ -1,5 +1,5 @@
 ---
-title: "obsoletus"
+title: "Turdus obsoletus, Pale-vented Thrush, Mirlo Vientriblanco "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

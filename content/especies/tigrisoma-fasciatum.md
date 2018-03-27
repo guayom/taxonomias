@@ -1,5 +1,5 @@
 ---
-title: "fasciatum"
+title: "Tigrisoma fasciatum, Fasciated Tiger-Heron, Garza-Tigre de Río "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

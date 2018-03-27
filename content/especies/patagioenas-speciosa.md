@@ -1,5 +1,5 @@
 ---
-title: "speciosa"
+title: "Patagioenas speciosa, Scaled Pigeon, Paloma Escamosa "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

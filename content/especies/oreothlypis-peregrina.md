@@ -1,5 +1,5 @@
 ---
-title: "peregrina"
+title: "Oreothlypis peregrina, Tennessee Warbler, Reinita Verdilla "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

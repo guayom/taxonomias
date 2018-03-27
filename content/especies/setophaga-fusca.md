@@ -1,5 +1,5 @@
 ---
-title: "fusca"
+title: "Setophaga fusca, Blackburnian Warbler, Reinita Gorginaranja"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

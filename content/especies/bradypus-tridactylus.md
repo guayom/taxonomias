@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Bradypus tridactylus
+nombre_cientifico: Bradypus Bradypus tridactylus, Pale-throated sloth, Perezoso
 reinos:
   - Animalia
 divisiones:

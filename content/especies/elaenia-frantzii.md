@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Elaenia frantzii
+nombre_cientifico: Elaenia Elaenia frantzii, Mountain Elaenia, Elainia Montañera
 reinos:
   - Animalia
 divisiones:

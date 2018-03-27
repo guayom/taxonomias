@@ -1,5 +1,5 @@
 ---
-title: "leucophaius"
+title: "Legatus leucophaius, Piratic Flycatcher, Mosquero Pirata "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

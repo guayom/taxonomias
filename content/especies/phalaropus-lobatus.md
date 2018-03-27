@@ -1,5 +1,5 @@
 ---
-title: "lobatus"
+title: "Phalaropus lobatus, Red-necked Phalarope, Falaropo Picofino"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

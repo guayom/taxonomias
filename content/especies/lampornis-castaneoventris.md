@@ -1,5 +1,5 @@
 ---
-title: "castaneoventris"
+title: "Lampornis castaneoventris, White-throated Mountain-gem, Colibrí Montañes Gorgiblanco"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

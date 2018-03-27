@@ -1,5 +1,5 @@
 ---
-title: "marina"
+title: "Pelagodroma marina, White-faced Storm-Petrel, Paiño Pechialbo"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

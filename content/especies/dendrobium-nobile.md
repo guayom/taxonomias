@@ -1,5 +1,5 @@
 ---
-title: nobile
+title: Dendrobium nobile, null, Orquídea
 reinos:
   - Plantae
 divisiones:

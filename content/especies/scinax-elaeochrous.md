@@ -1,5 +1,5 @@
 ---
-title: "elaeochrous"
+title: "Scinax elaeochrous, Narrow-headed Treefog, Rana arborícora cabeza pequeña"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

@@ -1,5 +1,5 @@
 ---
-title: "coeruleogularis"
+title: "Lepidopyga coeruleogularis, Sapphire-throated Hummingbird, Colibrí Garganta de Zafiro"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

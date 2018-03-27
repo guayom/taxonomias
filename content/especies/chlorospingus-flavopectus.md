@@ -1,5 +1,5 @@
 ---
-title: "flavopectus"
+title: "Chlorospingus flavopectus, Common Chlorospingus, Tangara de Monte Ojeruda "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

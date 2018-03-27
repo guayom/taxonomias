@@ -1,5 +1,5 @@
 ---
-title: "altera"
+title: "Corapipo altera, White-ruffed Manakin, Saltarín Gorgiblanco"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

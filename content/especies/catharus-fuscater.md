@@ -1,5 +1,5 @@
 ---
-title: "fuscater"
+title: "Catharus fuscater, Slaty-backed Nightingale-Thrush, Zorzal Sombrío "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

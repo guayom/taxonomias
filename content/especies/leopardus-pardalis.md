@@ -12,7 +12,7 @@ familias:
   - Felidae
 generos:
   - Leopardus
-title: 'pardalis '
+title: 'Leopardus pardalis, Ocelot, Ocelote '
 nombre_comun: 'Ocelote '
 nombre_ingles: Ocelot
 otros_nombres:

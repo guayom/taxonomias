@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Nasua narica
+nombre_cientifico: Nasua Nasua narica, White-nosed coati, Pizote 
 reinos:
   - Animalia
 divisiones:

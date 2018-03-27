@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Sciurus variegatoides
+nombre_cientifico: Sciurus Sciurus variegatoides, Variegated squirrel, Ardilla
 reinos:
   - Animalia
 divisiones:

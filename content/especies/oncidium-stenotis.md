@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Oncidium stenotis
+nombre_cientifico: Oncidium Oncidium stenotis, null, Orquídea
 reinos:
   - Plantae
 divisiones:

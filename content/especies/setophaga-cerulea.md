@@ -1,5 +1,5 @@
 ---
-title: "cerulea"
+title: "Setophaga cerulea, Cerulean Warbler, Reinita Cerulea"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

@@ -1,5 +1,5 @@
 ---
-title: "quixensis"
+title: "Microrhopias quixensis, Dot-winged Antwren, Hormiguerito Alipunteado"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

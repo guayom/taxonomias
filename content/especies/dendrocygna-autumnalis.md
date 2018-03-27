@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Dendrocygna autumnalis
+nombre_cientifico: Dendrocygna Dendrocygna autumnalis, Black-bellied Whistling-Duck, Pijije Común
 reinos:
   - Animalia
 divisiones:

@@ -1,5 +1,5 @@
 ---
-title: "mocinno"
+title: "Pharomachrus mocinno, Resplendent Quetzal, Quetzal "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

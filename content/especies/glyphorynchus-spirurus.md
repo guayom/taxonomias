@@ -1,5 +1,5 @@
 ---
-title: "spirurus"
+title: "Glyphorynchus spirurus, Wedge-billed Woodcreeper, Trepadorcito Pico de Cuña "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

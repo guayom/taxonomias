@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Pteroglossus torquatus
+nombre_cientifico: Pteroglossus Pteroglossus torquatus, Collared Aracari, Tucancillo Collarejo
 reinos:
   - Animalia
 divisiones:

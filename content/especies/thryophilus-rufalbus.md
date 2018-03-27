@@ -1,5 +1,5 @@
 ---
-title: "rufalbus"
+title: "Thryophilus rufalbus, Rufous-and-white Wren, Soterrey Rufo y Blanco"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

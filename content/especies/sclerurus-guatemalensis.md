@@ -1,5 +1,5 @@
 ---
-title: "guatemalensis"
+title: "Sclerurus guatemalensis, Scaly-throated Leaftosser, Tirahojas Barbiescamado"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

@@ -1,5 +1,5 @@
 ---
-title: "capitalis"
+title: "Pezopetes capitalis, Large-footed Finch, Saltón Patigrande"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

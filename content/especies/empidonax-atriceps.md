@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Empidonax atriceps
+nombre_cientifico: Empidonax Empidonax atriceps, Black-capped Flycatcher, Mosquerito Cabecinegro
 reinos:
   - Animalia
 divisiones:

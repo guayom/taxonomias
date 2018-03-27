@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Diclidurus albus
+nombre_cientifico: Diclidurus Diclidurus albus, Northern ghost bat, Murciélago fantasma 
 reinos:
   - Animalia
 divisiones:

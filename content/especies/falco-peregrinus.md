@@ -1,5 +1,5 @@
 ---
-title: "peregrinus"
+title: "Falco peregrinus, Peregrine Falcon, Halcón Peregrino"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

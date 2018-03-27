@@ -1,5 +1,5 @@
 ---
-title: "flavirostris"
+title: "Grallaricula flavirostris, Ochre-breasted Antpitta, Tororoi Piquigualdo "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

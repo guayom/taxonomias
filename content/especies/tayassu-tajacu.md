@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Tayassu tajacu
+nombre_cientifico: Tayassu Tayassu tajacu, Peccary, Saino
 reinos:
   - Animalia
 divisiones:

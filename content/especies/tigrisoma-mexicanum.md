@@ -1,5 +1,5 @@
 ---
-title: "mexicanum"
+title: "Tigrisoma mexicanum, Bare-throated Tiger-Heron, Garza-Tigre Cuellinuda "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

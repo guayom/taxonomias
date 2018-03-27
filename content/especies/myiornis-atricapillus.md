@@ -1,5 +1,5 @@
 ---
-title: "atricapillus"
+title: "Myiornis atricapillus, Black-capped Pygmy-Tyrant, Mosquerito Colicorto"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

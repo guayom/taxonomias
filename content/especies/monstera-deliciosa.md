@@ -1,5 +1,5 @@
 ---
-title: deliciosa
+title: Monstera deliciosa, Swiss cheese plant, Costilla de Adán
 reinos:
   - Plantae
 divisiones:

@@ -1,5 +1,5 @@
 ---
-title: "psaltria"
+title: "Spinus psaltria, Lesser Goldfinch, Jilguero Menor "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

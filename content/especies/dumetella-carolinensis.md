@@ -1,5 +1,5 @@
 ---
-title: "carolinensis"
+title: "Dumetella carolinensis, Gray Catbird, Pájaro-gato Gris"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

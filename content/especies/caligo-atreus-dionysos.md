@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Caligo atreus dionysos
+nombre_cientifico: Caligo Caligo atreus dionysos, Caligo Owl Butterfly, undefined
 reinos:
   - Animalia
 divisiones:

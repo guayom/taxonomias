@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Trogon melanocephalus
+nombre_cientifico: Trogon Trogon melanocephalus, Black-headed Trogon, Trogón Cabecinegro
 reinos:
   - Animalia
 divisiones:

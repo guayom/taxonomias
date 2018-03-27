@@ -1,5 +1,5 @@
 ---
-title: "cyanoptera"
+title: "Vermivora cyanoptera, Blue-winged Warbler, Reinita Aliazul"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

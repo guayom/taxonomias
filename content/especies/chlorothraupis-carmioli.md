@@ -1,5 +1,5 @@
 ---
-title: "carmioli"
+title: "Chlorothraupis carmioli, Carmiol's Tanager, Tangara Aceitunada"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

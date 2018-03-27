@@ -1,5 +1,5 @@
 ---
-title: "leucotis"
+title: "Melozone leucotis, White-eared Ground-Sparrow, Pinzón Orejiblanco "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

@@ -1,5 +1,5 @@
 ---
-title: "bidentatus"
+title: "Harpagus bidentatus, Double-toothed Kite, Gavilán Gorgirrayado"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

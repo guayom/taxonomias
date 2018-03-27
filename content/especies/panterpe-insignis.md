@@ -1,5 +1,5 @@
 ---
-title: "insignis"
+title: "Panterpe insignis, Fiery-throated Hummingbird, Colibrí Garganta de Fuego"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

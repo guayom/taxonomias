@@ -1,5 +1,5 @@
 ---
-title: "semiflava"
+title: "Geothlypis semiflava, Olive-crowned Yellowthroat, Antifacito Coroniolivo"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

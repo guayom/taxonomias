@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: "Orthogeomys\_heterodus"
+nombre_cientifico: "Orthogeomys\_Orthogeomys heterodus, Variable pocket gopher, Taltuza"
 reinos:
   - Animalia
 divisiones:

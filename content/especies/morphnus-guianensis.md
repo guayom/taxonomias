@@ -1,5 +1,5 @@
 ---
-title: "guianensis"
+title: "Morphnus guianensis, Crested Eagle, Águila Crestada"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

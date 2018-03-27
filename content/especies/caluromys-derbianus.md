@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Caluromys derbianus
+nombre_cientifico: Caluromys Caluromys derbianus, Derby's woolly opossum, Zarigüeya lanuda centroamericana
 reinos:
   - Animalia
 divisiones:

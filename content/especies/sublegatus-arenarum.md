@@ -1,5 +1,5 @@
 ---
-title: "arenarum"
+title: "Sublegatus arenarum, Northern Scrub-Flycatcher, Mosquero Gorgigrís"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

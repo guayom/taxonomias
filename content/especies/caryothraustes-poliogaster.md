@@ -1,5 +1,5 @@
 ---
-title: "poliogaster"
+title: "Caryothraustes poliogaster, Black-faced Grosbeak, Picogrueso Carinegro "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

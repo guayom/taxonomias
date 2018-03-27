@@ -1,5 +1,5 @@
 ---
-title: "puffinus"
+title: "Puffinus puffinus, Manx Shearwater, Pardela Manx"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

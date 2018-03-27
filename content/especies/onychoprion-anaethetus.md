@@ -1,5 +1,5 @@
 ---
-title: "anaethetus"
+title: "Onychoprion anaethetus, Bridled Tern, Charrán Embridado"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

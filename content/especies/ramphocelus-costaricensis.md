@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Ramphocelus costaricensis
+nombre_cientifico: Ramphocelus Ramphocelus costaricensis, Cherries's Tanager, Sargento
 reinos:
   - Animalia
 divisiones:

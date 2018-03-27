@@ -1,5 +1,5 @@
 ---
-title: "guatimalensis"
+title: "Grallaria guatimalensis, Scaled Antpitta, Tororoi Dorsiescamado "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

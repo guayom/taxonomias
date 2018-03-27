@@ -1,5 +1,5 @@
 ---
-title: "galeata"
+title: "Gallinula galeata, Common Gallinule, Gallareta Frentirroja "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

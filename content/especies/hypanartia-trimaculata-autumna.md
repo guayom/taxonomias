@@ -1,5 +1,5 @@
 ---
-title: "trimaculata autumna"
+title: "Hypanartia trimaculata autumna, Reddish Mapwing, Mariposa mapeada"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

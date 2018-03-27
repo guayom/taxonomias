@@ -1,5 +1,5 @@
 ---
-title: "dowii"
+title: "Tangara dowii, Spangle-cheeked Tanager, Tangara Vientricastaña "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

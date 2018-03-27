@@ -1,5 +1,5 @@
 ---
-title: "mirandollei"
+title: "Micrastur mirandollei, Slaty-backed Forest-Falcon, Halcón de Monte Dorsigrís"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

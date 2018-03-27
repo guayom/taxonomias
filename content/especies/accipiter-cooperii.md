@@ -1,5 +1,5 @@
 ---
-title: "cooperii"
+title: "Accipiter cooperii, Cooper's Hawk, Gavilán de Cooper "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

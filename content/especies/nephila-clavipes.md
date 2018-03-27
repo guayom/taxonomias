@@ -1,5 +1,5 @@
 ---
-title: "clavipes"
+title: "Nephila clavipes, Golden orb-weaver, Araña hilo de oro"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

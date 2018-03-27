@@ -1,5 +1,5 @@
 ---
-title: "fasciatus"
+title: "Myiophobus fasciatus, Bran-colored Flycatcher, Mosquerito Pechirrayado"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

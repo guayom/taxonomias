@@ -1,5 +1,5 @@
 ---
-title: "castro"
+title: "Oceanodroma castro, Band-rumped Storm-Petrel, Paiño Rabifajeado"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

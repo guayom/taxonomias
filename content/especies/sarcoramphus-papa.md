@@ -1,5 +1,5 @@
 ---
-title: "papa"
+title: "Sarcoramphus papa, King Vulture, Zopilote Rey "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

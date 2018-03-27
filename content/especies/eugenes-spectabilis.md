@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Eugenes spectabilis
+nombre_cientifico: Eugenes Eugenes spectabilis, Magnificent Hummingbird, Colibrí Magnífico
 reinos:
   - Animalia
 divisiones:

@@ -1,5 +1,5 @@
 ---
-title: "brochus"
+title: "Syntheosciurus brochus, Montane Squirrel, Ardilla del Poás"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

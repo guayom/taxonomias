@@ -1,5 +1,5 @@
 ---
-title: "nebouxii"
+title: "Sula nebouxii, Blue-footed Booby, Piquero Patiazul "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

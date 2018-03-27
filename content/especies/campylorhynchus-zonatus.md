@@ -1,5 +1,5 @@
 ---
-title: "zonatus"
+title: "Campylorhynchus zonatus, Band-backed Wren, Soterrey Matraquero"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Cantorchilus semibadius
+nombre_cientifico: Cantorchilus Cantorchilus semibadius, Riverside Wren, Soterrey Pechibarreteado
 reinos:
   - Animalia
 divisiones:

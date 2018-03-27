@@ -1,5 +1,5 @@
 ---
-title: "podiciferus"
+title: "Craugastor podiciferus, Piglet Litter Frog, Rana de lluvia hojarasquera"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

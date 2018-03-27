@@ -1,5 +1,5 @@
 ---
-title: "pileatus"
+title: "Chlorospingus pileatus, Sooty-capped Chlorospingus, Tangara de Monte Cejiblanca"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

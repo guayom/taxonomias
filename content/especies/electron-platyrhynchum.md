@@ -1,5 +1,5 @@
 ---
-title: "platyrhynchum"
+title: "Electron platyrhynchum, Broad-billed Motmot, Momoto Piquiancho "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

@@ -1,5 +1,5 @@
 ---
-title: "finschi"
+title: "Psittacara finschi, Crimson-fronted Parakeet, Perico Frentirrojo "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

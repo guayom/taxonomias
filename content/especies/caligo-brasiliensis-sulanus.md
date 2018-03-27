@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Caligo brasiliensis sulanus
+nombre_cientifico: Caligo Caligo brasiliensis sulanus, Owl butterfly, Buhito pardo
 reinos:
   - Animalia
 divisiones:

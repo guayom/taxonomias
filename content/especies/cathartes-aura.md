@@ -1,5 +1,5 @@
 ---
-title: "aura"
+title: "Cathartes aura, Turkey Vulture, Zopilote Cabecirrojo "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

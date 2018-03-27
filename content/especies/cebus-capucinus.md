@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Cebus capucinus
+nombre_cientifico: Cebus Cebus capucinus, White-headed capuchin, Mono carablanca
 reinos:
   - Animalia
 divisiones:

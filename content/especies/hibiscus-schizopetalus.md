@@ -1,5 +1,5 @@
 ---
-title: Schizopetalus
+title: Hibiscus schizopetalus, null, Amapola
 reinos:
   - Plantae
 divisiones:

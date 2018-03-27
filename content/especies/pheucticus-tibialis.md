@@ -1,5 +1,5 @@
 ---
-title: "tibialis"
+title: "Pheucticus tibialis, Black-thighed Grosbeak, Picogrueso Vientriamarillo "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

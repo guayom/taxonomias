@@ -1,5 +1,5 @@
 ---
-title: "pustulatus"
+title: "Icterus pustulatus, Streak-backed Oriole, Bolsero Dorsilistado "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

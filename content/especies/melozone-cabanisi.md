@@ -1,5 +1,5 @@
 ---
-title: "cabanisi"
+title: "Melozone cabanisi, Cabanis's Ground-Sparrow, Pinzón Cafetalero "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Butorides virescens
+nombre_cientifico: Butorides Butorides virescens, Green Heron, Garcilla Verde
 reinos:
   - Animalia
 divisiones:

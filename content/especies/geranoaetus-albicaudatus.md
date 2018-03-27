@@ -1,5 +1,5 @@
 ---
-title: "albicaudatus"
+title: "Geranoaetus albicaudatus, White-tailed Hawk, Gavilán Coliblanco "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

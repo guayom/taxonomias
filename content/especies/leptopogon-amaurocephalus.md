@@ -1,5 +1,5 @@
 ---
-title: "amaurocephalus"
+title: "Leptopogon amaurocephalus, Sepia-capped Flycatcher, Mosquerito Cabecipardo"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

@@ -1,5 +1,5 @@
 ---
-title: "longicauda"
+title: "Deconychura longicauda, Long-tailed Woodcreeper, Trepador Delgado"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

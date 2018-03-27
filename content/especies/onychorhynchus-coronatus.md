@@ -1,5 +1,5 @@
 ---
-title: "coronatus"
+title: "Onychorhynchus coronatus, Royal Flycatcher, Mosquero Real"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

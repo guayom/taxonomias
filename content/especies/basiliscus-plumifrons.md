@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Basiliscus plumifrons
+nombre_cientifico: Basiliscus Basiliscus plumifrons, Green basilisk, Basilisco verde
 reinos:
   - Animalia
 divisiones:

@@ -1,5 +1,5 @@
 ---
-title: "flavogaster"
+title: "Elaenia flavogaster, Yellow-bellied Elaenia, Elainia Copetona "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

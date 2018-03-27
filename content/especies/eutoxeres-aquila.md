@@ -1,5 +1,5 @@
 ---
-title: "aquila"
+title: "Eutoxeres aquila, White-tipped Sicklebill, Pico de Hoz"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

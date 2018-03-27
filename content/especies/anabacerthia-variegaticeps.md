@@ -1,5 +1,5 @@
 ---
-title: "variegaticeps"
+title: "Anabacerthia variegaticeps, Scaly-throated Foliage-gleaner, Trepamusgo de Anteojos"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

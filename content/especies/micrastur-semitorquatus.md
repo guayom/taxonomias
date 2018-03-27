@@ -1,5 +1,5 @@
 ---
-title: "semitorquatus"
+title: "Micrastur semitorquatus, Collared Forest-Falcon, Halcón de Monte Collarejo"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

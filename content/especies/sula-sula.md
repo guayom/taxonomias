@@ -1,5 +1,5 @@
 ---
-title: "sula"
+title: "Sula sula, Red-footed Booby , Piquero Patirrojo "
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

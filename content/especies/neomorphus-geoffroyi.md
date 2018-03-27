@@ -1,5 +1,5 @@
 ---
-title: "geoffroyi"
+title: "Neomorphus geoffroyi , Rufous-vented Ground-Cuckoo , Cuco Hormiguero"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]

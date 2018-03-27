@@ -1,5 +1,5 @@
 ---
-title: "hemileucurus"
+title: "Campylopterus hemileucurus, Violet Sabrewing, Ala de Sable Violáceo"
 date: 2017-08-18T20:46:32-06:00
 draft: false
 reinos: ["Animalia"]
