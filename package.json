@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/guayom/taxonomias/issues"
   },
-  "homepage": "https://github.com/guayom/taxonomias#readme"
+  "homepage": "https://github.com/guayom/taxonomias#readme",
+  "dependencies": {
+    "parser-front-matter": "^1.6.4"
+  }
 }
