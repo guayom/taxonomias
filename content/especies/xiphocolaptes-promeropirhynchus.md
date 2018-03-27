@@ -1,6 +1,6 @@
 ---
-title: "promeropirhynchus"
-date: 2017-08-18T20:46:32-06:00
+title: "Xiphocolaptes promeropirhynchus, Strong-billed Woodcreeper, Trepador Gigante"
+date: 2018-03-26T20:00:00-00:00
 draft: false
 reinos: ["Animalia"]
 divisiones: ["Chordata"]
@@ -11,4 +11,8 @@ generos: ["Xiphocolaptes"]
 nombre_cientifico: "Xiphocolaptes promeropirhynchus"
 nombre_comun: "Trepador Gigante"
 nombre_ingles: "Strong-billed Woodcreeper"
+otros_nombres: ""
+garrigues: "206"
+vista: true
+los_cielos: true
 ---

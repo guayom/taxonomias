@@ -28,12 +28,12 @@ FileUtils::mkdir_p "content/especies/"
 # 8 N. común	
 # 9 N. inglés	
 # 10 Título	
-# 11 CC	
-# 12 Otros nombres	
+# 11 CC
+# 12 Otros nombres
 # 13 Garrigues
 
 CSV.foreach('import/data-2018-03-26.csv') do |especie|
-  File.open("content/especies/#{especie[10].parameterize}.md", "w+") do |file|
+  File.open("content/especies/#{especie[0].parameterize}.md", "w+") do |file|
     file.write("---\n")
     file.write("title: \"#{especie[10]}\"\n")
     file.write("date: 2018-03-26T20:00:00-00:00\n")

@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "rename": "node import/rename.js"
+    "rename": "node import/rename.js",
+    "import": "ruby import/import.rb"
   },
   "repository": {
     "type": "git",
