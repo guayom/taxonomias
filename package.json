@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "rename": "node import/rename.js",
-    "import": "ruby import/import.rb"
+    "import": "ruby import/import.rb",
+    "species": "node import/add_especie_field.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,7 @@
   },
   "homepage": "https://github.com/guayom/taxonomias#readme",
   "dependencies": {
+    "csv": "^2.0.0",
     "parser-front-matter": "^1.6.4",
     "replace-in-file": "^3.4.0",
     "slug": "^0.9.1"
