@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Piciformes"]
 familias: ["Ramphastidae "]
 generos: ["Selenidera"]
+especie: "spectabilis"
 nombre_cientifico: "Selenidera spectabilis"
 nombre_comun: "Tucancillo Orejiamarillo"
 nombre_ingles: "Yellow-eared Toucanet"

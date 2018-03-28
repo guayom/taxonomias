@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Columbiformes"]
 familias: ["Columbidae "]
 generos: ["Patagioenas"]
+especie: "cayennensis"
 nombre_cientifico: "Patagioenas cayennensis"
 nombre_comun: "Paloma Colorada "
 nombre_ingles: "Pale-vented Pigeon"

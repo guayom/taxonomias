@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Piciformes"]
 familias: ["Picidae "]
 generos: ["Colaptes"]
+especie: "rubiginosus"
 nombre_cientifico: "Colaptes rubiginosus"
 nombre_comun: "Carpintero Verde Dorado"
 nombre_ingles: "Golden-olive Woodpecker"

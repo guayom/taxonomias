@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Caprimulgiformes"]
 familias: ["Caprimulgidae "]
 generos: ["Nyctidromus"]
+especie: "albicollis"
 nombre_cientifico: "Nyctidromus albicollis"
 nombre_comun: "Tapacaminos Común "
 nombre_ingles: "Common Pauraque"

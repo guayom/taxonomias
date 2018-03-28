@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Tyrannidae "]
 generos: ["Platyrinchus"]
+especie: "coronatus"
 nombre_cientifico: "Platyrinchus coronatus"
 nombre_comun: "Piquichato Coronirrufo"
 nombre_ingles: "Golden-crowned Spadebill"

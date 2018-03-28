@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Apodiformes"]
 familias: ["Trochilidae "]
 generos: ["Heliodoxa"]
+especie: "jacula"
 nombre_cientifico: "Heliodoxa jacula"
 nombre_comun: "Colibrí Brillante Frentiverde"
 nombre_ingles: "Green-crowned Brilliant"

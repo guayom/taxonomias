@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Vireonidae "]
 generos: ["Vireo"]
+especie: "gilvus"
 nombre_cientifico: "Vireo gilvus"
 nombre_comun: "Vireo Canoro"
 nombre_ingles: "Warbling Vireo"

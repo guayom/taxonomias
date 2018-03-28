@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Furnariidae "]
 generos: ["Xiphocolaptes"]
+especie: "promeropirhynchus"
 nombre_cientifico: "Xiphocolaptes promeropirhynchus"
 nombre_comun: "Trepador Gigante"
 nombre_ingles: "Strong-billed Woodcreeper"

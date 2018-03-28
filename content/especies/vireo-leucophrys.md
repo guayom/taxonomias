@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Vireonidae "]
 generos: ["Vireo"]
+especie: "leucophrys"
 nombre_cientifico: "Vireo leucophrys"
 nombre_comun: "Vireo Montañero"
 nombre_ingles: "Brown-capped Vireo"

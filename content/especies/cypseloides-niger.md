@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Apodiformes"]
 familias: ["Apodidae "]
 generos: ["Cypseloides"]
+especie: "niger"
 nombre_cientifico: "Cypseloides niger"
 nombre_comun: "Vencejo Negro"
 nombre_ingles: "Black Swift"

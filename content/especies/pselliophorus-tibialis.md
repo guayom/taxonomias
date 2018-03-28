@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Emberizidae "]
 generos: ["Pselliophorus"]
+especie: "tibialis"
 nombre_cientifico: "Pselliophorus tibialis"
 nombre_comun: "Saltón de Muslos Amarillos "
 nombre_ingles: "Yellow-thighed Finch"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Accipitriformes"]
 familias: ["Accipitridae "]
 generos: ["Busarellus"]
+especie: "nigricollis"
 nombre_cientifico: "Busarellus nigricollis"
 nombre_comun: "Gavilán de Ciénega"
 nombre_ingles: "Black-collared Hawk"

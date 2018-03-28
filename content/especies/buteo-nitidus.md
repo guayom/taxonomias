@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Accipitriformes"]
 familias: ["Accipitridae "]
 generos: ["Buteo"]
+especie: "nitidus"
 nombre_cientifico: "Buteo nitidus"
 nombre_comun: "Gavilán Gris Rayado "
 nombre_ingles: "Gray-lined Hawk"

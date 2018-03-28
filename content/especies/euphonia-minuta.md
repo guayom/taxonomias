@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Fringillidae "]
 generos: ["Euphonia"]
+especie: "minuta"
 nombre_cientifico: "Euphonia minuta"
 nombre_comun: "Eufonia Menuda "
 nombre_ingles: "White-vented Euphonia"

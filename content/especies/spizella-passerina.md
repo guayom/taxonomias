@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Emberizidae "]
 generos: ["Spizella"]
+especie: "passerina"
 nombre_cientifico: "Spizella  passerina"
 nombre_comun: "Chimbito Común"
 nombre_ingles: "Chipping Sparrow"

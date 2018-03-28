@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Gruiformes"]
 familias: ["Rallidae "]
 generos: ["Laterallus"]
+especie: "exilis"
 nombre_cientifico: "Laterallus exilis"
 nombre_comun: "Polluela Pechigrís"
 nombre_ingles: "Gray-breasted Crake"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Accipitriformes"]
 familias: ["Accipitridae "]
 generos: ["Circus"]
+especie: "cyaneus"
 nombre_cientifico: "Circus cyaneus"
 nombre_comun: "Aguilucho Norteño"
 nombre_ingles: "Northern Harrier"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Tyrannidae "]
 generos: ["Leptopogon"]
+especie: "superciliaris"
 nombre_cientifico: "Leptopogon superciliaris"
 nombre_comun: "Mosquerito Orejinegro"
 nombre_ingles: "Slaty-capped Flycatcher"

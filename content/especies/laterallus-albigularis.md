@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Gruiformes"]
 familias: ["Rallidae "]
 generos: ["Laterallus"]
+especie: "albigularis"
 nombre_cientifico: "Laterallus albigularis "
 nombre_comun: "Polluela Gargantiblanca "
 nombre_ingles: "White-throated Crake"

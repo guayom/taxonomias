@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Apodiformes"]
 familias: ["Apodidae "]
 generos: ["Streptoprocne"]
+especie: "rutila"
 nombre_cientifico: "Streptoprocne rutila"
 nombre_comun: "Vencejo Cuellicastaño"
 nombre_ingles: "Chestnut-collared Swift"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Scolopacidae "]
 generos: ["Phalaropus"]
+especie: "tricolor"
 nombre_cientifico: "Phalaropus tricolor"
 nombre_comun: "Falaropo Tricolor"
 nombre_ingles: "Wilson's Phalarope"

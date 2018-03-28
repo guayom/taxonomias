@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Anseriformes"]
 familias: ["Anatidae "]
 generos: ["Spatula"]
+especie: "cyanoptera"
 nombre_cientifico: "Spatula cyanoptera"
 nombre_comun: "Cerceta Castaña "
 nombre_ingles: "Cinnamon Teal"

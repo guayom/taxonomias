@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Parulidae "]
 generos: ["Setophaga"]
+especie: "americana"
 nombre_cientifico: "Setophaga americana"
 nombre_comun: "Parula Norteña"
 nombre_ingles: "Northern Parula"

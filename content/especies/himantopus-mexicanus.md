@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Recurvirostridae "]
 generos: ["Himantopus"]
+especie: "mexicanus"
 nombre_cientifico: "Himantopus mexicanus"
 nombre_comun: "Cigüeñuela Cuellinegro "
 nombre_ingles: "Black-necked Stilt"

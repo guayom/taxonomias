@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Anseriformes"]
 familias: ["Anatidae "]
 generos: ["Nomonyx"]
+especie: "dominicus"
 nombre_cientifico: "Nomonyx dominicus"
 nombre_comun: "Pato Enmascarado"
 nombre_ingles: "Masked Duck"

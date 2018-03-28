@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Vireonidae "]
 generos: ["Vireo"]
+especie: "griseus"
 nombre_cientifico: "Vireo griseus"
 nombre_comun: "Vireo Ojiblanco"
 nombre_ingles: "White-eyed Vireo"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Podicipediformes"]
 familias: ["Podicipedidae "]
 generos: ["Podiceps"]
+especie: "nigricollis"
 nombre_cientifico: "Podiceps nigricollis"
 nombre_comun: "Zambullidor Mediano"
 nombre_ingles: "Eared Grebe"

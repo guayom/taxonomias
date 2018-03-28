@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Accipitriformes"]
 familias: ["Accipitridae "]
 generos: ["Geranospiza"]
+especie: "caerulescens"
 nombre_cientifico: "Geranospiza caerulescens"
 nombre_comun: "Gavilán Ranero "
 nombre_ingles: "Crane Hawk"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Gruiformes"]
 familias: ["Rallidae "]
 generos: ["Laterallus"]
+especie: "jamaicensis"
 nombre_cientifico: "Laterallus jamaicensis"
 nombre_comun: "Polluela Negra"
 nombre_ingles: "Black Rail"

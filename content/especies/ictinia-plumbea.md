@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Accipitriformes"]
 familias: ["Accipitridae "]
 generos: ["Ictinia"]
+especie: "plumbea"
 nombre_cientifico: "Ictinia plumbea"
 nombre_comun: "Elanio Plomizo"
 nombre_ingles: "Plumbeous Kite"

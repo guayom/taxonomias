@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Corvidae "]
 generos: ["Calocitta"]
+especie: "formosa"
 nombre_cientifico: "Calocitta formosa"
 nombre_comun: "Urraca Copetona "
 nombre_ingles: "White-throated Magpie-Jay"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Tityridae "]
 generos: ["Laniocera"]
+especie: "rufescens"
 nombre_cientifico: "Laniocera rufescens"
 nombre_comun: "Plañidera Moteada"
 nombre_ingles: "Speckled Mourner"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Turdidae "]
 generos: ["Catharus"]
+especie: "frantzii"
 nombre_cientifico: "Catharus frantzii"
 nombre_comun: "Zorzal Gorrirojizo "
 nombre_ingles: "Ruddy-capped Nightingale-Thrush"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Laridae "]
 generos: ["Chlidonias"]
+especie: "niger"
 nombre_cientifico: "Chlidonias niger"
 nombre_comun: "Charrancito Negro"
 nombre_ingles: "Black Tern"

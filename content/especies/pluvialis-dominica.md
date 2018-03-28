@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Charadriidae "]
 generos: ["Pluvialis"]
+especie: "dominica"
 nombre_cientifico: "Pluvialis dominica"
 nombre_comun: "Chorlito Dorado Menor"
 nombre_ingles: "American Golden-Plover"

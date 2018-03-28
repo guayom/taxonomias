@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Caprimulgiformes"]
 familias: ["Caprimulgidae "]
 generos: ["Hydropsalis"]
+especie: "cayennensis"
 nombre_cientifico: "Hydropsalis cayennensis"
 nombre_comun: "Chotacabras Coliblanco"
 nombre_ingles: "White-tailed Nightjar"

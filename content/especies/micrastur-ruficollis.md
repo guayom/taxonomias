@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Falconiformes"]
 familias: ["Falconidae "]
 generos: ["Micrastur"]
+especie: "ruficollis"
 nombre_cientifico: "Micrastur ruficollis"
 nombre_comun: "Halcón de Monte Barreteado"
 nombre_ingles: "Barred Forest-Falcon"

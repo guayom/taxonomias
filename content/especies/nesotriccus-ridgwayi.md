@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Tyrannidae "]
 generos: ["Nesotriccus"]
+especie: "ridgwayi"
 nombre_cientifico: "Nesotriccus ridgwayi"
 nombre_comun: "Mosquerito de la Isla del Coco"
 nombre_ingles: "Cocos Flycatcher"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Tinamiformes"]
 familias: ["Tinamidae "]
 generos: ["Crypturellus"]
+especie: "cinnamomeus"
 nombre_cientifico: "Crypturellus cinnamomeus"
 nombre_comun: "Tinamú Canelo "
 nombre_ingles: "Thicket Tinamou"

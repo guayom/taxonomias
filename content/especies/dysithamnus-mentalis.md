@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Thamnophilidae "]
 generos: ["Dysithamnus"]
+especie: "mentalis"
 nombre_cientifico: "Dysithamnus mentalis"
 nombre_comun: "Batarito Cabecigrís"
 nombre_ingles: "Plain Antvireo"

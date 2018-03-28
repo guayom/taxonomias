@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Apodiformes"]
 familias: ["Trochilidae "]
 generos: ["Amazilia"]
+especie: "amabilis"
 nombre_cientifico: "Amazilia amabilis"
 nombre_comun: "Amazilia Pechiazul"
 nombre_ingles: "Blue-chested Hummingbird"

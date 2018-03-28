@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Parulidae "]
 generos: ["Setophaga"]
+especie: "coronata"
 nombre_cientifico: "Setophaga coronata"
 nombre_comun: "Reinita Lomiamarilla"
 nombre_ingles: "Yellow-rumped Warbler"

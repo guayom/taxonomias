@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Anseriformes"]
 familias: ["Anatidae "]
 generos: ["Dendrocygna"]
+especie: "bicolor"
 nombre_cientifico: "Dendrocygna bicolor"
 nombre_comun: "Pijije Canelo "
 nombre_ingles: "Fulvous Whistling-Duck"

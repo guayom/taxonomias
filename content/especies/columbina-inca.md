@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Columbiformes"]
 familias: ["Columbidae "]
 generos: ["Columbina"]
+especie: "inca"
 nombre_cientifico: "Columbina inca"
 nombre_comun: "Tortolita Colilarga "
 nombre_ingles: "Inca Dove"

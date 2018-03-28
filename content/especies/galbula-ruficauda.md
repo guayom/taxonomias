@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Piciformes"]
 familias: ["Galbulidae "]
 generos: ["Galbula"]
+especie: "ruficauda"
 nombre_cientifico: "Galbula ruficauda"
 nombre_comun: "Jacamar Rabirrufo "
 nombre_ingles: "Rufous-tailed Jacamar"

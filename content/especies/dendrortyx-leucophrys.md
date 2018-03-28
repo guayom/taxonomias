@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Galliformes"]
 familias: ["Odontophoridae "]
 generos: ["Dendrortyx"]
+especie: "leucophrys"
 nombre_cientifico: "Dendrortyx leucophrys"
 nombre_comun: "Perdiz Montañera "
 nombre_ingles: "Buffy-crowned Wood-Partridge"

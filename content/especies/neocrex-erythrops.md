@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Gruiformes"]
 familias: ["Rallidae "]
 generos: ["Neocrex"]
+especie: "erythrops"
 nombre_cientifico: "Neocrex erythrops"
 nombre_comun: "Polluela Piquirroja"
 nombre_ingles: "Paint-billed Crake "

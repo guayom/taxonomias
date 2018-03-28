@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Corvidae "]
 generos: ["Cyanocorax"]
+especie: "affinis"
 nombre_cientifico: "Cyanocorax affinis"
 nombre_comun: "Urraca Pechinegra"
 nombre_ingles: "Black-chested Jay"

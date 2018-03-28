@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Psittaciformes"]
 familias: ["Psittacidae "]
 generos: ["Touit"]
+especie: "costaricensis"
 nombre_cientifico: "Touit costaricensis"
 nombre_comun: "Periquito Alirrojo"
 nombre_ingles: "Red-fronted Parrotlet"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Parulidae "]
 generos: ["Setophaga"]
+especie: "virens"
 nombre_cientifico: "Setophaga virens"
 nombre_comun: "Reinita Cariamarilla"
 nombre_ingles: "Black-throated Green Warbler"

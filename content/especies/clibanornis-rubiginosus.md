@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Furnariidae "]
 generos: ["Clibanornis"]
+especie: "rubiginosus"
 nombre_cientifico: "Clibanornis rubiginosus"
 nombre_comun: "Hojarrasquero Rojizo"
 nombre_ingles: "Ruddy Foliage-gleaner"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Vireonidae "]
 generos: ["Vireo"]
+especie: "carmioli"
 nombre_cientifico: "Vireo carmioli"
 nombre_comun: "Vireo Aliamarillo"
 nombre_ingles: "Yellow-winged Vireo"

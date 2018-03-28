@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Columbiformes"]
 familias: ["Columbidae "]
 generos: ["Claravis"]
+especie: "pretiosa"
 nombre_cientifico: "Claravis pretiosa"
 nombre_comun: "Tortolita Azulada"
 nombre_ingles: "Blue Ground-Dove"

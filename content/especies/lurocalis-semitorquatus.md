@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Caprimulgiformes"]
 familias: ["Caprimulgidae "]
 generos: ["Lurocalis"]
+especie: "semitorquatus"
 nombre_cientifico: "Lurocalis semitorquatus"
 nombre_comun: "Añapero Colicorto"
 nombre_ingles: "Short-tailed Nighthawk"

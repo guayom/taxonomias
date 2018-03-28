@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Galliformes"]
 familias: ["Cracidae "]
 generos: ["Crax"]
+especie: "rubra"
 nombre_cientifico: "Crax rubra"
 nombre_comun: "Pavón Grande "
 nombre_ingles: "Great Curassow"

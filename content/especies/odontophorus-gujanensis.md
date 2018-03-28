@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Galliformes"]
 familias: ["Odontophoridae "]
 generos: ["Odontophorus"]
+especie: "gujanensis"
 nombre_cientifico: "Odontophorus gujanensis"
 nombre_comun: "Codorniz Corcovado "
 nombre_ingles: "Marbled Wood-Quail"

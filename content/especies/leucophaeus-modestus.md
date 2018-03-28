@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Laridae "]
 generos: ["Leucophaeus"]
+especie: "modestus"
 nombre_cientifico: "Leucophaeus modestus"
 nombre_comun: "Gaviota Torero"
 nombre_ingles: "Gray Gull"

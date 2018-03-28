@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Icteridae "]
 generos: ["Dolichonyx"]
+especie: "oryzivorus"
 nombre_cientifico: "Dolichonyx oryzivorus"
 nombre_comun: "Tordo Arrocero"
 nombre_ingles: "Bobolink"

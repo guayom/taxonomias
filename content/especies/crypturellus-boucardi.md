@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Tinamiformes"]
 familias: ["Tinamidae "]
 generos: ["Crypturellus"]
+especie: "boucardi"
 nombre_cientifico: "Crypturellus boucardi"
 nombre_comun: "Tinamú Pizarroso "
 nombre_ingles: "Slaty-breasted Tinamou"

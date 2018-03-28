@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Cuculiformes"]
 familias: ["Cuculidae "]
 generos: ["Coccyzus"]
+especie: "americanus"
 nombre_cientifico: "Coccyzus americanus"
 nombre_comun: "Cuclillo Piquigualdo"
 nombre_ingles: "Yellow-billed Cuckoo"

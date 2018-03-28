@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Scolopacidae "]
 generos: ["Calidris"]
+especie: "bairdii"
 nombre_cientifico: "Calidris bairdii"
 nombre_comun: "Correlimos de Baird "
 nombre_ingles: "Baird's Sandpiper"

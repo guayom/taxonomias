@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Piciformes"]
 familias: ["Semnornithidae "]
 generos: ["Semnornis"]
+especie: "frantzii"
 nombre_cientifico: "Semnornis frantzii"
 nombre_comun: "Barbudo Cocora "
 nombre_ingles: "Prong-billed Barbet"

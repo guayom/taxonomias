@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Galliformes"]
 familias: ["Odontophoridae "]
 generos: ["Odontophorus"]
+especie: "melanotis"
 nombre_cientifico: "Odontophorus melanotis"
 nombre_comun: "Codorniz Orejinegra "
 nombre_ingles: "Black-eared Wood-Quail"

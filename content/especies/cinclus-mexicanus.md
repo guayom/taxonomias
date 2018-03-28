@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Cinclidae "]
 generos: ["Cinclus"]
+especie: "mexicanus"
 nombre_cientifico: "Cinclus mexicanus"
 nombre_comun: "Mirlo Acuático Plomizo"
 nombre_ingles: "American Dipper"

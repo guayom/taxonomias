@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Tyrannidae "]
 generos: ["Lophotriccus"]
+especie: "pileatus"
 nombre_cientifico: "Lophotriccus pileatus"
 nombre_comun: "Mosquerito de Yelmo"
 nombre_ingles: "Scale-crested Pygmy-Tyrant"

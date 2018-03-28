@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Laridae "]
 generos: ["Chroicocephalus"]
+especie: "philadelphia"
 nombre_cientifico: "Chroicocephalus philadelphia"
 nombre_comun: "Gaviota de Bonaparte"
 nombre_ingles: "Bonaparte’s Gull"

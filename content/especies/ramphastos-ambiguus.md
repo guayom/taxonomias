@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Piciformes"]
 familias: ["Ramphastidae "]
 generos: ["Ramphastos"]
+especie: "ambiguus"
 nombre_cientifico: "Ramphastos ambiguus"
 nombre_comun: "Tucán Pico Castaño "
 nombre_ingles: "Yellow-throated Toucan"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Scolopacidae "]
 generos: ["Calidris"]
+especie: "pusilla"
 nombre_cientifico: "Calidris pusilla"
 nombre_comun: "Correlimos Semipalmado"
 nombre_ingles: "Semipalmated Sandpiper"

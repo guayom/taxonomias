@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Piciformes"]
 familias: ["Bucconidae "]
 generos: ["Micromonacha"]
+especie: "lanceolata"
 nombre_cientifico: "Micromonacha lanceolata"
 nombre_comun: "Monjito Rayado"
 nombre_ingles: "Lanceolated Monklet"

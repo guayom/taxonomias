@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Tyrannidae "]
 generos: ["Mionectes"]
+especie: "oleagineus"
 nombre_cientifico: "Mionectes oleagineus"
 nombre_comun: "Mosquerito Aceitunado "
 nombre_ingles: "Ochre-bellied Flycatcher"

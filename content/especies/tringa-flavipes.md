@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Scolopacidae "]
 generos: ["Tringa"]
+especie: "flavipes"
 nombre_cientifico: "Tringa flavipes"
 nombre_comun: "Patiamarillo Menor"
 nombre_ingles: "Lesser Yellowlegs"

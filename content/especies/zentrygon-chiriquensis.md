@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Columbiformes"]
 familias: ["Columbidae "]
 generos: ["Zentrygon"]
+especie: "chiriquensis"
 nombre_cientifico: "Zentrygon chiriquensis"
 nombre_comun: "Paloma-Perdiz Pechicanela"
 nombre_ingles: "Chiriqui Quail-Dove"

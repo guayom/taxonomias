@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Cardinalidae "]
 generos: ["Spiza"]
+especie: "americana"
 nombre_cientifico: "Spiza americana"
 nombre_comun: "Sabanero Arrocero "
 nombre_ingles: "Dickcissel"

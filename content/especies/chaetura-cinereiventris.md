@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Apodiformes"]
 familias: ["Apodidae "]
 generos: ["Chaetura"]
+especie: "cinereiventris"
 nombre_cientifico: "Chaetura cinereiventris"
 nombre_comun: "Vencejo Lomigrís"
 nombre_ingles: "Gray-rumped Swift"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Apodiformes"]
 familias: ["Trochilidae "]
 generos: ["Phaethornis"]
+especie: "longirostris"
 nombre_cientifico: "Phaethornis longirostris"
 nombre_comun: "Ermitaño Colilargo"
 nombre_ingles: "Long-billed Hermit"

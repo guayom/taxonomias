@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Pelecaniformes"]
 familias: ["Ardeidae "]
 generos: ["Egretta"]
+especie: "caerulea"
 nombre_cientifico: "Egretta caerulea"
 nombre_comun: "Garceta Azul "
 nombre_ingles: "Little Blue Heron"

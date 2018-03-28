@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Pelecaniformes"]
 familias: ["Ardeidae "]
 generos: ["Egretta"]
+especie: "rufescens"
 nombre_cientifico: "Egretta rufescens"
 nombre_comun: "Garceta Rojiza"
 nombre_ingles: "Reddish Egret"

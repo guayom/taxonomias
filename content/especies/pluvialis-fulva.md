@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Charadriidae "]
 generos: ["Pluvialis"]
+especie: "fulva"
 nombre_cientifico: "Pluvialis fulva"
 nombre_comun: "Chorlito Dorado del Pacífico"
 nombre_ingles: "Pacific Golden-Plover"

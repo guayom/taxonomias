@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Furnariidae "]
 generos: ["Lepidocolaptes"]
+especie: "affinis"
 nombre_cientifico: "Lepidocolaptes affinis"
 nombre_comun: "Trepador Cabecipunteado"
 nombre_ingles: "Spot-crowned Woodcreeper"

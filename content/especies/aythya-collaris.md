@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Anseriformes"]
 familias: ["Anatidae "]
 generos: ["Aythya"]
+especie: "collaris"
 nombre_cientifico: "Aythya collaris"
 nombre_comun: "Porrón Collarejo"
 nombre_ingles: "Ring-necked Duck"

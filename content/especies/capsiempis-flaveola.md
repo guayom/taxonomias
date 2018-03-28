@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Tyrannidae "]
 generos: ["Capsiempis"]
+especie: "flaveola"
 nombre_cientifico: "Capsiempis flaveola"
 nombre_comun: "Mosquerito Amarillo"
 nombre_ingles: "Yellow Tyrannulet"

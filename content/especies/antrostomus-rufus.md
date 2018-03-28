@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Caprimulgiformes"]
 familias: ["Caprimulgidae "]
 generos: ["Antrostomus"]
+especie: "rufus"
 nombre_cientifico: "Antrostomus rufus"
 nombre_comun: "Chotacabras Rojizo"
 nombre_ingles: "Rufous Nightjar"

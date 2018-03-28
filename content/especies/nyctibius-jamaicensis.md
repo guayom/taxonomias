@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Nyctibiiformes"]
 familias: ["Nyctibiidae "]
 generos: ["Nyctibius"]
+especie: "jamaicensis"
 nombre_cientifico: "Nyctibius jamaicensis"
 nombre_comun: "Nictibio Norteño "
 nombre_ingles: "Northern Potoo"

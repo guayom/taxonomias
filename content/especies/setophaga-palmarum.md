@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Parulidae "]
 generos: ["Setophaga"]
+especie: "palmarum"
 nombre_cientifico: "Setophaga palmarum"
 nombre_comun: "Reinita Coronicastaña"
 nombre_ingles: "Palm Warbler"

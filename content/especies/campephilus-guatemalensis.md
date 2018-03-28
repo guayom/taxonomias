@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Piciformes"]
 familias: ["Picidae "]
 generos: ["Campephilus"]
+especie: "guatemalensis"
 nombre_cientifico: "Campephilus guatemalensis"
 nombre_comun: "Carpintero Picoplata "
 nombre_ingles: "Pale-billed Woodpecker"

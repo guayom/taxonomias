@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Apodiformes"]
 familias: ["Trochilidae "]
 generos: ["Glaucis"]
+especie: "aeneus"
 nombre_cientifico: "Glaucis aeneus"
 nombre_comun: "Ermitaño Bronceado"
 nombre_ingles: "Bronzy Hermit"

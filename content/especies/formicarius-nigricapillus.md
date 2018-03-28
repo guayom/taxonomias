@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Formicariidae "]
 generos: ["Formicarius"]
+especie: "nigricapillus"
 nombre_cientifico: "Formicarius nigricapillus"
 nombre_comun: "Gallito Hormiguero Cabecinegro"
 nombre_ingles: "Black-headed Antthrush"

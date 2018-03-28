@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Columbiformes"]
 familias: ["Columbidae "]
 generos: ["Leptotrygon"]
+especie: "veraguensis"
 nombre_cientifico: "Leptotrygon veraguensis"
 nombre_comun: "Paloma-Perdiz Bigotiblanca"
 nombre_ingles: "Olive-backed Quail-Dove"

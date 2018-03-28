@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Coraciiformes"]
 familias: ["Alcedinidae "]
 generos: ["Megaceryle"]
+especie: "torquatus"
 nombre_cientifico: "Megaceryle torquatus"
 nombre_comun: "Martín Pescador Collarejo"
 nombre_ingles: "Ringed Kingfisher"

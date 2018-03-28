@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Apodiformes"]
 familias: ["Apodidae "]
 generos: ["Panyptila"]
+especie: "cayennensis"
 nombre_cientifico: "Panyptila cayennensis"
 nombre_comun: "Vencejo Tijereta Menor "
 nombre_ingles: "Lesser Swallow-tailed Swift"

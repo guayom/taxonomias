@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Scolopacidae "]
 generos: ["Bartramia"]
+especie: "longicauda"
 nombre_cientifico: "Bartramia longicauda"
 nombre_comun: "Pradero "
 nombre_ingles: "Upland Sandpiper"

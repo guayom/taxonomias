@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Coraciiformes"]
 familias: ["Alcedinidae "]
 generos: ["Chloroceryle"]
+especie: "americana"
 nombre_cientifico: "Chloroceryle americana"
 nombre_comun: "Martín Pescador Verde"
 nombre_ingles: "Green Kingfisher"

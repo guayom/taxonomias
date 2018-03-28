@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Columbiformes"]
 familias: ["Columbidae "]
 generos: ["Columbina"]
+especie: "passerina"
 nombre_cientifico: "Columbina passerina"
 nombre_comun: "Tortolita Común "
 nombre_ingles: "Common Ground-Dove"

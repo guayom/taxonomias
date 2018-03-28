@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Scolopacidae "]
 generos: ["Calidris"]
+especie: "alba"
 nombre_cientifico: "Calidris alba"
 nombre_comun: "Playero Arenero"
 nombre_ingles: "Sanderling"

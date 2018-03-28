@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Piciformes"]
 familias: ["Bucconidae "]
 generos: ["Malacoptila"]
+especie: "panamensis"
 nombre_cientifico: "Malacoptila panamensis"
 nombre_comun: "Buco Barbón"
 nombre_ingles: "White-whiskered Puffbird"

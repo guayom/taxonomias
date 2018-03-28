@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Columbiformes"]
 familias: ["Columbidae "]
 generos: ["Zentrygon"]
+especie: "costaricensis"
 nombre_cientifico: "Zentrygon costaricensis"
 nombre_comun: "Paloma-Perdiz Costarriqueña"
 nombre_ingles: "Buff-fronted Quail-Dove"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Laridae "]
 generos: ["Gygis"]
+especie: "alba"
 nombre_cientifico: "Gygis alba "
 nombre_comun: "Charrán Blanco "
 nombre_ingles: "White Tern"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Anseriformes"]
 familias: ["Anatidae "]
 generos: ["Sarkidiornis"]
+especie: "melanotos"
 nombre_cientifico: "Sarkidiornis melanotos "
 nombre_comun: "Pato Crestudo"
 nombre_ingles: "Comb Duck"

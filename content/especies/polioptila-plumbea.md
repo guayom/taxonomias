@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Polioptilidae "]
 generos: ["Polioptila"]
+especie: "plumbea"
 nombre_cientifico: "Polioptila plumbea"
 nombre_comun: "Perlita Tropical "
 nombre_ingles: "Tropical Gnatcather"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Parulidae "]
 generos: ["Myioborus"]
+especie: "torquatus"
 nombre_cientifico: "Myioborus torquatus"
 nombre_comun: "Candelita Collareja "
 nombre_ingles: "Collared Redstart"

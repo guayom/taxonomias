@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Accipitriformes"]
 familias: ["Accipitridae "]
 generos: ["Buteogallus"]
+especie: "solitarius"
 nombre_cientifico: "Buteogallus solitarius"
 nombre_comun: "Águila Solitaria"
 nombre_ingles: "Solitary Eagle"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Tyrannidae "]
 generos: ["Contopus"]
+especie: "ochraceus"
 nombre_cientifico: "Contopus ochraceus"
 nombre_comun: "Pibí Ocráceo "
 nombre_ingles: "Ochraceous Pewee"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Accipitriformes"]
 familias: ["Strigidae "]
 generos: ["Megascops"]
+especie: "cooperi"
 nombre_cientifico: "Megascops cooperi"
 nombre_comun: "Lechucita Sabanera "
 nombre_ingles: "Pacific Screech-Owl"

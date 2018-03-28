@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Columbiformes"]
 familias: ["Columbidae "]
 generos: ["Leptotila"]
+especie: "cassinii"
 nombre_cientifico: "Leptotila cassinii"
 nombre_comun: "Paloma Pechigrís "
 nombre_ingles: "Gray-chested Dove"

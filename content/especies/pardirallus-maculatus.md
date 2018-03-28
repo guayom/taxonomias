@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Gruiformes"]
 familias: ["Rallidae "]
 generos: ["Pardirallus"]
+especie: "maculatus"
 nombre_cientifico: "Pardirallus maculatus"
 nombre_comun: "Rascón Moteado"
 nombre_ingles: "Spotted Rail"

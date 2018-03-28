@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Scolopacidae "]
 generos: ["Numenius"]
+especie: "americanus"
 nombre_cientifico: "Numenius americanus"
 nombre_comun: "Zarapito Piquilargo"
 nombre_ingles: "Long-billed Curlew"

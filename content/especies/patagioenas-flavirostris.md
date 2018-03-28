@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Columbiformes"]
 familias: ["Columbidae "]
 generos: ["Patagioenas"]
+especie: "flavirostris"
 nombre_cientifico: "Patagioenas flavirostris"
 nombre_comun: "Paloma Piquirroja "
 nombre_ingles: "Red-billed Pigeon"

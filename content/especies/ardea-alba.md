@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Pelecaniformes"]
 familias: ["Ardeidae "]
 generos: ["Ardea"]
+especie: "alba"
 nombre_cientifico: "Ardea alba"
 nombre_comun: "Garceta Grande"
 nombre_ingles: "Great Egret"

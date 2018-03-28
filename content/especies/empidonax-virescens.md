@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Tyrannidae "]
 generos: ["Empidonax"]
+especie: "virescens"
 nombre_cientifico: "Empidonax virescens"
 nombre_comun: "Mosquerito Verdoso"
 nombre_ingles: "Acadian Flycatcher"

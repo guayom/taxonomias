@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Anseriformes"]
 familias: ["Anatidae "]
 generos: ["Aythya"]
+especie: "affinis"
 nombre_cientifico: "Aythya affinis"
 nombre_comun: "Porrón Menor"
 nombre_ingles: "Lesser Scaup"

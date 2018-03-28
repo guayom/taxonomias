@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Accipitriformes"]
 familias: ["Accipitridae "]
 generos: ["Leptodon"]
+especie: "cayanensis"
 nombre_cientifico: "Leptodon cayanensis"
 nombre_comun: "Gavilán Cabecigrís"
 nombre_ingles: "Gray-headed Kite"

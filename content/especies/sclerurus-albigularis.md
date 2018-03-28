@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Furnariidae "]
 generos: ["Sclerurus"]
+especie: "albigularis"
 nombre_cientifico: "Sclerurus albigularis"
 nombre_comun: "Tirahojas Gargantigrís"
 nombre_ingles: "Gray-throated Leaftosser"

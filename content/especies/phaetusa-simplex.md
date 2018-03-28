@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Laridae "]
 generos: ["Phaetusa"]
+especie: "simplex"
 nombre_cientifico: "Phaetusa simplex"
 nombre_comun: "Charrán Picudo "
 nombre_ingles: "Large-billed Tern"

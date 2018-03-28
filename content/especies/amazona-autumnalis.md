@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Psittaciformes"]
 familias: ["Psittacidae "]
 generos: ["Amazona"]
+especie: "autumnalis"
 nombre_cientifico: "Amazona autumnalis"
 nombre_comun: "Loro Frentirrojo"
 nombre_ingles: "Red-lored Parrot"

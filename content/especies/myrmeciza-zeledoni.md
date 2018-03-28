@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Thamnophilidae "]
 generos: ["Myrmeciza"]
+especie: "zeledoni"
 nombre_cientifico: "Myrmeciza zeledoni"
 nombre_comun: "Hormiguero de Zeledón"
 nombre_ingles: "Zeledon's Antbird"

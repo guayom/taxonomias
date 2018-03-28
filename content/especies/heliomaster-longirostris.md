@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Apodiformes"]
 familias: ["Trochilidae "]
 generos: ["Heliomaster"]
+especie: "longirostris"
 nombre_cientifico: "Heliomaster longirostris"
 nombre_comun: "Colibrí Piquilargo "
 nombre_ingles: "Long-billed Starthroat"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Apodiformes"]
 familias: ["Trochilidae "]
 generos: ["Chlorostilbon"]
+especie: "assimilis"
 nombre_cientifico: "Chlorostilbon assimilis"
 nombre_comun: "Colibrí Esmeralda Jardinero"
 nombre_ingles: "Garden Emerald"

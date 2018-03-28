@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Caprimulgiformes"]
 familias: ["Caprimulgidae "]
 generos: ["Antrostomus"]
+especie: "vociferus"
 nombre_cientifico: "Antrostomus vociferus"
 nombre_comun: "Chotacabras Norteño"
 nombre_ingles: "Eastern Whip-poor-will"

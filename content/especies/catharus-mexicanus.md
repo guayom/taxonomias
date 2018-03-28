@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Turdidae "]
 generos: ["Catharus"]
+especie: "mexicanus"
 nombre_cientifico: "Catharus mexicanus"
 nombre_comun: "Zorzal Cabecinegro"
 nombre_ingles: "Black-headed Nightingale-Thrush"

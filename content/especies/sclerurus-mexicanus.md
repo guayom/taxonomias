@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Furnariidae "]
 generos: ["Sclerurus"]
+especie: "mexicanus"
 nombre_cientifico: "Sclerurus mexicanus"
 nombre_comun: "Tirahojas Pechirrufo"
 nombre_ingles: "Tawny-throated Leaftosser"

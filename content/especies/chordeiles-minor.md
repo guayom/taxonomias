@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Caprimulgiformes"]
 familias: ["Caprimulgidae "]
 generos: ["Chordeiles"]
+especie: "minor"
 nombre_cientifico: "Chordeiles minor"
 nombre_comun: "Añapero Zumbón"
 nombre_ingles: "Common Nighthawk"

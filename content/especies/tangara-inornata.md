@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Thraupidae "]
 generos: ["Tangara"]
+especie: "inornata"
 nombre_cientifico: "Tangara inornata"
 nombre_comun: "Tangara Cenicienta"
 nombre_ingles: "Plain-colored Tanager"

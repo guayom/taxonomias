@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Tyrannidae "]
 generos: ["Aphanotriccus"]
+especie: "capitalis"
 nombre_cientifico: "Aphanotriccus capitalis"
 nombre_comun: "Mosquerito Pechileonado"
 nombre_ingles: "Tawny-chested Flycatcher"

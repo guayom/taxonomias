@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Columbiformes"]
 familias: ["Columbidae "]
 generos: ["Columbina"]
+especie: "minuta"
 nombre_cientifico: "Columbina minuta"
 nombre_comun: "Tortolita Menuda "
 nombre_ingles: "Plain-breasted Ground-Dove"

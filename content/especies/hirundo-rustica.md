@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Hirundinidae "]
 generos: ["Hirundo"]
+especie: "rustica"
 nombre_cientifico: "Hirundo rustica"
 nombre_comun: "Golondrina Tijereta"
 nombre_ingles: "Barn Swallow"

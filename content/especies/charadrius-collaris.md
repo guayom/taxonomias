@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Charadriidae "]
 generos: ["Charadrius"]
+especie: "collaris"
 nombre_cientifico: "Charadrius collaris"
 nombre_comun: "Chorlitejo Collarejo "
 nombre_ingles: "Collared Plover"

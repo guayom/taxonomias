@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Laridae "]
 generos: ["Thalasseus"]
+especie: "maximus"
 nombre_cientifico: "Thalasseus maximus"
 nombre_comun: "Pagaza Real"
 nombre_ingles: "Royal Tern"

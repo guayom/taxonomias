@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Caprimulgiformes"]
 familias: ["Caprimulgidae "]
 generos: ["Antrostomus"]
+especie: "carolinensis"
 nombre_cientifico: "Antrostomus carolinensis"
 nombre_comun: "Chotacabras de Paso"
 nombre_ingles: "Chuck-will's-widow"

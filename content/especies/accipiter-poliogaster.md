@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Accipitriformes"]
 familias: ["Accipitridae "]
 generos: ["Accipiter"]
+especie: "poliogaster"
 nombre_cientifico: "Accipiter poliogaster"
 nombre_comun: "Gavilán Vientrigris"
 nombre_ingles: "Gray-bellied Hawk"

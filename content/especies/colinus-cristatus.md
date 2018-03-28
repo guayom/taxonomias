@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Galliformes"]
 familias: ["Odontophoridae "]
 generos: ["Colinus"]
+especie: "cristatus"
 nombre_cientifico: "Colinus cristatus"
 nombre_comun: "Codorniz Crestada "
 nombre_ingles: "Crested Bobwhite"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Pipridae "]
 generos: ["Lepidothrix"]
+especie: "coronata"
 nombre_cientifico: "Lepidothrix coronata"
 nombre_comun: "Saltarín Coroniceleste"
 nombre_ingles: "Blue-crowned Manakin"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Cuculiformes"]
 familias: ["Cuculidae "]
 generos: ["Piaya"]
+especie: "cayana"
 nombre_cientifico: "Piaya cayana"
 nombre_comun: "Cuco Ardilla"
 nombre_ingles: "Squirrel Cuckoo"

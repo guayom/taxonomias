@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Psittaciformes"]
 familias: ["Psittacidae "]
 generos: ["Bolborhynchus"]
+especie: "lineola"
 nombre_cientifico: "Bolborhynchus lineola"
 nombre_comun: "Perico Listado"
 nombre_ingles: "Barred Parakeet"

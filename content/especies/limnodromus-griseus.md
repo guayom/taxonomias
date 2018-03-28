@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Scolopacidae "]
 generos: ["Limnodromus"]
+especie: "griseus"
 nombre_cientifico: "Limnodromus griseus"
 nombre_comun: "Agujeta Común"
 nombre_ingles: "Short-billed Dowitcher"

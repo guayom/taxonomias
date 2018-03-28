@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Anseriformes"]
 familias: ["Anatidae "]
 generos: ["Aythya"]
+especie: "americana"
 nombre_cientifico: "Aythya americana"
 nombre_comun: "Porrón Americano"
 nombre_ingles: "Redhead"

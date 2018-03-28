@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Thamnophilidae "]
 generos: ["Gymnopithys"]
+especie: "bicolor"
 nombre_cientifico: "Gymnopithys bicolor"
 nombre_comun: "Hormiguero Bicolor"
 nombre_ingles: "Bicolored Antbird"

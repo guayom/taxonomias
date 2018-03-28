@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Laridae "]
 generos: ["Larus"]
+especie: "occidentalis"
 nombre_cientifico: "Larus occidentalis"
 nombre_comun: "Gaviota Occidental"
 nombre_ingles: "Western Gull"

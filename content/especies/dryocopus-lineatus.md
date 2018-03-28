@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Piciformes"]
 familias: ["Picidae "]
 generos: ["Dryocopus"]
+especie: "lineatus"
 nombre_cientifico: "Dryocopus lineatus"
 nombre_comun: "Carpintero Lineado"
 nombre_ingles: "Lineated Woodpecker"

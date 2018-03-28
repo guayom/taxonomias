@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Thraupidae "]
 generos: ["Eucometis"]
+especie: "penicillata"
 nombre_cientifico: "Eucometis  penicillata"
 nombre_comun: "Tangara Cabecigrís"
 nombre_ingles: "Gray-headed Tanager"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Gruiformes"]
 familias: ["Rallidae "]
 generos: ["Aramides"]
+especie: "axillaris"
 nombre_cientifico: "Aramides axillaris"
 nombre_comun: "Rascón Cuellirrufo"
 nombre_ingles: "Rufous-necked Wood-Rail"

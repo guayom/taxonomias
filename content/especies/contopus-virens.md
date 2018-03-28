@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Tyrannidae "]
 generos: ["Contopus"]
+especie: "virens"
 nombre_cientifico: "Contopus virens"
 nombre_comun: "Pibí Oriental "
 nombre_ingles: "Eastern Wood-Pewee"

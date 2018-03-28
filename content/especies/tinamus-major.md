@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Tinamiformes"]
 familias: ["Tinamidae "]
 generos: ["Tinamus"]
+especie: "major"
 nombre_cientifico: "Tinamus major"
 nombre_comun: "Tinamú Grande "
 nombre_ingles: "Great Tinamou"

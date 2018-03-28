@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Cuculiformes"]
 familias: ["Cuculidae "]
 generos: ["Coccyzus"]
+especie: "minor"
 nombre_cientifico: "Coccyzus minor"
 nombre_comun: "Cuclillo de Antifaz"
 nombre_ingles: "Mangrove Cuckoo"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Cuculiformes"]
 familias: ["Cuculidae "]
 generos: ["Crotophaga"]
+especie: "major"
 nombre_cientifico: "Crotophaga major"
 nombre_comun: "Garrapatero Mayor "
 nombre_ingles: "Greater Ani"

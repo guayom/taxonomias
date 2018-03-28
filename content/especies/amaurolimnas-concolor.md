@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Gruiformes"]
 familias: ["Rallidae "]
 generos: ["Amaurolimnas"]
+especie: "concolor"
 nombre_cientifico: "Amaurolimnas concolor"
 nombre_comun: "Rascón Café"
 nombre_ingles: "Uniform Crake"

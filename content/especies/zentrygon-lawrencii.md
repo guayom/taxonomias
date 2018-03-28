@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Columbiformes"]
 familias: ["Columbidae "]
 generos: ["Zentrygon"]
+especie: "lawrencii"
 nombre_cientifico: "Zentrygon lawrencii"
 nombre_comun: "Paloma-Perdiz Sombría"
 nombre_ingles: "Purplish-backed Quail-Dove"

@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Piciformes"]
 familias: ["Picidae "]
 generos: ["Picumnus"]
+especie: "olivaceus"
 nombre_cientifico: "Picumnus olivaceus"
 nombre_comun: "Carpinterito Oliváceo "
 nombre_ingles: "Olivaceous Piculet"

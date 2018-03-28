@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Accipitriformes"]
 familias: ["Accipitridae "]
 generos: ["Elanoides"]
+especie: "forficatus"
 nombre_cientifico: "Elanoides forficatus"
 nombre_comun: "Elanio Tijereta "
 nombre_ingles: "Swallow-tailed Kite "

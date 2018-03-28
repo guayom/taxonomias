@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Trogoniformes"]
 familias: ["Trogonidae "]
 generos: ["Trogon"]
+especie: "rufus"
 nombre_cientifico: "Trogon rufus"
 nombre_comun: "Trogón Cabeciverde"
 nombre_ingles: "Black-throated Trogon"

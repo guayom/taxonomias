@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Scolopacidae "]
 generos: ["Calidris"]
+especie: "virgata"
 nombre_cientifico: "Calidris virgata"
 nombre_comun: "Chorlito de Rompientes"
 nombre_ingles: "Surfbird"

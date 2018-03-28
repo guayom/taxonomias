@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Pelecaniformes"]
 familias: ["Threskiornithidae "]
 generos: ["Eudocimus"]
+especie: "albus"
 nombre_cientifico: "Eudocimus albus"
 nombre_comun: "Ibis Blanco "
 nombre_ingles: "White Ibis"

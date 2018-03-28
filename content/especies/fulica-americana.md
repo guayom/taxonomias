@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Gruiformes"]
 familias: ["Rallidae "]
 generos: ["Fulica"]
+especie: "americana"
 nombre_cientifico: "Fulica americana"
 nombre_comun: "Focha Americana"
 nombre_ingles: "American Coot"

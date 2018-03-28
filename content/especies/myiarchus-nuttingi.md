@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Tyrannidae "]
 generos: ["Myiarchus"]
+especie: "nuttingi"
 nombre_cientifico: "Myiarchus nuttingi"
 nombre_comun: "Copetón de Nutting "
 nombre_ingles: "Nutting's Flycatcher"

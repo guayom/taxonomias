@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Emberizidae "]
 generos: ["Arremon"]
+especie: "costaricensis"
 nombre_cientifico: "Arremon costaricensis"
 nombre_comun: "Saltón Costarricense"
 nombre_ingles: "Costa Rican Brushfinch "

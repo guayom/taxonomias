@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Pelecaniformes"]
 familias: ["Ardeidae "]
 generos: ["Butorides"]
+especie: "striata"
 nombre_cientifico: "Butorides striata"
 nombre_comun: "Garcilla Cuelligrís"
 nombre_ingles: "Striated Heron"

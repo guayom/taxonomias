@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Anseriformes"]
 familias: ["Anatidae "]
 generos: ["Oxyura"]
+especie: "jamaicensis"
 nombre_cientifico: "Oxyura jamaicensis"
 nombre_comun: "Pato Cariblanco"
 nombre_ingles: "Ruddy Duck"

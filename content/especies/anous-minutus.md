@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Laridae "]
 generos: ["Anous"]
+especie: "minutus"
 nombre_cientifico: "Anous minutus"
 nombre_comun: "Tiñosa Negra "
 nombre_ingles: "Black Noddy"

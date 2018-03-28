@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Turdidae "]
 generos: ["Catharus"]
+especie: "aurantiirostris"
 nombre_cientifico: "Catharus aurantiirostris"
 nombre_comun: "Zorzal Piquianaranjado "
 nombre_ingles: "Orange-billed Nightingale-Thrush"

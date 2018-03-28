@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Recurvirostridae "]
 generos: ["Recurvirostra"]
+especie: "americana"
 nombre_cientifico: "Recurvirostra americana"
 nombre_comun: "Avoceta Americana"
 nombre_ingles: "American Avocet"

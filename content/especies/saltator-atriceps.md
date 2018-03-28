@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Thraupidae "]
 generos: ["Saltator"]
+especie: "atriceps"
 nombre_cientifico: "Saltator atriceps"
 nombre_comun: "Saltator Cabecinegro "
 nombre_ingles: "Black-headed Saltator"

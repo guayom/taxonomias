@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Anseriformes"]
 familias: ["Anatidae "]
 generos: ["Mareca"]
+especie: "americana"
 nombre_cientifico: "Mareca americana"
 nombre_comun: "Pato Calvo "
 nombre_ingles: "American Wigeon"

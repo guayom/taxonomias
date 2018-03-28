@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Cardinalidae "]
 generos: ["Pheucticus"]
+especie: "melanocephalus"
 nombre_cientifico: "Pheucticus melanocephalus"
 nombre_comun: "Picogrueso Cabecinegro"
 nombre_ingles: "Black-headed Grosbeak"

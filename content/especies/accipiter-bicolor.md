@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Accipitriformes"]
 familias: ["Accipitridae "]
 generos: ["Accipiter"]
+especie: "bicolor"
 nombre_cientifico: "Accipiter bicolor"
 nombre_comun: "Gavilán Bicolor"
 nombre_ingles: "Bicolored Hawk"

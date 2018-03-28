@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Troglodytidae "]
 generos: ["Salpinctes"]
+especie: "obsoletus"
 nombre_cientifico: "Salpinctes obsoletus"
 nombre_comun: "Soterrey Roquero"
 nombre_ingles: "Rock Wren"

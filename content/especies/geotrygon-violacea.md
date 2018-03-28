@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Columbiformes"]
 familias: ["Columbidae "]
 generos: ["Geotrygon"]
+especie: "violacea"
 nombre_cientifico: "Geotrygon violacea"
 nombre_comun: "Paloma-Perdiz Violácea"
 nombre_ingles: "Violaceous Quail-Dove"

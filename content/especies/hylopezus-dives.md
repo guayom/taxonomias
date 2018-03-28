@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Grallariidae "]
 generos: ["Hylopezus"]
+especie: "dives"
 nombre_cientifico: "Hylopezus dives"
 nombre_comun: "Tororoi Pechicanelo "
 nombre_ingles: "Thicket Antpitta"

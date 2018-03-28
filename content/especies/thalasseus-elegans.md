@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Charadriiformes"]
 familias: ["Laridae "]
 generos: ["Thalasseus"]
+especie: "elegans"
 nombre_cientifico: "Thalasseus elegans"
 nombre_comun: "Pagaza Elegante"
 nombre_ingles: "Elegant Tern"

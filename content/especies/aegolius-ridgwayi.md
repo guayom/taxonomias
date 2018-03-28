@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Accipitriformes"]
 familias: ["Strigidae "]
 generos: ["Aegolius"]
+especie: "ridgwayi"
 nombre_cientifico: "Aegolius ridgwayi"
 nombre_comun: "Lechucita Parda"
 nombre_ingles: "Unspotted Saw-whet Owl"

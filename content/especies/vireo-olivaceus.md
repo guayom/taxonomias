@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Vireonidae "]
 generos: ["Vireo"]
+especie: "olivaceus"
 nombre_cientifico: "Vireo olivaceus"
 nombre_comun: "Vireo Ojirrojo"
 nombre_ingles: "Red-eyed Vireo"

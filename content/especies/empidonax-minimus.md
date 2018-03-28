@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Tyrannidae "]
 generos: ["Empidonax"]
+especie: "minimus"
 nombre_cientifico: "Empidonax minimus"
 nombre_comun: "Mosquerito Chebec"
 nombre_ingles: "Least Flycatcher"

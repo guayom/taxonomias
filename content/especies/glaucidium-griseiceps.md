@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Accipitriformes"]
 familias: ["Strigidae "]
 generos: ["Glaucidium"]
+especie: "griseiceps"
 nombre_cientifico: "Glaucidium griseiceps"
 nombre_comun: "Mochuelo Enano"
 nombre_ingles: "Central American Pygmy-Owl"

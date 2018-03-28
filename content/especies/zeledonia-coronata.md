@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Parulidae "]
 generos: ["Zeledonia"]
+especie: "coronata"
 nombre_cientifico: "Zeledonia coronata"
 nombre_comun: "Zeledonia"
 nombre_ingles: "Wrenthrush"

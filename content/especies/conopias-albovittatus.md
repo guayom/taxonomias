@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Passeriformes"]
 familias: ["Tyrannidae "]
 generos: ["Conopias"]
+especie: "albovittatus"
 nombre_cientifico: "Conopias albovittatus"
 nombre_comun: "Mosquero Cabecianillado "
 nombre_ingles: "White-ringed Flycatcher"

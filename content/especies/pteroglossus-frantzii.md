@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Piciformes"]
 familias: ["Ramphastidae "]
 generos: ["Pteroglossus"]
+especie: "frantzii"
 nombre_cientifico: "Pteroglossus frantzii"
 nombre_comun: "Tucancillo Piquianaranjado "
 nombre_ingles: "Fiery-billed Aracari"

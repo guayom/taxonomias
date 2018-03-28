@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Pelecaniformes"]
 familias: ["Pelecanidae "]
 generos: ["Pelecanus"]
+especie: "occidentalis"
 nombre_cientifico: "Pelecanus occidentalis"
 nombre_comun: "Pelícano Pardo"
 nombre_ingles: "Brown Pelican"

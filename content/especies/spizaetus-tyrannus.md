@@ -8,6 +8,7 @@ clases: ["Aves"]
 ordenes: ["Accipitriformes"]
 familias: ["Accipitridae "]
 generos: ["Spizaetus"]
+especie: "tyrannus"
 nombre_cientifico: "Spizaetus tyrannus"
 nombre_comun: "Aguilillo Negro "
 nombre_ingles: "Black Hawk-Eagle"
