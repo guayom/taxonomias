@@ -7,7 +7,7 @@
   <td>{{ with .Params.familias }}{{ index . 0 }}{{ end }}</td>
   <td>{{ with .Params.generos }}{{ index . 0 }}{{ end }}</td>
   <td>
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    <a href="{{ .Permalink }}">{{ .Params.especie }}</a>
     <br/>
   </td>
   <td>{{ with .Params.nombre_comun }}{{ . }}{{ end }}</td>
