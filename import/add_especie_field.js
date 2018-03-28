@@ -1,16 +1,21 @@
-// 0 reinos
-// 1 divisiones
-// 2 clases
-// 3 ordenes
-// 4 familias
-// 5 generos
-// 6 title
-// 7 nombre_cientifico
-// 8 nombre_comun
-// 9 nombre_ingles
+// # Segunda importación
+// # 0 N.científico
+// # 1 Reino
+// # 2 División
+// # 3 Clase
+// # 4 Órden
+// # 5 Familia
+// # 6 Género
+// # 7 Especie
+// # 8 N.común
+// # 9 N.inglés
+// # 10 Título
+// # 11 CC
+// # 12 Otros nombres
+// # 13 Garrigues
 
 // Config
-var inputFile = './import/data.csv';
+var inputFile = './import/data-2018-03-26.csv';
 
 // Dependencies
 var fs = require('fs');
@@ -23,9 +28,9 @@ fs.readFile(inputFile, 'utf8', function (err, data) {
   }
   parse(data, { comment: '#' }, function (err, output) {
     output.forEach(line => {
-      let filename = slug(line[7], { lower: true })
+      let filename = slug(line[0], { lower: true })
       let targetFile = `./content/especies/${filename}.md`
-      let species = line[6]
+      let species = line[7]
       let speciessString = `especie: "${species}"`
       
       if (fs.existsSync(targetFile)) {
