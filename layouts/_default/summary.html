@@ -1,5 +1,7 @@
 <tr>
-  <td>{{ with .Params.nombre_cientifico }}{{ . }}{{ end }}</td>
+  <td>
+    <a href="{{ .Permalink }}"></a>{{ with .Params.nombre_cientifico }}{{ . }}{{ end }}<a>
+  </td>
   <td>{{ with .Params.reinos }}{{ index . 0 }}{{ end }}</td>
   <td>{{ with .Params.divisiones }}{{ index . 0 }}{{ end }}</td>
   <td>{{ with .Params.clases }}{{ index . 0 }}{{ end }}</td>
