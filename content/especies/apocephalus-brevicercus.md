@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Diptera"]
 familias: ["Phoridae"]
 generos: ["Apocephalus"]
+especie: "brevicercus"
 nombre_cientifico: "Apocephalus brevicercus"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Taygetis"]
+especie: "zimri"
 nombre_cientifico: "Taygetis zimri"
 nombre_comun: ""
 nombre_ingles: ""

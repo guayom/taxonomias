@@ -8,6 +8,7 @@ clases: ["Arachnida"]
 ordenes: ["Araneae"]
 familias: ["Oxyopidae"]
 generos: ["Nephila"]
+especie: "clavipes"
 nombre_cientifico: "Nephila clavipes"
 nombre_comun: "Araña hilo de oro"
 nombre_ingles: "Golden orb-weaver"

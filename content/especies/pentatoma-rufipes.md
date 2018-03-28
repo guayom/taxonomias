@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Pentatomidae"]
 generos: ["Pentatoma"]
+especie: "rufipes"
 nombre_cientifico: "Pentatoma rufipes"
 nombre_comun: "Chinche hediondo"
 nombre_ingles: "Forest bug"

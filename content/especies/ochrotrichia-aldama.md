@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["﻿Trichoptera"]
 familias: ["Hydroptilidae"]
 generos: ["Ochrotrichia"]
+especie: "aldama"
 nombre_cientifico: "Ochrotrichia aldama"
 nombre_comun: ""
 nombre_ingles: ""

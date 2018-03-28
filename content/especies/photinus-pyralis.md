@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Lampyridae"]
 generos: ["Photinus"]
+especie: "pyralis"
 nombre_cientifico: "Photinus pyralis"
 nombre_comun: "Luciérnaga"
 nombre_ingles: "Common eastern firefly"

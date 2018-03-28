@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Chrysomelidae"]
 generos: ["Charidotella"]
+especie: "irazuensis"
 nombre_cientifico: "Charidotella irazuensis"
 nombre_comun: ""
 nombre_ingles: ""

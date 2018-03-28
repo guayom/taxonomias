@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Pentatomidae"]
 generos: ["Euthyrhynchus"]
+especie: "floridanus"
 nombre_cientifico: "Euthyrhynchus floridanus"
 nombre_comun: ""
 nombre_ingles: "Florida predatory stink bug"

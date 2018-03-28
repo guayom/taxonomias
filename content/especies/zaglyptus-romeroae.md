@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Ichneumonidae"]
 generos: ["Zaglyptus"]
+especie: "romeroae"
 nombre_cientifico: "Zaglyptus romeroae"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Pentatomidae"]
 generos: ["Chlorocoris"]
+especie: "biconicus"
 nombre_cientifico: "Chlorocoris biconicus"
 nombre_comun: ""
 nombre_ingles: ""

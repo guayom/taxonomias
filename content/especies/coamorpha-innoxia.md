@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Megalopygidae"]
 generos: ["Coamorpha"]
+especie: "innoxia"
 nombre_cientifico: "Coamorpha innoxia"
 nombre_comun: ""
 nombre_ingles: ""

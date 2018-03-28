@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Membracidae"]
 generos: ["Alchisme"]
+especie: "grossa"
 nombre_cientifico: "Alchisme grossa"
 nombre_comun: ""
 nombre_ingles: ""

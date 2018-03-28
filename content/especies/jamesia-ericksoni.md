@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Cerambycidae"]
 generos: ["Jamesia"]
+especie: "ericksoni"
 nombre_cientifico: "Jamesia ericksoni"
 nombre_comun: ""
 nombre_ingles: ""

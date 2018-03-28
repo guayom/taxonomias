@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Pompilidae"]
 generos: ["Pepsis"]
+especie: "purpurea"
 nombre_cientifico: "Pepsis purpurea"
 nombre_comun: ""
 nombre_ingles: ""

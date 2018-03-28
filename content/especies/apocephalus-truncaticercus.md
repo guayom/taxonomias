@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Diptera"]
 familias: ["Phoridae"]
 generos: ["Apocephalus"]
+especie: "truncaticercus"
 nombre_cientifico: "Apocephalus truncaticercus"
 nombre_comun: ""
 nombre_ingles: ""

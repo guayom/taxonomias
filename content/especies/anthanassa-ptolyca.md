@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Anthanassa"]
+especie: "ptolyca"
 nombre_cientifico: "Anthanassa ptolyca"
 nombre_comun: ""
 nombre_ingles: ""

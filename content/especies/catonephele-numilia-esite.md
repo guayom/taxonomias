@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Catonephele"]
+especie: "numilia esite"
 nombre_cientifico: "Catonephele numilia esite"
 nombre_comun: ""
 nombre_ingles: "Blue-frosted banner"

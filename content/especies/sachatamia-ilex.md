@@ -8,6 +8,7 @@ clases: ["Amphibia"]
 ordenes: ["Anura"]
 familias: ["Centrolenidae"]
 generos: ["Sachatamia"]
+especie: "ilex"
 nombre_cientifico: "Sachatamia ilex"
 nombre_comun: "Rana de vidrio fantasma"
 nombre_ingles: "Limon giant glass frog"

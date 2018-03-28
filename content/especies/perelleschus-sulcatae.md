@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Curculionidae"]
 generos: ["Perelleschus"]
+especie: "sulcatae"
 nombre_cientifico: "Perelleschus sulcatae"
 nombre_comun: ""
 nombre_ingles: ""

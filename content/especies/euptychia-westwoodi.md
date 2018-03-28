@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Euptychia"]
+especie: "westwoodi"
 nombre_cientifico: "Euptychia westwoodi"
 nombre_comun: ""
 nombre_ingles: ""

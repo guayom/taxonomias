@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Crambidae"]
 generos: ["Diaphania"]
+especie: "hyalinata"
 nombre_cientifico: "Diaphania hyalinata"
 nombre_comun: ""
 nombre_ingles: "melonworm moth"

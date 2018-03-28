@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Heliconius"]
+especie: "erato petiverana"
 nombre_cientifico: "Heliconius erato petiverana"
 nombre_comun: "Cartero rojo"
 nombre_ingles: "Red postman"

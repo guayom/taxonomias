@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Ichneumonidae"]
 generos: ["Eruga"]
+especie: "gutfreundi"
 nombre_cientifico: "Eruga gutfreundi"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Passalidae"]
 generos: ["Pseudoarrox"]
+especie: "karreni"
 nombre_cientifico: "Pseudoarrox karreni"
 nombre_comun: ""
 nombre_ingles: ""

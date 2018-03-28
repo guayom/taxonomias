@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Pyrrhocoridae"]
 generos: ["Dysdercus"]
+especie: "ruficeps"
 nombre_cientifico: "Dysdercus ruficeps"
 nombre_comun: ""
 nombre_ingles: ""

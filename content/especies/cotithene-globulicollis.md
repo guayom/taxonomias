@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Curculionidae"]
 generos: ["Cotithene"]
+especie: "globulicollis"
 nombre_cientifico: "Cotithene globulicollis"
 nombre_comun: ""
 nombre_ingles: ""

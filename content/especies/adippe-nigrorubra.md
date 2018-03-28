@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Homoptera"]
 familias: ["Membracidae"]
 generos: ["Adippe"]
+especie: "nigrorubra"
 nombre_cientifico: "Adippe nigrorubra"
 nombre_comun: ""
 nombre_ingles: ""

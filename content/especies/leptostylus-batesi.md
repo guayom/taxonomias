@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Cerambycidae"]
 generos: ["Leptostylus"]
+especie: "batesi"
 nombre_cientifico: "Leptostylus batesi"
 nombre_comun: ""
 nombre_ingles: ""

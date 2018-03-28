@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Ithomia"]
+especie: "bolivari"
 nombre_cientifico: "Ithomia bolivari"
 nombre_comun: ""
 nombre_ingles: ""

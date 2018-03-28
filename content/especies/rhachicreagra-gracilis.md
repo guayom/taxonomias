@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Orthoptera"]
 familias: ["Acrididae"]
 generos: ["Rhachicreagra"]
+especie: "gracilis"
 nombre_cientifico: "Rhachicreagra gracilis"
 nombre_comun: ""
 nombre_ingles: ""

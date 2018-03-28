@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Passalidae"]
 generos: ["Odontotaenius"]
+especie: "disjunctus"
 nombre_cientifico: "Odontotaenius disjunctus"
 nombre_comun: ""
 nombre_ingles: ""

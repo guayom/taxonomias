@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Hypanartia"]
+especie: "trimaculata autumna"
 nombre_cientifico: "Hypanartia trimaculata autumna"
 nombre_comun: "Mariposa mapeada"
 nombre_ingles: "Reddish Mapwing"

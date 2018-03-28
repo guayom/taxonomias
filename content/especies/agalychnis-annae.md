@@ -8,6 +8,7 @@ clases: ["Amphibia"]
 ordenes: ["Anura"]
 familias: ["Hylidae"]
 generos: ["Agalychnis"]
+especie: "annae"
 nombre_cientifico: "Agalychnis annae"
 nombre_comun: "Rana azul"
 nombre_ingles: "Blue-sided leaf frog"

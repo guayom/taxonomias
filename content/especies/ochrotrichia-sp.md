@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["﻿Trichoptera"]
 familias: ["Hydroptilidae"]
 generos: ["Ochrotrichia"]
+especie: "sp"
 nombre_cientifico: "Ochrotrichia sp"
 nombre_comun: ""
 nombre_ingles: ""

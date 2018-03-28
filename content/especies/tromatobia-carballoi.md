@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Ichneumonidae"]
 generos: ["Tromatobia"]
+especie: "carballoi"
 nombre_cientifico: "Tromatobia carballoi"
 nombre_comun: ""
 nombre_ingles: ""

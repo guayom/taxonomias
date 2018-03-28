@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["﻿Trichoptera"]
 familias: ["Glossosomatidae"]
 generos: ["Mexitrichia"]
+especie: "elongata"
 nombre_cientifico: "Mexitrichia elongata"
 nombre_comun: ""
 nombre_ingles: ""

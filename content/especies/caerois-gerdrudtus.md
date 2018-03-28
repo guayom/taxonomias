@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Caerois"]
+especie: "gerdrudtus"
 nombre_cientifico: "Caerois gerdrudtus"
 nombre_comun: ""
 nombre_ingles: ""

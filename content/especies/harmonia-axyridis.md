@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Coccinellidae"]
 generos: ["Harmonia"]
+especie: "axyridis"
 nombre_cientifico: "Harmonia axyridis"
 nombre_comun: ""
 nombre_ingles: ""

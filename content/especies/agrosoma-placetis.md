@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Cicadellidae"]
 generos: ["Agrosoma"]
+especie: "placetis"
 nombre_cientifico: "Agrosoma placetis"
 nombre_comun: "Chicharrita"
 nombre_ingles: "Sharpshooter"

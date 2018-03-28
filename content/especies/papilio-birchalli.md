@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Papilionidae"]
 generos: ["Papilio"]
+especie: "birchalli"
 nombre_cientifico: "Papilio birchalli"
 nombre_comun: ""
 nombre_ingles: ""

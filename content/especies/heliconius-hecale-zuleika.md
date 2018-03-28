@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Heliconius"]
+especie: "hecale zuleika"
 nombre_cientifico: "Heliconius hecale zuleika"
 nombre_comun: ""
 nombre_ingles: "Hecale Longwing"

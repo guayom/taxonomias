@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Ichneumonidae"]
 generos: ["Janzophion"]
+especie: "nebosus"
 nombre_cientifico: "Janzophion nebosus"
 nombre_comun: ""
 nombre_ingles: ""

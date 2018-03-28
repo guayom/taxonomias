@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Hypanartia"]
+especie: "kesfersteini"
 nombre_cientifico: "Hypanartia kesfersteini"
 nombre_comun: ""
 nombre_ingles: ""

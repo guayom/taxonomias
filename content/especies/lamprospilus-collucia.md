@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Lycaenidae"]
 generos: ["Lamprospilus"]
+especie: "collucia"
 nombre_cientifico: "Lamprospilus collucia"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Janatella"]
+especie: "leucodesma"
 nombre_cientifico: "Janatella leucodesma"
 nombre_comun: ""
 nombre_ingles: ""

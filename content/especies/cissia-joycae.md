@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Cissia"]
+especie: "joycae"
 nombre_cientifico: "Cissia joycae"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Araneae"]
 ordenes: ["Araneae"]
 familias: ["Tetragnathidae "]
 generos: ["unknown"]
+especie: "unknown"
 nombre_cientifico: "unknown"
 nombre_comun: ""
 nombre_ingles: ""

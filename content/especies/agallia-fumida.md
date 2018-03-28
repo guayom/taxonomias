@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Homoptera"]
 familias: ["Cicadellidae"]
 generos: ["Agallia"]
+especie: "fumida"
 nombre_cientifico: "Agallia fumida"
 nombre_comun: ""
 nombre_ingles: ""

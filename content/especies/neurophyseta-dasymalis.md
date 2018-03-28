@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Crambidae"]
 generos: ["Neurophyseta"]
+especie: "dasymalis"
 nombre_cientifico: "Neurophyseta dasymalis"
 nombre_comun: ""
 nombre_ingles: ""

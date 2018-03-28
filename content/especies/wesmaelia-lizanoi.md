@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Braconidae"]
 generos: ["Wesmaelia"]
+especie: "lizanoi"
 nombre_cientifico: "Wesmaelia lizanoi"
 nombre_comun: ""
 nombre_ingles: ""

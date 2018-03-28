@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Orthoptera"]
 familias: ["Eumastacidae"]
 generos: ["Homeomastax"]
+especie: "kressi"
 nombre_cientifico: "Homeomastax kressi"
 nombre_comun: ""
 nombre_ingles: ""

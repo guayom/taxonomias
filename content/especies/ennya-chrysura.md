@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Membracidae"]
 generos: ["Ennya"]
+especie: "chrysura"
 nombre_cientifico: "Ennya chrysura"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Cercopidae"]
 generos: ["Prosapia"]
+especie: "bicincta"
 nombre_cientifico: "Prosapia bicincta"
 nombre_comun: ""
 nombre_ingles: ""

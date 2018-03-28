@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Acanaloniidae"]
 generos: ["Acanalonia"]
+especie: "conica"
 nombre_cientifico: "Acanalonia conica"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Taygetis"]
+especie: "salvini"
 nombre_cientifico: "Taygetis salvini"
 nombre_comun: ""
 nombre_ingles: ""

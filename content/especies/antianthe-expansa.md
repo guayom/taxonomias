@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Membracidae"]
 generos: ["Antianthe"]
+especie: "expansa"
 nombre_cientifico: "Antianthe expansa"
 nombre_comun: ""
 nombre_ingles: "Keeled Tree Hopper"

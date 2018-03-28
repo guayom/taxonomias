@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Neuroptera"]
 familias: ["Chrysopidae"]
 generos: ["Chrysoperla"]
+especie: "rufilabris"
 nombre_cientifico: "Chrysoperla rufilabris"
 nombre_comun: "Crisopa verde"
 nombre_ingles: "Green Lacewings"

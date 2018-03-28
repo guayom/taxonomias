@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Cicadellidae"]
 generos: ["Macunolla"]
+especie: "ventralis"
 nombre_cientifico: "Macunolla ventralis"
 nombre_comun: "Saltahojas"
 nombre_ingles: "Leafhopper"

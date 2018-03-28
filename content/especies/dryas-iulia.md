@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Dryas"]
+especie: "iulia"
 nombre_cientifico: "Dryas iulia"
 nombre_comun: "Mariposa flama"
 nombre_ingles: "Julia heliconian"

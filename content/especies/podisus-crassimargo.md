@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Pentatomidae"]
 generos: ["Podisus"]
+especie: "crassimargo"
 nombre_cientifico: "Podisus crassimargo"
 nombre_comun: ""
 nombre_ingles: ""

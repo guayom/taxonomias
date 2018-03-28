@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Homoptera"]
 familias: ["Cicadellidae"]
 generos: ["Polana"]
+especie: "bohemani"
 nombre_cientifico: "Polana bohemani"
 nombre_comun: ""
 nombre_ingles: ""

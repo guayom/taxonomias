@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Pentatomidae"]
 generos: ["Edessa"]
+especie: "junix"
 nombre_cientifico: "Edessa junix"
 nombre_comun: ""
 nombre_ingles: ""

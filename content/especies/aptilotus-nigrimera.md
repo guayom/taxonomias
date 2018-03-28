@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Diptera"]
 familias: ["Sphaeroceridae"]
 generos: ["Aptilotus"]
+especie: "nigrimera"
 nombre_cientifico: "Aptilotus nigrimera"
 nombre_comun: ""
 nombre_ingles: ""

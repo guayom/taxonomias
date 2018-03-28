@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Chrysomelidae"]
 generos: ["Metrionella"]
+especie: "placans"
 nombre_cientifico: "Metrionella placans"
 nombre_comun: ""
 nombre_ingles: ""

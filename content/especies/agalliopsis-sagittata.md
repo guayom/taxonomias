@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Homoptera"]
 familias: ["Cicadellidae"]
 generos: ["Agalliopsis"]
+especie: "sagittata"
 nombre_cientifico: "Agalliopsis sagittata"
 nombre_comun: ""
 nombre_ingles: ""

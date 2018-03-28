@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Noctuidae"]
 generos: ["Neoptista"]
+especie: "lorna"
 nombre_cientifico: "Neoptista lorna"
 nombre_comun: ""
 nombre_ingles: ""

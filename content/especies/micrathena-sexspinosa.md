@@ -8,6 +8,7 @@ clases: ["Arachnida"]
 ordenes: ["Araneae"]
 familias: ["Araneidae"]
 generos: ["Micrathena"]
+especie: "sexspinosa"
 nombre_cientifico: "Micrathena sexspinosa"
 nombre_comun: ""
 nombre_ingles: ""

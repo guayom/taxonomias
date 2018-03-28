@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Arctiidae"]
 generos: ["Mesenochroa"]
+especie: "rogersi"
 nombre_cientifico: "Mesenochroa rogersi"
 nombre_comun: ""
 nombre_ingles: ""

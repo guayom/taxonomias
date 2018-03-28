@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Curculionidae"]
 generos: ["Neoerethistes"]
+especie: "triangularis"
 nombre_cientifico: "Neoerethistes triangularis"
 nombre_comun: ""
 nombre_ingles: ""

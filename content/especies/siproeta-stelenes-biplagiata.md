@@ -8,6 +8,8 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Siproeta"]
+especie: "stelenes biplagiata"
+especie: "stelenes biplagiata"
 nombre_cientifico: "Siproeta stelenes biplagiata"
 nombre_comun: "Camuflada verde"
 nombre_ingles: "Malachite"

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Chrysomelidae"]
 generos: ["Leptinotarsa"]
+especie: "undecimlineata"
 nombre_cientifico: "Leptinotarsa undecimlineata"
 nombre_comun: ""
 nombre_ingles: ""

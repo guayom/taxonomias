@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Cerambycidae"]
 generos: ["Nyssodrysina"]
+especie: "leucopyga"
 nombre_cientifico: "Nyssodrysina leucopyga"
 nombre_comun: ""
 nombre_ingles: ""

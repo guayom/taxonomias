@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Heliconius"]
+especie: "charithonia"
 nombre_cientifico: "Heliconius  charithonia"
 nombre_comun: "Cebra"
 nombre_ingles: "Zebra longwing"

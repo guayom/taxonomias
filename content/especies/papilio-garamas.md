@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Papilionidae"]
 generos: ["Papilio"]
+especie: "garamas"
 nombre_cientifico: "Papilio garamas"
 nombre_comun: ""
 nombre_ingles: ""

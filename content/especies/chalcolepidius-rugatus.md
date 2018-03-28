@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Elateridae"]
 generos: ["Chalcolepidius"]
+especie: "rugatus"
 nombre_cientifico: "Chalcolepidius rugatus"
 nombre_comun: ""
 nombre_ingles: ""

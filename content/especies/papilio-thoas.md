@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Papilio"]
+especie: "thoas"
 nombre_cientifico: "Papilio thoas"
 nombre_comun: "Mariposa de los naranjos"
 nombre_ingles: "King swallowtail"

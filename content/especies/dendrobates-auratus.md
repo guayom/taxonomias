@@ -8,6 +8,7 @@ clases: ["Amphibia"]
 ordenes: ["Anura"]
 familias: ["Dendrobatidae"]
 generos: ["Dendrobates"]
+especie: "auratus"
 nombre_cientifico: "Dendrobates auratus"
 nombre_comun: "Rana venenosa"
 nombre_ingles: "Green-and-black poison dart frog"

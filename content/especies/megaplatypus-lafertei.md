@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Curculionidae"]
 generos: ["Megaplatypus"]
+especie: "lafertei"
 nombre_cientifico: "Megaplatypus lafertei"
 nombre_comun: ""
 nombre_ingles: ""

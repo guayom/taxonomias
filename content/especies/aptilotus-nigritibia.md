@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Diptera"]
 familias: ["Sphaeroceridae"]
 generos: ["Aptilotus"]
+especie: "nigritibia"
 nombre_cientifico: "Aptilotus nigritibia"
 nombre_comun: ""
 nombre_ingles: ""

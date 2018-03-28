@@ -8,6 +8,7 @@ clases: ["Amphibia"]
 ordenes: ["Anura"]
 familias: ["Hylidae"]
 generos: ["Scinax"]
+especie: "elaeochrous"
 nombre_cientifico: "Scinax elaeochrous"
 nombre_comun: "Rana arborícora cabeza pequeña"
 nombre_ingles: "Narrow-headed Treefog"

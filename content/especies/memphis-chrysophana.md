@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Memphis"]
+especie: "chrysophana"
 nombre_cientifico: "Memphis chrysophana"
 nombre_comun: ""
 nombre_ingles: ""

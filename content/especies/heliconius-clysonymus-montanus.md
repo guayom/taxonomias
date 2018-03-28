@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Heliconius"]
+especie: "clysonymus montanus"
 nombre_cientifico: "Heliconius clysonymus montanus"
 nombre_comun: ""
 nombre_ingles: "Montana Longwing"

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Belostomatidae"]
 generos: ["Abedus"]
+especie: "indentatus"
 nombre_cientifico: "Abedus indentatus"
 nombre_comun: ""
 nombre_ingles: ""

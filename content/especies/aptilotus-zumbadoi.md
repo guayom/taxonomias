@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Diptera"]
 familias: ["Sphaeroceridae"]
 generos: ["Aptilotus"]
+especie: "zumbadoi"
 nombre_cientifico: "Aptilotus zumbadoi"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Membracidae"]
 generos: ["Polyglypta"]
+especie: "dorsalis"
 nombre_cientifico: "Polyglypta dorsalis"
 nombre_comun: "Membracido"
 nombre_ingles: "Treehopper"

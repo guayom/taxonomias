@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Cerambycidae"]
 generos: ["Strangalia"]
+especie: "emaciata"
 nombre_cientifico: "Strangalia emaciata"
 nombre_comun: ""
 nombre_ingles: ""

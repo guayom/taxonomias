@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Heliconius"]
+especie: "sara fulgidus"
 nombre_cientifico: "Heliconius sara fulgidus"
 nombre_comun: "Heliconius sara"
 nombre_ingles: "Sara Longwing"

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Chrysomelidae"]
 generos: ["Cephaloleia"]
+especie: "vicina"
 nombre_cientifico: "Cephaloleia vicina"
 nombre_comun: ""
 nombre_ingles: ""

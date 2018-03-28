@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Largidae"]
 generos: ["Stenomacra"]
+especie: "marginella"
 nombre_cientifico: "Stenomacra marginella"
 nombre_comun: "Chinche roja"
 nombre_ingles: "Bordered Plant Bug"

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Membracidae"]
 generos: ["Vestistilus"]
+especie: "testaceus"
 nombre_cientifico: "Vestistilus testaceus"
 nombre_comun: "Membracido"
 nombre_ingles: "Treehopper"

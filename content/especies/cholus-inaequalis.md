@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Curculionidae"]
 generos: ["Cholus"]
+especie: "inaequalis"
 nombre_cientifico: "Cholus inaequalis"
 nombre_comun: ""
 nombre_ingles: ""

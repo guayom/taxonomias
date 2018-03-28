@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Diptera"]
 familias: ["Tabanidae"]
 generos: ["Fidena"]
+especie: "auribarba"
 nombre_cientifico: "Fidena auribarba"
 nombre_comun: ""
 nombre_ingles: ""

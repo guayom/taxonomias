@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Dione"]
+especie: "juno"
 nombre_cientifico: "Dione juno"
 nombre_comun: "juno Dione juno"
 nombre_ingles: "Juno silverspot"

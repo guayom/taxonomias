@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Adelpha"]
+especie: "diocles"
 nombre_cientifico: "Adelpha diocles"
 nombre_comun: ""
 nombre_ingles: ""

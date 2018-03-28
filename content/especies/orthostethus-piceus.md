@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Elateridae"]
 generos: ["Orthostethus"]
+especie: "piceus"
 nombre_cientifico: "Orthostethus piceus"
 nombre_comun: ""
 nombre_ingles: ""

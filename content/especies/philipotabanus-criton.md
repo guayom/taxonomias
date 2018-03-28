@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Diptera"]
 familias: ["Tabanidae"]
 generos: ["Philipotabanus"]
+especie: "criton"
 nombre_cientifico: "Philipotabanus criton"
 nombre_comun: ""
 nombre_ingles: ""

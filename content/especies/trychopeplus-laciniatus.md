@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Phasmatodea"]
 familias: ["Diapheromeridae"]
 generos: ["Trychopeplus"]
+especie: "laciniatus"
 nombre_cientifico: "Trychopeplus laciniatus"
 nombre_comun: ""
 nombre_ingles: "Moss mimic stick"

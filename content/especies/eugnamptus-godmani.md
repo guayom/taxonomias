@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Attelabidae"]
 generos: ["Eugnamptus"]
+especie: "godmani"
 nombre_cientifico: "Eugnamptus godmani"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Amphibia"]
 ordenes: ["Anura"]
 familias: ["Hylidae"]
 generos: ["Smilisca"]
+especie: "phaeota"
 nombre_cientifico: "Smilisca  phaeota"
 nombre_comun: "Rana Arborícola Enmascarada"
 nombre_ingles: "Masked tree frog"

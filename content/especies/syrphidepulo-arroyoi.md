@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Ichneumonidae"]
 generos: ["Syrphidepulo"]
+especie: "arroyoi"
 nombre_cientifico: "Syrphidepulo arroyoi"
 nombre_comun: ""
 nombre_ingles: ""

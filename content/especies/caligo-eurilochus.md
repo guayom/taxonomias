@@ -8,6 +8,8 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Caligo"]
+especie: "eurilochus"
+especie: "eurilochus"
 nombre_cientifico: "Caligo eurilochus"
 nombre_comun: ""
 nombre_ingles: ""

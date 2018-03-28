@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["coleoptera"]
 familias: ["chrysomelidae"]
 generos: ["metopoceris"]
+especie: "gemmans"
 nombre_cientifico: "metopoceris gemmans"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Geometridae"]
 generos: ["Nephodia"]
+especie: "admirationis"
 nombre_cientifico: "Nephodia admirationis"
 nombre_comun: ""
 nombre_ingles: ""

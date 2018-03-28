@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Diptera"]
 familias: ["Tachinidae"]
 generos: ["Euepalpus"]
+especie: "flavicanda"
 nombre_cientifico: "Euepalpus flavicanda"
 nombre_comun: ""
 nombre_ingles: ""

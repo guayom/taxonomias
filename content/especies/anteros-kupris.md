@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Lycaenidae"]
 generos: ["Anteros"]
+especie: "kupris"
 nombre_cientifico: "Anteros kupris"
 nombre_comun: ""
 nombre_ingles: ""

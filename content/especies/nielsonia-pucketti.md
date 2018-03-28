@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Cicadellidae"]
 generos: ["Nielsonia"]
+especie: "pucketti"
 nombre_cientifico: "Nielsonia pucketti"
 nombre_comun: "Saltahojas"
 nombre_ingles: "Leafhopper"

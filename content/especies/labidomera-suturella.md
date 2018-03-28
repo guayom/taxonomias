@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Chrysomelidae"]
 generos: ["Labidomera"]
+especie: "suturella"
 nombre_cientifico: "Labidomera suturella"
 nombre_comun: ""
 nombre_ingles: ""

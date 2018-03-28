@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Diptera"]
 familias: ["Tephritidae"]
 generos: ["Anastrepha"]
+especie: "canalis"
 nombre_cientifico: "Anastrepha canalis"
 nombre_comun: ""
 nombre_ingles: ""

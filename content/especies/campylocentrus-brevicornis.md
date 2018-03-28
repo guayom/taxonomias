@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Homoptera"]
 familias: ["Membracidae"]
 generos: ["Campylocentrus"]
+especie: "brevicornis"
 nombre_cientifico: "Campylocentrus brevicornis"
 nombre_comun: ""
 nombre_ingles: ""

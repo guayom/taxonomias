@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Noctuidae"]
 generos: ["Autoplusia"]
+especie: "egena"
 nombre_cientifico: "Autoplusia egena"
 nombre_comun: ""
 nombre_ingles: ""

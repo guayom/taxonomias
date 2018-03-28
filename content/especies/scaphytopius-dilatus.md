@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Homoptera"]
 familias: ["Cicadellidae"]
 generos: ["Scaphytopius"]
+especie: "dilatus"
 nombre_cientifico: "Scaphytopius dilatus"
 nombre_comun: ""
 nombre_ingles: ""

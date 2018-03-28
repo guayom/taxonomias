@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Homoptera"]
 familias: ["Cicadellidae"]
 generos: ["Euragallia"]
+especie: "confibula"
 nombre_cientifico: "Euragallia confibula"
 nombre_comun: ""
 nombre_ingles: ""

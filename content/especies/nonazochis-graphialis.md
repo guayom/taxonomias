@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Crambidae"]
 generos: ["Nonazochis"]
+especie: "graphialis"
 nombre_cientifico: "Nonazochis graphialis"
 nombre_comun: ""
 nombre_ingles: ""

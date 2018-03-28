@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Uraniidae"]
 generos: ["Urania"]
+especie: "fulgens"
 nombre_cientifico: "Urania fulgens"
 nombre_comun: ""
 nombre_ingles: ""

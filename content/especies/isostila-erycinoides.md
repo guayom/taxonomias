@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Notodontidae"]
 generos: ["Isostila"]
+especie: "erycinoides"
 nombre_cientifico: "Isostila erycinoides"
 nombre_comun: ""
 nombre_ingles: ""

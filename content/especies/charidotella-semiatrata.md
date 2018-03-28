@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Chrysomelidae"]
 generos: ["Charidotella"]
+especie: "semiatrata"
 nombre_cientifico: "Charidotella semiatrata"
 nombre_comun: ""
 nombre_ingles: ""

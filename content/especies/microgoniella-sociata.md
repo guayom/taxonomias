@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Homoptera"]
 familias: ["Cicadellidae"]
 generos: ["Microgoniella"]
+especie: "sociata"
 nombre_cientifico: "Microgoniella sociata"
 nombre_comun: ""
 nombre_ingles: ""

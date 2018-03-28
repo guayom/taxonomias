@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Coreidae"]
 generos: ["Mozena"]
+especie: "alata"
 nombre_cientifico: "Mozena alata"
 nombre_comun: ""
 nombre_ingles: ""

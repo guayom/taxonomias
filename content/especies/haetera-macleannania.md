@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Haetera"]
+especie: "macleannania"
 nombre_cientifico: "Haetera macleannania"
 nombre_comun: ""
 nombre_ingles: ""

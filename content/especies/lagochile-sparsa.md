@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Scarabaeidae"]
 generos: ["Lagochile"]
+especie: "sparsa"
 nombre_cientifico: "Lagochile sparsa"
 nombre_comun: ""
 nombre_ingles: ""

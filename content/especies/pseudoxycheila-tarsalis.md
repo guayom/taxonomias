@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Carabidae"]
 generos: ["Pseudoxycheila"]
+especie: "tarsalis"
 nombre_cientifico: "Pseudoxycheila tarsalis"
 nombre_comun: ""
 nombre_ingles: ""

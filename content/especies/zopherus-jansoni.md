@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Zopheridae"]
 generos: ["Zopherus"]
+especie: "jansoni"
 nombre_cientifico: "Zopherus jansoni"
 nombre_comun: "Escarabajo de Madera"
 nombre_ingles: ""

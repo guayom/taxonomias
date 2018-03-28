@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Curculionidae"]
 generos: ["Peridinetus"]
+especie: "lineolus"
 nombre_cientifico: "Peridinetus lineolus"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Homoptera"]
 familias: ["Cicadellidae"]
 generos: ["Bolidiana"]
+especie: "fabricii"
 nombre_cientifico: "Bolidiana fabricii"
 nombre_comun: ""
 nombre_ingles: ""

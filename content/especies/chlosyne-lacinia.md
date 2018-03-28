@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Chlosyne"]
+especie: "lacinia"
 nombre_cientifico: "Chlosyne lacinia"
 nombre_comun: ""
 nombre_ingles: "Bordered patch"

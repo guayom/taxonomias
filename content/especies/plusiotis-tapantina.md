@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Scarabaeidae"]
 generos: ["Plusiotis"]
+especie: "tapantina"
 nombre_cientifico: "Plusiotis tapantina"
 nombre_comun: ""
 nombre_ingles: ""

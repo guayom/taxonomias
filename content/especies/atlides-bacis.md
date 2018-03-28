@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Lycaenidae"]
 generos: ["Atlides"]
+especie: "bacis"
 nombre_cientifico: "Atlides bacis"
 nombre_comun: ""
 nombre_ingles: ""

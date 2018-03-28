@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Pentatomidae"]
 generos: ["Mormidea"]
+especie: "integella"
 nombre_cientifico: "Mormidea integella"
 nombre_comun: ""
 nombre_ingles: ""

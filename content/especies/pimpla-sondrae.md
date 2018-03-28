@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Ichneumonidae"]
 generos: ["Pimpla"]
+especie: "sondrae"
 nombre_cientifico: "Pimpla sondrae"
 nombre_comun: ""
 nombre_ingles: ""

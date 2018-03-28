@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Ichneumonidae"]
 generos: ["Scambus"]
+especie: "yalileae"
 nombre_cientifico: "Scambus yalileae"
 nombre_comun: ""
 nombre_ingles: ""

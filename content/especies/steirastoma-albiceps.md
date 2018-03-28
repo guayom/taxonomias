@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Cerambycidae"]
 generos: ["Steirastoma"]
+especie: "albiceps"
 nombre_cientifico: "Steirastoma albiceps"
 nombre_comun: ""
 nombre_ingles: ""

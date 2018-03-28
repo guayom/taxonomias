@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Scarabaeidae"]
 generos: ["Ligyrus"]
+especie: "laevicollis"
 nombre_cientifico: "Ligyrus laevicollis"
 nombre_comun: ""
 nombre_ingles: ""

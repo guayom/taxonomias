@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Scarabaeidae"]
 generos: ["Marmarina"]
+especie: "maculosa"
 nombre_cientifico: "Marmarina maculosa"
 nombre_comun: ""
 nombre_ingles: ""

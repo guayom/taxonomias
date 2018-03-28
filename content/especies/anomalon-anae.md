@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Ichneumonidae"]
 generos: ["Anomalon"]
+especie: "anae"
 nombre_cientifico: "Anomalon anae"
 nombre_comun: ""
 nombre_ingles: ""

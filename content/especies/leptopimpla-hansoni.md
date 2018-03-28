@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Ichneumonidae"]
 generos: ["Leptopimpla"]
+especie: "hansoni"
 nombre_cientifico: "Leptopimpla hansoni"
 nombre_comun: ""
 nombre_ingles: ""

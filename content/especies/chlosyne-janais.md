@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Chlosyne"]
+especie: "janais"
 nombre_cientifico: "Chlosyne janais"
 nombre_comun: ""
 nombre_ingles: ""

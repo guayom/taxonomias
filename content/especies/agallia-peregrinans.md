@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Homoptera"]
 familias: ["Cicadellidae"]
 generos: ["Agallia"]
+especie: "peregrinans"
 nombre_cientifico: "Agallia peregrinans"
 nombre_comun: ""
 nombre_ingles: ""

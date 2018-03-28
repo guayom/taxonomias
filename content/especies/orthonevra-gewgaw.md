@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Diptera"]
 familias: ["Syrphidae"]
 generos: ["Orthonevra"]
+especie: "gewgaw"
 nombre_cientifico: "Orthonevra gewgaw"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Pieridae"]
 generos: ["Ascia"]
+especie: "limona"
 nombre_cientifico: "Ascia limona"
 nombre_comun: ""
 nombre_ingles: ""

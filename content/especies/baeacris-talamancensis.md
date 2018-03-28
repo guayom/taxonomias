@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Orthoptera"]
 familias: ["Acrididae"]
 generos: ["Baeacris"]
+especie: "talamancensis"
 nombre_cientifico: "Baeacris talamancensis"
 nombre_comun: ""
 nombre_ingles: ""

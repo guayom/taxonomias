@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Papilionidae"]
 generos: ["Eurytides"]
+especie: "lacandones"
 nombre_cientifico: "Eurytides lacandones"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Ichneumonidae"]
 generos: ["Sphinctus"]
+especie: "Gastón"
 nombre_cientifico: "Sphinctus Gastón"
 nombre_comun: ""
 nombre_ingles: ""

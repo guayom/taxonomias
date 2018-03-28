@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Geometridae"]
 generos: ["Lomographa"]
+especie: "molesta"
 nombre_cientifico: "Lomographa molesta"
 nombre_comun: ""
 nombre_ingles: ""

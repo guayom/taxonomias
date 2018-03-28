@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Hesperiidae"]
 generos: ["Staphylus"]
+especie: "mazans"
 nombre_cientifico: "Staphylus mazans"
 nombre_comun: ""
 nombre_ingles: "Mazans Scallopwing"

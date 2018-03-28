@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Diptera"]
 familias: ["Asilidae"]
 generos: ["Atractia"]
+especie: "comata"
 nombre_cientifico: "Atractia comata"
 nombre_comun: ""
 nombre_ingles: ""

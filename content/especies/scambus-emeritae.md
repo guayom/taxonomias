@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Ichneumonidae"]
 generos: ["Scambus"]
+especie: "emeritae"
 nombre_cientifico: "Scambus emeritae"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Arachnida"]
 ordenes: ["Araneae"]
 familias: ["Araneidae"]
 generos: ["Argiope"]
+especie: "argentata"
 nombre_cientifico: "Argiope argentata"
 nombre_comun: "Araña plateada"
 nombre_ingles: "Silver argiope"

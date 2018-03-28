@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Diptera"]
 familias: ["Tabanidae"]
 generos: ["Leucotabanus"]
+especie: "aurarius"
 nombre_cientifico: "Leucotabanus aurarius"
 nombre_comun: ""
 nombre_ingles: ""

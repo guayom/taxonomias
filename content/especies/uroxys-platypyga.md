@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Scarabaeidae"]
 generos: ["Uroxys"]
+especie: "platypyga"
 nombre_cientifico: "Uroxys platypyga"
 nombre_comun: ""
 nombre_ingles: ""

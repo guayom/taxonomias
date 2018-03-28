@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["﻿Trichoptera"]
 familias: ["Hydropsychidae"]
 generos: ["leptonema"]
+especie: "woldianum"
 nombre_cientifico: "leptonema woldianum"
 nombre_comun: ""
 nombre_ingles: ""

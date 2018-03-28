@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Lycaenidae"]
 generos: ["Arcas"]
+especie: "cypria"
 nombre_cientifico: "Arcas cypria"
 nombre_comun: ""
 nombre_ingles: ""

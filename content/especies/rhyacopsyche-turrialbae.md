@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["﻿Trichoptera"]
 familias: ["Hydroptilidae"]
 generos: ["Rhyacopsyche"]
+especie: "turrialbae"
 nombre_cientifico: "Rhyacopsyche turrialbae"
 nombre_comun: ""
 nombre_ingles: ""

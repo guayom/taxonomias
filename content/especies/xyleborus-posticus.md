@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Curculionidae"]
 generos: ["Xyleborus"]
+especie: "posticus"
 nombre_cientifico: "Xyleborus posticus"
 nombre_comun: ""
 nombre_ingles: ""

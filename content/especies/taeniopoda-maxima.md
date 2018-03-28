@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Orthoptera"]
 familias: ["Romaleidae"]
 generos: ["Taeniopoda"]
+especie: "maxima"
 nombre_cientifico: "Taeniopoda maxima"
 nombre_comun: "Saltamontes romaleido"
 nombre_ingles: "Lubber Grasshopper"

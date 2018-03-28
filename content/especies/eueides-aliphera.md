@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Eueides"]
+especie: "aliphera"
 nombre_cientifico: "Eueides aliphera"
 nombre_comun: ""
 nombre_ingles: ""

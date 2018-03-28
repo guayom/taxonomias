@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Diptera"]
 familias: ["Syrphidae"]
 generos: ["Ocyptamus"]
+especie: "giganteus"
 nombre_cientifico: "Ocyptamus giganteus"
 nombre_comun: ""
 nombre_ingles: ""

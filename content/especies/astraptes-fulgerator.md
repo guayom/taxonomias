@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Hesperiidae"]
 generos: ["Astraptes"]
+especie: "fulgerator"
 nombre_cientifico: "Astraptes fulgerator"
 nombre_comun: "Saltarina azul de dos barras"
 nombre_ingles: "Two-barred flasher"

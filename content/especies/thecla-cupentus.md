@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Lycaenidae"]
 generos: ["Thecla"]
+especie: "cupentus"
 nombre_cientifico: "Thecla cupentus"
 nombre_comun: ""
 nombre_ingles: ""

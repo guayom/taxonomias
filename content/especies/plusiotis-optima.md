@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Scarabaeidae"]
 generos: ["Plusiotis"]
+especie: "optima"
 nombre_cientifico: "Plusiotis optima"
 nombre_comun: ""
 nombre_ingles: ""

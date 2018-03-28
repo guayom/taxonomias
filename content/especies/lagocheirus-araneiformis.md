@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Cerambycidae"]
 generos: ["Lagocheirus"]
+especie: "araneiformis"
 nombre_cientifico: "Lagocheirus araneiformis"
 nombre_comun: ""
 nombre_ingles: ""

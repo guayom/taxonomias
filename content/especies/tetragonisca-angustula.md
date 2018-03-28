@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Apidae"]
 generos: ["Tetragonisca"]
+especie: "angustula"
 nombre_cientifico: "Tetragonisca angustula"
 nombre_comun: "Abeja angelita"
 nombre_ingles: ""

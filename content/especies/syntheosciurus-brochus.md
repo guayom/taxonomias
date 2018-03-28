@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Rodentia"]
 familias: ["Sciuridae"]
 generos: ["Syntheosciurus"]
+especie: "brochus"
 nombre_cientifico: "Syntheosciurus brochus"
 nombre_comun: "Ardilla del Poás"
 nombre_ingles: "Montane Squirrel"

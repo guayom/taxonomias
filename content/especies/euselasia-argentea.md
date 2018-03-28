@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Lycaenidae"]
 generos: ["Euselasia"]
+especie: "argentea"
 nombre_cientifico: "Euselasia argentea"
 nombre_comun: ""
 nombre_ingles: ""

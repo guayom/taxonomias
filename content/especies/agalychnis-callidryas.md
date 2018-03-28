@@ -8,6 +8,7 @@ clases: ["Amphibia"]
 ordenes: ["Anura"]
 familias: ["Hylidae"]
 generos: ["Agalychnis"]
+especie: "callidryas"
 nombre_cientifico: "Agalychnis callidryas"
 nombre_comun: "Rana de hoja de ojos rojos"
 nombre_ingles: "Red-eyed Leaf Frog"

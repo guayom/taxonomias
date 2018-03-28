@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Ichneumonidae"]
 generos: ["Nomosphecia"]
+especie: "mexicana"
 nombre_cientifico: "Nomosphecia mexicana"
 nombre_comun: ""
 nombre_ingles: ""

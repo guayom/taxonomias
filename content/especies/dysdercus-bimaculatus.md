@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Pyrrhocoridae"]
 generos: ["Dysdercus"]
+especie: "bimaculatus"
 nombre_cientifico: "Dysdercus bimaculatus"
 nombre_comun: "Bichos de algodón rojo"
 nombre_ingles: "Cotton stainers"

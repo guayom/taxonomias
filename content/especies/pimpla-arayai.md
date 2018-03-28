@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Ichneumonidae"]
 generos: ["Pimpla"]
+especie: "arayai"
 nombre_cientifico: "Pimpla arayai"
 nombre_comun: ""
 nombre_ingles: ""

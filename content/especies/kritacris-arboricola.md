@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Orthoptera"]
 familias: ["Acrididae"]
 generos: ["Kritacris"]
+especie: "arboricola"
 nombre_cientifico: "Kritacris arboricola"
 nombre_comun: ""
 nombre_ingles: ""

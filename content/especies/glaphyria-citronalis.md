@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Crambidae"]
 generos: ["Glaphyria"]
+especie: "citronalis"
 nombre_cientifico: "Glaphyria citronalis"
 nombre_comun: ""
 nombre_ingles: ""

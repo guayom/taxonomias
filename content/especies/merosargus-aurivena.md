@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Diptera"]
 familias: ["Stratiomyidae"]
 generos: ["Merosargus"]
+especie: "aurivena"
 nombre_cientifico: "Merosargus aurivena"
 nombre_comun: ""
 nombre_ingles: ""

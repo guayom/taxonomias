@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["﻿Trichoptera"]
 familias: ["Glossosomatidae"]
 generos: ["Mexitrichia"]
+especie: "meralda"
 nombre_cientifico: "Mexitrichia meralda"
 nombre_comun: ""
 nombre_ingles: ""

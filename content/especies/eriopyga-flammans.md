@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Noctuidae"]
 generos: ["Eriopyga"]
+especie: "flammans"
 nombre_cientifico: "Eriopyga flammans"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Scarabaeidae"]
 generos: ["Plusiotis"]
+especie: "clypealis"
 nombre_cientifico: "Plusiotis clypealis"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Chrysomelidae"]
 generos: ["Stolas"]
+especie: "illustris"
 nombre_cientifico: "Stolas illustris"
 nombre_comun: ""
 nombre_ingles: ""

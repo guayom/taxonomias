@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Diptera"]
 familias: ["Tephritidae"]
 generos: ["Molynocoelia"]
+especie: "lutea"
 nombre_cientifico: "Molynocoelia lutea"
 nombre_comun: ""
 nombre_ingles: ""

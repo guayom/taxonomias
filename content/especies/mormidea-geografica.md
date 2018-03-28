@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Pentatomidae"]
 generos: ["Mormidea"]
+especie: "geografica"
 nombre_cientifico: "Mormidea geografica"
 nombre_comun: ""
 nombre_ingles: ""

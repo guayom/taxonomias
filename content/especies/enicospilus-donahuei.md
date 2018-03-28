@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Ichneumonidae"]
 generos: ["Enicospilus"]
+especie: "donahuei"
 nombre_cientifico: "Enicospilus donahuei"
 nombre_comun: ""
 nombre_ingles: ""

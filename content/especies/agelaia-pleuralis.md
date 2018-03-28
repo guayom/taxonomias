@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Vespidae"]
 generos: ["Agelaia"]
+especie: "pleuralis"
 nombre_cientifico: "Agelaia pleuralis"
 nombre_comun: ""
 nombre_ingles: ""

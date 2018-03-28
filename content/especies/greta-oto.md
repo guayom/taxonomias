@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Greta"]
+especie: "oto"
 nombre_cientifico: "Greta oto"
 nombre_comun: "Espejito"
 nombre_ingles: "Glasswing"

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Dione"]
+especie: "moneta"
 nombre_cientifico: "Dione moneta"
 nombre_comun: "Pasionaria Mexicana"
 nombre_ingles: "Mexican silverspot"

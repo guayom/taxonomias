@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hemiptera"]
 familias: ["Cixiidae"]
 generos: ["Bothriocera"]
+especie: "maculata"
 nombre_cientifico: "Bothriocera maculata"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["﻿Trichoptera"]
 familias: ["Hydrobiosidae"]
 generos: ["Atopsyche"]
+especie: "majada"
 nombre_cientifico: "Atopsyche majada"
 nombre_comun: ""
 nombre_ingles: ""

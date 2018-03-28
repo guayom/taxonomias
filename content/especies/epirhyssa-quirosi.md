@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Ichneumonidae"]
 generos: ["Epirhyssa"]
+especie: "quirosi"
 nombre_cientifico: "Epirhyssa quirosi"
 nombre_comun: ""
 nombre_ingles: ""

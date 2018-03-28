@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Nymphalidae"]
 generos: ["Danaus"]
+especie: "plexippus"
 nombre_cientifico: "Danaus plexippus"
 nombre_comun: "Monarca"
 nombre_ingles: "Monarch butterfly"

@@ -32,7 +32,7 @@ fs.readFile(inputFile, 'utf8', function (err, data) {
         var body = fs.readFileSync(targetFile).toString().split('\n')
         body.splice(10, 0, speciessString);
         var output = body.join('\n');
-        console.log(output)
+        fs.writeFileSync(targetFile, output);
       } else {
         fs.appendFile('./import/errors.txt', `File no existe: ${filename}\n`, function (err) {
           if (err) throw err;

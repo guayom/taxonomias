@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Homoptera"]
 familias: ["Cicadellidae"]
 generos: ["Schildola"]
+especie: "bivirga"
 nombre_cientifico: "Schildola bivirga"
 nombre_comun: ""
 nombre_ingles: ""

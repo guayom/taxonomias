@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Saturniidae"]
 generos: ["Xanthodirphia"]
+especie: "abbreviata"
 nombre_cientifico: "Xanthodirphia abbreviata"
 nombre_comun: ""
 nombre_ingles: ""

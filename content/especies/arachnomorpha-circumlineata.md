@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Curculionidae"]
 generos: ["Arachnomorpha"]
+especie: "circumlineata"
 nombre_cientifico: "Arachnomorpha circumlineata"
 nombre_comun: ""
 nombre_ingles: ""

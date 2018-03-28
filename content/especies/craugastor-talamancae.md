@@ -8,6 +8,7 @@ clases: ["Amphibia"]
 ordenes: ["Anura"]
 familias: ["Craugastoridae"]
 generos: ["Craugastor"]
+especie: "talamancae"
 nombre_cientifico: "Craugastor talamancae"
 nombre_comun: "Rana de lluvia de Talamanca"
 nombre_ingles: "Talamanca Rain Frog"

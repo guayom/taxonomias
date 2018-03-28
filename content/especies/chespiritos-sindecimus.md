@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Diptera"]
 familias: ["Sphaeroceridae"]
 generos: ["Chespiritos"]
+especie: "sindecimus"
 nombre_cientifico: "Chespiritos sindecimus"
 nombre_comun: ""
 nombre_ingles: ""

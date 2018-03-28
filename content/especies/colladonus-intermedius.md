@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Homoptera"]
 familias: ["Cicadellidae"]
 generos: ["Colladonus"]
+especie: "intermedius"
 nombre_cientifico: "Colladonus intermedius"
 nombre_comun: ""
 nombre_ingles: ""

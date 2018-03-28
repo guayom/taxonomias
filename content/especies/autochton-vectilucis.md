@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Hesperiidae"]
 generos: ["Autochton"]
+especie: "vectilucis"
 nombre_cientifico: "Autochton  vectilucis"
 nombre_comun: ""
 nombre_ingles: "Central American Banded-Skipper"

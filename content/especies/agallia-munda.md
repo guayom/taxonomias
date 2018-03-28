@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Homoptera"]
 familias: ["Cicadellidae"]
 generos: ["Agallia"]
+especie: "munda"
 nombre_cientifico: "Agallia munda"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Diptera"]
 familias: ["Tachinidae"]
 generos: ["Adejeania"]
+especie: "vexatrix"
 nombre_cientifico: "Adejeania vexatrix"
 nombre_comun: ""
 nombre_ingles: ""

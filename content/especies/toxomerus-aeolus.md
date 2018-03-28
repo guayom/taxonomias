@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Diptera"]
 familias: ["Syrphidae"]
 generos: ["Toxomerus"]
+especie: "aeolus"
 nombre_cientifico: "Toxomerus aeolus"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Amphibia"]
 ordenes: ["Anura"]
 familias: ["Dendrobatidae"]
 generos: ["Oophaga"]
+especie: "pumilio"
 nombre_cientifico: "Oophaga pumilio"
 nombre_comun: "Ranita venenosa roja"
 nombre_ingles: "Blue Jeans poison dart frog"

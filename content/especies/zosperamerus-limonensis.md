@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Orthoptera"]
 familias: ["Acrididae"]
 generos: ["Zosperamerus"]
+especie: "limonensis"
 nombre_cientifico: "Zosperamerus limonensis"
 nombre_comun: ""
 nombre_ingles: ""

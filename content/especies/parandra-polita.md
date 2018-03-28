@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Cerambycidae"]
 generos: ["Parandra"]
+especie: "polita"
 nombre_cientifico: "Parandra polita"
 nombre_comun: ""
 nombre_ingles: ""

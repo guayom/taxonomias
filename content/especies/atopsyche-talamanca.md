@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["﻿Trichoptera"]
 familias: ["Hydrobiosidae"]
 generos: ["Atopsyche"]
+especie: "talamanca"
 nombre_cientifico: "Atopsyche talamanca"
 nombre_comun: ""
 nombre_ingles: ""

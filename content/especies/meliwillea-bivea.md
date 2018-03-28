@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Hymenoptera"]
 familias: ["Apidae"]
 generos: ["Meliwillea"]
+especie: "bivea"
 nombre_cientifico: "Meliwillea bivea"
 nombre_comun: ""
 nombre_ingles: ""

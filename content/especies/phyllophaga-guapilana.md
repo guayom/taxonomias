@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Scarabaeidae"]
 generos: ["Phyllophaga"]
+especie: "guapilana"
 nombre_cientifico: "Phyllophaga guapilana"
 nombre_comun: ""
 nombre_ingles: ""

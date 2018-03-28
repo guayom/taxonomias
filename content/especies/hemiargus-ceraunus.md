@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Lycaenidae"]
 generos: ["Hemiargus"]
+especie: "ceraunus"
 nombre_cientifico: "Hemiargus  ceraunus"
 nombre_comun: ""
 nombre_ingles: "Ceraunus Blue"

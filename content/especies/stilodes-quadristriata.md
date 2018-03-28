@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Chrysomelidae"]
 generos: ["Stilodes"]
+especie: "quadristriata"
 nombre_cientifico: "Stilodes quadristriata"
 nombre_comun: ""
 nombre_ingles: ""

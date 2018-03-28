@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Cerambycidae"]
 generos: ["Strangalia"]
+especie: "belti"
 nombre_cientifico: "Strangalia belti"
 nombre_comun: ""
 nombre_ingles: ""

@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Curculionidae"]
 generos: ["Tyloderma"]
+especie: "circumcaribbeum"
 nombre_cientifico: "Tyloderma circumcaribbeum"
 nombre_comun: ""
 nombre_ingles: ""

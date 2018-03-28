@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Odonata"]
 familias: ["libellulidae"]
 generos: ["Micrathyria"]
+especie: "didyma"
 nombre_cientifico: "Micrathyria didyma"
 nombre_comun: ""
 nombre_ingles: ""

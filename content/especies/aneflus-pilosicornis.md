@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Coleoptera"]
 familias: ["Cerambycidae"]
 generos: ["Aneflus"]
+especie: "pilosicornis"
 nombre_cientifico: "Aneflus pilosicornis"
 nombre_comun: ""
 nombre_ingles: ""

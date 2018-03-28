@@ -8,6 +8,7 @@ clases: ["Insecta"]
 ordenes: ["Lepidoptera"]
 familias: ["Crambidae"]
 generos: ["Palpita"]
+especie: "vitrealis"
 nombre_cientifico: "Palpita vitrealis"
 nombre_comun: "Polilla del jazmín"
 nombre_ingles: "jasmine moth"
