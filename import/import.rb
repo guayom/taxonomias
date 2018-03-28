@@ -32,26 +32,30 @@ FileUtils::mkdir_p "content/especies/"
 # 12 Otros nombres
 # 13 Garrigues
 
-CSV.foreach('import/data-2018-03-26.csv') do |especie|
-  File.open("content/especies/#{especie[0].parameterize}.md", "w+") do |file|
-    file.write("---\n")
-    file.write("title: \"#{especie[10]}\"\n")
-    file.write("date: 2018-03-26T20:00:00-00:00\n")
-    file.write("draft: false\n")
-    file.write("reinos: [\"#{especie[1]}\"]\n")
-    file.write("divisiones: [\"#{especie[2]}\"]\n")
-    file.write("clases: [\"#{especie[3]}\"]\n")
-    file.write("ordenes: [\"#{especie[4]}\"]\n")
-    file.write("familias: [\"#{especie[5]}\"]\n")
-    file.write("generos: [\"#{especie[6]}\"]\n")
-    file.write("nombre_cientifico: \"#{especie[0]}\"\n")
-    file.write("nombre_comun: \"#{especie[8]}\"\n")
-    file.write("nombre_ingles: \"#{especie[9]}\"\n")
-    file.write("otros_nombres: \"#{especie[12]}\"\n")
-    file.write("garrigues: \"#{especie[13]}\"\n")
-    file.write("vista: true\n")
-    file.write("los_cielos: true\n")
-    file.write("---\n")
+CSV.foreach('import/data.csv') do |especie|
+  $filename = "content/especies/#{especie[7].parameterize}.md"
+  unless File.file?($filename) 
+    File.open($filename, "w+") do |file|
+      file.write("---\n")
+      file.write("title: \"#{especie[0]}, #{especie[9]}, #{especie[8]}\"\n")
+      file.write("date: 2018-03-26T20:00:00-00:00\n")
+      file.write("draft: false\n")
+      file.write("reinos: [\"#{especie[0]}\"]\n")
+      file.write("divisiones: [\"#{especie[1]}\"]\n")
+      file.write("clases: [\"#{especie[2]}\"]\n")
+      file.write("ordenes: [\"#{especie[3]}\"]\n")
+      file.write("familias: [\"#{especie[4]}\"]\n")
+      file.write("generos: [\"#{especie[5]}\"]\n")
+      file.write("especie: \"#{especie[6]}\"\n")
+      file.write("nombre_cientifico: \"#{especie[7]}\"\n")
+      file.write("nombre_comun: \"#{especie[8]}\"\n")
+      file.write("nombre_ingles: \"#{especie[9]}\"\n")
+      # file.write("otros_nombres: \"#{especie[12]}\"\n")
+      # file.write("garrigues: \"#{especie[13]}\"\n")
+      # file.write("vista: true\n")
+      # file.write("los_cielos: true\n")
+      file.write("---\n")
+    end
+    pp especie[7].parameterize
   end
-  pp especie[0]
 end
