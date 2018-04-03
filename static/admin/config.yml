@@ -23,6 +23,7 @@ collections:
       - {label: "Órden", name: "ordenes", widget: "list", required: false}
       - {label: "Familia", name: "familias", widget: "list", required: false}
       - {label: "Género", name: "generos", widget: "list", required: false}
+      - {label: "Especie", name: "especie", widget: "string", required: false}
       - {label: "Nombre común", name: "nombre_comun", widget: "string", required: false}
       - {label: "Nombre inglés", name: "nombre_ingles", widget: "string", required: false}
       - {label: "Otros nombres", name: "otros_nombres", widget: "list", required: false}
