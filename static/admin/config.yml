@@ -15,7 +15,6 @@ collections:
     editor:
       preview: false
     fields: # The fields for each document, usually in front matter
-      - {label: "Título", name: "title", widget: "string"}
       - {label: "Nombre científico", name: "nombre_cientifico", widget: "string", required: false}
       - {label: "Reino", name: "reinos", widget: "list", required: false}
       - {label: "División", name: "divisiones", widget: "list", required: false}
@@ -27,6 +26,7 @@ collections:
       - {label: "Nombre común", name: "nombre_comun", widget: "string", required: false}
       - {label: "Nombre inglés", name: "nombre_ingles", widget: "string", required: false}
       - {label: "Otros nombres", name: "otros_nombres", widget: "list", required: false}
+      - {label: "Título", name: "title", widget: "string"}
       - {label: "Links", name: "links", widget: "string", required: false}
       # - {label: "Notas", name: "notas", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
