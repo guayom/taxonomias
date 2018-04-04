@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Cantorchilus Cantorchilus semibadius, Riverside Wren, Soterrey Pechibarreteado
+nombre_cientifico: Cantorchilus semibadius
 reinos:
   - Animalia
 divisiones:
@@ -12,9 +12,9 @@ familias:
   - Troglodytidae
 generos:
   - Cantorchilus
-title: semibadius
 nombre_comun: Soterrey Pechibarreteado
 nombre_ingles: Riverside Wren
+title: 'Cantorchilus semibadius, Riverside Wren, Soterrey Pechibarreteado'
 links: 'https://flic.kr/p/C5iLw9'
 images:
   - url: 'https://flic.kr/p/C5iLw9'
