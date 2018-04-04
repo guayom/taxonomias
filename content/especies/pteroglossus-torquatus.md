@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Pteroglossus Pteroglossus torquatus, Collared Aracari, Tucancillo Collarejo
+nombre_cientifico: Pteroglossus torquatus
 reinos:
   - Animalia
 divisiones:
@@ -12,13 +12,14 @@ familias:
   - Ramphastidae
 generos:
   - Pteroglossus
-title: torquatus
+especie: torquatus
 nombre_comun: Tucancillo Collarejo
 nombre_ingles: Collared Aracari
 otros_nombres:
   - Cusingo
   - Tití
   - Félix
+title: 'Pteroglossus torquatus, Collared Aracari, Tucancillo Collarejo'
 draft: 'false'
 date: 2018-02-18T19:13:25.718Z
 ---
