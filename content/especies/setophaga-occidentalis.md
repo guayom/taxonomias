@@ -1,14 +1,22 @@
 ---
-title: "Setophaga occidentalis, Hermit Warbler, Reinita Cabecigualda"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Setophaga occidentalis
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Parulidae '
+generos:
+  - Setophaga
+especie: occidentalis
+nombre_comun: Reinita Cabecigualda
+nombre_ingles: Hermit Warbler
+title: 'Setophaga occidentalis, Hermit Warbler, Reinita Cabecigualda'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Parulidae "]
-generos: ["Setophaga"]
-nombre_cientifico: "Setophaga occidentalis"
-nombre_comun: "Reinita Cabecigualda"
-nombre_ingles: "Hermit Warbler"
+date: 2017-08-19T02:46:32.000Z
 ---
+
