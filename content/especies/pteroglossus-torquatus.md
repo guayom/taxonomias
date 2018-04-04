@@ -13,10 +13,7 @@ familias:
 generos:
   - Pteroglossus
 especie: torquatus
-<<<<<<< HEAD
 title: Pteroglossus torquatus, Collared Aracari, Tucancillo Collarejo
-=======
->>>>>>> d6f778c00624ae28c77a776b5c6d6f957acd377a
 nombre_comun: Tucancillo Collarejo
 nombre_ingles: Collared Aracari
 otros_nombres:
