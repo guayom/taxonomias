@@ -19,7 +19,7 @@ otros_nombres:
   - Garzón
   - Guairón
   - Cigüeña
-title: americana
+title: 'Mycteria Mycteria americana, Wood Stork, Cigüeñón'
 links: 'https://flic.kr/p/qBpzoL'
 images:
   - url: 'https://flic.kr/p/qBpzoL'
