@@ -1,5 +1,6 @@
 ---
-nombre_cientifico: Alouatta Alouatta palliata, Mantled howler, Mono aullador
+nombre_cientifico: Alouatta palliata
+title: Alouatta palliata, Mantled howler, Mono aullador
 reinos:
   - Animalia
 divisiones:
@@ -12,7 +13,7 @@ familias:
   - Atelidae
 generos:
   - Alouatta
-title: palliata
+especie: palliata
 nombre_comun: Mono aullador
 nombre_ingles: Mantled howler
 otros_nombres:

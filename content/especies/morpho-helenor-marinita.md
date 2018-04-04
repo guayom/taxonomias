@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: MorphoMorpho helenor marinita, Peleides blue morpho, morfo azul, Celeste común
+nombre_cientifico: Morpho
 reinos:
   - Animalia
 divisiones:
@@ -12,7 +12,7 @@ familias:
   - Nymphalidae
 generos:
   - Morpho
-title: ' helenor marinita'
+title: 'Morpho helenor marinita, Peleides blue morpho, morfo azul, Celeste común'
 nombre_comun: 'morfo azul, Celeste común'
 nombre_ingles: Peleides blue morpho
 otros_nombres:

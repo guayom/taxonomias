@@ -1,5 +1,6 @@
 ---
-nombre_cientifico: Oncidium Oncidium stenotis, null, Orquídea
+nombre_cientifico: Oncidium stenotis
+title: Oncidium stenotis, null, Orquídea
 reinos:
   - Plantae
 divisiones:
@@ -12,7 +13,7 @@ familias:
   - Orchidaceae
 generos:
   - Oncidium
-title: stenotis
+especie: stenotis
 nombre_comun: Orquídea
 nombre_ingles: null
 otros_nombres: null

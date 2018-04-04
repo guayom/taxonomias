@@ -1,5 +1,6 @@
 ---
-nombre_cientifico: Tayassu Tayassu tajacu, Peccary, Saino
+nombre_cientifico: Tayassu tajacu
+title: Tayassu tajacu, Peccary, Saino
 reinos:
   - Animalia
 divisiones:
@@ -12,7 +13,6 @@ familias:
   - Tayassuidae
 generos:
   - Tayassu
-title: tajacu
 nombre_comun: Saino
 nombre_ingles: Peccary
 otros_nombres:

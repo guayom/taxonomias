@@ -1,5 +1,6 @@
 ---
-nombre_cientifico: Papilio Papilio polyxenes stabilis, Costa Rican Black Swallowtail, undefined
+nombre_cientifico: polyxenes stabilis 
+title: Papilio polyxenes stabilis, Costa Rican Black Swallowtail, undefined
 reinos:
   - Animalia
 divisiones:
@@ -12,7 +13,7 @@ familias:
   - Papilionidae
 generos:
   - Papilio
-title: polyxenes stabilis
+especie: polyxenes stabilis
 nombre_ingles: Costa Rican Black Swallowtail
 links: >-
   https://www.flickr.com/photos/eduardomena/albums/72157667840178261/with/32252193644/

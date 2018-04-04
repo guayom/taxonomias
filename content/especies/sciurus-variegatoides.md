@@ -1,5 +1,5 @@
 ---
-nombre_cientifico: Sciurus Sciurus variegatoides, Variegated squirrel, Ardilla
+nombre_cientifico: Sciurus carolinensis
 reinos:
   - Animalia
 divisiones:
@@ -12,7 +12,8 @@ familias:
   - Sciuridae
 generos:
   - Sciurus
-title: variegatoides
+especie: carolinensis
+title: Sciurus variegatoides, Variegated squirrel, Ardilla
 nombre_comun: Ardilla
 nombre_ingles: Variegated squirrel
 otros_nombres:

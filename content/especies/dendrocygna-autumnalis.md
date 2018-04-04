@@ -1,5 +1,6 @@
 ---
-nombre_cientifico: Dendrocygna Dendrocygna autumnalis, Black-bellied Whistling-Duck, Pijije Común
+nombre_cientifico: Dendrocygna autumnalis
+title: Dendrocygna autumnalis, Black-bellied Whistling-Duck, Pijije Común
 reinos:
   - Animalia
 divisiones:
@@ -12,7 +13,7 @@ familias:
   - Anatidae
 generos:
   - Dendrocygna
-title: autumnalis
+especie: autumnalis
 nombre_comun: Pijije Común
 nombre_ingles: Black-bellied Whistling-Duck
 otros_nombres:

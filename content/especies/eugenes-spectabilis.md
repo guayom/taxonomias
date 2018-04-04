@@ -1,5 +1,6 @@
 ---
-nombre_cientifico: Eugenes Eugenes spectabilis, Magnificent Hummingbird, Colibrí Magnífico
+nombre_cientifico: Eugenes spectabilis
+title: Eugenes spectabilis, Magnificent Hummingbird, Colibrí Magnífico
 reinos:
   - Animalia
 divisiones:
@@ -12,7 +13,7 @@ familias:
   - Trochilidae
 generos:
   - Eugenes
-title: spectabilis
+specie: spectabilis
 nombre_comun: Colibrí Magnífico
 nombre_ingles: Magnificent Hummingbird
 draft: 'false'

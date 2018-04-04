@@ -1,5 +1,6 @@
 ---
-nombre_cientifico: Caluromys Caluromys derbianus, Derby's woolly opossum, Zarigüeya lanuda centroamericana
+nombre_cientifico: Caluromys derbianus
+title: Caluromys derbianus, Derby's woolly opossum, Zarigüeya lanuda centroamericana
 reinos:
   - Animalia
 divisiones:
@@ -12,7 +13,7 @@ familias:
   - Didelphidae
 generos:
   - Caluromys
-title: derbianus
+especie: derbianus
 nombre_comun: Zarigüeya lanuda centroamericana
 nombre_ingles: Derby's woolly opossum
 otros_nombres:

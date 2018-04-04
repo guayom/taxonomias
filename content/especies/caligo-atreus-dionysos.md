@@ -1,5 +1,6 @@
 ---
-nombre_cientifico: Caligo Caligo atreus dionysos, Caligo Owl Butterfly, undefined
+nombre_cientifico: Caligo dionysos
+title: Caligo atreus dionysos, Caligo Owl Butterfly, undefined
 reinos:
   - Animalia
 divisiones:
@@ -12,7 +13,7 @@ familias:
   - Nymphalidae
 generos:
   - Caligo
-title: atreus dionysos
+especie: atreus dionysos
 nombre_ingles: Caligo Owl Butterfly
 links: >-
   https://www.flickr.com/photos/eduardomena/albums/72157667840178261/with/32252193644/

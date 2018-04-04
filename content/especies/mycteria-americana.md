@@ -1,5 +1,6 @@
 ---
-nombre_cientifico: Mycteria Mycteria americana, Wood Stork, Cigüeñón
+nombre_cientifico: Mycteria americana
+title: Mycteria americana, Wood Stork, Cigüeñón
 reinos:
   - Animalia
 divisiones:
@@ -12,7 +13,7 @@ familias:
   - Ciconiidae
 generos:
   - Mycteria
-title: americana
+especie: americana
 nombre_comun: Cigüeñón
 nombre_ingles: Wood Stork
 otros_nombres:

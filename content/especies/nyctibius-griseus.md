@@ -1,5 +1,6 @@
 ---
-nombre_cientifico: Nyctibius Nyctibius griseus, Common Potoo, Nictibio Común
+nombre_cientifico: Nyctibius griseus 
+title: Nyctibius griseus, Common Potoo, Nictibio Común
 reinos:
   - Animalia
 divisiones:
@@ -12,7 +13,7 @@ familias:
   - Nyctibiidae
 generos:
   - Nyctibius
-title: griseus
+especie: griseus
 nombre_comun: Nictibio Común
 nombre_ingles: Common Potoo
 otros_nombres:

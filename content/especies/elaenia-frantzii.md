@@ -1,5 +1,6 @@
 ---
-nombre_cientifico: Elaenia Elaenia frantzii, Mountain Elaenia, Elainia Montañera
+nombre_cientifico: Elaenia frantzii
+title: Elaenia frantzii, Mountain Elaenia, Elainia Montañera
 reinos:
   - Animalia
 divisiones:
@@ -12,7 +13,7 @@ familias:
   - Tyrannidae
 generos:
   - Elaenia
-title: frantzii
+especie: frantzii
 nombre_comun: Elainia Montañera
 nombre_ingles: Mountain Elaenia
 otros_nombres:

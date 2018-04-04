@@ -1,5 +1,6 @@
 ---
-nombre_cientifico: Basiliscus Basiliscus plumifrons, Green basilisk, Basilisco verde
+nombre_cientifico: Basiliscus plumifrons
+title: Basiliscus plumifrons, Green basilisk, Basilisco verde
 reinos:
   - Animalia
 divisiones:
@@ -12,7 +13,7 @@ familias:
   - Corytophanidae
 generos:
   - Basiliscus
-title: plumifrons
+especie: plumifrons
 nombre_comun: Basilisco verde
 nombre_ingles: Green basilisk
 otros_nombres:

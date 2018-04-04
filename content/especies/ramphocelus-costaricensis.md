@@ -1,5 +1,6 @@
 ---
-nombre_cientifico: Ramphocelus Ramphocelus costaricensis, Cherries's Tanager, Sargento
+nombre_cientifico: Ramphocelus costaricensis
+title: Ramphocelus costaricensis, Cherries's Tanager, Sargento
 reinos:
   - Animalia
 divisiones:
@@ -12,7 +13,7 @@ familias:
   - Thraupida
 generos:
   - Ramphocelus
-title: costaricensis
+especie: costaricensis
 nombre_comun: Sargento
 nombre_ingles: Cherries's Tanager
 links: 'https://flic.kr/p/mw2sHc'
