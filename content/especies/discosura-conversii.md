@@ -1,14 +1,22 @@
 ---
-title: "Discosura conversii, Green Thorntail, Colibrí Colicerda Verde"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Discosura conversii
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Apodiformes
+familias:
+  - 'Trochilidae '
+generos:
+  - Discosura
+especie: conversii
+nombre_comun: Colibrí Colicerda Verde
+nombre_ingles: Green Thorntail
+title: 'Discosura conversii, Green Thorntail, Colibrí Colicerda Verde'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Apodiformes"]
-familias: ["Trochilidae "]
-generos: ["Discosura"]
-nombre_cientifico: "Discosura conversii"
-nombre_comun: "Colibrí Colicerda Verde"
-nombre_ingles: "Green Thorntail"
+date: 2017-08-19T02:46:32.000Z
 ---
+
