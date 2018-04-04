@@ -13,13 +13,14 @@ familias:
   - Ciconiidae
 generos:
   - Mycteria
-especie: americana
+especie: Americana
 nombre_comun: Cigüeñón
 nombre_ingles: Wood Stork
 otros_nombres:
   - Garzón
   - Guairón
   - Cigüeña
+title: 'Mycteria Mycteria americana, Wood Stork, Cigüeñón'
 links: 'https://flic.kr/p/qBpzoL'
 images:
   - url: 'https://flic.kr/p/qBpzoL'

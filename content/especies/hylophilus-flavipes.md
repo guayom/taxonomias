@@ -1,14 +1,22 @@
 ---
-title: "Hylophilus flavipes, Scrub Greenlet, Verdillo Matorralero"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Hylophilus flavipes
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Vireonidae '
+generos:
+  - Hylophilus
+especie: flavipes
+nombre_comun: Verdillo Matorralero
+nombre_ingles: Scrub Greenlet
+title: 'Hylophilus flavipes, Scrub Greenlet, Verdillo Matorralero'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Vireonidae "]
-generos: ["Hylophilus"]
-nombre_cientifico: "Hylophilus flavipes"
-nombre_comun: "Verdillo Matorralero"
-nombre_ingles: "Scrub Greenlet"
+date: 2017-08-19T02:46:32.000Z
 ---
+
