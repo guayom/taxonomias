@@ -1,14 +1,22 @@
 ---
-title: "Ardenna grisea, Sooty Shearwater, Pardela Sombría"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Ardenna grisea
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Procellariiformes
+familias:
+  - 'Procellariidae '
+generos:
+  - Ardenna
+especie: grisea
+nombre_comun: Pardela Sombría
+nombre_ingles: Sooty Shearwater
+title: 'Ardenna grisea, Sooty Shearwater, Pardela Sombría'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Procellariiformes"]
-familias: ["Procellariidae "]
-generos: ["Ardenna"]
-nombre_cientifico: "Ardenna grisea"
-nombre_comun: "Pardela Sombría"
-nombre_ingles: "Sooty Shearwater"
+date: 2017-08-19T02:46:32.000Z
 ---
+
