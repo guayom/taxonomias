@@ -1,14 +1,22 @@
 ---
-title: "Archilochus colubris, Ruby-throated Hummingbird, Colibrí Garganta de Rubí"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Archilochus colubris
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Apodiformes
+familias:
+  - 'Trochilidae '
+generos:
+  - Archilochus
+especie: colubris
+nombre_comun: Colibrí Garganta de Rubí
+nombre_ingles: Ruby-throated Hummingbird
+title: 'Archilochus colubris, Ruby-throated Hummingbird, Colibrí Garganta de Rubí'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Apodiformes"]
-familias: ["Trochilidae "]
-generos: ["Archilochus"]
-nombre_cientifico: "Archilochus colubris"
-nombre_comun: "Colibrí Garganta de Rubí"
-nombre_ingles: "Ruby-throated Hummingbird"
+date: 2017-08-19T02:46:32.000Z
 ---
+
