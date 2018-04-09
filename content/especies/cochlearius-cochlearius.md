@@ -1,14 +1,22 @@
 ---
-title: "Cochlearius cochlearius, Boat-billed Heron, Pico Cuchara "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Cochlearius cochlearius
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Pelecaniformes
+familias:
+  - 'Ardeidae '
+generos:
+  - Cochlearius
+especie: 'cochlearius '
+nombre_comun: 'Pico Cuchara '
+nombre_ingles: Boat-billed Heron
+title: 'Cochlearius cochlearius, Boat-billed Heron, Pico Cuchara '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Pelecaniformes"]
-familias: ["Ardeidae "]
-generos: ["Cochlearius"]
-nombre_cientifico: "Cochlearius cochlearius"
-nombre_comun: "Pico Cuchara "
-nombre_ingles: "Boat-billed Heron"
+date: 2017-08-19T02:46:32.000Z
 ---
+
