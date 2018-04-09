@@ -1,14 +1,22 @@
 ---
-title: "Chlorophonia callophrys, Golden-browed Chlorophonia, Clorofonia Cejidorada "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Chlorophonia callophrys
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Fringillidae '
+generos:
+  - Chlorophonia
+especie: 'callophrys '
+nombre_comun: 'Clorofonia Cejidorada '
+nombre_ingles: Golden-browed Chlorophonia
+title: 'Chlorophonia callophrys, Golden-browed Chlorophonia, Clorofonia Cejidorada '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Fringillidae "]
-generos: ["Chlorophonia"]
-nombre_cientifico: "Chlorophonia callophrys"
-nombre_comun: "Clorofonia Cejidorada "
-nombre_ingles: "Golden-browed Chlorophonia"
+date: 2017-08-19T02:46:32.000Z
 ---
+
