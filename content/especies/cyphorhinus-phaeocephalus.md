@@ -1,14 +1,22 @@
 ---
-title: "Cyphorhinus phaeocephalus, Song Wren, Soterrey Canoro"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Cyphorhinus phaeocephalus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Troglodytidae '
+generos:
+  - Cyphorhinus
+especie: 'phaeocephalus '
+nombre_comun: Soterrey Canoro
+nombre_ingles: Song Wren
+title: 'Cyphorhinus phaeocephalus, Song Wren, Soterrey Canoro'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Troglodytidae "]
-generos: ["Cyphorhinus"]
-nombre_cientifico: "Cyphorhinus phaeocephalus"
-nombre_comun: "Soterrey Canoro"
-nombre_ingles: "Song Wren"
+date: 2017-08-19T02:46:32.000Z
 ---
+
