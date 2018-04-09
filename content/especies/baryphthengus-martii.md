@@ -1,14 +1,22 @@
 ---
-title: "Baryphthengus martii, Rufous Motmot, Momoto Canelo Mayor "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Baryphthengus martii
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Coraciiformes
+familias:
+  - 'Momotidae '
+generos:
+  - Baryphthengus
+especie: martii
+nombre_comun: 'Momoto Canelo Mayor '
+nombre_ingles: Rufous Motmot
+title: 'Baryphthengus martii, Rufous Motmot, Momoto Canelo Mayor '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Coraciiformes"]
-familias: ["Momotidae "]
-generos: ["Baryphthengus"]
-nombre_cientifico: "Baryphthengus martii"
-nombre_comun: "Momoto Canelo Mayor "
-nombre_ingles: "Rufous Motmot"
+date: 2017-08-19T02:46:32.000Z
 ---
+
