@@ -1,14 +1,22 @@
 ---
-title: "Charadrius nivosus, Snowy Plover, Chorlitejo Patinegro "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Charadrius nivosus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Charadriiformes
+familias:
+  - 'Charadriidae '
+generos:
+  - Charadrius
+especie: nivosus
+nombre_comun: 'Chorlitejo Patinegro '
+nombre_ingles: Snowy Plover
+title: 'Charadrius nivosus, Snowy Plover, Chorlitejo Patinegro '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Charadriiformes"]
-familias: ["Charadriidae "]
-generos: ["Charadrius"]
-nombre_cientifico: "Charadrius nivosus"
-nombre_comun: "Chorlitejo Patinegro "
-nombre_ingles: "Snowy Plover"
+date: 2017-08-19T02:46:32.000Z
 ---
+
