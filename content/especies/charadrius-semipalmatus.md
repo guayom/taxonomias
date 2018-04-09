@@ -1,14 +1,22 @@
 ---
-title: "Charadrius semipalmatus, Semipalmated Plover, Chorlitejo Semipalmado "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Charadrius semipalmatus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Charadriiformes
+familias:
+  - 'Charadriidae '
+generos:
+  - Charadrius
+especie: semipalmatus
+nombre_comun: 'Chorlitejo Semipalmado '
+nombre_ingles: Semipalmated Plover
+title: 'Charadrius semipalmatus, Semipalmated Plover, Chorlitejo Semipalmado '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Charadriiformes"]
-familias: ["Charadriidae "]
-generos: ["Charadrius"]
-nombre_cientifico: "Charadrius semipalmatus"
-nombre_comun: "Chorlitejo Semipalmado "
-nombre_ingles: "Semipalmated Plover"
+date: 2017-08-19T02:46:32.000Z
 ---
+
