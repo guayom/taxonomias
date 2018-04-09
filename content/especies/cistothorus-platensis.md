@@ -1,14 +1,22 @@
 ---
-title: "Cistothorus platensis, Sedge Wren, Soterrey Sabanero "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Cistothorus platensis
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Troglodytidae '
+generos:
+  - Cistothorus
+especie: 'platensis '
+nombre_comun: 'Soterrey Sabanero '
+nombre_ingles: Sedge Wren
+title: 'Cistothorus platensis, Sedge Wren, Soterrey Sabanero '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Troglodytidae "]
-generos: ["Cistothorus"]
-nombre_cientifico: "Cistothorus platensis"
-nombre_comun: "Soterrey Sabanero "
-nombre_ingles: "Sedge Wren"
+date: 2017-08-19T02:46:32.000Z
 ---
+
