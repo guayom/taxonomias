@@ -1,14 +1,22 @@
 ---
-title: "Ciconia maguari, Maguari Stork, Cigüeña Maguari"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Ciconia maguari
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Ciconiiformes
+familias:
+  - 'Ciconiidae '
+generos:
+  - Ciconia
+especie: 'maguari '
+nombre_comun: Cigüeña Maguari
+nombre_ingles: Maguari Stork
+title: 'Ciconia maguari, Maguari Stork, Cigüeña Maguari'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Ciconiiformes"]
-familias: ["Ciconiidae "]
-generos: ["Ciconia"]
-nombre_cientifico: "Ciconia maguari"
-nombre_comun: "Cigüeña Maguari"
-nombre_ingles: "Maguari Stork"
+date: 2017-08-19T02:46:32.000Z
 ---
+
