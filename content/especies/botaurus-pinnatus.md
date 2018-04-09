@@ -1,14 +1,22 @@
 ---
-title: "Botaurus pinnatus, Pinnated Bittern, Avetoro Neotropical "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Botaurus pinnatus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Pelecaniformes
+familias:
+  - 'Ardeidae '
+generos:
+  - Botaurus
+especie: pinnatus
+nombre_comun: 'Avetoro Neotropical '
+nombre_ingles: Pinnated Bittern
+title: 'Botaurus pinnatus, Pinnated Bittern, Avetoro Neotropical '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Pelecaniformes"]
-familias: ["Ardeidae "]
-generos: ["Botaurus"]
-nombre_cientifico: "Botaurus pinnatus"
-nombre_comun: "Avetoro Neotropical "
-nombre_ingles: "Pinnated Bittern"
+date: 2017-08-19T02:46:32.000Z
 ---
+
