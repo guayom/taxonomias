@@ -1,14 +1,22 @@
 ---
-title: "Ardenna gravis, Great Shearwater, Pardela Mayor"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Ardenna gravis
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Procellariiformes
+familias:
+  - 'Procellariidae '
+generos:
+  - Ardenna
+especie: gravis
+nombre_comun: Pardela Mayor
+nombre_ingles: Great Shearwater
+title: 'Ardenna gravis, Great Shearwater, Pardela Mayor'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Procellariiformes"]
-familias: ["Procellariidae "]
-generos: ["Ardenna"]
-nombre_cientifico: "Ardenna gravis"
-nombre_comun: "Pardela Mayor"
-nombre_ingles: "Great Shearwater"
+date: 2017-08-19T02:46:32.000Z
 ---
+
