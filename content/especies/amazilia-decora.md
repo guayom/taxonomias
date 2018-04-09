@@ -1,14 +1,22 @@
 ---
-title: "Amazilia decora, Charming Hummingbird, Amazilia Corona de Berilo "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Amazilia decora
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Apodiformes
+familias:
+  - 'Trochilidae '
+generos:
+  - Amazilia
+especie: decora
+nombre_comun: 'Amazilia Corona de Berilo '
+nombre_ingles: Charming Hummingbird
+title: 'Amazilia decora, Charming Hummingbird, Amazilia Corona de Berilo '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Apodiformes"]
-familias: ["Trochilidae "]
-generos: ["Amazilia"]
-nombre_cientifico: "Amazilia decora"
-nombre_comun: "Amazilia Corona de Berilo "
-nombre_ingles: "Charming Hummingbird"
+date: 2017-08-19T02:46:32.000Z
 ---
+
