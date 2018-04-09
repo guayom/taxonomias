@@ -1,14 +1,22 @@
 ---
-title: "Catharus ustulatus, Swainson's Thrush, Zorzal de Swainson "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Catharus ustulatus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Turdidae '
+generos:
+  - Catharus
+especie: ustulatus
+nombre_comun: 'Zorzal de Swainson '
+nombre_ingles: Swainson's Thrush
+title: 'Catharus ustulatus, Swainson''s Thrush, Zorzal de Swainson '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Turdidae "]
-generos: ["Catharus"]
-nombre_cientifico: "Catharus ustulatus"
-nombre_comun: "Zorzal de Swainson "
-nombre_ingles: "Swainson's Thrush"
+date: 2017-08-19T02:46:32.000Z
 ---
+
