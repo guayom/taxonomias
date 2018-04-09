@@ -1,14 +1,22 @@
 ---
-title: "Buteo jamaicensis, Red-tailed Hawk, Gavilán Colirrojo "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Buteo jamaicensis
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Accipitriformes
+familias:
+  - 'Accipitridae '
+generos:
+  - Buteo
+especie: jamaicensis
+nombre_comun: 'Gavilán Colirrojo '
+nombre_ingles: Red-tailed Hawk
+title: 'Buteo jamaicensis, Red-tailed Hawk, Gavilán Colirrojo '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Accipitriformes"]
-familias: ["Accipitridae "]
-generos: ["Buteo"]
-nombre_cientifico: "Buteo jamaicensis"
-nombre_comun: "Gavilán Colirrojo "
-nombre_ingles: "Red-tailed Hawk"
+date: 2017-08-19T02:46:32.000Z
 ---
+
