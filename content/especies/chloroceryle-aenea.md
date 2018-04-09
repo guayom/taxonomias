@@ -1,14 +1,22 @@
 ---
-title: "Chloroceryle aenea, American Pygmy Kingfisher, Martín Pescador Enano"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Chloroceryle aenea
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Coraciiformes
+familias:
+  - 'Alcedinidae '
+generos:
+  - Chloroceryle
+especie: 'aenea '
+nombre_comun: Martín Pescador Enano
+nombre_ingles: American Pygmy Kingfisher
+title: 'Chloroceryle aenea, American Pygmy Kingfisher, Martín Pescador Enano'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Coraciiformes"]
-familias: ["Alcedinidae "]
-generos: ["Chloroceryle"]
-nombre_cientifico: "Chloroceryle aenea"
-nombre_comun: "Martín Pescador Enano"
-nombre_ingles: "American Pygmy Kingfisher"
+date: 2017-08-19T02:46:32.000Z
 ---
+
