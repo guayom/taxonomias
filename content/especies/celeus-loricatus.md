@@ -1,14 +1,22 @@
 ---
-title: "Celeus loricatus, Cinnamon Woodpecker, Carpintero Canelo"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Celeus loricatus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Piciformes
+familias:
+  - 'Picidae '
+generos:
+  - Celeus
+especie: loricatus
+nombre_comun: Carpintero Canelo
+nombre_ingles: Cinnamon Woodpecker
+title: 'Celeus loricatus, Cinnamon Woodpecker, Carpintero Canelo'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Piciformes"]
-familias: ["Picidae "]
-generos: ["Celeus"]
-nombre_cientifico: "Celeus loricatus"
-nombre_comun: "Carpintero Canelo"
-nombre_ingles: "Cinnamon Woodpecker"
+date: 2017-08-19T02:46:32.000Z
 ---
+
