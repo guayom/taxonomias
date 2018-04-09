@@ -1,14 +1,22 @@
 ---
-title: "Contopus lugubris, Dark Pewee, Pibí Sombrío "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Contopus lugubris
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Tyrannidae '
+generos:
+  - Contopus
+especie: 'lugubris '
+nombre_comun: 'Pibí Sombrío '
+nombre_ingles: Dark Pewee
+title: 'Contopus lugubris, Dark Pewee, Pibí Sombrío '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Tyrannidae "]
-generos: ["Contopus"]
-nombre_cientifico: "Contopus lugubris"
-nombre_comun: "Pibí Sombrío "
-nombre_ingles: "Dark Pewee"
+date: 2017-08-19T02:46:32.000Z
 ---
+
