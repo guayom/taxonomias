@@ -1,14 +1,22 @@
 ---
-title: "Aulacorhynchus prasinus, Emerald Toucanet, Tucancillo Verde "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Aulacorhynchus prasinus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Piciformes
+familias:
+  - 'Ramphastidae '
+generos:
+  - Aulacorhynchus
+especie: prasinus
+nombre_comun: 'Tucancillo Verde '
+nombre_ingles: Emerald Toucanet
+title: 'Aulacorhynchus prasinus, Emerald Toucanet, Tucancillo Verde '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Piciformes"]
-familias: ["Ramphastidae "]
-generos: ["Aulacorhynchus"]
-nombre_cientifico: "Aulacorhynchus prasinus"
-nombre_comun: "Tucancillo Verde "
-nombre_ingles: "Emerald Toucanet"
+date: 2017-08-19T02:46:32.000Z
 ---
+
