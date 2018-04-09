@@ -1,14 +1,22 @@
 ---
-title: "Carpodectes antoniae, Yellow-billed Cotinga, Cotinga Piquiamarillo"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Carpodectes antoniae
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Cotingidae '
+generos:
+  - Carpodectes
+especie: 'antoniae '
+nombre_comun: Cotinga Piquiamarillo
+nombre_ingles: Yellow-billed Cotinga
+title: 'Carpodectes antoniae, Yellow-billed Cotinga, Cotinga Piquiamarillo'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Cotingidae "]
-generos: ["Carpodectes"]
-nombre_cientifico: "Carpodectes antoniae"
-nombre_comun: "Cotinga Piquiamarillo"
-nombre_ingles: "Yellow-billed Cotinga"
+date: 2017-08-19T02:46:32.000Z
 ---
+
