@@ -1,14 +1,22 @@
 ---
-title: "Cypseloides cherriei, Spot-fronted Swift, Vencejo de Cherrie"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Cypseloides cherriei
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Apodiformes
+familias:
+  - 'Apodidae '
+generos:
+  - Cypseloides
+especie: 'cherriei '
+nombre_comun: Vencejo de Cherrie
+nombre_ingles: Spot-fronted Swift
+title: 'Cypseloides cherriei, Spot-fronted Swift, Vencejo de Cherrie'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Apodiformes"]
-familias: ["Apodidae "]
-generos: ["Cypseloides"]
-nombre_cientifico: "Cypseloides cherriei"
-nombre_comun: "Vencejo de Cherrie"
-nombre_ingles: "Spot-fronted Swift"
+date: 2017-08-19T02:46:32.000Z
 ---
+
