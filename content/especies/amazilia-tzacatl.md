@@ -1,14 +1,22 @@
 ---
-title: "Amazilia tzacatl, Rufous-tailed Hummingbird, Amazilia Rabirrufa "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Amazilia tzacatl
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Apodiformes
+familias:
+  - 'Trochilidae '
+generos:
+  - Amazilia
+especie: 'tzacatl '
+nombre_comun: 'Amazilia Rabirrufa '
+nombre_ingles: Rufous-tailed Hummingbird
+title: 'Amazilia tzacatl, Rufous-tailed Hummingbird, Amazilia Rabirrufa '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Apodiformes"]
-familias: ["Trochilidae "]
-generos: ["Amazilia"]
-nombre_cientifico: "Amazilia tzacatl"
-nombre_comun: "Amazilia Rabirrufa "
-nombre_ingles: "Rufous-tailed Hummingbird"
+date: 2017-08-19T02:46:32.000Z
 ---
+
