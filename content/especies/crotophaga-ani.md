@@ -1,14 +1,22 @@
 ---
-title: "Crotophaga ani, Smooth-billed Ani, Garrapatero Piquiliso "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Crotophaga ani
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Cuculiformes
+familias:
+  - 'Cuculidae '
+generos:
+  - Crotophaga
+especie: 'ani '
+nombre_comun: 'Garrapatero Piquiliso '
+nombre_ingles: Smooth-billed Ani
+title: 'Crotophaga ani, Smooth-billed Ani, Garrapatero Piquiliso '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Cuculiformes"]
-familias: ["Cuculidae "]
-generos: ["Crotophaga"]
-nombre_cientifico: "Crotophaga ani"
-nombre_comun: "Garrapatero Piquiliso "
-nombre_ingles: "Smooth-billed Ani"
+date: 2017-08-19T02:46:32.000Z
 ---
+
