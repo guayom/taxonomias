@@ -1,14 +1,22 @@
 ---
-title: "Anhinga anhinga, Anhinga, Aninga "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Anhinga anhinga
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Suliformes
+familias:
+  - 'Anhingidae '
+generos:
+  - Anhinga
+especie: anhinga
+nombre_comun: 'Aninga '
+nombre_ingles: Anhinga
+title: 'Anhinga anhinga, Anhinga, Aninga '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Suliformes"]
-familias: ["Anhingidae "]
-generos: ["Anhinga"]
-nombre_cientifico: "Anhinga anhinga"
-nombre_comun: "Aninga "
-nombre_ingles: "Anhinga"
+date: 2017-08-19T02:46:32.000Z
 ---
+
