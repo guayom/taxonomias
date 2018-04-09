@@ -1,14 +1,22 @@
 ---
-title: "Coccyzus ferrugineus, Cocos Cuckoo, Cuclillo de la Isla del Coco"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Coccyzus ferrugineus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Cuculiformes
+familias:
+  - 'Cuculidae '
+generos:
+  - Coccyzus
+especie: ferrugineus
+nombre_comun: Cuclillo de la Isla del Coco
+nombre_ingles: Cocos Cuckoo
+title: 'Coccyzus ferrugineus, Cocos Cuckoo, Cuclillo de la Isla del Coco'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Cuculiformes"]
-familias: ["Cuculidae "]
-generos: ["Coccyzus"]
-nombre_cientifico: "Coccyzus ferrugineus"
-nombre_comun: "Cuclillo de la Isla del Coco"
-nombre_ingles: "Cocos Cuckoo"
+date: 2017-08-19T02:46:32.000Z
 ---
+
