@@ -1,14 +1,22 @@
 ---
-title: "Attila spadiceus, Bright-rumped Attila, Atila Lomiamarilla"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Attila spadiceus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Tyrannidae '
+generos:
+  - Attila
+especie: spadiceus
+nombre_comun: Atila Lomiamarilla
+nombre_ingles: Bright-rumped Attila
+title: 'Attila spadiceus, Bright-rumped Attila, Atila Lomiamarilla'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Tyrannidae "]
-generos: ["Attila"]
-nombre_cientifico: "Attila spadiceus"
-nombre_comun: "Atila Lomiamarilla"
-nombre_ingles: "Bright-rumped Attila"
+date: 2017-08-19T02:46:32.000Z
 ---
+
