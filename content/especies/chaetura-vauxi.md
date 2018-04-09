@@ -1,14 +1,22 @@
 ---
-title: "Chaetura vauxi, Vaux's Swift, Vencejo Común"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Chaetura vauxi
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Apodiformes
+familias:
+  - 'Apodidae '
+generos:
+  - Chaetura
+especie: 'vauxi '
+nombre_comun: Vencejo Común
+nombre_ingles: Vaux's Swift
+title: 'Chaetura vauxi, Vaux''s Swift, Vencejo Común'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Apodiformes"]
-familias: ["Apodidae "]
-generos: ["Chaetura"]
-nombre_cientifico: "Chaetura vauxi"
-nombre_comun: "Vencejo Común"
-nombre_ingles: "Vaux's Swift"
+date: 2017-08-19T02:46:32.000Z
 ---
+
