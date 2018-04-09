@@ -1,14 +1,22 @@
 ---
-title: "Ceratopipra mentalis, Red-capped Manakin, Saltarín Cabecirrojo"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Ceratopipra mentalis
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Pipridae '
+generos:
+  - Ceratopipra
+especie: 'mentalis '
+nombre_comun: Saltarín Cabecirrojo
+nombre_ingles: Red-capped Manakin
+title: 'Ceratopipra mentalis, Red-capped Manakin, Saltarín Cabecirrojo'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Pipridae "]
-generos: ["Ceratopipra"]
-nombre_cientifico: "Ceratopipra mentalis"
-nombre_comun: "Saltarín Cabecirrojo"
-nombre_ingles: "Red-capped Manakin"
+date: 2017-08-19T02:46:32.000Z
 ---
+
