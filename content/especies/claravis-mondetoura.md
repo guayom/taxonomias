@@ -1,14 +1,22 @@
 ---
-title: "Claravis mondetoura, Maroon-chested Ground-Dove, Tortolita Serranera"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Claravis mondetoura
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Columbiformes
+familias:
+  - 'Columbidae '
+generos:
+  - Claravis
+especie: 'mondetoura '
+nombre_comun: Tortolita Serranera
+nombre_ingles: Maroon-chested Ground-Dove
+title: 'Claravis mondetoura, Maroon-chested Ground-Dove, Tortolita Serranera'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Columbiformes"]
-familias: ["Columbidae "]
-generos: ["Claravis"]
-nombre_cientifico: "Claravis mondetoura"
-nombre_comun: "Tortolita Serranera"
-nombre_ingles: "Maroon-chested Ground-Dove"
+date: 2017-08-19T02:46:32.000Z
 ---
+
