@@ -1,14 +1,22 @@
 ---
-title: "Chiroxiphia linearis, Long-tailed Manakin, Saltarín Toledo "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Chiroxiphia linearis
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Pipridae '
+generos:
+  - Chiroxiphia
+especie: 'linearis '
+nombre_comun: 'Saltarín Toledo '
+nombre_ingles: Long-tailed Manakin
+title: 'Chiroxiphia linearis, Long-tailed Manakin, Saltarín Toledo '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Pipridae "]
-generos: ["Chiroxiphia"]
-nombre_cientifico: "Chiroxiphia linearis"
-nombre_comun: "Saltarín Toledo "
-nombre_ingles: "Long-tailed Manakin"
+date: 2017-08-19T02:46:32.000Z
 ---
+
