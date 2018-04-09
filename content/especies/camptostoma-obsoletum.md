@@ -1,14 +1,22 @@
 ---
-title: "Camptostoma obsoletum, Southern Beardless-Tyrannulet, Mosquerito Silbador"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Camptostoma obsoletum
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Tyrannidae '
+generos:
+  - Camptostoma
+especie: 'obsoletum '
+nombre_comun: Mosquerito Silbador
+nombre_ingles: Southern Beardless-Tyrannulet
+title: 'Camptostoma obsoletum, Southern Beardless-Tyrannulet, Mosquerito Silbador'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Tyrannidae "]
-generos: ["Camptostoma"]
-nombre_cientifico: "Camptostoma obsoletum"
-nombre_comun: "Mosquerito Silbador"
-nombre_ingles: "Southern Beardless-Tyrannulet"
+date: 2017-08-19T02:46:32.000Z
 ---
+
