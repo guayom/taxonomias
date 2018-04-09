@@ -1,14 +1,22 @@
 ---
-title: "Ardenna creatopus, Pink-footed Shearwater, Pardela Blanca Común"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Ardenna creatopus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Procellariiformes
+familias:
+  - 'Procellariidae '
+generos:
+  - Ardenna
+especie: creatopus
+nombre_comun: Pardela Blanca Común
+nombre_ingles: Pink-footed Shearwater
+title: 'Ardenna creatopus, Pink-footed Shearwater, Pardela Blanca Común'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Procellariiformes"]
-familias: ["Procellariidae "]
-generos: ["Ardenna"]
-nombre_cientifico: "Ardenna creatopus"
-nombre_comun: "Pardela Blanca Común"
-nombre_ingles: "Pink-footed Shearwater"
+date: 2017-08-19T02:46:32.000Z
 ---
+
