@@ -1,14 +1,22 @@
 ---
-title: "Aythya valisineria, Canvasback, Porrón Picudo"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Aythya valisineria
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Anseriformes
+familias:
+  - 'Anatidae '
+generos:
+  - Aythya
+especie: valisineria
+nombre_comun: Porrón Picudo
+nombre_ingles: Canvasback
+title: 'Aythya valisineria, Canvasback, Porrón Picudo'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Anseriformes"]
-familias: ["Anatidae "]
-generos: ["Aythya"]
-nombre_cientifico: "Aythya valisineria"
-nombre_comun: "Porrón Picudo"
-nombre_ingles: "Canvasback"
+date: 2017-08-19T02:46:32.000Z
 ---
+
