@@ -1,14 +1,22 @@
 ---
-title: "Celeus castaneus, Chestnut-colored Woodpecker, Carpintero Castaño"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Celeus castaneus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Piciformes
+familias:
+  - 'Picidae '
+generos:
+  - Celeus
+especie: 'castaneus '
+nombre_comun: Carpintero Castaño
+nombre_ingles: Chestnut-colored Woodpecker
+title: 'Celeus castaneus, Chestnut-colored Woodpecker, Carpintero Castaño'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Piciformes"]
-familias: ["Picidae "]
-generos: ["Celeus"]
-nombre_cientifico: "Celeus castaneus"
-nombre_comun: "Carpintero Castaño"
-nombre_ingles: "Chestnut-colored Woodpecker"
+date: 2017-08-19T02:46:32.000Z
 ---
+
