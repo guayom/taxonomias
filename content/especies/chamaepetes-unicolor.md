@@ -1,14 +1,22 @@
 ---
-title: "Chamaepetes unicolor, Black Guan, Pava Negra "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Chamaepetes unicolor
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Galliformes
+familias:
+  - 'Cracidae '
+generos:
+  - Chamaepetes
+especie: unicolor
+nombre_comun: 'Pava Negra '
+nombre_ingles: Black Guan
+title: 'Chamaepetes unicolor, Black Guan, Pava Negra '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Galliformes"]
-familias: ["Cracidae "]
-generos: ["Chamaepetes"]
-nombre_cientifico: "Chamaepetes unicolor"
-nombre_comun: "Pava Negra "
-nombre_ingles: "Black Guan"
+date: 2017-08-19T02:46:32.000Z
 ---
+
