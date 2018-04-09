@@ -1,14 +1,22 @@
 ---
-title: "Aramides albiventris , Russet-naped Wood-Rail , Rascón Pomponé"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: 'Aramides albiventris '
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Gruiformes
+familias:
+  - 'Rallidae '
+generos:
+  - Aramides
+especie: 'albiventris '
+nombre_comun: Rascón Pomponé
+nombre_ingles: 'Russet-naped Wood-Rail '
+title: 'Aramides albiventris , Russet-naped Wood-Rail , Rascón Pomponé'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Gruiformes"]
-familias: ["Rallidae "]
-generos: ["Aramides"]
-nombre_cientifico: "Aramides albiventris "
-nombre_comun: "Rascón Pomponé"
-nombre_ingles: "Russet-naped Wood-Rail "
+date: 2017-08-19T02:46:32.000Z
 ---
+
