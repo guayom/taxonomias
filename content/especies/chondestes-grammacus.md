@@ -1,14 +1,22 @@
 ---
-title: "Chondestes grammacus, Lark Sparrow, Sabanero Arlequín"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Chondestes grammacus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Emberizidae '
+generos:
+  - Chondestes
+especie: 'grammacus '
+nombre_comun: Sabanero Arlequín
+nombre_ingles: Lark Sparrow
+title: 'Chondestes grammacus, Lark Sparrow, Sabanero Arlequín'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Emberizidae "]
-generos: ["Chondestes"]
-nombre_cientifico: "Chondestes grammacus"
-nombre_comun: "Sabanero Arlequín"
-nombre_ingles: "Lark Sparrow"
+date: 2017-08-19T02:46:32.000Z
 ---
+
