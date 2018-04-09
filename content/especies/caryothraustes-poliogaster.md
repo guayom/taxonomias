@@ -1,14 +1,22 @@
 ---
-title: "Caryothraustes poliogaster, Black-faced Grosbeak, Picogrueso Carinegro "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Caryothraustes poliogaster
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Cardinalidae '
+generos:
+  - Caryothraustes
+especie: 'poliogaster '
+nombre_comun: 'Picogrueso Carinegro '
+nombre_ingles: Black-faced Grosbeak
+title: 'Caryothraustes poliogaster, Black-faced Grosbeak, Picogrueso Carinegro '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Cardinalidae "]
-generos: ["Caryothraustes"]
-nombre_cientifico: "Caryothraustes poliogaster"
-nombre_comun: "Picogrueso Carinegro "
-nombre_ingles: "Black-faced Grosbeak"
+date: 2017-08-19T02:46:32.000Z
 ---
+
