@@ -1,14 +1,22 @@
 ---
-title: "Chiroxiphia lanceolata, Lance-tailed Manakin, Saltarín Coludo "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Chiroxiphia lanceolata
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Pipridae '
+generos:
+  - Chiroxiphia
+especie: 'lanceolata '
+nombre_comun: 'Saltarín Coludo '
+nombre_ingles: Lance-tailed Manakin
+title: 'Chiroxiphia lanceolata, Lance-tailed Manakin, Saltarín Coludo '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Pipridae "]
-generos: ["Chiroxiphia"]
-nombre_cientifico: "Chiroxiphia lanceolata"
-nombre_comun: "Saltarín Coludo "
-nombre_ingles: "Lance-tailed Manakin"
+date: 2017-08-19T02:46:32.000Z
 ---
+
