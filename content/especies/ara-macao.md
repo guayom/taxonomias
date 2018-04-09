@@ -1,14 +1,22 @@
 ---
-title: "Ara macao, Scarlet Macaw, Guacamayo Rojo "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Ara macao
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Psittaciformes
+familias:
+  - 'Psittacidae '
+generos:
+  - Ara
+especie: macao
+nombre_comun: 'Guacamayo Rojo '
+nombre_ingles: Scarlet Macaw
+title: 'Ara macao, Scarlet Macaw, Guacamayo Rojo '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Psittaciformes"]
-familias: ["Psittacidae "]
-generos: ["Ara"]
-nombre_cientifico: "Ara macao"
-nombre_comun: "Guacamayo Rojo "
-nombre_ingles: "Scarlet Macaw"
+date: 2017-08-19T02:46:32.000Z
 ---
+
