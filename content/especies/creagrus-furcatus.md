@@ -1,14 +1,22 @@
 ---
-title: "Creagrus furcatus, Swallow-tailed Gull, Gaviota Tijereta"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Creagrus furcatus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Charadriiformes
+familias:
+  - 'Laridae '
+generos:
+  - Creagrus
+especie: 'furcatus '
+nombre_comun: Gaviota Tijereta
+nombre_ingles: Swallow-tailed Gull
+title: 'Creagrus furcatus, Swallow-tailed Gull, Gaviota Tijereta'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Charadriiformes"]
-familias: ["Laridae "]
-generos: ["Creagrus"]
-nombre_cientifico: "Creagrus furcatus"
-nombre_comun: "Gaviota Tijereta"
-nombre_ingles: "Swallow-tailed Gull"
+date: 2017-08-19T02:46:32.000Z
 ---
+
