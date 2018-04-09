@@ -1,14 +1,22 @@
 ---
-title: "Calidris minutilla, Least Sandpiper, Correlimos Menudo "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Calidris minutilla
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Charadriiformes
+familias:
+  - 'Scolopacidae '
+generos:
+  - Calidris
+especie: minutilla
+nombre_comun: 'Correlimos Menudo '
+nombre_ingles: Least Sandpiper
+title: 'Calidris minutilla, Least Sandpiper, Correlimos Menudo '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Charadriiformes"]
-familias: ["Scolopacidae "]
-generos: ["Calidris"]
-nombre_cientifico: "Calidris minutilla"
-nombre_comun: "Correlimos Menudo "
-nombre_ingles: "Least Sandpiper"
+date: 2017-08-19T02:46:32.000Z
 ---
+
