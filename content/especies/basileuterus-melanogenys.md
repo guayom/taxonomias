@@ -1,14 +1,22 @@
 ---
-title: "Basileuterus melanogenys, Black-cheeked Warbler, Reinita Carinegra"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Basileuterus melanogenys
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Parulidae '
+generos:
+  - Basileuterus
+especie: melanogenys
+nombre_comun: Reinita Carinegra
+nombre_ingles: Black-cheeked Warbler
+title: 'Basileuterus melanogenys, Black-cheeked Warbler, Reinita Carinegra'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Parulidae "]
-generos: ["Basileuterus"]
-nombre_cientifico: "Basileuterus melanogenys"
-nombre_comun: "Reinita Carinegra"
-nombre_ingles: "Black-cheeked Warbler"
+date: 2017-08-19T02:46:32.000Z
 ---
+
