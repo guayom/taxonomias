@@ -1,14 +1,22 @@
 ---
-title: "Cantorchilus elutus , Isthmian Wren, Soterrey de Panama"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: 'Cantorchilus elutus '
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Troglodytidae '
+generos:
+  - Cantorchilus
+especie: 'elutus '
+nombre_comun: Soterrey de Panama
+nombre_ingles: Isthmian Wren
+title: 'Cantorchilus elutus , Isthmian Wren, Soterrey de Panama'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Troglodytidae "]
-generos: ["Cantorchilus"]
-nombre_cientifico: "Cantorchilus elutus "
-nombre_comun: "Soterrey de Panama"
-nombre_ingles: "Isthmian Wren"
+date: 2017-08-19T02:46:32.000Z
 ---
+
