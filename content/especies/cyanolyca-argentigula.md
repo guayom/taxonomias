@@ -1,14 +1,22 @@
 ---
-title: "Cyanolyca argentigula, Silvery-throated Jay, Urraca Gorgiplateada"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Cyanolyca argentigula
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Corvidae '
+generos:
+  - Cyanolyca
+especie: 'argentigula '
+nombre_comun: Urraca Gorgiplateada
+nombre_ingles: Silvery-throated Jay
+title: 'Cyanolyca argentigula, Silvery-throated Jay, Urraca Gorgiplateada'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Corvidae "]
-generos: ["Cyanolyca"]
-nombre_cientifico: "Cyanolyca argentigula"
-nombre_comun: "Urraca Gorgiplateada"
-nombre_ingles: "Silvery-throated Jay"
+date: 2017-08-19T02:46:32.000Z
 ---
+
