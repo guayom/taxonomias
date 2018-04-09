@@ -1,14 +1,22 @@
 ---
-title: "Cercomacroides tyrannina, Dusky Antbird, Hormiguero Negruzco"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Cercomacroides tyrannina
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Thamnophilidae '
+generos:
+  - Cercomacroides
+especie: 'tyrannina '
+nombre_comun: Hormiguero Negruzco
+nombre_ingles: Dusky Antbird
+title: 'Cercomacroides tyrannina, Dusky Antbird, Hormiguero Negruzco'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Thamnophilidae "]
-generos: ["Cercomacroides"]
-nombre_cientifico: "Cercomacroides tyrannina"
-nombre_comun: "Hormiguero Negruzco"
-nombre_ingles: "Dusky Antbird"
+date: 2017-08-19T02:46:32.000Z
 ---
+
