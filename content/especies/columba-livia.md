@@ -1,14 +1,22 @@
 ---
-title: "Columba livia, Rock Pigeon, Paloma Doméstica "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Columba livia
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Columbiformes
+familias:
+  - 'Columbidae '
+generos:
+  - Columba
+especie: 'livia '
+nombre_comun: 'Paloma Doméstica '
+nombre_ingles: Rock Pigeon
+title: 'Columba livia, Rock Pigeon, Paloma Doméstica '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Columbiformes"]
-familias: ["Columbidae "]
-generos: ["Columba"]
-nombre_cientifico: "Columba livia"
-nombre_comun: "Paloma Doméstica "
-nombre_ingles: "Rock Pigeon"
+date: 2017-08-19T02:46:32.000Z
 ---
+
