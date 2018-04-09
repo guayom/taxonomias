@@ -1,14 +1,22 @@
 ---
-title: "Anthus rubescens, American Pipit, Bisbita Americana"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Anthus rubescens
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Motacillidae '
+generos:
+  - Anthus
+especie: rubescens
+nombre_comun: Bisbita Americana
+nombre_ingles: American Pipit
+title: 'Anthus rubescens, American Pipit, Bisbita Americana'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Motacillidae "]
-generos: ["Anthus"]
-nombre_cientifico: "Anthus rubescens"
-nombre_comun: "Bisbita Americana"
-nombre_ingles: "American Pipit"
+date: 2017-08-19T02:46:32.000Z
 ---
+
