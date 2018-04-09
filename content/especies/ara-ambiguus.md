@@ -1,14 +1,22 @@
 ---
-title: "Ara ambiguus, Great Green Macaw , Guacamayo Verde Mayor "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Ara ambiguus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Psittaciformes
+familias:
+  - 'Psittacidae '
+generos:
+  - Ara
+especie: ambiguus
+nombre_comun: 'Guacamayo Verde Mayor '
+nombre_ingles: 'Great Green Macaw '
+title: 'Ara ambiguus, Great Green Macaw , Guacamayo Verde Mayor '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Psittaciformes"]
-familias: ["Psittacidae "]
-generos: ["Ara"]
-nombre_cientifico: "Ara ambiguus"
-nombre_comun: "Guacamayo Verde Mayor "
-nombre_ingles: "Great Green Macaw "
+date: 2017-08-19T02:46:32.000Z
 ---
+
