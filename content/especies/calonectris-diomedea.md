@@ -1,14 +1,22 @@
 ---
-title: "Calonectris diomedea, Cory's Shearwater, Pardela Cenicienta"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Calonectris diomedea
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Procellariiformes
+familias:
+  - 'Procellariidae '
+generos:
+  - Calonectris
+especie: diomedea
+nombre_comun: Pardela Cenicienta
+nombre_ingles: Cory's Shearwater
+title: 'Calonectris diomedea, Cory''s Shearwater, Pardela Cenicienta'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Procellariiformes"]
-familias: ["Procellariidae "]
-generos: ["Calonectris"]
-nombre_cientifico: "Calonectris diomedea"
-nombre_comun: "Pardela Cenicienta"
-nombre_ingles: "Cory's Shearwater"
+date: 2017-08-19T02:46:32.000Z
 ---
+
