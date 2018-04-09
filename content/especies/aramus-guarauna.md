@@ -1,14 +1,22 @@
 ---
-title: "Aramus guarauna, Limpkin, Carao "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Aramus guarauna
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Gruiformes
+familias:
+  - 'Aramidae '
+generos:
+  - Aramus
+especie: guarauna
+nombre_comun: 'Carao '
+nombre_ingles: Limpkin
+title: 'Aramus guarauna, Limpkin, Carao '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Gruiformes"]
-familias: ["Aramidae "]
-generos: ["Aramus"]
-nombre_cientifico: "Aramus guarauna"
-nombre_comun: "Carao "
-nombre_ingles: "Limpkin"
+date: 2017-08-19T02:46:32.000Z
 ---
+
