@@ -1,14 +1,22 @@
 ---
-title: "Catharus fuscescens, Veery, Zorzal Dorsirrojizo "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Catharus fuscescens
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Turdidae '
+generos:
+  - Catharus
+especie: 'fuscescens '
+nombre_comun: 'Zorzal Dorsirrojizo '
+nombre_ingles: Veery
+title: 'Catharus fuscescens, Veery, Zorzal Dorsirrojizo '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Turdidae "]
-generos: ["Catharus"]
-nombre_cientifico: "Catharus fuscescens"
-nombre_comun: "Zorzal Dorsirrojizo "
-nombre_ingles: "Veery"
+date: 2017-08-19T02:46:32.000Z
 ---
+
