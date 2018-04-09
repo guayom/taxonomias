@@ -1,14 +1,22 @@
 ---
-title: "Charadrius melodus, Piping Plover, Chorlitejo Silbador"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Charadrius melodus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Charadriiformes
+familias:
+  - 'Charadriidae '
+generos:
+  - Charadrius
+especie: 'melodus '
+nombre_comun: Chorlitejo Silbador
+nombre_ingles: Piping Plover
+title: 'Charadrius melodus, Piping Plover, Chorlitejo Silbador'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Charadriiformes"]
-familias: ["Charadriidae "]
-generos: ["Charadrius"]
-nombre_cientifico: "Charadrius melodus"
-nombre_comun: "Chorlitejo Silbador"
-nombre_ingles: "Piping Plover"
+date: 2017-08-19T02:46:32.000Z
 ---
+
