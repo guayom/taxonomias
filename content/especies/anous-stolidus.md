@@ -1,14 +1,22 @@
 ---
-title: "Anous stolidus, Brown Noddy, Tiñosa Común "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Anous stolidus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Charadriiformes
+familias:
+  - 'Laridae '
+generos:
+  - Anous
+especie: stolidus
+nombre_comun: 'Tiñosa Común '
+nombre_ingles: Brown Noddy
+title: 'Anous stolidus, Brown Noddy, Tiñosa Común '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Charadriiformes"]
-familias: ["Laridae "]
-generos: ["Anous"]
-nombre_cientifico: "Anous stolidus"
-nombre_comun: "Tiñosa Común "
-nombre_ingles: "Brown Noddy"
+date: 2017-08-19T02:46:32.000Z
 ---
+
