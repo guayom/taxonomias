@@ -1,14 +1,22 @@
 ---
-title: "Euphonia laniirostris, Thick-billed Euphonia, Eufonia Piquigruesa "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Euphonia laniirostris
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Fringillidae '
+generos:
+  - Euphonia
+especie: laniirostris
+nombre_comun: 'Eufonia Piquigruesa '
+nombre_ingles: Thick-billed Euphonia
+title: 'Euphonia laniirostris, Thick-billed Euphonia, Eufonia Piquigruesa '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Fringillidae "]
-generos: ["Euphonia"]
-nombre_cientifico: "Euphonia laniirostris"
-nombre_comun: "Eufonia Piquigruesa "
-nombre_ingles: "Thick-billed Euphonia"
+date: 2017-08-19T02:46:32.000Z
 ---
+
