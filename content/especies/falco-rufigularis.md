@@ -1,14 +1,22 @@
 ---
-title: "Falco rufigularis, Bat Falcon, Halcón Cuelliblanco"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Falco rufigularis
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Falconiformes
+familias:
+  - 'Falconidae '
+generos:
+  - Falco
+especie: rufigularis
+nombre_comun: Halcón Cuelliblanco
+nombre_ingles: Bat Falcon
+title: 'Falco rufigularis, Bat Falcon, Halcón Cuelliblanco'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Falconiformes"]
-familias: ["Falconidae "]
-generos: ["Falco"]
-nombre_cientifico: "Falco rufigularis"
-nombre_comun: "Halcón Cuelliblanco"
-nombre_ingles: "Bat Falcon"
+date: 2017-08-19T02:46:32.000Z
 ---
+
