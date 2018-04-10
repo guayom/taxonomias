@@ -1,14 +1,22 @@
 ---
-title: "Euphonia gouldi, Olive-backed Euphonia, Eufonia Olivácea "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Euphonia gouldi
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Fringillidae '
+generos:
+  - Euphonia
+especie: 'gouldi '
+nombre_comun: 'Eufonia Olivácea '
+nombre_ingles: Olive-backed Euphonia
+title: 'Euphonia gouldi, Olive-backed Euphonia, Eufonia Olivácea '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Fringillidae "]
-generos: ["Euphonia"]
-nombre_cientifico: "Euphonia gouldi"
-nombre_comun: "Eufonia Olivácea "
-nombre_ingles: "Olive-backed Euphonia"
+date: 2017-08-19T02:46:32.000Z
 ---
+
