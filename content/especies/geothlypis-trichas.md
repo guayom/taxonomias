@@ -1,14 +1,22 @@
 ---
-title: "Geothlypis trichas, Common Yellowthroat, Antifacito Norteño"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Geothlypis trichas
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Parulidae '
+generos:
+  - Geothlypis
+especie: trichas
+nombre_comun: Antifacito Norteño
+nombre_ingles: Common Yellowthroat
+title: 'Geothlypis trichas, Common Yellowthroat, Antifacito Norteño'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Parulidae "]
-generos: ["Geothlypis"]
-nombre_cientifico: "Geothlypis trichas"
-nombre_comun: "Antifacito Norteño"
-nombre_ingles: "Common Yellowthroat"
+date: 2017-08-19T02:46:32.000Z
 ---
+
