@@ -1,14 +1,22 @@
 ---
-title: "Dendrocincla homochroa, Ruddy Woodcreeper, Trepador Rojizo"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Dendrocincla homochroa
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Furnariidae '
+generos:
+  - Dendrocincla
+especie: 'homochroa '
+nombre_comun: Trepador Rojizo
+nombre_ingles: Ruddy Woodcreeper
+title: 'Dendrocincla homochroa, Ruddy Woodcreeper, Trepador Rojizo'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Furnariidae "]
-generos: ["Dendrocincla"]
-nombre_cientifico: "Dendrocincla homochroa"
-nombre_comun: "Trepador Rojizo"
-nombre_ingles: "Ruddy Woodcreeper"
+date: 2017-08-19T02:46:32.000Z
 ---
+
