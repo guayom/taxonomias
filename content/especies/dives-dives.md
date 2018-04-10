@@ -1,14 +1,22 @@
 ---
-title: "Dives dives, Melodious Blackbird, Tordo Cantor"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Dives dives
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Icteridae '
+generos:
+  - Dives
+especie: dives
+nombre_comun: Tordo Cantor
+nombre_ingles: Melodious Blackbird
+title: 'Dives dives, Melodious Blackbird, Tordo Cantor'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Icteridae "]
-generos: ["Dives"]
-nombre_cientifico: "Dives dives"
-nombre_comun: "Tordo Cantor"
-nombre_ingles: "Melodious Blackbird"
+date: 2017-08-19T02:46:32.000Z
 ---
+
