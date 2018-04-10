@@ -1,14 +1,22 @@
 ---
-title: "Falco femoralis, Aplomado Falcon, Halcón Aplomado"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Falco femoralis
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Falconiformes
+familias:
+  - 'Falconidae '
+generos:
+  - Falco
+especie: 'femoralis '
+nombre_comun: Halcón Aplomado
+nombre_ingles: Aplomado Falcon
+title: 'Falco femoralis, Aplomado Falcon, Halcón Aplomado'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Falconiformes"]
-familias: ["Falconidae "]
-generos: ["Falco"]
-nombre_cientifico: "Falco femoralis"
-nombre_comun: "Halcón Aplomado"
-nombre_ingles: "Aplomado Falcon"
+date: 2017-08-19T02:46:32.000Z
 ---
+
