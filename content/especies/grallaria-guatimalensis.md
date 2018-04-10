@@ -1,14 +1,22 @@
 ---
-title: "Grallaria guatimalensis, Scaled Antpitta, Tororoi Dorsiescamado "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Grallaria guatimalensis
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Grallariidae '
+generos:
+  - Grallaria
+especie: guatimalensis
+nombre_comun: 'Tororoi Dorsiescamado '
+nombre_ingles: Scaled Antpitta
+title: 'Grallaria guatimalensis, Scaled Antpitta, Tororoi Dorsiescamado '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Grallariidae "]
-generos: ["Grallaria"]
-nombre_cientifico: "Grallaria guatimalensis"
-nombre_comun: "Tororoi Dorsiescamado "
-nombre_ingles: "Scaled Antpitta"
+date: 2017-08-19T02:46:32.000Z
 ---
+
