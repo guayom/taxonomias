@@ -1,14 +1,22 @@
 ---
-title: "Electron carinatum, Keel-billed Motmot, Momoto Pico Quilla "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Electron carinatum
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Coraciiformes
+familias:
+  - 'Momotidae '
+generos:
+  - Electron
+especie: carinatum
+nombre_comun: 'Momoto Pico Quilla '
+nombre_ingles: Keel-billed Motmot
+title: 'Electron carinatum, Keel-billed Motmot, Momoto Pico Quilla '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Coraciiformes"]
-familias: ["Momotidae "]
-generos: ["Electron"]
-nombre_cientifico: "Electron carinatum"
-nombre_comun: "Momoto Pico Quilla "
-nombre_ingles: "Keel-billed Motmot"
+date: 2017-08-19T02:46:32.000Z
 ---
+
