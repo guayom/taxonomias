@@ -1,14 +1,22 @@
 ---
-title: "Dysithamnus puncticeps, Spot-crowned Antvireo, Batarito Cabecipunteado"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Dysithamnus puncticeps
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Thamnophilidae '
+generos:
+  - Dysithamnus
+especie: 'puncticeps '
+nombre_comun: Batarito Cabecipunteado
+nombre_ingles: Spot-crowned Antvireo
+title: 'Dysithamnus puncticeps, Spot-crowned Antvireo, Batarito Cabecipunteado'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Thamnophilidae "]
-generos: ["Dysithamnus"]
-nombre_cientifico: "Dysithamnus puncticeps"
-nombre_comun: "Batarito Cabecipunteado"
-nombre_ingles: "Spot-crowned Antvireo"
+date: 2017-08-19T02:46:32.000Z
 ---
+
