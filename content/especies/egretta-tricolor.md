@@ -1,14 +1,22 @@
 ---
-title: "Egretta tricolor, Tricolored Heron, Garceta Tricolor"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Egretta tricolor
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Pelecaniformes
+familias:
+  - 'Ardeidae '
+generos:
+  - Egretta
+especie: 'tricolor '
+nombre_comun: Garceta Tricolor
+nombre_ingles: Tricolored Heron
+title: 'Egretta tricolor, Tricolored Heron, Garceta Tricolor'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Pelecaniformes"]
-familias: ["Ardeidae "]
-generos: ["Egretta"]
-nombre_cientifico: "Egretta tricolor"
-nombre_comun: "Garceta Tricolor"
-nombre_ingles: "Tricolored Heron"
+date: 2017-08-19T02:46:32.000Z
 ---
+
