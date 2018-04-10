@@ -1,14 +1,22 @@
 ---
-title: "Electron platyrhynchum, Broad-billed Motmot, Momoto Piquiancho "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Electron platyrhynchum
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Coraciiformes
+familias:
+  - 'Momotidae '
+generos:
+  - Electron
+especie: 'platyrhynchum '
+nombre_comun: 'Momoto Piquiancho '
+nombre_ingles: Broad-billed Motmot
+title: 'Electron platyrhynchum, Broad-billed Motmot, Momoto Piquiancho '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Coraciiformes"]
-familias: ["Momotidae "]
-generos: ["Electron"]
-nombre_cientifico: "Electron platyrhynchum"
-nombre_comun: "Momoto Piquiancho "
-nombre_ingles: "Broad-billed Motmot"
+date: 2017-08-19T02:46:32.000Z
 ---
+
