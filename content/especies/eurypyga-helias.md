@@ -1,14 +1,22 @@
 ---
-title: "Eurypyga helias, Sunbittern, Garza del Sol "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Eurypyga helias
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Eurypygiformes
+familias:
+  - 'Eurypygidae '
+generos:
+  - Eurypyga
+especie: helias
+nombre_comun: 'Garza del Sol '
+nombre_ingles: Sunbittern
+title: 'Eurypyga helias, Sunbittern, Garza del Sol '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Eurypygiformes"]
-familias: ["Eurypygidae "]
-generos: ["Eurypyga"]
-nombre_cientifico: "Eurypyga helias"
-nombre_comun: "Garza del Sol "
-nombre_ingles: "Sunbittern"
+date: 2017-08-19T02:46:32.000Z
 ---
+
