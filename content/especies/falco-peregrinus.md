@@ -1,14 +1,22 @@
 ---
-title: "Falco peregrinus, Peregrine Falcon, Halcón Peregrino"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Falco peregrinus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Falconiformes
+familias:
+  - 'Falconidae '
+generos:
+  - Falco
+especie: 'peregrinus '
+nombre_comun: Halcón Peregrino
+nombre_ingles: Peregrine Falcon
+title: 'Falco peregrinus, Peregrine Falcon, Halcón Peregrino'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Falconiformes"]
-familias: ["Falconidae "]
-generos: ["Falco"]
-nombre_cientifico: "Falco peregrinus"
-nombre_comun: "Halcón Peregrino"
-nombre_ingles: "Peregrine Falcon"
+date: 2017-08-19T02:46:32.000Z
 ---
+
