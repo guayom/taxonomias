@@ -1,14 +1,22 @@
 ---
-title: "Euphonia elegantissima, Elegant Euphonia, Eufonia Capuchiceleste "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Euphonia elegantissima
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Fringillidae '
+generos:
+  - Euphonia
+especie: 'elegantissima '
+nombre_comun: 'Eufonia Capuchiceleste '
+nombre_ingles: Elegant Euphonia
+title: 'Euphonia elegantissima, Elegant Euphonia, Eufonia Capuchiceleste '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Fringillidae "]
-generos: ["Euphonia"]
-nombre_cientifico: "Euphonia elegantissima"
-nombre_comun: "Eufonia Capuchiceleste "
-nombre_ingles: "Elegant Euphonia"
+date: 2017-08-19T02:46:32.000Z
 ---
+
