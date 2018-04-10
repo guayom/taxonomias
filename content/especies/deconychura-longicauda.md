@@ -1,14 +1,22 @@
 ---
-title: "Deconychura longicauda, Long-tailed Woodcreeper, Trepador Delgado"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Deconychura longicauda
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Furnariidae '
+generos:
+  - Deconychura
+especie: longicauda
+nombre_comun: Trepador Delgado
+nombre_ingles: Long-tailed Woodcreeper
+title: 'Deconychura longicauda, Long-tailed Woodcreeper, Trepador Delgado'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Furnariidae "]
-generos: ["Deconychura"]
-nombre_cientifico: "Deconychura longicauda"
-nombre_comun: "Trepador Delgado"
-nombre_ingles: "Long-tailed Woodcreeper"
+date: 2017-08-19T02:46:32.000Z
 ---
+
