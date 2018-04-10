@@ -1,14 +1,22 @@
 ---
-title: "Emberizoides herbicola, Wedge-tailed Grass-Finch, Sabanero Coludo "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Emberizoides herbicola
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Thraupidae '
+generos:
+  - Emberizoides
+especie: herbicola
+nombre_comun: 'Sabanero Coludo '
+nombre_ingles: Wedge-tailed Grass-Finch
+title: 'Emberizoides herbicola, Wedge-tailed Grass-Finch, Sabanero Coludo '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Thraupidae "]
-generos: ["Emberizoides"]
-nombre_cientifico: "Emberizoides herbicola"
-nombre_comun: "Sabanero Coludo "
-nombre_ingles: "Wedge-tailed Grass-Finch"
+date: 2017-08-19T02:46:32.000Z
 ---
+
