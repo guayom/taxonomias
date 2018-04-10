@@ -1,14 +1,22 @@
 ---
-title: "Florisuga mellivora, White-necked Jacobin, Jacobino Nuquiblanco"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Florisuga mellivora
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Apodiformes
+familias:
+  - 'Trochilidae '
+generos:
+  - Florisuga
+especie: mellivora
+nombre_comun: Jacobino Nuquiblanco
+nombre_ingles: White-necked Jacobin
+title: 'Florisuga mellivora, White-necked Jacobin, Jacobino Nuquiblanco'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Apodiformes"]
-familias: ["Trochilidae "]
-generos: ["Florisuga"]
-nombre_cientifico: "Florisuga mellivora"
-nombre_comun: "Jacobino Nuquiblanco"
-nombre_ingles: "White-necked Jacobin"
+date: 2017-08-19T02:46:32.000Z
 ---
+
