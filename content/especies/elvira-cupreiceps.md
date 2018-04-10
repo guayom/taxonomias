@@ -1,14 +1,22 @@
 ---
-title: "Elvira cupreiceps, Coppery-headed Emerald, Esmeralda de Coronilla Cobriza"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Elvira cupreiceps
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Apodiformes
+familias:
+  - 'Trochilidae '
+generos:
+  - Elvira
+especie: cupreiceps
+nombre_comun: Esmeralda de Coronilla Cobriza
+nombre_ingles: Coppery-headed Emerald
+title: 'Elvira cupreiceps, Coppery-headed Emerald, Esmeralda de Coronilla Cobriza'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Apodiformes"]
-familias: ["Trochilidae "]
-generos: ["Elvira"]
-nombre_cientifico: "Elvira cupreiceps"
-nombre_comun: "Esmeralda de Coronilla Cobriza"
-nombre_ingles: "Coppery-headed Emerald"
+date: 2017-08-19T02:46:32.000Z
 ---
+
