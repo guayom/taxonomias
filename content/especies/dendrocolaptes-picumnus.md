@@ -1,14 +1,22 @@
 ---
-title: "Dendrocolaptes picumnus, Black-banded Woodcreeper, Trepador Vientribarreteado"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Dendrocolaptes picumnus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Furnariidae '
+generos:
+  - Dendrocolaptes
+especie: 'picumnus '
+nombre_comun: Trepador Vientribarreteado
+nombre_ingles: Black-banded Woodcreeper
+title: 'Dendrocolaptes picumnus, Black-banded Woodcreeper, Trepador Vientribarreteado'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Furnariidae "]
-generos: ["Dendrocolaptes"]
-nombre_cientifico: "Dendrocolaptes picumnus"
-nombre_comun: "Trepador Vientribarreteado"
-nombre_ingles: "Black-banded Woodcreeper"
+date: 2017-08-19T02:46:32.000Z
 ---
+
