@@ -1,14 +1,22 @@
 ---
-title: "Euphonia hirundinacea, Yellow-throated Euphonia, Eufonia Gorgiamarilla "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Euphonia hirundinacea
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Fringillidae '
+generos:
+  - Euphonia
+especie: hirundinacea
+nombre_comun: 'Eufonia Gorgiamarilla '
+nombre_ingles: Yellow-throated Euphonia
+title: 'Euphonia hirundinacea, Yellow-throated Euphonia, Eufonia Gorgiamarilla '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Fringillidae "]
-generos: ["Euphonia"]
-nombre_cientifico: "Euphonia hirundinacea"
-nombre_comun: "Eufonia Gorgiamarilla "
-nombre_ingles: "Yellow-throated Euphonia"
+date: 2017-08-19T02:46:32.000Z
 ---
+
