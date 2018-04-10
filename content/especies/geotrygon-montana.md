@@ -1,14 +1,22 @@
 ---
-title: "Geotrygon montana, Ruddy Quail-Dove, Paloma-Perdiz Rojiza"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Geotrygon montana
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Columbiformes
+familias:
+  - 'Columbidae '
+generos:
+  - Geotrygon
+especie: montana
+nombre_comun: Paloma-Perdiz Rojiza
+nombre_ingles: Ruddy Quail-Dove
+title: 'Geotrygon montana, Ruddy Quail-Dove, Paloma-Perdiz Rojiza'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Columbiformes"]
-familias: ["Columbidae "]
-generos: ["Geotrygon"]
-nombre_cientifico: "Geotrygon montana"
-nombre_comun: "Paloma-Perdiz Rojiza"
-nombre_ingles: "Ruddy Quail-Dove"
+date: 2017-08-19T02:46:32.000Z
 ---
+
