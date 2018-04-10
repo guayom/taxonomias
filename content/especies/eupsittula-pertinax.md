@@ -1,14 +1,22 @@
 ---
-title: "Eupsittula pertinax, Brown-throated Parakeet, Perico Gorgicafé"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Eupsittula pertinax
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Psittaciformes
+familias:
+  - 'Psittacidae '
+generos:
+  - Eupsittula
+especie: pertinax
+nombre_comun: Perico Gorgicafé
+nombre_ingles: Brown-throated Parakeet
+title: 'Eupsittula pertinax, Brown-throated Parakeet, Perico Gorgicafé'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Psittaciformes"]
-familias: ["Psittacidae "]
-generos: ["Eupsittula"]
-nombre_cientifico: "Eupsittula pertinax"
-nombre_comun: "Perico Gorgicafé"
-nombre_ingles: "Brown-throated Parakeet"
+date: 2017-08-19T02:46:32.000Z
 ---
+
