@@ -1,14 +1,22 @@
 ---
-title: "Falco sparverius, American Kestrel, Cernícalo Americano "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Falco sparverius
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Falconiformes
+familias:
+  - 'Falconidae '
+generos:
+  - Falco
+especie: 'sparverius '
+nombre_comun: 'Cernícalo Americano '
+nombre_ingles: American Kestrel
+title: 'Falco sparverius, American Kestrel, Cernícalo Americano '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Falconiformes"]
-familias: ["Falconidae "]
-generos: ["Falco"]
-nombre_cientifico: "Falco sparverius"
-nombre_comun: "Cernícalo Americano "
-nombre_ingles: "American Kestrel"
+date: 2017-08-19T02:46:32.000Z
 ---
+
