@@ -1,14 +1,22 @@
 ---
-title: "Myiothlypis fulvicauda, Buff-rumped Warbler, Reinita Guardaribera "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Myiothlypis fulvicauda
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Parulidae '
+generos:
+  - Myiothlypis
+especie: fulvicauda
+nombre_comun: 'Reinita Guardaribera '
+nombre_ingles: Buff-rumped Warbler
+title: 'Myiothlypis fulvicauda, Buff-rumped Warbler, Reinita Guardaribera '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Parulidae "]
-generos: ["Myiothlypis"]
-nombre_cientifico: "Myiothlypis fulvicauda"
-nombre_comun: "Reinita Guardaribera "
-nombre_ingles: "Buff-rumped Warbler"
+date: 2017-08-19T02:46:32.000Z
 ---
+
