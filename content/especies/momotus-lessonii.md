@@ -1,14 +1,22 @@
 ---
-title: "Momotus lessonii , Lesson’s Motmot , Momoto Coroniazul "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: 'Momotus lessonii '
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Coraciiformes
+familias:
+  - 'Momotidae '
+generos:
+  - Momotus
+especie: lessonii
+nombre_comun: 'Momoto Coroniazul '
+nombre_ingles: 'Lesson’s Motmot '
+title: 'Momotus lessonii , Lesson’s Motmot , Momoto Coroniazul '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Coraciiformes"]
-familias: ["Momotidae "]
-generos: ["Momotus"]
-nombre_cientifico: "Momotus lessonii "
-nombre_comun: "Momoto Coroniazul "
-nombre_ingles: "Lesson’s Motmot "
+date: 2017-08-19T02:46:32.000Z
 ---
+
