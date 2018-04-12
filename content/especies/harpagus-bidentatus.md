@@ -1,14 +1,22 @@
 ---
-title: "Harpagus bidentatus, Double-toothed Kite, Gavilán Gorgirrayado"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Harpagus bidentatus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Accipitriformes
+familias:
+  - 'Accipitridae '
+generos:
+  - Harpagus
+especie: bidentatus
+nombre_comun: Gavilán Gorgirrayado
+nombre_ingles: Double-toothed Kite
+title: 'Harpagus bidentatus, Double-toothed Kite, Gavilán Gorgirrayado'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Accipitriformes"]
-familias: ["Accipitridae "]
-generos: ["Harpagus"]
-nombre_cientifico: "Harpagus bidentatus"
-nombre_comun: "Gavilán Gorgirrayado"
-nombre_ingles: "Double-toothed Kite"
+date: 2017-08-19T02:46:32.000Z
 ---
+
