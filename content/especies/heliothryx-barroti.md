@@ -1,14 +1,22 @@
 ---
-title: "Heliothryx barroti, Purple-crowned Fairy, Colibrí Picopunzón"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Heliothryx barroti
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Apodiformes
+familias:
+  - 'Trochilidae '
+generos:
+  - Heliothryx
+especie: barroti
+nombre_comun: Colibrí Picopunzón
+nombre_ingles: Purple-crowned Fairy
+title: 'Heliothryx barroti, Purple-crowned Fairy, Colibrí Picopunzón'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Apodiformes"]
-familias: ["Trochilidae "]
-generos: ["Heliothryx"]
-nombre_cientifico: "Heliothryx barroti"
-nombre_comun: "Colibrí Picopunzón"
-nombre_ingles: "Purple-crowned Fairy"
+date: 2017-08-19T02:46:32.000Z
 ---
+
