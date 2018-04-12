@@ -1,14 +1,22 @@
 ---
-title: "Icterus mesomelas, Yellow-tailed Oriole, Bolsero Coliamarillo "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Icterus mesomelas
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Icteridae '
+generos:
+  - Icterus
+especie: 'mesomelas '
+nombre_comun: 'Bolsero Coliamarillo '
+nombre_ingles: Yellow-tailed Oriole
+title: 'Icterus mesomelas, Yellow-tailed Oriole, Bolsero Coliamarillo '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Icteridae "]
-generos: ["Icterus"]
-nombre_cientifico: "Icterus mesomelas"
-nombre_comun: "Bolsero Coliamarillo "
-nombre_ingles: "Yellow-tailed Oriole"
+date: 2017-08-19T02:46:32.000Z
 ---
+
