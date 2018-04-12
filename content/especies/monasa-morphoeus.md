@@ -1,14 +1,22 @@
 ---
-title: "Monasa morphoeus, White-fronted Nunbird, Monja Frentiblanca "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Monasa morphoeus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Piciformes
+familias:
+  - 'Bucconidae '
+generos:
+  - Monasa
+especie: 'morphoeus '
+nombre_comun: 'Monja Frentiblanca '
+nombre_ingles: White-fronted Nunbird
+title: 'Monasa morphoeus, White-fronted Nunbird, Monja Frentiblanca '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Piciformes"]
-familias: ["Bucconidae "]
-generos: ["Monasa"]
-nombre_cientifico: "Monasa morphoeus"
-nombre_comun: "Monja Frentiblanca "
-nombre_ingles: "White-fronted Nunbird"
+date: 2017-08-19T02:46:32.000Z
 ---
+
