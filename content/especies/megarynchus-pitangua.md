@@ -1,14 +1,22 @@
 ---
-title: "Megarynchus pitangua, Boat-billed Flycatcher, Mosquerón Picudo "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Megarynchus pitangua
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Tyrannidae '
+generos:
+  - Megarynchus
+especie: 'pitangua '
+nombre_comun: 'Mosquerón Picudo '
+nombre_ingles: Boat-billed Flycatcher
+title: 'Megarynchus pitangua, Boat-billed Flycatcher, Mosquerón Picudo '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Tyrannidae "]
-generos: ["Megarynchus"]
-nombre_cientifico: "Megarynchus pitangua"
-nombre_comun: "Mosquerón Picudo "
-nombre_ingles: "Boat-billed Flycatcher"
+date: 2017-08-19T02:46:32.000Z
 ---
+
