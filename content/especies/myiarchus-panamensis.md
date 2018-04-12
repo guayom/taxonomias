@@ -1,14 +1,22 @@
 ---
-title: "Myiarchus panamensis, Panama Flycatcher, Copetón Colipardo "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Myiarchus panamensis
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Tyrannidae '
+generos:
+  - Myiarchus
+especie: panamensis
+nombre_comun: 'Copetón Colipardo '
+nombre_ingles: Panama Flycatcher
+title: 'Myiarchus panamensis, Panama Flycatcher, Copetón Colipardo '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Tyrannidae "]
-generos: ["Myiarchus"]
-nombre_cientifico: "Myiarchus panamensis"
-nombre_comun: "Copetón Colipardo "
-nombre_ingles: "Panama Flycatcher"
+date: 2017-08-19T02:46:32.000Z
 ---
+
