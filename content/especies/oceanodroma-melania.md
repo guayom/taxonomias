@@ -1,14 +1,22 @@
 ---
-title: "Oceanodroma melania, Black Storm-Petrel, Paiño Negro"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Oceanodroma melania
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Procellariiformes
+familias:
+  - 'Hydrobatidae '
+generos:
+  - Oceanodroma
+especie: 'melania '
+nombre_comun: Paiño Negro
+nombre_ingles: Black Storm-Petrel
+title: 'Oceanodroma melania, Black Storm-Petrel, Paiño Negro'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Procellariiformes"]
-familias: ["Hydrobatidae "]
-generos: ["Oceanodroma"]
-nombre_cientifico: "Oceanodroma melania"
-nombre_comun: "Paiño Negro"
-nombre_ingles: "Black Storm-Petrel"
+date: 2017-08-19T02:46:32.000Z
 ---
+
