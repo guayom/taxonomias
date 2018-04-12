@@ -1,14 +1,22 @@
 ---
-title: "Laterallus ruber, Ruddy Crake, Polluela Colorada"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Laterallus ruber
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Gruiformes
+familias:
+  - 'Rallidae '
+generos:
+  - Laterallus
+especie: ruber
+nombre_comun: Polluela Colorada
+nombre_ingles: Ruddy Crake
+title: 'Laterallus ruber, Ruddy Crake, Polluela Colorada'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Gruiformes"]
-familias: ["Rallidae "]
-generos: ["Laterallus"]
-nombre_cientifico: "Laterallus ruber"
-nombre_comun: "Polluela Colorada"
-nombre_ingles: "Ruddy Crake"
+date: 2017-08-19T02:46:32.000Z
 ---
+
