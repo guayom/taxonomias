@@ -1,14 +1,22 @@
 ---
-title: "Lophornis delattrei, Rufous-crested Coquette, Coqueta Crestirrojiza"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Lophornis delattrei
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Apodiformes
+familias:
+  - 'Trochilidae '
+generos:
+  - Lophornis
+especie: delattrei
+nombre_comun: Coqueta Crestirrojiza
+nombre_ingles: Rufous-crested Coquette
+title: 'Lophornis delattrei, Rufous-crested Coquette, Coqueta Crestirrojiza'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Apodiformes"]
-familias: ["Trochilidae "]
-generos: ["Lophornis"]
-nombre_cientifico: "Lophornis delattrei"
-nombre_comun: "Coqueta Crestirrojiza"
-nombre_ingles: "Rufous-crested Coquette"
+date: 2017-08-19T02:46:32.000Z
 ---
+
