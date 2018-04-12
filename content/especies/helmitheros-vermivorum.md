@@ -1,14 +1,22 @@
 ---
-title: "Helmitheros vermivorum, Worm-eating Warbler, Reinita Gusanera"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Helmitheros vermivorum
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Parulidae '
+generos:
+  - Helmitheros
+especie: vermivorum
+nombre_comun: Reinita Gusanera
+nombre_ingles: Worm-eating Warbler
+title: 'Helmitheros vermivorum, Worm-eating Warbler, Reinita Gusanera'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Parulidae "]
-generos: ["Helmitheros"]
-nombre_cientifico: "Helmitheros vermivorum"
-nombre_comun: "Reinita Gusanera"
-nombre_ingles: "Worm-eating Warbler"
+date: 2017-08-19T02:46:32.000Z
 ---
+
