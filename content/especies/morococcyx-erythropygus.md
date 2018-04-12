@@ -1,14 +1,22 @@
 ---
-title: "Morococcyx erythropygus , Lesser Ground-Cuckoo, Cuclillo Sabanero "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: 'Morococcyx erythropygus '
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Cuculiformes
+familias:
+  - 'Cuculidae '
+generos:
+  - Morococcyx
+especie: 'erythropygus '
+nombre_comun: 'Cuclillo Sabanero '
+nombre_ingles: Lesser Ground-Cuckoo
+title: 'Morococcyx erythropygus , Lesser Ground-Cuckoo, Cuclillo Sabanero '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Cuculiformes"]
-familias: ["Cuculidae "]
-generos: ["Morococcyx"]
-nombre_cientifico: "Morococcyx erythropygus "
-nombre_comun: "Cuclillo Sabanero "
-nombre_ingles: "Lesser Ground-Cuckoo"
+date: 2017-08-19T02:46:32.000Z
 ---
+
