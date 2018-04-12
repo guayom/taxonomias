@@ -1,14 +1,22 @@
 ---
-title: "Megascops choliba, Tropical Screech-Owl, Lechucita Neotropical "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Megascops choliba
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Accipitriformes
+familias:
+  - 'Strigidae '
+generos:
+  - Megascops
+especie: choliba
+nombre_comun: 'Lechucita Neotropical '
+nombre_ingles: Tropical Screech-Owl
+title: 'Megascops choliba, Tropical Screech-Owl, Lechucita Neotropical '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Accipitriformes"]
-familias: ["Strigidae "]
-generos: ["Megascops"]
-nombre_cientifico: "Megascops choliba"
-nombre_comun: "Lechucita Neotropical "
-nombre_ingles: "Tropical Screech-Owl"
+date: 2017-08-19T02:46:32.000Z
 ---
+
