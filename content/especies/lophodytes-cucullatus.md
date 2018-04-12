@@ -1,14 +1,22 @@
 ---
-title: "Lophodytes cucullatus, Hooded Merganser, Serreta Capuchona "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Lophodytes cucullatus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Anseriformes
+familias:
+  - 'Anatidae '
+generos:
+  - Lophodytes
+especie: cucullatus
+nombre_comun: 'Serreta Capuchona '
+nombre_ingles: Hooded Merganser
+title: 'Lophodytes cucullatus, Hooded Merganser, Serreta Capuchona '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Anseriformes"]
-familias: ["Anatidae "]
-generos: ["Lophodytes"]
-nombre_cientifico: "Lophodytes cucullatus"
-nombre_comun: "Serreta Capuchona "
-nombre_ingles: "Hooded Merganser"
+date: 2017-08-19T02:46:32.000Z
 ---
+
