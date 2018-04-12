@@ -1,14 +1,22 @@
 ---
-title: "Heliornis fulica, Sungrebe, Pato Cantil "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Heliornis fulica
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Gruiformes
+familias:
+  - 'Heliornithidae '
+generos:
+  - Heliornis
+especie: fulica
+nombre_comun: 'Pato Cantil '
+nombre_ingles: Sungrebe
+title: 'Heliornis fulica, Sungrebe, Pato Cantil '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Gruiformes"]
-familias: ["Heliornithidae "]
-generos: ["Heliornis"]
-nombre_cientifico: "Heliornis fulica"
-nombre_comun: "Pato Cantil "
-nombre_ingles: "Sungrebe"
+date: 2017-08-19T02:46:32.000Z
 ---
+
