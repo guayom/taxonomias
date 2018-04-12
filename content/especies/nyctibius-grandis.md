@@ -1,14 +1,22 @@
 ---
-title: "Nyctibius grandis, Great Potoo, Nictibio Grande "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Nyctibius grandis
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Nyctibiiformes
+familias:
+  - 'Nyctibiidae '
+generos:
+  - Nyctibius
+especie: 'grandis '
+nombre_comun: 'Nictibio Grande '
+nombre_ingles: Great Potoo
+title: 'Nyctibius grandis, Great Potoo, Nictibio Grande '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Nyctibiiformes"]
-familias: ["Nyctibiidae "]
-generos: ["Nyctibius"]
-nombre_cientifico: "Nyctibius grandis"
-nombre_comun: "Nictibio Grande "
-nombre_ingles: "Great Potoo"
+date: 2017-08-19T02:46:32.000Z
 ---
+
