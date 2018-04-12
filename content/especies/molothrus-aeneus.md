@@ -1,14 +1,22 @@
 ---
-title: "Molothrus aeneus, Bronzed Cowbird, Vaquero Ojirrojo "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Molothrus aeneus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Icteridae '
+generos:
+  - Molothrus
+especie: 'aeneus '
+nombre_comun: 'Vaquero Ojirrojo '
+nombre_ingles: Bronzed Cowbird
+title: 'Molothrus aeneus, Bronzed Cowbird, Vaquero Ojirrojo '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Icteridae "]
-generos: ["Molothrus"]
-nombre_cientifico: "Molothrus aeneus"
-nombre_comun: "Vaquero Ojirrojo "
-nombre_ingles: "Bronzed Cowbird"
+date: 2017-08-19T02:46:32.000Z
 ---
+
