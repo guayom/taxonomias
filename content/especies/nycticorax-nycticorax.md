@@ -1,14 +1,22 @@
 ---
-title: "Nycticorax nycticorax, Black-crowned Night-Heron, Martinete Coroninegro "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Nycticorax nycticorax
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Pelecaniformes
+familias:
+  - 'Ardeidae '
+generos:
+  - Nycticorax
+especie: 'nycticorax '
+nombre_comun: 'Martinete Coroninegro '
+nombre_ingles: Black-crowned Night-Heron
+title: 'Nycticorax nycticorax, Black-crowned Night-Heron, Martinete Coroninegro '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Pelecaniformes"]
-familias: ["Ardeidae "]
-generos: ["Nycticorax"]
-nombre_cientifico: "Nycticorax nycticorax"
-nombre_comun: "Martinete Coroninegro "
-nombre_ingles: "Black-crowned Night-Heron"
+date: 2017-08-19T02:46:32.000Z
 ---
+
