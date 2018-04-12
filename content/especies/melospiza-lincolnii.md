@@ -1,14 +1,22 @@
 ---
-title: "Melospiza lincolnii, Lincoln's Sparrow, Sabanero de Lincoln"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Melospiza lincolnii
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Emberizidae '
+generos:
+  - Melospiza
+especie: 'lincolnii '
+nombre_comun: Sabanero de Lincoln
+nombre_ingles: Lincoln's Sparrow
+title: 'Melospiza lincolnii, Lincoln''s Sparrow, Sabanero de Lincoln'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Emberizidae "]
-generos: ["Melospiza"]
-nombre_cientifico: "Melospiza lincolnii"
-nombre_comun: "Sabanero de Lincoln"
-nombre_ingles: "Lincoln's Sparrow"
+date: 2017-08-19T02:46:32.000Z
 ---
+
