@@ -1,14 +1,22 @@
 ---
-title: "Myrmotherula schisticolor, Slaty Antwren, Hormiguerito Pizarroso"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Myrmotherula schisticolor
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Thamnophilidae '
+generos:
+  - Myrmotherula
+especie: schisticolo
+nombre_comun: Hormiguerito Pizarroso
+nombre_ingles: Slaty Antwren
+title: 'Myrmotherula schisticolor, Slaty Antwren, Hormiguerito Pizarroso'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Thamnophilidae "]
-generos: ["Myrmotherula"]
-nombre_cientifico: "Myrmotherula schisticolor"
-nombre_comun: "Hormiguerito Pizarroso"
-nombre_ingles: "Slaty Antwren"
+date: 2017-08-19T02:46:32.000Z
 ---
+
