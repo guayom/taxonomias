@@ -1,14 +1,22 @@
 ---
-title: "Larus dominicanus, Kelp Gull, Gaviota Cocinera"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Larus dominicanus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Charadriiformes
+familias:
+  - 'Laridae '
+generos:
+  - Larus
+especie: 'dominicanus '
+nombre_comun: Gaviota Cocinera
+nombre_ingles: Kelp Gull
+title: 'Larus dominicanus, Kelp Gull, Gaviota Cocinera'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Charadriiformes"]
-familias: ["Laridae "]
-generos: ["Larus"]
-nombre_cientifico: "Larus dominicanus"
-nombre_comun: "Gaviota Cocinera"
-nombre_ingles: "Kelp Gull"
+date: 2017-08-19T02:46:32.000Z
 ---
+
