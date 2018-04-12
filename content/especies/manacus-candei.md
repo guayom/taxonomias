@@ -1,14 +1,22 @@
 ---
-title: "Manacus candei, White-collared Manakin, Saltarín Cuelliblanco "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Manacus candei
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Pipridae '
+generos:
+  - Manacus
+especie: 'candei '
+nombre_comun: 'Saltarín Cuelliblanco '
+nombre_ingles: White-collared Manakin
+title: 'Manacus candei, White-collared Manakin, Saltarín Cuelliblanco '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Pipridae "]
-generos: ["Manacus"]
-nombre_cientifico: "Manacus candei"
-nombre_comun: "Saltarín Cuelliblanco "
-nombre_ingles: "White-collared Manakin"
+date: 2017-08-19T02:46:32.000Z
 ---
+
