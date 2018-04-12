@@ -1,14 +1,22 @@
 ---
-title: "Myiozetetes similis, Social Flycatcher, Mosquero Cejiblanco "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Myiozetetes similis
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Tyrannidae '
+generos:
+  - Myiozetetes
+especie: similis
+nombre_comun: 'Mosquero Cejiblanco '
+nombre_ingles: Social Flycatcher
+title: 'Myiozetetes similis, Social Flycatcher, Mosquero Cejiblanco '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Tyrannidae "]
-generos: ["Myiozetetes"]
-nombre_cientifico: "Myiozetetes similis"
-nombre_comun: "Mosquero Cejiblanco "
-nombre_ingles: "Social Flycatcher"
+date: 2017-08-19T02:46:32.000Z
 ---
+
