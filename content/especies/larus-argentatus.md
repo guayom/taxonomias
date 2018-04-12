@@ -1,14 +1,22 @@
 ---
-title: "Larus argentatus, Herring Gull, Gaviota Argéntea"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Larus argentatus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Charadriiformes
+familias:
+  - 'Laridae '
+generos:
+  - Larus
+especie: argentatus
+nombre_comun: Gaviota Argéntea
+nombre_ingles: Herring Gull
+title: 'Larus argentatus, Herring Gull, Gaviota Argéntea'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Charadriiformes"]
-familias: ["Laridae "]
-generos: ["Larus"]
-nombre_cientifico: "Larus argentatus"
-nombre_comun: "Gaviota Argéntea"
-nombre_ingles: "Herring Gull"
+date: 2017-08-19T02:46:32.000Z
 ---
+
