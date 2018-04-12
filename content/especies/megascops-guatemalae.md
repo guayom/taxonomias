@@ -1,14 +1,22 @@
 ---
-title: "Megascops guatemalae, Vermiculated Screech-Owl, Lechucita Vermiculada "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Megascops guatemalae
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Accipitriformes
+familias:
+  - 'Strigidae '
+generos:
+  - Megascops
+especie: 'guatemalae '
+nombre_comun: 'Lechucita Vermiculada '
+nombre_ingles: Vermiculated Screech-Owl
+title: 'Megascops guatemalae, Vermiculated Screech-Owl, Lechucita Vermiculada '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Accipitriformes"]
-familias: ["Strigidae "]
-generos: ["Megascops"]
-nombre_cientifico: "Megascops guatemalae"
-nombre_comun: "Lechucita Vermiculada "
-nombre_ingles: "Vermiculated Screech-Owl"
+date: 2017-08-19T02:46:32.000Z
 ---
+
