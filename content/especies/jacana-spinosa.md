@@ -1,14 +1,22 @@
 ---
-title: "Jacana spinosa, Northern Jacana, Jacana Centroamericana "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Jacana spinosa
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Charadriiformes
+familias:
+  - 'Jacanidae '
+generos:
+  - Jacana
+especie: spinosa
+nombre_comun: 'Jacana Centroamericana '
+nombre_ingles: Northern Jacana
+title: 'Jacana spinosa, Northern Jacana, Jacana Centroamericana '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Charadriiformes"]
-familias: ["Jacanidae "]
-generos: ["Jacana"]
-nombre_cientifico: "Jacana spinosa"
-nombre_comun: "Jacana Centroamericana "
-nombre_ingles: "Northern Jacana"
+date: 2017-08-19T02:46:32.000Z
 ---
+
