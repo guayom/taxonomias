@@ -1,14 +1,22 @@
 ---
-title: "Microcerculus marginatus, Scaly-breasted Wren, Soterrey Silbador"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Microcerculus marginatus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Troglodytidae '
+generos:
+  - Microcerculus
+especie: 'marginatus '
+nombre_comun: Soterrey Silbador
+nombre_ingles: Scaly-breasted Wren
+title: 'Microcerculus marginatus, Scaly-breasted Wren, Soterrey Silbador'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Troglodytidae "]
-generos: ["Microcerculus"]
-nombre_cientifico: "Microcerculus marginatus"
-nombre_comun: "Soterrey Silbador"
-nombre_ingles: "Scaly-breasted Wren"
+date: 2017-08-19T02:46:32.000Z
 ---
+
