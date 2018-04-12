@@ -1,14 +1,22 @@
 ---
-title: "Micrastur semitorquatus, Collared Forest-Falcon, Halcón de Monte Collarejo"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Micrastur semitorquatus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Falconiformes
+familias:
+  - 'Falconidae '
+generos:
+  - Micrastur
+especie: semitorquatus
+nombre_comun: Halcón de Monte Collarejo
+nombre_ingles: Collared Forest-Falcon
+title: 'Micrastur semitorquatus, Collared Forest-Falcon, Halcón de Monte Collarejo'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Falconiformes"]
-familias: ["Falconidae "]
-generos: ["Micrastur"]
-nombre_cientifico: "Micrastur semitorquatus"
-nombre_comun: "Halcón de Monte Collarejo"
-nombre_ingles: "Collared Forest-Falcon"
+date: 2017-08-19T02:46:32.000Z
 ---
+
