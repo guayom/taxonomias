@@ -1,14 +1,22 @@
 ---
-title: "Icterus bullockii, Bullock's Oriole, Bolsero de Bullock"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Icterus bullockii
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Icteridae '
+generos:
+  - Icterus
+especie: 'bullockii '
+nombre_comun: Bolsero de Bullock
+nombre_ingles: Bullock's Oriole
+title: 'Icterus bullockii, Bullock''s Oriole, Bolsero de Bullock'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Icteridae "]
-generos: ["Icterus"]
-nombre_cientifico: "Icterus bullockii"
-nombre_comun: "Bolsero de Bullock"
-nombre_ingles: "Bullock's Oriole"
+date: 2017-08-19T02:46:32.000Z
 ---
+
