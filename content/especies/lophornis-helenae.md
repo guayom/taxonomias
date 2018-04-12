@@ -1,14 +1,22 @@
 ---
-title: "Lophornis helenae, Black-crested Coquette, Coqueta Crestinegra"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Lophornis helenae
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Apodiformes
+familias:
+  - 'Trochilidae '
+generos:
+  - Lophornis
+especie: helenae
+nombre_comun: Coqueta Crestinegra
+nombre_ingles: Black-crested Coquette
+title: 'Lophornis helenae, Black-crested Coquette, Coqueta Crestinegra'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Apodiformes"]
-familias: ["Trochilidae "]
-generos: ["Lophornis"]
-nombre_cientifico: "Lophornis helenae"
-nombre_comun: "Coqueta Crestinegra"
-nombre_ingles: "Black-crested Coquette"
+date: 2017-08-19T02:46:32.000Z
 ---
+
