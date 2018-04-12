@@ -1,14 +1,22 @@
 ---
-title: "Myiodynastes maculatus, Streaked Flycatcher, Mosquero Listado "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Myiodynastes maculatus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Tyrannidae '
+generos:
+  - Myiodynastes
+especie: 'maculatus '
+nombre_comun: 'Mosquero Listado '
+nombre_ingles: Streaked Flycatcher
+title: 'Myiodynastes maculatus, Streaked Flycatcher, Mosquero Listado '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Tyrannidae "]
-generos: ["Myiodynastes"]
-nombre_cientifico: "Myiodynastes maculatus"
-nombre_comun: "Mosquero Listado "
-nombre_ingles: "Streaked Flycatcher"
+date: 2017-08-19T02:46:32.000Z
 ---
+
