@@ -1,14 +1,22 @@
 ---
-title: "Myiozetetes cayanensis, Rusty-margined Flycatcher, Mosquero Alicastaño "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Myiozetetes cayanensis
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Tyrannidae '
+generos:
+  - Myiozetetes
+especie: cayanensis
+nombre_comun: 'Mosquero Alicastaño '
+nombre_ingles: Rusty-margined Flycatcher
+title: 'Myiozetetes cayanensis, Rusty-margined Flycatcher, Mosquero Alicastaño '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Tyrannidae "]
-generos: ["Myiozetetes"]
-nombre_cientifico: "Myiozetetes cayanensis"
-nombre_comun: "Mosquero Alicastaño "
-nombre_ingles: "Rusty-margined Flycatcher"
+date: 2017-08-19T02:46:32.000Z
 ---
+
