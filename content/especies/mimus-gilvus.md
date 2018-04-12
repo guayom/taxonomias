@@ -1,14 +1,22 @@
 ---
-title: "Mimus gilvus, Tropical Mockingbird, Pájaro-imitador Tropical"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Mimus gilvus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Mimidae '
+generos:
+  - Mimus
+especie: 'gilvus '
+nombre_comun: Pájaro-imitador Tropical
+nombre_ingles: Tropical Mockingbird
+title: 'Mimus gilvus, Tropical Mockingbird, Pájaro-imitador Tropical'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Mimidae "]
-generos: ["Mimus"]
-nombre_cientifico: "Mimus gilvus"
-nombre_comun: "Pájaro-imitador Tropical"
-nombre_ingles: "Tropical Mockingbird"
+date: 2017-08-19T02:46:32.000Z
 ---
+
