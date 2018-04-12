@@ -1,14 +1,22 @@
 ---
-title: "Ibycter americanus, Red-throated Caracara, Caracara Avispera "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Ibycter americanus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Falconiformes
+familias:
+  - 'Falconidae '
+generos:
+  - Ibycter
+especie: 'americanus '
+nombre_comun: 'Caracara Avispera '
+nombre_ingles: Red-throated Caracara
+title: 'Ibycter americanus, Red-throated Caracara, Caracara Avispera '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Falconiformes"]
-familias: ["Falconidae "]
-generos: ["Ibycter"]
-nombre_cientifico: "Ibycter americanus"
-nombre_comun: "Caracara Avispera "
-nombre_ingles: "Red-throated Caracara"
+date: 2017-08-19T02:46:32.000Z
 ---
+
