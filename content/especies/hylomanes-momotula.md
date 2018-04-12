@@ -1,14 +1,22 @@
 ---
-title: "Hylomanes momotula, Tody Motmot, Momoto Enano "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Hylomanes momotula
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Coraciiformes
+familias:
+  - 'Momotidae '
+generos:
+  - Hylomanes
+especie: 'momotula '
+nombre_comun: 'Momoto Enano '
+nombre_ingles: Tody Motmot
+title: 'Hylomanes momotula, Tody Motmot, Momoto Enano '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Coraciiformes"]
-familias: ["Momotidae "]
-generos: ["Hylomanes"]
-nombre_cientifico: "Hylomanes momotula"
-nombre_comun: "Momoto Enano "
-nombre_ingles: "Tody Motmot"
+date: 2017-08-19T02:46:32.000Z
 ---
+
