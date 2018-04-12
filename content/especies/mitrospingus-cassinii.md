@@ -1,14 +1,22 @@
 ---
-title: "Mitrospingus cassinii, Dusky-faced Tanager, Tangara Carinegruzca"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Mitrospingus cassinii
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Thraupidae '
+generos:
+  - Mitrospingus
+especie: 'cassinii '
+nombre_comun: Tangara Carinegruzca
+nombre_ingles: Dusky-faced Tanager
+title: 'Mitrospingus cassinii, Dusky-faced Tanager, Tangara Carinegruzca'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Thraupidae "]
-generos: ["Mitrospingus"]
-nombre_cientifico: "Mitrospingus cassinii"
-nombre_comun: "Tangara Carinegruzca"
-nombre_ingles: "Dusky-faced Tanager"
+date: 2017-08-19T02:46:32.000Z
 ---
+
