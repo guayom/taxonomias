@@ -1,14 +1,22 @@
 ---
-title: "Melanerpes rubricapillus, Red-crowned Woodpecker, Carpintero Nuquirrojo"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Melanerpes rubricapillus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Piciformes
+familias:
+  - 'Picidae '
+generos:
+  - Melanerpes
+especie: 'rubricapillus '
+nombre_comun: Carpintero Nuquirrojo
+nombre_ingles: Red-crowned Woodpecker
+title: 'Melanerpes rubricapillus, Red-crowned Woodpecker, Carpintero Nuquirrojo'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Piciformes"]
-familias: ["Picidae "]
-generos: ["Melanerpes"]
-nombre_cientifico: "Melanerpes rubricapillus"
-nombre_comun: "Carpintero Nuquirrojo"
-nombre_ingles: "Red-crowned Woodpecker"
+date: 2017-08-19T02:46:32.000Z
 ---
+
