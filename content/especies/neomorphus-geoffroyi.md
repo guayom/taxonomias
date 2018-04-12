@@ -1,14 +1,22 @@
 ---
-title: "Neomorphus geoffroyi , Rufous-vented Ground-Cuckoo , Cuco Hormiguero"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: 'Neomorphus geoffroyi '
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Cuculiformes
+familias:
+  - 'Cuculidae '
+generos:
+  - Neomorphus
+especie: geoffroyi
+nombre_comun: Cuco Hormiguero
+nombre_ingles: 'Rufous-vented Ground-Cuckoo '
+title: 'Neomorphus geoffroyi , Rufous-vented Ground-Cuckoo , Cuco Hormiguero'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Cuculiformes"]
-familias: ["Cuculidae "]
-generos: ["Neomorphus"]
-nombre_cientifico: "Neomorphus geoffroyi "
-nombre_comun: "Cuco Hormiguero"
-nombre_ingles: "Rufous-vented Ground-Cuckoo "
+date: 2017-08-19T02:46:32.000Z
 ---
+
