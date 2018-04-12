@@ -1,14 +1,22 @@
 ---
-title: "Myrmotherula axillaris, White-flanked Antwren, Hormiguerito Flanquiblanco"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Myrmotherula axillaris
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Thamnophilidae '
+generos:
+  - Myrmotherula
+especie: 'axillaris '
+nombre_comun: Hormiguerito Flanquiblanco
+nombre_ingles: White-flanked Antwren
+title: 'Myrmotherula axillaris, White-flanked Antwren, Hormiguerito Flanquiblanco'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Thamnophilidae "]
-generos: ["Myrmotherula"]
-nombre_cientifico: "Myrmotherula axillaris"
-nombre_comun: "Hormiguerito Flanquiblanco"
-nombre_ingles: "White-flanked Antwren"
+date: 2017-08-19T02:46:32.000Z
 ---
+
