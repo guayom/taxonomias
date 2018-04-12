@@ -1,14 +1,22 @@
 ---
-title: "Megascops clarkii, Bare-shanked Screech-Owl, Lechucita Serranera "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Megascops clarkii
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Accipitriformes
+familias:
+  - 'Strigidae '
+generos:
+  - Megascops
+especie: 'clarkii '
+nombre_comun: 'Lechucita Serranera '
+nombre_ingles: Bare-shanked Screech-Owl
+title: 'Megascops clarkii, Bare-shanked Screech-Owl, Lechucita Serranera '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Accipitriformes"]
-familias: ["Strigidae "]
-generos: ["Megascops"]
-nombre_cientifico: "Megascops clarkii"
-nombre_comun: "Lechucita Serranera "
-nombre_ingles: "Bare-shanked Screech-Owl"
+date: 2017-08-19T02:46:32.000Z
 ---
+
