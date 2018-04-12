@@ -1,14 +1,22 @@
 ---
-title: "Microcerculus philomela, Nightingale Wren, Soterrey Ruiseñor"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Microcerculus philomela
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Troglodytidae '
+generos:
+  - Microcerculus
+especie: 'philomela '
+nombre_comun: Soterrey Ruiseñor
+nombre_ingles: Nightingale Wren
+title: 'Microcerculus philomela, Nightingale Wren, Soterrey Ruiseñor'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Troglodytidae "]
-generos: ["Microcerculus"]
-nombre_cientifico: "Microcerculus philomela"
-nombre_comun: "Soterrey Ruiseñor"
-nombre_ingles: "Nightingale Wren"
+date: 2017-08-19T02:46:32.000Z
 ---
+
