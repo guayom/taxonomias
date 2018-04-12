@@ -1,14 +1,22 @@
 ---
-title: "Notharchus tectus, Pied Puffbird, Buco Pinto"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Notharchus tectus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Piciformes
+familias:
+  - 'Bucconidae '
+generos:
+  - Notharchus
+especie: tectus
+nombre_comun: Buco Pinto
+nombre_ingles: Pied Puffbird
+title: 'Notharchus tectus, Pied Puffbird, Buco Pinto'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Piciformes"]
-familias: ["Bucconidae "]
-generos: ["Notharchus"]
-nombre_cientifico: "Notharchus tectus"
-nombre_comun: "Buco Pinto"
-nombre_ingles: "Pied Puffbird"
+date: 2017-08-19T02:46:32.000Z
 ---
+
