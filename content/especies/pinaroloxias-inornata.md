@@ -1,14 +1,22 @@
 ---
-title: "Pinaroloxias inornata, Cocos Finch, Pinzón de la Isla del Coco"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Pinaroloxias inornata
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Thraupidae '
+generos:
+  - Pinaroloxias
+especie: 'inornata '
+nombre_comun: Pinzón de la Isla del Coco
+nombre_ingles: Cocos Finch
+title: 'Pinaroloxias inornata, Cocos Finch, Pinzón de la Isla del Coco'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Thraupidae "]
-generos: ["Pinaroloxias"]
-nombre_cientifico: "Pinaroloxias inornata"
-nombre_comun: "Pinzón de la Isla del Coco"
-nombre_ingles: "Cocos Finch"
+date: 2017-08-19T02:46:32.000Z
 ---
+
