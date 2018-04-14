@@ -1,14 +1,22 @@
 ---
-title: "Porphyrio martinicus, Purple Gallinule, Gallareta Morada "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Porphyrio martinicus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Gruiformes
+familias:
+  - 'Rallidae '
+generos:
+  - Porphyrio
+especie: 'martinicus '
+nombre_comun: 'Gallareta Morada '
+nombre_ingles: Purple Gallinule
+title: 'Porphyrio martinicus, Purple Gallinule, Gallareta Morada '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Gruiformes"]
-familias: ["Rallidae "]
-generos: ["Porphyrio"]
-nombre_cientifico: "Porphyrio martinicus"
-nombre_comun: "Gallareta Morada "
-nombre_ingles: "Purple Gallinule"
+date: 2017-08-19T02:46:32.000Z
 ---
+
