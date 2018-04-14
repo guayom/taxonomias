@@ -1,14 +1,22 @@
 ---
-title: "Sayornis nigricans, Black Phoebe, Mosquero de Agua"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Sayornis nigricans
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Tyrannidae '
+generos:
+  - Sayornis
+especie: nigricans
+nombre_comun: Mosquero de Agua
+nombre_ingles: Black Phoebe
+title: 'Sayornis nigricans, Black Phoebe, Mosquero de Agua'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Tyrannidae "]
-generos: ["Sayornis"]
-nombre_cientifico: "Sayornis nigricans"
-nombre_comun: "Mosquero de Agua"
-nombre_ingles: "Black Phoebe"
+date: 2017-08-19T02:46:32.000Z
 ---
+
