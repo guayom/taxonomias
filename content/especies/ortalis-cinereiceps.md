@@ -1,14 +1,22 @@
 ---
-title: "Ortalis cinereiceps, Gray-headed Chachalaca, Chachalaca Cabecigrís "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Ortalis cinereiceps
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Galliformes
+familias:
+  - 'Cracidae '
+generos:
+  - Ortalis
+especie: cinereiceps
+nombre_comun: 'Chachalaca Cabecigrís '
+nombre_ingles: Gray-headed Chachalaca
+title: 'Ortalis cinereiceps, Gray-headed Chachalaca, Chachalaca Cabecigrís '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Galliformes"]
-familias: ["Cracidae "]
-generos: ["Ortalis"]
-nombre_cientifico: "Ortalis cinereiceps"
-nombre_comun: "Chachalaca Cabecigrís "
-nombre_ingles: "Gray-headed Chachalaca"
+date: 2017-08-19T02:46:32.000Z
 ---
+
