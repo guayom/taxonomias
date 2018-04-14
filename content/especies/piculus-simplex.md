@@ -1,14 +1,22 @@
 ---
-title: "Piculus simplex, Rufous-winged Woodpecker, Carpintero Alirrufo"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Piculus simplex
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Piciformes
+familias:
+  - 'Picidae '
+generos:
+  - Piculus
+especie: 'simplex '
+nombre_comun: Carpintero Alirrufo
+nombre_ingles: Rufous-winged Woodpecker
+title: 'Piculus simplex, Rufous-winged Woodpecker, Carpintero Alirrufo'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Piciformes"]
-familias: ["Picidae "]
-generos: ["Piculus"]
-nombre_cientifico: "Piculus simplex"
-nombre_comun: "Carpintero Alirrufo"
-nombre_ingles: "Rufous-winged Woodpecker"
+date: 2017-08-19T02:46:32.000Z
 ---
+
