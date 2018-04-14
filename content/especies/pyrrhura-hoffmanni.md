@@ -1,14 +1,22 @@
 ---
-title: "Pyrrhura hoffmanni, Sulphur-winged Parakeet, Perico Aliazufrado"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Pyrrhura hoffmanni
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Psittaciformes
+familias:
+  - 'Psittacidae '
+generos:
+  - Pyrrhura
+especie: 'hoffmanni '
+nombre_comun: Perico Aliazufrado
+nombre_ingles: Sulphur-winged Parakeet
+title: 'Pyrrhura hoffmanni, Sulphur-winged Parakeet, Perico Aliazufrado'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Psittaciformes"]
-familias: ["Psittacidae "]
-generos: ["Pyrrhura"]
-nombre_cientifico: "Pyrrhura hoffmanni"
-nombre_comun: "Perico Aliazufrado"
-nombre_ingles: "Sulphur-winged Parakeet"
+date: 2017-08-19T02:46:32.000Z
 ---
+
