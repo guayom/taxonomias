@@ -1,14 +1,22 @@
 ---
-title: "Rynchops niger, Black Skimmer, Rayador Negro"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Rynchops niger
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Charadriiformes
+familias:
+  - 'Laridae '
+generos:
+  - Rynchops
+especie: niger
+nombre_comun: Rayador Negro
+nombre_ingles: Black Skimmer
+title: 'Rynchops niger, Black Skimmer, Rayador Negro'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Charadriiformes"]
-familias: ["Laridae "]
-generos: ["Rynchops"]
-nombre_cientifico: "Rynchops niger"
-nombre_comun: "Rayador Negro"
-nombre_ingles: "Black Skimmer"
+date: 2017-08-19T02:46:32.000Z
 ---
+
