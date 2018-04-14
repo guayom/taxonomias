@@ -1,14 +1,22 @@
 ---
-title: "Pheucticus tibialis, Black-thighed Grosbeak, Picogrueso Vientriamarillo "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Pheucticus tibialis
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Cardinalidae '
+generos:
+  - Pheucticus
+especie: 'tibialis '
+nombre_comun: 'Picogrueso Vientriamarillo '
+nombre_ingles: Black-thighed Grosbeak
+title: 'Pheucticus tibialis, Black-thighed Grosbeak, Picogrueso Vientriamarillo '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Cardinalidae "]
-generos: ["Pheucticus"]
-nombre_cientifico: "Pheucticus tibialis"
-nombre_comun: "Picogrueso Vientriamarillo "
-nombre_ingles: "Black-thighed Grosbeak"
+date: 2017-08-19T02:46:32.000Z
 ---
+
