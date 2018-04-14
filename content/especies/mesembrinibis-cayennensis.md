@@ -1,14 +1,22 @@
 ---
-title: "Mesembrinibis cayennensis, Green Ibis, Ibis Verde "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Mesembrinibis cayennensis
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Pelecaniformes
+familias:
+  - 'Threskiornithidae '
+generos:
+  - Mesembrinibis
+especie: 'cayennensis '
+nombre_comun: 'Ibis Verde '
+nombre_ingles: Green Ibis
+title: 'Mesembrinibis cayennensis, Green Ibis, Ibis Verde '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Pelecaniformes"]
-familias: ["Threskiornithidae "]
-generos: ["Mesembrinibis"]
-nombre_cientifico: "Mesembrinibis cayennensis"
-nombre_comun: "Ibis Verde "
-nombre_ingles: "Green Ibis"
+date: 2017-08-19T02:46:32.000Z
 ---
+
