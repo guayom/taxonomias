@@ -1,14 +1,22 @@
 ---
-title: "Phaethon rubricauda, Red-tailed Tropicbird, Rabijunco Cola Roja"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Phaethon rubricauda
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Phaethontiformes
+familias:
+  - 'Phaethontidae '
+generos:
+  - Phaethon
+especie: 'rubricauda '
+nombre_comun: Rabijunco Cola Roja
+nombre_ingles: Red-tailed Tropicbird
+title: 'Phaethon rubricauda, Red-tailed Tropicbird, Rabijunco Cola Roja'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Phaethontiformes"]
-familias: ["Phaethontidae "]
-generos: ["Phaethon"]
-nombre_cientifico: "Phaethon rubricauda"
-nombre_comun: "Rabijunco Cola Roja"
-nombre_ingles: "Red-tailed Tropicbird"
+date: 2017-08-19T02:46:32.000Z
 ---
+
