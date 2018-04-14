@@ -1,14 +1,22 @@
 ---
-title: "Pheugopedius maculipectus, Spot-breasted Wren, Soterrey Pechimoteado"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Pheugopedius maculipectus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Troglodytidae '
+generos:
+  - Pheugopedius
+especie: maculipectus
+nombre_comun: Soterrey Pechimoteado
+nombre_ingles: Spot-breasted Wren
+title: 'Pheugopedius maculipectus, Spot-breasted Wren, Soterrey Pechimoteado'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Troglodytidae "]
-generos: ["Pheugopedius"]
-nombre_cientifico: "Pheugopedius maculipectus"
-nombre_comun: "Soterrey Pechimoteado"
-nombre_ingles: "Spot-breasted Wren"
+date: 2017-08-19T02:46:32.000Z
 ---
+
