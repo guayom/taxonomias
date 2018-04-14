@@ -1,14 +1,24 @@
 ---
-title: "Phainoptila melanoxantha, Black-and-yellow Silky-Flycatcher, Capulinero Negro y Amarillo "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Phainoptila melanoxantha
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Ptiliogonatidae '
+generos:
+  - Phainoptila
+especie: 'melanoxantha '
+nombre_comun: 'Capulinero Negro y Amarillo '
+nombre_ingles: Black-and-yellow Silky-Flycatcher
+title: >-
+  Phainoptila melanoxantha, Black-and-yellow Silky-Flycatcher, Capulinero Negro
+  y Amarillo 
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Ptiliogonatidae "]
-generos: ["Phainoptila"]
-nombre_cientifico: "Phainoptila melanoxantha"
-nombre_comun: "Capulinero Negro y Amarillo "
-nombre_ingles: "Black-and-yellow Silky-Flycatcher"
+date: 2017-08-19T02:46:32.000Z
 ---
+
