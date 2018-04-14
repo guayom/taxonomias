@@ -1,14 +1,22 @@
 ---
-title: "Phaeochroa cuvierii, Scaly-breasted Hummingbird, Colibrí Pechiescamado"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Phaeochroa cuvierii
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Apodiformes
+familias:
+  - 'Trochilidae '
+generos:
+  - Phaeochroa
+especie: 'cuvierii '
+nombre_comun: Colibrí Pechiescamado
+nombre_ingles: Scaly-breasted Hummingbird
+title: 'Phaeochroa cuvierii, Scaly-breasted Hummingbird, Colibrí Pechiescamado'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Apodiformes"]
-familias: ["Trochilidae "]
-generos: ["Phaeochroa"]
-nombre_cientifico: "Phaeochroa cuvierii"
-nombre_comun: "Colibrí Pechiescamado"
-nombre_ingles: "Scaly-breasted Hummingbird"
+date: 2017-08-19T02:46:32.000Z
 ---
+
