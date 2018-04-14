@@ -1,14 +1,22 @@
 ---
-title: "Phalaropus lobatus, Red-necked Phalarope, Falaropo Picofino"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Phalaropus lobatus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Charadriiformes
+familias:
+  - 'Scolopacidae '
+generos:
+  - Phalaropus
+especie: lobatus
+nombre_comun: Falaropo Picofino
+nombre_ingles: Red-necked Phalarope
+title: 'Phalaropus lobatus, Red-necked Phalarope, Falaropo Picofino'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Charadriiformes"]
-familias: ["Scolopacidae "]
-generos: ["Phalaropus"]
-nombre_cientifico: "Phalaropus lobatus"
-nombre_comun: "Falaropo Picofino"
-nombre_ingles: "Red-necked Phalarope"
+date: 2017-08-19T02:46:32.000Z
 ---
+
