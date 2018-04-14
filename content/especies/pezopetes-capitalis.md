@@ -1,14 +1,22 @@
 ---
-title: "Pezopetes capitalis, Large-footed Finch, Saltón Patigrande"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Pezopetes capitalis
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Emberizidae '
+generos:
+  - Pezopetes
+especie: 'capitalis '
+nombre_comun: Saltón Patigrande
+nombre_ingles: Large-footed Finch
+title: 'Pezopetes capitalis, Large-footed Finch, Saltón Patigrande'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Emberizidae "]
-generos: ["Pezopetes"]
-nombre_cientifico: "Pezopetes capitalis"
-nombre_comun: "Saltón Patigrande"
-nombre_ingles: "Large-footed Finch"
+date: 2017-08-19T02:46:32.000Z
 ---
+
