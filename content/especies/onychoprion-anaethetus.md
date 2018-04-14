@@ -1,14 +1,22 @@
 ---
-title: "Onychoprion anaethetus, Bridled Tern, Charrán Embridado"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Onychoprion anaethetus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Charadriiformes
+familias:
+  - 'Laridae '
+generos:
+  - Onychoprion
+especie: 'anaethetus '
+nombre_comun: Charrán Embridado
+nombre_ingles: Bridled Tern
+title: 'Onychoprion anaethetus, Bridled Tern, Charrán Embridado'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Charadriiformes"]
-familias: ["Laridae "]
-generos: ["Onychoprion"]
-nombre_cientifico: "Onychoprion anaethetus"
-nombre_comun: "Charrán Embridado"
-nombre_ingles: "Bridled Tern"
+date: 2017-08-19T02:46:32.000Z
 ---
+
