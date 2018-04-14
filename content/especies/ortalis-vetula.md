@@ -1,14 +1,22 @@
 ---
-title: "Ortalis vetula, Plain Chachalaca, Chachalaca Olivácea "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Ortalis vetula
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Galliformes
+familias:
+  - 'Cracidae '
+generos:
+  - Ortalis
+especie: 'vetula '
+nombre_comun: 'Chachalaca Olivácea '
+nombre_ingles: Plain Chachalaca
+title: 'Ortalis vetula, Plain Chachalaca, Chachalaca Olivácea '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Galliformes"]
-familias: ["Cracidae "]
-generos: ["Ortalis"]
-nombre_cientifico: "Ortalis vetula"
-nombre_comun: "Chachalaca Olivácea "
-nombre_ingles: "Plain Chachalaca"
+date: 2017-08-19T02:46:32.000Z
 ---
+
