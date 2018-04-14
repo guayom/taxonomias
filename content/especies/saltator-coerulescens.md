@@ -1,14 +1,22 @@
 ---
-title: "Saltator coerulescens, Grayish Saltator, Saltator Grisáceo "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Saltator coerulescens
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Thraupidae '
+generos:
+  - Saltator
+especie: coerulescens
+nombre_comun: 'Saltator Grisáceo '
+nombre_ingles: Grayish Saltator
+title: 'Saltator coerulescens, Grayish Saltator, Saltator Grisáceo '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Thraupidae "]
-generos: ["Saltator"]
-nombre_cientifico: "Saltator coerulescens"
-nombre_comun: "Saltator Grisáceo "
-nombre_ingles: "Grayish Saltator"
+date: 2017-08-19T02:46:32.000Z
 ---
+
