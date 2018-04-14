@@ -1,14 +1,22 @@
 ---
-title: "Piranga flava, Hepatic Tanager, Tangara Bermeja "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Piranga flava
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Cardinalidae '
+generos:
+  - Piranga
+especie: 'flava '
+nombre_comun: 'Tangara Bermeja '
+nombre_ingles: Hepatic Tanager
+title: 'Piranga flava, Hepatic Tanager, Tangara Bermeja '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Cardinalidae "]
-generos: ["Piranga"]
-nombre_cientifico: "Piranga flava"
-nombre_comun: "Tangara Bermeja "
-nombre_ingles: "Hepatic Tanager"
+date: 2017-08-19T02:46:32.000Z
 ---
+
