@@ -1,14 +1,22 @@
 ---
-title: "Pseudastur albicollis, White Hawk, Gavilán Blanco"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Pseudastur albicollis
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Accipitriformes
+familias:
+  - 'Accipitridae '
+generos:
+  - Pseudastur
+especie: albicollis
+nombre_comun: Gavilán Blanco
+nombre_ingles: White Hawk
+title: 'Pseudastur albicollis, White Hawk, Gavilán Blanco'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Accipitriformes"]
-familias: ["Accipitridae "]
-generos: ["Pseudastur"]
-nombre_cientifico: "Pseudastur albicollis"
-nombre_comun: "Gavilán Blanco"
-nombre_ingles: "White Hawk"
+date: 2017-08-19T02:46:32.000Z
 ---
+
