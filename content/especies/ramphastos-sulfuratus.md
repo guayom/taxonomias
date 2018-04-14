@@ -1,14 +1,22 @@
 ---
-title: "Ramphastos sulfuratus, Keel-billed Toucan, Tucán Pico Iris "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Ramphastos sulfuratus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Piciformes
+familias:
+  - 'Ramphastidae '
+generos:
+  - Ramphastos
+especie: sulfuratus
+nombre_comun: 'Tucán Pico Iris '
+nombre_ingles: Keel-billed Toucan
+title: 'Ramphastos sulfuratus, Keel-billed Toucan, Tucán Pico Iris '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Piciformes"]
-familias: ["Ramphastidae "]
-generos: ["Ramphastos"]
-nombre_cientifico: "Ramphastos sulfuratus"
-nombre_comun: "Tucán Pico Iris "
-nombre_ingles: "Keel-billed Toucan"
+date: 2017-08-19T02:46:32.000Z
 ---
+
