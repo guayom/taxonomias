@@ -1,14 +1,22 @@
 ---
-title: "Pachyramphus cinnamomeus, Cinnamon Becard, Cabezón Canelo"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Pachyramphus cinnamomeus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Tityridae '
+generos:
+  - Pachyramphus
+especie: 'cinnamomeus '
+nombre_comun: Cabezón Canelo
+nombre_ingles: Cinnamon Becard
+title: 'Pachyramphus cinnamomeus, Cinnamon Becard, Cabezón Canelo'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Tityridae "]
-generos: ["Pachyramphus"]
-nombre_cientifico: "Pachyramphus cinnamomeus"
-nombre_comun: "Cabezón Canelo"
-nombre_ingles: "Cinnamon Becard"
+date: 2017-08-19T02:46:32.000Z
 ---
+
