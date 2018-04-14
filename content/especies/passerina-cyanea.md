@@ -1,14 +1,22 @@
 ---
-title: "Passerina cyanea, Indigo Bunting, Azulillo Norteño "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Passerina cyanea
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Cardinalidae '
+generos:
+  - Passerina
+especie: 'cyanea '
+nombre_comun: 'Azulillo Norteño '
+nombre_ingles: Indigo Bunting
+title: 'Passerina cyanea, Indigo Bunting, Azulillo Norteño '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Cardinalidae "]
-generos: ["Passerina"]
-nombre_cientifico: "Passerina cyanea"
-nombre_comun: "Azulillo Norteño "
-nombre_ingles: "Indigo Bunting"
+date: 2017-08-19T02:46:32.000Z
 ---
+
