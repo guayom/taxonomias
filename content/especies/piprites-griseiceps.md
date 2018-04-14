@@ -1,14 +1,22 @@
 ---
-title: "Piprites griseiceps, Gray-headed Piprites, Saltarín Cabecigrís"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Piprites griseiceps
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Tyrannidae '
+generos:
+  - Piprites
+especie: 'griseiceps '
+nombre_comun: Saltarín Cabecigrís
+nombre_ingles: Gray-headed Piprites
+title: 'Piprites griseiceps, Gray-headed Piprites, Saltarín Cabecigrís'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Tyrannidae "]
-generos: ["Piprites"]
-nombre_cientifico: "Piprites griseiceps"
-nombre_comun: "Saltarín Cabecigrís"
-nombre_ingles: "Gray-headed Piprites"
+date: 2017-08-19T02:46:32.000Z
 ---
+
