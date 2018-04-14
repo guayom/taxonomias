@@ -1,14 +1,22 @@
 ---
-title: "Ornithion semiflavum, Yellow-bellied Tyrannulet, Mosquerito Cejiblanco"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Ornithion semiflavum
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Tyrannidae '
+generos:
+  - Ornithion
+especie: semiflavum
+nombre_comun: Mosquerito Cejiblanco
+nombre_ingles: Yellow-bellied Tyrannulet
+title: 'Ornithion semiflavum, Yellow-bellied Tyrannulet, Mosquerito Cejiblanco'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Tyrannidae "]
-generos: ["Ornithion"]
-nombre_cientifico: "Ornithion semiflavum"
-nombre_comun: "Mosquerito Cejiblanco"
-nombre_ingles: "Yellow-bellied Tyrannulet"
+date: 2017-08-19T02:46:32.000Z
 ---
+
