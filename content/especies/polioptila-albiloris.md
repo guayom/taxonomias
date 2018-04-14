@@ -1,14 +1,22 @@
 ---
-title: "Polioptila albiloris, White-lored Gnatcatcher, Perlita Cabecinegra "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Polioptila albiloris
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Polioptilidae '
+generos:
+  - Polioptila
+especie: 'albiloris '
+nombre_comun: 'Perlita Cabecinegra '
+nombre_ingles: White-lored Gnatcatcher
+title: 'Polioptila albiloris, White-lored Gnatcatcher, Perlita Cabecinegra '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Polioptilidae "]
-generos: ["Polioptila"]
-nombre_cientifico: "Polioptila albiloris"
-nombre_comun: "Perlita Cabecinegra "
-nombre_ingles: "White-lored Gnatcatcher"
+date: 2017-08-19T02:46:32.000Z
 ---
+
