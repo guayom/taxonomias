@@ -1,14 +1,22 @@
 ---
-title: "Pheugopedius fasciatoventris, Black-bellied Wren, Soterrey Vientrinegro"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Pheugopedius fasciatoventris
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Troglodytidae '
+generos:
+  - Pheugopedius
+especie: 'fasciatoventris '
+nombre_comun: Soterrey Vientrinegro
+nombre_ingles: Black-bellied Wren
+title: 'Pheugopedius fasciatoventris, Black-bellied Wren, Soterrey Vientrinegro'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Troglodytidae "]
-generos: ["Pheugopedius"]
-nombre_cientifico: "Pheugopedius fasciatoventris"
-nombre_comun: "Soterrey Vientrinegro"
-nombre_ingles: "Black-bellied Wren"
+date: 2017-08-19T02:46:32.000Z
 ---
+
