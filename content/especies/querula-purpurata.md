@@ -1,14 +1,22 @@
 ---
-title: "Querula purpurata, Purple-throated Fruitcrow, Querula Gorgimorada"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Querula purpurata
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Cotingidae '
+generos:
+  - Querula
+especie: purpurata
+nombre_comun: Querula Gorgimorada
+nombre_ingles: Purple-throated Fruitcrow
+title: 'Querula purpurata, Purple-throated Fruitcrow, Querula Gorgimorada'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Cotingidae "]
-generos: ["Querula"]
-nombre_cientifico: "Querula purpurata"
-nombre_comun: "Querula Gorgimorada"
-nombre_ingles: "Purple-throated Fruitcrow"
+date: 2017-08-19T02:46:32.000Z
 ---
+
