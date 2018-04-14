@@ -1,14 +1,22 @@
 ---
-title: "Setophaga striata, Blackpoll Warbler, Reinita Rayada"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Setophaga striata
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Parulidae '
+generos:
+  - Setophaga
+especie: 'striata '
+nombre_comun: Reinita Rayada
+nombre_ingles: Blackpoll Warbler
+title: 'Setophaga striata, Blackpoll Warbler, Reinita Rayada'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Parulidae "]
-generos: ["Setophaga"]
-nombre_cientifico: "Setophaga striata"
-nombre_comun: "Reinita Rayada"
-nombre_ingles: "Blackpoll Warbler"
+date: 2017-08-19T02:46:32.000Z
 ---
+
