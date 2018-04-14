@@ -1,14 +1,22 @@
 ---
-title: "Porzana carolina, Sora, Polluela Sora"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Porzana carolina
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Gruiformes
+familias:
+  - 'Rallidae '
+generos:
+  - Porzana
+especie: carolina
+nombre_comun: Polluela Sora
+nombre_ingles: Sora
+title: 'Porzana carolina, Sora, Polluela Sora'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Gruiformes"]
-familias: ["Rallidae "]
-generos: ["Porzana"]
-nombre_cientifico: "Porzana carolina"
-nombre_comun: "Polluela Sora"
-nombre_ingles: "Sora"
+date: 2017-08-19T02:46:32.000Z
 ---
+
