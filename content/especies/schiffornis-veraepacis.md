@@ -1,14 +1,22 @@
 ---
-title: "Schiffornis veraepacis, Northern Schiffornis, Tordo-saltarín"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Schiffornis veraepacis
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Tityridae '
+generos:
+  - Schiffornis
+especie: veraepacis
+nombre_comun: Tordo-saltarín
+nombre_ingles: Northern Schiffornis
+title: 'Schiffornis veraepacis, Northern Schiffornis, Tordo-saltarín'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Tityridae "]
-generos: ["Schiffornis"]
-nombre_cientifico: "Schiffornis veraepacis"
-nombre_comun: "Tordo-saltarín"
-nombre_ingles: "Northern Schiffornis"
+date: 2017-08-19T02:46:32.000Z
 ---
+
