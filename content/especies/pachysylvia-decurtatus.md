@@ -1,14 +1,22 @@
 ---
-title: "Pachysylvia decurtatus, Lesser Greenlet, Verdillo Menudo"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Pachysylvia decurtatus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Vireonidae '
+generos:
+  - Pachysylvia
+especie: 'decurtatus '
+nombre_comun: Verdillo Menudo
+nombre_ingles: Lesser Greenlet
+title: 'Pachysylvia decurtatus, Lesser Greenlet, Verdillo Menudo'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Vireonidae "]
-generos: ["Pachysylvia"]
-nombre_cientifico: "Pachysylvia decurtatus"
-nombre_comun: "Verdillo Menudo"
-nombre_ingles: "Lesser Greenlet"
+date: 2017-08-19T02:46:32.000Z
 ---
+
