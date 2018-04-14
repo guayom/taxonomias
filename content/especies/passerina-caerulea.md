@@ -1,14 +1,22 @@
 ---
-title: "Passerina caerulea, Blue Grosbeak, Picogrueso Azul "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Passerina caerulea
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Cardinalidae '
+generos:
+  - Passerina
+especie: caerulea
+nombre_comun: 'Picogrueso Azul '
+nombre_ingles: Blue Grosbeak
+title: 'Passerina caerulea, Blue Grosbeak, Picogrueso Azul '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Cardinalidae "]
-generos: ["Passerina"]
-nombre_cientifico: "Passerina caerulea"
-nombre_comun: "Picogrueso Azul "
-nombre_ingles: "Blue Grosbeak"
+date: 2017-08-19T02:46:32.000Z
 ---
+
