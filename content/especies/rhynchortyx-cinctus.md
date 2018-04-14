@@ -1,14 +1,22 @@
 ---
-title: "Rhynchortyx cinctus, Tawny-faced Quail, Codorniz Carirrufa"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Rhynchortyx cinctus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Galliformes
+familias:
+  - 'Odontophoridae '
+generos:
+  - Rhynchortyx
+especie: 'cinctus '
+nombre_comun: Codorniz Carirrufa
+nombre_ingles: Tawny-faced Quail
+title: 'Rhynchortyx cinctus, Tawny-faced Quail, Codorniz Carirrufa'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Galliformes"]
-familias: ["Odontophoridae "]
-generos: ["Rhynchortyx"]
-nombre_cientifico: "Rhynchortyx cinctus"
-nombre_comun: "Codorniz Carirrufa"
-nombre_ingles: "Tawny-faced Quail"
+date: 2017-08-19T02:46:32.000Z
 ---
+
