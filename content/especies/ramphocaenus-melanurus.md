@@ -1,14 +1,22 @@
 ---
-title: "Ramphocaenus melanurus, Long-billed Gnatwren, Soterillo Picudo"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Ramphocaenus melanurus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Polioptilidae '
+generos:
+  - Ramphocaenus
+especie: melanurus
+nombre_comun: Soterillo Picudo
+nombre_ingles: Long-billed Gnatwren
+title: 'Ramphocaenus melanurus, Long-billed Gnatwren, Soterillo Picudo'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Polioptilidae "]
-generos: ["Ramphocaenus"]
-nombre_cientifico: "Ramphocaenus melanurus"
-nombre_comun: "Soterillo Picudo"
-nombre_ingles: "Long-billed Gnatwren"
+date: 2017-08-19T02:46:32.000Z
 ---
+
