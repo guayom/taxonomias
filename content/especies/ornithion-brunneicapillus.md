@@ -1,14 +1,22 @@
 ---
-title: "Ornithion brunneicapillus, Brown-capped Tyrannulet, Mosquerito Gorricafé"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Ornithion brunneicapillus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Tyrannidae '
+generos:
+  - Ornithion
+especie: 'brunneicapillus '
+nombre_comun: Mosquerito Gorricafé
+nombre_ingles: Brown-capped Tyrannulet
+title: 'Ornithion brunneicapillus, Brown-capped Tyrannulet, Mosquerito Gorricafé'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Tyrannidae "]
-generos: ["Ornithion"]
-nombre_cientifico: "Ornithion brunneicapillus"
-nombre_comun: "Mosquerito Gorricafé"
-nombre_ingles: "Brown-capped Tyrannulet"
+date: 2017-08-19T02:46:32.000Z
 ---
+
