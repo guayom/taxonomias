@@ -1,14 +1,22 @@
 ---
-title: "Patagioenas leucocephala, White-crowned Pigeon, Paloma Coroniblanca"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Patagioenas leucocephala
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Columbiformes
+familias:
+  - 'Columbidae '
+generos:
+  - Patagioenas
+especie: leucocephala
+nombre_comun: Paloma Coroniblanca
+nombre_ingles: White-crowned Pigeon
+title: 'Patagioenas leucocephala, White-crowned Pigeon, Paloma Coroniblanca'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Columbiformes"]
-familias: ["Columbidae "]
-generos: ["Patagioenas"]
-nombre_cientifico: "Patagioenas leucocephala"
-nombre_comun: "Paloma Coroniblanca"
-nombre_ingles: "White-crowned Pigeon"
+date: 2017-08-19T02:46:32.000Z
 ---
+
