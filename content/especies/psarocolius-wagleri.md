@@ -1,14 +1,22 @@
 ---
-title: "Psarocolius wagleri, Chestnut-headed Oropendola, Oropéndola Cabecicastaña "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Psarocolius wagleri
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Icteridae '
+generos:
+  - Psarocolius
+especie: wagleri
+nombre_comun: 'Oropéndola Cabecicastaña '
+nombre_ingles: Chestnut-headed Oropendola
+title: 'Psarocolius wagleri, Chestnut-headed Oropendola, Oropéndola Cabecicastaña '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Icteridae "]
-generos: ["Psarocolius"]
-nombre_cientifico: "Psarocolius wagleri"
-nombre_comun: "Oropéndola Cabecicastaña "
-nombre_ingles: "Chestnut-headed Oropendola"
+date: 2017-08-19T02:46:32.000Z
 ---
+
