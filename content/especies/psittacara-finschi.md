@@ -1,14 +1,22 @@
 ---
-title: "Psittacara finschi, Crimson-fronted Parakeet, Perico Frentirrojo "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Psittacara finschi
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Psittaciformes
+familias:
+  - 'Psittacidae '
+generos:
+  - Psittacara
+especie: 'finschi '
+nombre_comun: 'Perico Frentirrojo '
+nombre_ingles: Crimson-fronted Parakeet
+title: 'Psittacara finschi, Crimson-fronted Parakeet, Perico Frentirrojo '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Psittaciformes"]
-familias: ["Psittacidae "]
-generos: ["Psittacara"]
-nombre_cientifico: "Psittacara finschi"
-nombre_comun: "Perico Frentirrojo "
-nombre_ingles: "Crimson-fronted Parakeet"
+date: 2017-08-19T02:46:32.000Z
 ---
+
