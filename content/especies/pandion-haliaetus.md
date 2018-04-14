@@ -1,14 +1,22 @@
 ---
-title: "Pandion haliaetus, Osprey, Águila Pescadora "
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Pandion haliaetus
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Accipitriformes
+familias:
+  - 'Pandionidae '
+generos:
+  - Pandion
+especie: 'haliaetus '
+nombre_comun: 'Águila Pescadora '
+nombre_ingles: Osprey
+title: 'Pandion haliaetus, Osprey, Águila Pescadora '
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Accipitriformes"]
-familias: ["Pandionidae "]
-generos: ["Pandion"]
-nombre_cientifico: "Pandion haliaetus"
-nombre_comun: "Águila Pescadora "
-nombre_ingles: "Osprey"
+date: 2017-08-19T02:46:32.000Z
 ---
+
