@@ -1,14 +1,22 @@
 ---
-title: "Phaeomyias murina, Mouse-colored Tyrannulet, Mosquerito Cafecito"
-date: 2017-08-18T20:46:32-06:00
+nombre_cientifico: Phaeomyias murina
+reinos:
+  - Animalia
+divisiones:
+  - Chordata
+clases:
+  - Aves
+ordenes:
+  - Passeriformes
+familias:
+  - 'Tyrannidae '
+generos:
+  - Phaeomyias
+especie: murina
+nombre_comun: Mosquerito Cafecito
+nombre_ingles: Mouse-colored Tyrannulet
+title: 'Phaeomyias murina, Mouse-colored Tyrannulet, Mosquerito Cafecito'
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Tyrannidae "]
-generos: ["Phaeomyias"]
-nombre_cientifico: "Phaeomyias murina"
-nombre_comun: "Mosquerito Cafecito"
-nombre_ingles: "Mouse-colored Tyrannulet"
+date: 2017-08-19T02:46:32.000Z
 ---
+
