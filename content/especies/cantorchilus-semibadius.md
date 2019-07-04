@@ -16,7 +16,6 @@ generos:
 especie: semibadius
 nombre_comun: Soterrey Pechibarreteado
 nombre_ingles: Riverside Wren
-title: 'Cantorchilus semibadius, Riverside Wren, Soterrey Pechibarreteado'
 links: 'https://flic.kr/p/C5iLw9'
 images:
   - url: 'https://flic.kr/p/C5iLw9'
