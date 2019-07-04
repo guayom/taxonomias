@@ -19,7 +19,6 @@ nombre_ingles: Mountain Elaenia
 otros_nombres:
   - Tontillo
   - Bobillo
-title: 'Elaenia frantzii, Mountain Elaenia, Elainia Montañera'
 draft: false
 date: 2018-02-18T03:07:01.656Z
 ---

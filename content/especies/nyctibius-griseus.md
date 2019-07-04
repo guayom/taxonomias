@@ -19,7 +19,6 @@ nombre_ingles: Common Potoo
 otros_nombres:
   - Pájaro Estaca
   - Pájaro Palo
-title: 'Nyctibius griseus, Common Potoo, Nictibio Común'
 draft: false
 date: 2018-02-18T03:16:09.070Z
 ---

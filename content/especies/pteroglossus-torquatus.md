@@ -20,7 +20,6 @@ otros_nombres:
   - Cusingo
   - Tití
   - Félix
-title: 'Pteroglossus torquatus, Collared Aracari, Tucancillo Collarejo'
 draft: false
 date: 2018-02-18T19:13:25.718Z
 ---

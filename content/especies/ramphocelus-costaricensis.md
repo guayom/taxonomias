@@ -16,7 +16,6 @@ generos:
 especie: costaricensis
 nombre_comun: Sargento
 nombre_ingles: Cherries's Tanager
-title: 'Ramphocelus costaricensis, Cherries''s Tanager, Sargento'
 links: 'https://flic.kr/p/mw2sHc'
 images:
   - url: 'https://flic.kr/p/mw2sHc'
