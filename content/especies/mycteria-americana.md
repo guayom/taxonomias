@@ -1,21 +1,15 @@
 ---
-nombre_cientifico: Mycteria americana
-title: Mycteria americana, Wood Stork, Cigüeñón
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Ciconiiformes
-familias:
-  - Ciconiidae
-generos:
-  - Mycteria
-especie: Americana
-nombre_comun: Cigüeñón
-nombre_ingles: Wood Stork
+nombre_cientifico: "Mycteria americana"
+title: "Mycteria americana, Wood Stork, Cigüeñón"
+reinos: ["Animalia"]
+divisiones: ["Chordata"]
+clases: ["Aves"]
+ordenes: ["Ciconiiformes"]
+familias: ["Ciconiidae"]
+generos: ["Mycteria"]
+especie: "Americana"
+nombre_comun: "Cigüeñón"
+nombre_ingles: "Wood Stork"
 otros_nombres:
   - Garzón
   - Guairón
