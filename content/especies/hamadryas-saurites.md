@@ -20,7 +20,7 @@ links: >-
 images:
   - url: >-
       https://www.flickr.com/photos/eduardomena/albums/72157667840178261/with/32252193644/
-draft: 'false'
+draft: false
 date: 2017-11-18T20:13:42.278Z
 ---
 

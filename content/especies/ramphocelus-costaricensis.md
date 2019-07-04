@@ -20,7 +20,7 @@ title: 'Ramphocelus costaricensis, Cherries''s Tanager, Sargento'
 links: 'https://flic.kr/p/mw2sHc'
 images:
   - url: 'https://flic.kr/p/mw2sHc'
-draft: 'false'
+draft: false
 date: 2018-02-08T13:33:03.063Z
 ---
 

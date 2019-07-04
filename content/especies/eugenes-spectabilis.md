@@ -17,7 +17,7 @@ especie: spectabilis
 nombre_comun: Colibrí Magnífico
 nombre_ingles: Magnificent Hummingbird
 title: spectabilis
-draft: 'false'
+draft: false
 date: 2018-02-18T18:55:27.087Z
 ---
 

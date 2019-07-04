@@ -18,7 +18,7 @@ nombre_ingles: Tree Swallow
 title: 'Tachycineta bicolor, Golondrina Bicolor, Tree Swallow'
 vista: false
 los_cielos: false
-draft: 'false'
+draft: false
 date: '2018-04-14T09:21:15-06:00'
 ---
 

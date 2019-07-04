@@ -18,7 +18,7 @@ nombre_ingles: Queen's wreath
 otros_nombres:
   - Purple wreath
 links: 'https://flic.kr/p/X8ePzd'
-draft: 'false'
+draft: false
 date: 2017-09-03T00:33:12.420Z
 ---
 null

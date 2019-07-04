@@ -21,7 +21,7 @@ otros_nombres:
   - Quichichi
   - Pichichi
 title: 'Dendrocygna autumnalis, Black-bellied Whistling-Duck, Pijije Común'
-draft: 'false'
+draft: false
 date: 2018-02-19T00:16:31.925Z
 ---
 

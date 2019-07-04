@@ -17,7 +17,7 @@ nombre_comun: Amapola
 nombre_ingles: null
 otros_nombres: null
 links: 'https://flic.kr/p/WNsaEL'
-draft: 'false'
+draft: false
 date: 2017-09-03T00:08:11.613Z
 ---
 null

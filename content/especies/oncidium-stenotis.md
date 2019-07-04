@@ -20,7 +20,7 @@ otros_nombres: null
 links: 'https://flic.kr/p/XjkVyS'
 images:
   - url: 'https://flic.kr/p/XjkVyS'
-draft: 'false'
+draft: false
 date: 2017-09-11T12:58:43.857Z
 ---
 null

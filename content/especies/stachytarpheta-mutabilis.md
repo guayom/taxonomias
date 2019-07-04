@@ -17,7 +17,7 @@ nombre_comun: null
 nombre_ingles: Pink snakeweed
 otros_nombres: null
 links: 'https://flic.kr/p/U1VANr'
-draft: 'false'
+draft: false
 date: 2017-09-03T02:40:44.695Z
 ---
 null
