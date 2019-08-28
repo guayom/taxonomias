@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Elaeagnus unbellata
-reinos:
-  - Plantae
-divisiones:
-  - Magnoliophyta
-clases:
-  - Magnoliopsida
-ordenes:
-  - Proteales
-familias:
-  - Elaeagnaceae
-generos:
-  - Elaeagnus
+reinos: "Plantae"
+divisiones: "Magnoliophyta"
+clases: "Magnoliopsida"
+ordenes: "Proteales"
+familias: "Elaeagnaceae"
+generos: "Elaeagnus"
 especie: unbellata
 nombre_comun: Uvita Tica
 nombre_ingles: Autumn olive
