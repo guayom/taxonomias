@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Catharus fuscescens
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Turdidae '
-generos:
-  - Catharus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Turdidae '
+generos: Catharus
 especie: 'fuscescens '
 nombre_comun: 'Zorzal Dorsirrojizo '
 nombre_ingles: Veery

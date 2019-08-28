@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Epinecrophylla fulviventris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thamnophilidae '
-generos:
-  - Epinecrophylla
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thamnophilidae '
+generos: Epinecrophylla
 especie: 'fulviventris '
 nombre_comun: Hormiguerito Café
 nombre_ingles: Checker-throated Antwren

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Contopus sordidulus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Contopus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Contopus
 especie: 'sordidulus '
 nombre_comun: 'Pibí Occidental '
 nombre_ingles: Western Wood-Pewee

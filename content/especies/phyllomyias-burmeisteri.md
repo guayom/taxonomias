@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Phyllomyias burmeisteri
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Phyllomyias
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Phyllomyias
 especie: 'burmeisteri '
 nombre_comun: Mosquerito Frentiblanco
 nombre_ingles: Rough-legged Tyrannulet

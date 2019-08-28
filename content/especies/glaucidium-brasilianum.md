@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Glaucidium brasilianum
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Strigidae '
-generos:
-  - Glaucidium
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Strigidae '
+generos: Glaucidium
 especie: 'brasilianum '
 nombre_comun: 'Mochuelo Común '
 nombre_ingles: Ferruginous Pygmy-Owl

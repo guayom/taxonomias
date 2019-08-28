@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Rissa tridactyla
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Laridae '
-generos:
-  - Rissa
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Laridae '
+generos: Rissa
 especie: tridactyla
 nombre_comun: Gaviota Patinegra
 nombre_ingles: Black-legged Kittiwake

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Limosa fedoa
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Scolopacidae '
-generos:
-  - Limosa
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Scolopacidae '
+generos: Limosa
 especie: 'fedoa '
 nombre_comun: Aguja Canela
 nombre_ingles: Marbled Godwit

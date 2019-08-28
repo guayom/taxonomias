@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Penelope purpurascens
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Galliformes
-familias:
-  - 'Cracidae '
-generos:
-  - Penelope
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Galliformes
+familias: 'Cracidae '
+generos: Penelope
 especie: 'purpurascens '
 nombre_comun: 'Pava Crestada '
 nombre_ingles: Crested Guan

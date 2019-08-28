@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Lampornis calolaemus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Lampornis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Lampornis
 especie: calolaemus
 nombre_comun: Colibrí Montañes Gorgimorado
 nombre_ingles: Purple-throated Mountain-gem

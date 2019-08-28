@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Anthracothorax veraguensis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Anthracothorax
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Anthracothorax
 especie: veraguensis
 nombre_comun: Colibrí Manguito de Veragua
 nombre_ingles: Veraguan Mango

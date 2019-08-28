@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cypseloides cherriei
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Apodidae '
-generos:
-  - Cypseloides
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Apodidae '
+generos: Cypseloides
 especie: 'cherriei '
 nombre_comun: Vencejo de Cherrie
 nombre_ingles: Spot-fronted Swift

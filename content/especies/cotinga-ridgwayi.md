@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cotinga ridgwayi
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Cotingidae '
-generos:
-  - Cotinga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Cotingidae '
+generos: Cotinga
 especie: 'ridgwayi '
 nombre_comun: Cotinga Turquesa
 nombre_ingles: Turquoise Cotinga

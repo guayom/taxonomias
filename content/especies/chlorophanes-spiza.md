@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Chlorophanes spiza
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Chlorophanes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Chlorophanes
 especie: 'spiza '
 nombre_comun: 'Mielero Verde '
 nombre_ingles: Green Honeycreeper

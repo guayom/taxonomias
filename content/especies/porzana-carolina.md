@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Porzana carolina
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Gruiformes
-familias:
-  - 'Rallidae '
-generos:
-  - Porzana
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Gruiformes
+familias: 'Rallidae '
+generos: Porzana
 especie: carolina
 nombre_comun: Polluela Sora
 nombre_ingles: Sora

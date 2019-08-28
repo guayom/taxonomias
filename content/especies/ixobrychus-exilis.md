@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Ixobrychus exilis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Pelecaniformes
-familias:
-  - 'Ardeidae '
-generos:
-  - Ixobrychus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Pelecaniformes
+familias: 'Ardeidae '
+generos: Ixobrychus
 especie: 'exilis '
 nombre_comun: 'Avetorillo Pantanero '
 nombre_ingles: Least Bittern

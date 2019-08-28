@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Habia fuscicauda
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Cardinalidae '
-generos:
-  - Habia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Cardinalidae '
+generos: Habia
 especie: 'fuscicauda '
 nombre_comun: Tangara Hormiguera Gorgirroja
 nombre_ingles: Red-throated Ant-Tanager

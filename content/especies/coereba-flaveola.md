@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Coereba flaveola
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Coereba
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Coereba
 especie: 'flaveola '
 nombre_comun: 'Reinita Mielera '
 nombre_ingles: Bananaquit

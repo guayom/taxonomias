@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Eupsittula canicularis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Psittaciformes
-familias:
-  - 'Psittacidae '
-generos:
-  - Eupsittula
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Psittaciformes
+familias: 'Psittacidae '
+generos: Eupsittula
 especie: 'canicularis '
 nombre_comun: 'Perico Frentinaranja '
 nombre_ingles: Orange-fronted Parakeet

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Camptostoma imberbe
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Camptostoma
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Camptostoma
 especie: 'imberbe '
 nombre_comun: Mosquerito Chillón
 nombre_ingles: Northern Beardless-Tyrannulet

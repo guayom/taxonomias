@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Sciurus carolinensis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Mammalia
-ordenes:
-  - Rodentia
-familias:
-  - Sciuridae
-generos:
-  - Sciurus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: Mammalia
+ordenes: Rodentia
+familias: Sciuridae
+generos: Sciurus
 especie: carolinensis
 title: Sciurus variegatoides, Variegated squirrel, Ardilla
 nombre_comun: Ardilla

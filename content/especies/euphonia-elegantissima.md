@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Euphonia elegantissima
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Fringillidae '
-generos:
-  - Euphonia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Fringillidae '
+generos: Euphonia
 especie: 'elegantissima '
 nombre_comun: 'Eufonia Capuchiceleste '
 nombre_ingles: Elegant Euphonia

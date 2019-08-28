@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Psarocolius montezuma
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Icteridae '
-generos:
-  - Psarocolius
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Icteridae '
+generos: Psarocolius
 especie: montezuma
 nombre_comun: 'Oropéndola de Moctezuma '
 nombre_ingles: Montezuma Oropendola

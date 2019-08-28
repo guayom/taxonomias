@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Phalaropus fulicarius
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Scolopacidae '
-generos:
-  - Phalaropus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Scolopacidae '
+generos: Phalaropus
 especie: 'fulicarius '
 nombre_comun: Falaropo Rojo
 nombre_ingles: Red Phalarope

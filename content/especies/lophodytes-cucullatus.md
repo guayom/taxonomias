@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Lophodytes cucullatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Anseriformes
-familias:
-  - 'Anatidae '
-generos:
-  - Lophodytes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Anseriformes
+familias: 'Anatidae '
+generos: Lophodytes
 especie: cucullatus
 nombre_comun: 'Serreta Capuchona '
 nombre_ingles: Hooded Merganser

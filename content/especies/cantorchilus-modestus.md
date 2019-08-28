@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cantorchilus modestus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Troglodytidae '
-generos:
-  - Cantorchilus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Troglodytidae '
+generos: Cantorchilus
 especie: 'modestus '
 nombre_comun: 'Soterrey Chinchirigüí '
 nombre_ingles: Cabanis’s Wren

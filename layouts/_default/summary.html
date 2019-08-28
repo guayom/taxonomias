@@ -2,12 +2,12 @@
   <td>
     <a href="{{ .Permalink }}"></a>{{ with .Params.nombre_cientifico }}{{ . }}{{ end }}<a>
   </td>
-  <td>{{ with .Params.reinos }}{{ index . 0 }}{{ end }}</td>
-  <td>{{ with .Params.divisiones }}{{ index . 0 }}{{ end }}</td>
-  <td>{{ with .Params.clases }}{{ index . 0 }}{{ end }}</td>
-  <td>{{ with .Params.ordenes }}{{ index . 0 }}{{ end }}</td>
-  <td>{{ with .Params.familias }}{{ index . 0 }}{{ end }}</td>
-  <td>{{ with .Params.generos }}{{ index . 0 }}{{ end }}</td>
+  <td>{{ with .Params.reinos }}{{ . }}{{ end }}</td>
+  <td>{{ with .Params.divisiones }}{{ . }}{{ end }}</td>
+  <td>{{ with .Params.clases }}{{ . }}{{ end }}</td>
+  <td>{{ with .Params.ordenes }}{{ . }}{{ end }}</td>
+  <td>{{ with .Params.familias }}{{ . }}{{ end }}</td>
+  <td>{{ with .Params.generos }}{{ . }}{{ end }}</td>
   <td>
     <a href="{{ .Permalink }}">{{ .Params.especie }}</a>
     <br/>

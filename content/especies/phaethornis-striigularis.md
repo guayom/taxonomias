@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Phaethornis striigularis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Phaethornis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Phaethornis
 especie: 'striigularis '
 nombre_comun: Ermitaño Enano
 nombre_ingles: Stripe-throated Hermit

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Ara ambiguus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Psittaciformes
-familias:
-  - 'Psittacidae '
-generos:
-  - Ara
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Psittaciformes
+familias: 'Psittacidae '
+generos: Ara
 especie: ambiguus
 nombre_comun: 'Guacamayo Verde Mayor '
 nombre_ingles: 'Great Green Macaw '

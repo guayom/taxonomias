@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Phaeochroa cuvierii
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Phaeochroa
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Phaeochroa
 especie: 'cuvierii '
 nombre_comun: Colibrí Pechiescamado
 nombre_ingles: Scaly-breasted Hummingbird

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Euphonia laniirostris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Fringillidae '
-generos:
-  - Euphonia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Fringillidae '
+generos: Euphonia
 especie: laniirostris
 nombre_comun: 'Eufonia Piquigruesa '
 nombre_ingles: Thick-billed Euphonia

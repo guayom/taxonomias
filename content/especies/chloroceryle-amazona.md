@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Chloroceryle amazona
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Coraciiformes
-familias:
-  - 'Alcedinidae '
-generos:
-  - Chloroceryle
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Coraciiformes
+familias: 'Alcedinidae '
+generos: Chloroceryle
 especie: 'amazona '
 nombre_comun: Martín Pescador Amazónico
 nombre_ingles: Amazon Kingfisher

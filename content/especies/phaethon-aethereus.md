@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Phaethon aethereus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Phaethontiformes
-familias:
-  - 'Phaethontidae '
-generos:
-  - Phaethon
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Phaethontiformes
+familias: 'Phaethontidae '
+generos: Phaethon
 especie: 'aethereus '
 nombre_comun: Rabijunco Piquirrojo
 nombre_ingles: Red-billed Tropicbird

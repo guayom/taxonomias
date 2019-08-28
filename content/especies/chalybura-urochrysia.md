@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Chalybura urochrysia
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Chalybura
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Chalybura
 especie: 'urochrysia '
 nombre_comun: Colibrí Patirrojo
 nombre_ingles: Bronze-tailed Plumeleteer

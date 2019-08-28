@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Myiobius sulphureipygius
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Myiobius
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Myiobius
 especie: 'sulphureipygius '
 nombre_comun: Mosquerito Lomiamarillo
 nombre_ingles: Sulphur-rumped Flycatcher

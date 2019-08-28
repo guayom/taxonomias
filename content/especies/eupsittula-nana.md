@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Eupsittula nana
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Psittaciformes
-familias:
-  - 'Psittacidae '
-generos:
-  - Eupsittula
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Psittaciformes
+familias: 'Psittacidae '
+generos: Eupsittula
 especie: 'nana '
 nombre_comun: Perico Azteco
 nombre_ingles: Olive-throated Parakeet

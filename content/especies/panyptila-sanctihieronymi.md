@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Panyptila sanctihieronymi
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Apodidae '
-generos:
-  - Panyptila
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Apodidae '
+generos: Panyptila
 especie: 'sanctihieronymi '
 nombre_comun: Vencejo Tijereta Mayor
 nombre_ingles: Great Swallow-tailed Swift

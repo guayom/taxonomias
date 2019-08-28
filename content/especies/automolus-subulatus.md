@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Automolus subulatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Furnariidae '
-generos:
-  - Automolus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Furnariidae '
+generos: Automolus
 especie: subulatus
 nombre_comun: Trepamusgo Rayado
 nombre_ingles: Striped Woodhaunter

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Habia rubica
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Cardinalidae '
-generos:
-  - Habia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Cardinalidae '
+generos: Habia
 especie: 'rubica '
 nombre_comun: 'Tangara Hormiguera Coronirroja '
 nombre_ingles: Red-crowned Ant-Tanager

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Klais guimeti
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Klais
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Klais
 especie: 'guimeti '
 nombre_comun: Colibrí Cabeciazul
 nombre_ingles: Violet-headed Hummingbird

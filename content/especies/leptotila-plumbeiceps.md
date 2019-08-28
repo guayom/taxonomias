@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Leptotila plumbeiceps
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Columbiformes
-familias:
-  - 'Columbidae '
-generos:
-  - Leptotila
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Columbiformes
+familias: 'Columbidae '
+generos: Leptotila
 especie: plumbeiceps
 nombre_comun: 'Paloma Coronigrís '
 nombre_ingles: Gray-headed Dove

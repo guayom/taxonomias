@@ -1,18 +1,12 @@
 ---
 nombre_cientifico: Oncidium stenotis
 title: Oncidium stenotis, null, Orquídea
-reinos:
-  - Plantae
-divisiones:
-  - Magnoliophyta
-clases:
-  - Liliopsida
-ordenes:
-  - Asparagales
-familias:
-  - Orchidaceae
-generos:
-  - Oncidium
+reinos: Plantae
+divisiones: Magnoliophyta
+clases: Liliopsida
+ordenes: Asparagales
+familias: Orchidaceae
+generos: Oncidium
 especie: stenotis
 nombre_comun: Orquídea
 nombre_ingles: null

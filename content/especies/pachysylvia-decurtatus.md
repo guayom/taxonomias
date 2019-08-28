@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pachysylvia decurtatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Vireonidae '
-generos:
-  - Pachysylvia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Vireonidae '
+generos: Pachysylvia
 especie: 'decurtatus '
 nombre_comun: Verdillo Menudo
 nombre_ingles: Lesser Greenlet

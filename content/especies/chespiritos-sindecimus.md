@@ -2,12 +2,12 @@
 title: "Chespiritos sindecimus"
 date: 2017-08-18T20:46:32-06:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Arthropoda"]
-clases: ["Insecta"]
-ordenes: ["Diptera"]
-familias: ["Sphaeroceridae"]
-generos: ["Chespiritos"]
+reinos: "Animalia"
+divisiones: "Arthropoda"
+clases: "Insecta"
+ordenes: "Diptera"
+familias: "Sphaeroceridae"
+generos: "Chespiritos"
 especie: "sindecimus"
 nombre_cientifico: "Chespiritos sindecimus"
 nombre_comun: ""

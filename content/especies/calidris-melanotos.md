@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Calidris melanotos
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Scolopacidae '
-generos:
-  - Calidris
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Scolopacidae '
+generos: Calidris
 especie: melanotos
 nombre_comun: 'Correlimos Pechirrayado '
 nombre_ingles: Pectoral Sandpiper

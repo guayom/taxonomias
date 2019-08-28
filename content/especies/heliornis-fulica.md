@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Heliornis fulica
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Gruiformes
-familias:
-  - 'Heliornithidae '
-generos:
-  - Heliornis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Gruiformes
+familias: 'Heliornithidae '
+generos: Heliornis
 especie: fulica
 nombre_comun: 'Pato Cantil '
 nombre_ingles: Sungrebe

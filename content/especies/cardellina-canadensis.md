@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cardellina canadensis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Cardellina
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Cardellina
 especie: 'canadensis '
 nombre_comun: Reinita Pechirrayada
 nombre_ingles: Canada Warbler

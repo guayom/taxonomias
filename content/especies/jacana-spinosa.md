@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Jacana spinosa
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Jacanidae '
-generos:
-  - Jacana
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Jacanidae '
+generos: Jacana
 especie: spinosa
 nombre_comun: 'Jacana Centroamericana '
 nombre_ingles: Northern Jacana

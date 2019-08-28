@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Bangsia arcaei
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Bangsia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Bangsia
 especie: arcaei
 nombre_comun: 'Tangara de Costillas Negras '
 nombre_ingles: Blue-and-gold Tanager

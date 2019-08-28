@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Micrastur semitorquatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Falconiformes
-familias:
-  - 'Falconidae '
-generos:
-  - Micrastur
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Falconiformes
+familias: 'Falconidae '
+generos: Micrastur
 especie: semitorquatus
 nombre_comun: Halcón de Monte Collarejo
 nombre_ingles: Collared Forest-Falcon

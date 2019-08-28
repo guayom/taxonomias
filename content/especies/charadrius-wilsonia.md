@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Charadrius wilsonia
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Charadriidae '
-generos:
-  - Charadrius
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Charadriidae '
+generos: Charadrius
 especie: 'wilsonia '
 nombre_comun: 'Chorlitejo Picudo '
 nombre_ingles: Wilson's Plover

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Gampsonyx swainsonii
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Gampsonyx
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Gampsonyx
 especie: 'swainsonii '
 nombre_comun: Elanio Enano
 nombre_ingles: Pearl Kite

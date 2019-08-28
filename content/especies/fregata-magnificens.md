@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Fregata magnificens
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Suliformes
-familias:
-  - 'Fregatidae '
-generos:
-  - Fregata
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Suliformes
+familias: 'Fregatidae '
+generos: Fregata
 especie: 'magnificens '
 nombre_comun: 'Rabihorcado Magno '
 nombre_ingles: Magnificent Frigatebird

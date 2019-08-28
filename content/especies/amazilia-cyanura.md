@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Amazilia cyanura
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Amazilia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Amazilia
 especie: cyanura
 nombre_comun: 'Amazilia Coliazul '
 nombre_ingles: Blue-tailed Hummingbird

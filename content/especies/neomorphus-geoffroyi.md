@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: 'Neomorphus geoffroyi '
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Cuculiformes
-familias:
-  - 'Cuculidae '
-generos:
-  - Neomorphus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Cuculiformes
+familias: 'Cuculidae '
+generos: Neomorphus
 especie: geoffroyi
 nombre_comun: Cuco Hormiguero
 nombre_ingles: 'Rufous-vented Ground-Cuckoo '

@@ -2,12 +2,12 @@
 title: "Myrmeciza zeledoni, Zeledon's Antbird, Hormiguero de Zeledón"
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Thamnophilidae "]
-generos: ["Myrmeciza"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: "Thamnophilidae "
+generos: "Myrmeciza"
 especie: "zeledoni"
 nombre_cientifico: "Myrmeciza zeledoni"
 nombre_comun: "Hormiguero de Zeledón"

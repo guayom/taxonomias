@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Chlorophonia callophrys
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Fringillidae '
-generos:
-  - Chlorophonia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Fringillidae '
+generos: Chlorophonia
 especie: 'callophrys '
 nombre_comun: 'Clorofonia Cejidorada '
 nombre_ingles: Golden-browed Chlorophonia

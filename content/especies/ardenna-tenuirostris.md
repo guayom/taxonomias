@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Ardenna tenuirostris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - 'Procellariidae '
-generos:
-  - Ardenna
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: 'Procellariidae '
+generos: Ardenna
 especie: tenuirostris
 nombre_comun: Pardela Colicorta
 nombre_ingles: Short-tailed Shearwater

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Ardenna pacifica
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - 'Procellariidae '
-generos:
-  - Ardenna
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: 'Procellariidae '
+generos: Ardenna
 especie: pacifica
 nombre_comun: Pardela Colicuña
 nombre_ingles: Wedge-tailed Shearwater

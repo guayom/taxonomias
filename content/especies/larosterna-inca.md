@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Larosterna inca
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Laridae '
-generos:
-  - Larosterna
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Laridae '
+generos: Larosterna
 especie: inca
 nombre_comun: Charrán Inca
 nombre_ingles: Inca Tern

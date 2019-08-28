@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pseudoscops clamator
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Strigidae '
-generos:
-  - Pseudoscops
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Strigidae '
+generos: Pseudoscops
 especie: 'clamator '
 nombre_comun: Búho Listado
 nombre_ingles: Striped Owl

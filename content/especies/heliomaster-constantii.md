@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Heliomaster constantii
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Heliomaster
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Heliomaster
 especie: constantii
 nombre_comun: Colibrí Pochotero
 nombre_ingles: Plain-capped Starthroat

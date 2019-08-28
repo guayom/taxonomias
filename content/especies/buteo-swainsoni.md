@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Buteo swainsoni
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Buteo
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Buteo
 especie: swainsoni
 nombre_comun: Gavilán de Swainson
 nombre_ingles: Swainson's Hawk

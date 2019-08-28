@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Euchrepomis callinota
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thamnophilidae '
-generos:
-  - Euchrepomis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thamnophilidae '
+generos: Euchrepomis
 especie: callinota
 nombre_comun: Hormiguerito Lomirrufo
 nombre_ingles: Rufous-rumped Antwren

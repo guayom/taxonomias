@@ -1,18 +1,12 @@
 ---
 nombre_cientifico: Trogon melanocephalus
 title: Trogon melanocephalus, Black-headed Trogon, Trogón Cabecinegro
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Trogoniformes
-familias:
-  - Trogonidae
-generos:
-  - Trogon
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Trogoniformes
+familias: Trogonidae
+generos: Trogon
 especie: melanocephalus
 nombre_comun: Trogón Cabecinegro
 nombre_ingles: Black-headed Trogon

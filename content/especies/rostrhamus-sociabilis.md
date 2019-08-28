@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Rostrhamus sociabilis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Rostrhamus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Rostrhamus
 especie: 'sociabilis '
 nombre_comun: 'Elanio Caracolero '
 nombre_ingles: Snail Kite

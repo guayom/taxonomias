@@ -2,12 +2,12 @@
 title: "Urania fulgens"
 date: 2017-08-18T20:46:32-06:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Arthropoda"]
-clases: ["Insecta"]
-ordenes: ["Lepidoptera"]
-familias: ["Uraniidae"]
-generos: ["Urania"]
+reinos: "Animalia"
+divisiones: "Arthropoda"
+clases: "Insecta"
+ordenes: "Lepidoptera"
+familias: "Uraniidae"
+generos: "Urania"
 especie: "fulgens"
 nombre_cientifico: "Urania fulgens"
 nombre_comun: ""

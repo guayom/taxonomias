@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Podilymbus podiceps
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Podicipediformes
-familias:
-  - 'Podicipedidae '
-generos:
-  - Podilymbus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Podicipediformes
+familias: 'Podicipedidae '
+generos: Podilymbus
 especie: podiceps
 nombre_comun: 'Zambullidor Piquipinto '
 nombre_ingles: Pied-billed Grebe

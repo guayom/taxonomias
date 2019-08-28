@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Falco deiroleucus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Falconiformes
-familias:
-  - 'Falconidae '
-generos:
-  - Falco
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Falconiformes
+familias: 'Falconidae '
+generos: Falco
 especie: deiroleucus
 nombre_comun: 'Halcón Pechirrufo '
 nombre_ingles: Orange-breasted Falcon

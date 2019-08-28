@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Rhynchocyclus brevirostris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Rhynchocyclus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Rhynchocyclus
 especie: 'brevirostris '
 nombre_comun: Piquiplano de Anteojos
 nombre_ingles: Eye-ringed Flatbill

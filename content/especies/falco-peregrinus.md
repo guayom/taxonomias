@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Falco peregrinus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Falconiformes
-familias:
-  - 'Falconidae '
-generos:
-  - Falco
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Falconiformes
+familias: 'Falconidae '
+generos: Falco
 especie: 'peregrinus '
 nombre_comun: Halcón Peregrino
 nombre_ingles: Peregrine Falcon

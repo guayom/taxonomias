@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Leucopternis semiplumbeus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Leucopternis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Leucopternis
 especie: 'semiplumbeus '
 nombre_comun: Gavilán Dorsiplomizo
 nombre_ingles: Semiplumbeous Hawk

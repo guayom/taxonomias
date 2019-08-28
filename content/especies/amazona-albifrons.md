@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Amazona albifrons
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Psittaciformes
-familias:
-  - 'Psittacidae '
-generos:
-  - Amazona
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Psittaciformes
+familias: 'Psittacidae '
+generos: Amazona
 especie: albifrons
 nombre_comun: 'Loro Frentiblanco '
 nombre_ingles: White-fronted Parrot

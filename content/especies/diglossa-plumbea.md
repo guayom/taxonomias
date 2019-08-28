@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Diglossa plumbea
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Diglossa
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Diglossa
 especie: plumbea
 nombre_comun: Pinchaflor Plomizo
 nombre_ingles: Slaty Flowerpiercer

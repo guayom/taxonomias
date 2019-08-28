@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Setophaga fusca
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Setophaga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Setophaga
 especie: 'fusca '
 nombre_comun: Reinita Gorginaranja
 nombre_ingles: Blackburnian Warbler

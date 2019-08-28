@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Limosa haemastica
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Scolopacidae '
-generos:
-  - Limosa
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Scolopacidae '
+generos: Limosa
 especie: 'haemastica '
 nombre_comun: Aguja Lomiblanca
 nombre_ingles: Hudsonian Godwit

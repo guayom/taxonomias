@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Geothlypis formosa
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Geothlypis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Geothlypis
 especie: 'formosa '
 nombre_comun: Reinita Cachetinegra
 nombre_ingles: Kentucky Warbler

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Dendrocincla homochroa
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Furnariidae '
-generos:
-  - Dendrocincla
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Furnariidae '
+generos: Dendrocincla
 especie: 'homochroa '
 nombre_comun: Trepador Rojizo
 nombre_ingles: Ruddy Woodcreeper

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Creagrus furcatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Laridae '
-generos:
-  - Creagrus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Laridae '
+generos: Creagrus
 especie: 'furcatus '
 nombre_comun: Gaviota Tijereta
 nombre_ingles: Swallow-tailed Gull

@@ -2,12 +2,12 @@
 title: "Colaptes rubiginosus, Golden-olive Woodpecker, Carpintero Verde Dorado"
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Piciformes"]
-familias: ["Picidae "]
-generos: ["Colaptes"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Piciformes"
+familias: "Picidae "
+generos: "Colaptes"
 especie: "rubiginosus"
 nombre_cientifico: "Colaptes rubiginosus"
 nombre_comun: "Carpintero Verde Dorado"

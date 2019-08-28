@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Poecilotriccus sylvia
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Poecilotriccus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Poecilotriccus
 especie: 'sylvia '
 nombre_comun: Espatulilla Cabecigrís
 nombre_ingles: Slate-headed Tody-Flycatcher

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Oreothlypis peregrina
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Oreothlypis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Oreothlypis
 especie: peregrina
 nombre_comun: 'Reinita Verdilla '
 nombre_ingles: Tennessee Warbler

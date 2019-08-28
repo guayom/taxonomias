@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pheugopedius atrogularis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Troglodytidae '
-generos:
-  - Pheugopedius
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Troglodytidae '
+generos: Pheugopedius
 especie: 'atrogularis '
 nombre_comun: Soterrey Gorginegro
 nombre_ingles: Black-throated Wren

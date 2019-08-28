@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Botaurus pinnatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Pelecaniformes
-familias:
-  - 'Ardeidae '
-generos:
-  - Botaurus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Pelecaniformes
+familias: 'Ardeidae '
+generos: Botaurus
 especie: pinnatus
 nombre_comun: 'Avetoro Neotropical '
 nombre_ingles: Pinnated Bittern

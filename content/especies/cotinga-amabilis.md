@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cotinga amabilis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Cotingidae '
-generos:
-  - Cotinga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Cotingidae '
+generos: Cotinga
 especie: amabilis
 nombre_comun: Cotinga Linda
 nombre_ingles: Lovely Cotinga

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Molothrus oryzivorus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Icteridae '
-generos:
-  - Molothrus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Icteridae '
+generos: Molothrus
 especie: oryzivorus
 nombre_comun: Vaquero Grande
 nombre_ingles: Giant Cowbird

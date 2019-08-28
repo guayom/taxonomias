@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Dendrocygna viduata
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Anseriformes
-familias:
-  - 'Anatidae '
-generos:
-  - Dendrocygna
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Anseriformes
+familias: 'Anatidae '
+generos: Dendrocygna
 especie: 'viduata '
 nombre_comun: 'Pijije Cariblanco '
 nombre_ingles: White-faced Whistling-Duck

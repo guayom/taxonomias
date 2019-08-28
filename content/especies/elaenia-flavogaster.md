@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Elaenia flavogaster
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Elaenia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Elaenia
 especie: 'flavogaster '
 nombre_comun: 'Elainia Copetona '
 nombre_ingles: Yellow-bellied Elaenia

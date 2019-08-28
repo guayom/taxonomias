@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Onychorhynchus coronatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Onychorhynchus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Onychorhynchus
 especie: 'coronatus '
 nombre_comun: Mosquero Real
 nombre_ingles: Royal Flycatcher

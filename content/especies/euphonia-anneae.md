@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Euphonia anneae
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Fringillidae '
-generos:
-  - Euphonia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Fringillidae '
+generos: Euphonia
 especie: 'anneae '
 nombre_comun: 'Eufonia Gorricanela '
 nombre_ingles: Tawny-capped Euphonia

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Egretta tricolor
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Pelecaniformes
-familias:
-  - 'Ardeidae '
-generos:
-  - Egretta
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Pelecaniformes
+familias: 'Ardeidae '
+generos: Egretta
 especie: 'tricolor '
 nombre_comun: Garceta Tricolor
 nombre_ingles: Tricolored Heron

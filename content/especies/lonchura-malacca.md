@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Lonchura malacca
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Estrildidae '
-generos:
-  - Lonchura
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Estrildidae '
+generos: Lonchura
 especie: 'malacca '
 nombre_comun: Monjita Tricolor
 nombre_ingles: Tricolored Munia

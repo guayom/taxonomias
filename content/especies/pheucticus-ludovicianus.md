@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pheucticus ludovicianus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Cardinalidae '
-generos:
-  - Pheucticus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Cardinalidae '
+generos: Pheucticus
 especie: 'ludovicianus '
 nombre_comun: 'Picogrueso Pechirrosado '
 nombre_ingles: Rose-breasted Grosbeak

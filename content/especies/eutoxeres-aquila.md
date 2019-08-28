@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Eutoxeres aquila
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Eutoxeres
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Eutoxeres
 especie: 'aquila '
 nombre_comun: Pico de Hoz
 nombre_ingles: White-tipped Sicklebill

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Phaethon lepturus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Phaethontiformes
-familias:
-  - 'Phaethontidae '
-generos:
-  - Phaethon
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Phaethontiformes
+familias: 'Phaethontidae '
+generos: Phaethon
 especie: 'lepturus '
 nombre_comun: Rabijunco Cola Blanca
 nombre_ingles: White-tailed Tropicbird

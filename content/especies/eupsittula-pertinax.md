@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Eupsittula pertinax
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Psittaciformes
-familias:
-  - 'Psittacidae '
-generos:
-  - Eupsittula
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Psittaciformes
+familias: 'Psittacidae '
+generos: Eupsittula
 especie: pertinax
 nombre_comun: Perico Gorgicafé
 nombre_ingles: Brown-throated Parakeet

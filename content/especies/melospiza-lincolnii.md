@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Melospiza lincolnii
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Emberizidae '
-generos:
-  - Melospiza
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Emberizidae '
+generos: Melospiza
 especie: 'lincolnii '
 nombre_comun: Sabanero de Lincoln
 nombre_ingles: Lincoln's Sparrow

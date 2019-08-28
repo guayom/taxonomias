@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Myiozetetes granadensis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Myiozetetes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Myiozetetes
 especie: 'granadensis '
 nombre_comun: 'Mosquero Cabecigrís '
 nombre_ingles: Gray-capped Flycatcher

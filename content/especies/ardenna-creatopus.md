@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Ardenna creatopus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - 'Procellariidae '
-generos:
-  - Ardenna
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: 'Procellariidae '
+generos: Ardenna
 especie: creatopus
 nombre_comun: Pardela Blanca Común
 nombre_ingles: Pink-footed Shearwater

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Carpodectes nitidus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Cotingidae '
-generos:
-  - Carpodectes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Cotingidae '
+generos: Carpodectes
 especie: 'nitidus '
 nombre_comun: Cotinga Blanca
 nombre_ingles: Snowy Cotinga

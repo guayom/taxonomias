@@ -2,12 +2,12 @@
 title: "Pheucticus melanocephalus, Black-headed Grosbeak, Picogrueso Cabecinegro"
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Cardinalidae "]
-generos: ["Pheucticus"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: "Cardinalidae "
+generos: "Pheucticus"
 especie: "melanocephalus"
 nombre_cientifico: "Pheucticus melanocephalus"
 nombre_comun: "Picogrueso Cabecinegro"

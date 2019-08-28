@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Picoides fumigatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Piciformes
-familias:
-  - 'Picidae '
-generos:
-  - Picoides
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Piciformes
+familias: 'Picidae '
+generos: Picoides
 especie: 'fumigatus '
 nombre_comun: Carpintero Pardo
 nombre_ingles: Smoky-brown Woodpecker

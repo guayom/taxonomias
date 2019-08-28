@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Icterus pustulatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Icteridae '
-generos:
-  - Icterus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Icteridae '
+generos: Icterus
 especie: 'pustulatus '
 nombre_comun: 'Bolsero Dorsilistado '
 nombre_ingles: Streak-backed Oriole

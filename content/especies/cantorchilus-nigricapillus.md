@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cantorchilus nigricapillus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Troglodytidae '
-generos:
-  - Cantorchilus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Troglodytidae '
+generos: Cantorchilus
 especie: 'nigricapillus '
 nombre_comun: Soterrey Castaño
 nombre_ingles: Bay Wren

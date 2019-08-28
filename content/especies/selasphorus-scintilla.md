@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Selasphorus scintilla
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Selasphorus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Selasphorus
 especie: 'scintilla '
 nombre_comun: 'Colibrí Chispita Gorginaranja '
 nombre_ingles: Scintillant Hummingbird

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Ara macao
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Psittaciformes
-familias:
-  - 'Psittacidae '
-generos:
-  - Ara
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Psittaciformes
+familias: 'Psittacidae '
+generos: Ara
 especie: macao
 nombre_comun: 'Guacamayo Rojo '
 nombre_ingles: Scarlet Macaw

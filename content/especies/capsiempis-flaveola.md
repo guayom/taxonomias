@@ -2,12 +2,12 @@
 title: "Capsiempis flaveola, Yellow Tyrannulet, Mosquerito Amarillo"
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Tyrannidae "]
-generos: ["Capsiempis"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: "Tyrannidae "
+generos: "Capsiempis"
 especie: "flaveola"
 nombre_cientifico: "Capsiempis flaveola"
 nombre_comun: "Mosquerito Amarillo"

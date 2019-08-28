@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Charadrius melodus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Charadriidae '
-generos:
-  - Charadrius
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Charadriidae '
+generos: Charadrius
 especie: 'melodus '
 nombre_comun: Chorlitejo Silbador
 nombre_ingles: Piping Plover

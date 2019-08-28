@@ -2,12 +2,12 @@
 title: "Oxyura jamaicensis, Ruddy Duck, Pato Cariblanco"
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Anseriformes"]
-familias: ["Anatidae "]
-generos: ["Oxyura"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Anseriformes"
+familias: "Anatidae "
+generos: "Oxyura"
 especie: "jamaicensis"
 nombre_cientifico: "Oxyura jamaicensis"
 nombre_comun: "Pato Cariblanco"

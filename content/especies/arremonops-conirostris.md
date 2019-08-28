@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Arremonops conirostris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Emberizidae '
-generos:
-  - Arremonops
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Emberizidae '
+generos: Arremonops
 especie: conirostris
 nombre_comun: 'Pinzón  Cabecilistado '
 nombre_ingles: Black-striped Sparrow

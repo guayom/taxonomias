@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Hylocharis eliciae
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Hylocharis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Hylocharis
 especie: 'eliciae '
 nombre_comun: Colibrí Colidorado
 nombre_ingles: Blue-throated Goldentail

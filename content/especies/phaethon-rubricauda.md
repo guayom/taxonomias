@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Phaethon rubricauda
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Phaethontiformes
-familias:
-  - 'Phaethontidae '
-generos:
-  - Phaethon
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Phaethontiformes
+familias: 'Phaethontidae '
+generos: Phaethon
 especie: 'rubricauda '
 nombre_comun: Rabijunco Cola Roja
 nombre_ingles: Red-tailed Tropicbird

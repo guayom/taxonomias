@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Calidris canutus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Scolopacidae '
-generos:
-  - Calidris
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Scolopacidae '
+generos: Calidris
 especie: canutus
 nombre_comun: Correlimos Grande
 nombre_ingles: Red Knot

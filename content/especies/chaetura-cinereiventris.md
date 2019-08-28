@@ -2,12 +2,12 @@
 title: "Chaetura cinereiventris, Gray-rumped Swift, Vencejo Lomigrís"
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Apodiformes"]
-familias: ["Apodidae "]
-generos: ["Chaetura"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Apodiformes"
+familias: "Apodidae "
+generos: "Chaetura"
 especie: "cinereiventris"
 nombre_cientifico: "Chaetura cinereiventris"
 nombre_comun: "Vencejo Lomigrís"

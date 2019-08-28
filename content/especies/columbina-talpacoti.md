@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Columbina talpacoti
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Columbiformes
-familias:
-  - 'Columbidae '
-generos:
-  - Columbina
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Columbiformes
+familias: 'Columbidae '
+generos: Columbina
 especie: 'talpacoti '
 nombre_comun: 'Tortolita Rojiza '
 nombre_ingles: Ruddy Ground-Dove

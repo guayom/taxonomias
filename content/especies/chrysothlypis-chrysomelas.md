@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Chrysothlypis chrysomelas
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Chrysothlypis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Chrysothlypis
 especie: 'chrysomelas '
 nombre_comun: Tangara Negro y Dorado
 nombre_ingles: Black-and-yellow Tanager

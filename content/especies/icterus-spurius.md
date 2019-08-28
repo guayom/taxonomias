@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Icterus spurius
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Icteridae '
-generos:
-  - Icterus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Icteridae '
+generos: Icterus
 especie: 'spurius '
 nombre_comun: 'Bolsero Castaño '
 nombre_ingles: Orchard Oriole

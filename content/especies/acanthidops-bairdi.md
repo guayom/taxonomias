@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Acanthidops bairdi
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Acanthidops
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Acanthidops
 especie: bairdi
 nombre_comun: 'Fringilo Piquiagudo '
 nombre_ingles: Peg-billed Finch

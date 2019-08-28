@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Basileuterus rufifrons
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Basileuterus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Basileuterus
 especie: rufifrons
 nombre_comun: Reinita Cabecicastaña
 nombre_ingles: Rufous-capped Warbler

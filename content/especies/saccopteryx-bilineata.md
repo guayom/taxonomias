@@ -1,18 +1,12 @@
 ---
 nombre_cientifico: Saccopteryx bilineata
 title: Saccopteryx bilineata, Greater sac-winged bat, Murciélago de líneas blancas 
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Mammalia
-ordenes:
-  - Chiroptera
-familias:
-  - Emballonuridae
-generos:
-  - Saccopteryx
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: Mammalia
+ordenes: Chiroptera
+familias: Emballonuridae
+generos: Saccopteryx
 especie: bilineata
 nombre_comun: 'Murciélago de líneas blancas '
 nombre_ingles: Greater sac-winged bat

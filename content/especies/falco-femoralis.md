@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Falco femoralis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Falconiformes
-familias:
-  - 'Falconidae '
-generos:
-  - Falco
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Falconiformes
+familias: 'Falconidae '
+generos: Falco
 especie: 'femoralis '
 nombre_comun: Halcón Aplomado
 nombre_ingles: Aplomado Falcon

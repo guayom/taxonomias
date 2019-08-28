@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Colibri delphinae
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Colibri
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Colibri
 especie: delphinae
 nombre_comun: Colibrí Orejivioláceo Pardo
 nombre_ingles: Brown Violetear

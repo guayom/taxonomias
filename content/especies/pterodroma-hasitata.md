@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pterodroma hasitata
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - 'Procellariidae '
-generos:
-  - Pterodroma
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: 'Procellariidae '
+generos: Pterodroma
 especie: 'hasitata '
 nombre_comun: Petrel Gorrinegro
 nombre_ingles: Black-capped Petrel

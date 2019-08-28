@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Patagioenas subvinacea
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Columbiformes
-familias:
-  - 'Columbidae '
-generos:
-  - Patagioenas
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Columbiformes
+familias: 'Columbidae '
+generos: Patagioenas
 especie: 'subvinacea '
 nombre_comun: 'Paloma Rojiza '
 nombre_ingles: Ruddy Pigeon

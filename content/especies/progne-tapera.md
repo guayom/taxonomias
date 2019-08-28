@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Progne tapera
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Hirundinidae '
-generos:
-  - Progne
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Hirundinidae '
+generos: Progne
 especie: 'tapera '
 nombre_comun: 'Martín de Ríos '
 nombre_ingles: Brown-chested Martin

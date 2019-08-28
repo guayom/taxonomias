@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Catharus ustulatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Turdidae '
-generos:
-  - Catharus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Turdidae '
+generos: Catharus
 especie: ustulatus
 nombre_comun: 'Zorzal de Swainson '
 nombre_ingles: Swainson's Thrush

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Piranga olivacea
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Cardinalidae '
-generos:
-  - Piranga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Cardinalidae '
+generos: Piranga
 especie: olivacea
 nombre_comun: 'Tangara Escarlata '
 nombre_ingles: Scarlet Tanager

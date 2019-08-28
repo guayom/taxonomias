@@ -2,12 +2,12 @@
 title: "Aphanotriccus capitalis, Tawny-chested Flycatcher, Mosquerito Pechileonado"
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Tyrannidae "]
-generos: ["Aphanotriccus"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: "Tyrannidae "
+generos: "Aphanotriccus"
 especie: "capitalis"
 nombre_cientifico: "Aphanotriccus capitalis"
 nombre_comun: "Mosquerito Pechileonado"

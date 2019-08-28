@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: 'Puffinus subalaris '
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - Procellariidae
-generos:
-  - Puffinus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: Procellariidae
+generos: Puffinus
 especie: 'subalaris '
 nombre_comun: Pardela de las Galápagos
 nombre_ingles: 'Galapagos Shearwater '

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Discosura conversii
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Discosura
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Discosura
 especie: conversii
 nombre_comun: Colibrí Colicerda Verde
 nombre_ingles: Green Thorntail

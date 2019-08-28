@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Phaethornis guy
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Phaethornis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Phaethornis
 especie: 'guy '
 nombre_comun: Ermitaño Verde
 nombre_ingles: Green Hermit

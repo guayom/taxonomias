@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Melanerpes rubricapillus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Piciformes
-familias:
-  - 'Picidae '
-generos:
-  - Melanerpes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Piciformes
+familias: 'Picidae '
+generos: Melanerpes
 especie: 'rubricapillus '
 nombre_comun: Carpintero Nuquirrojo
 nombre_ingles: Red-crowned Woodpecker

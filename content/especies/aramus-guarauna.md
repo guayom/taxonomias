@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Aramus guarauna
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Gruiformes
-familias:
-  - 'Aramidae '
-generos:
-  - Aramus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Gruiformes
+familias: 'Aramidae '
+generos: Aramus
 especie: guarauna
 nombre_comun: 'Carao '
 nombre_ingles: Limpkin

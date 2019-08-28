@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Bubulcus ibis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Pelecaniformes
-familias:
-  - 'Ardeidae '
-generos:
-  - Bubulcus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Pelecaniformes
+familias: 'Ardeidae '
+generos: Bubulcus
 especie: ibis
 nombre_comun: 'Garcilla Bueyera '
 nombre_ingles: Cattle Egret

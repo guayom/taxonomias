@@ -2,12 +2,12 @@
 title: "Ardea alba, Great Egret, Garceta Grande"
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Pelecaniformes"]
-familias: ["Ardeidae "]
-generos: ["Ardea"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Pelecaniformes"
+familias: "Ardeidae "
+generos: "Ardea"
 especie: "alba"
 nombre_cientifico: "Ardea alba"
 nombre_comun: "Garceta Grande"

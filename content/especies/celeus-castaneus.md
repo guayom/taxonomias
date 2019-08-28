@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Celeus castaneus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Piciformes
-familias:
-  - 'Picidae '
-generos:
-  - Celeus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Piciformes
+familias: 'Picidae '
+generos: Celeus
 especie: 'castaneus '
 nombre_comun: Carpintero Castaño
 nombre_ingles: Chestnut-colored Woodpecker

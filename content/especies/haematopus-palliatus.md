@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Haematopus palliatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Haematopodidae '
-generos:
-  - Haematopus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Haematopodidae '
+generos: Haematopus
 especie: palliatus
 nombre_comun: Ostrero Americano
 nombre_ingles: American Oystercatcher

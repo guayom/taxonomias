@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Morphnarchus princeps
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Morphnarchus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Morphnarchus
 especie: 'princeps '
 nombre_comun: Gavilán Pechinegro
 nombre_ingles: Barred Hawk

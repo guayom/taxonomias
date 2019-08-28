@@ -1,17 +1,11 @@
 ---
 title: Stachytarpheta mutabilis, Pink snakeweed, null
-reinos:
-  - Plantae
-divisiones:
-  - Angiosperms
-clases:
-  - Eudicots
-ordenes:
-  - Lamiales
-familias:
-  - Verbenaceae
-generos:
-  - Stachytarpheta
+reinos: Plantae
+divisiones: Angiosperms
+clases: Eudicots
+ordenes: Lamiales
+familias: Verbenaceae
+generos: Stachytarpheta
 nombre_cientifico: "Stachytarpheta\_mutabilis"
 nombre_comun: null
 nombre_ingles: Pink snakeweed

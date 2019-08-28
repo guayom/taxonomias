@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Lophornis delattrei
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Lophornis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Lophornis
 especie: delattrei
 nombre_comun: Coqueta Crestirrojiza
 nombre_ingles: Rufous-crested Coquette

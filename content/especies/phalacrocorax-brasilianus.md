@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Phalacrocorax brasilianus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Suliformes
-familias:
-  - 'Phalacrocoracidae '
-generos:
-  - Phalacrocorax
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Suliformes
+familias: 'Phalacrocoracidae '
+generos: Phalacrocorax
 especie: brasilianus
 nombre_comun: 'Cormorán Neotropical '
 nombre_ingles: Neotropic Cormorant

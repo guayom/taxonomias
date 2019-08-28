@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Henicorhina leucosticta
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Troglodytidae '
-generos:
-  - Henicorhina
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Troglodytidae '
+generos: Henicorhina
 especie: 'leucosticta '
 nombre_comun: Soterrey de Selva Pechiblanco
 nombre_ingles: White-breasted Wood-Wren

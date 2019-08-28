@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Euphonia affinis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Fringillidae '
-generos:
-  - Euphonia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Fringillidae '
+generos: Euphonia
 especie: 'affinis '
 nombre_comun: 'Eufonia Gargantinegra '
 nombre_ingles: Scrub Euphonia

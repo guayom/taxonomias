@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Puffinus lherminieri
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - 'Procellariidae '
-generos:
-  - Puffinus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: 'Procellariidae '
+generos: Puffinus
 especie: lherminieri
 nombre_comun: Pardela de Audubon
 nombre_ingles: Audubon’s Shearwater

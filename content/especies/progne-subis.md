@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Progne subis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Hirundinidae '
-generos:
-  - Progne
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Hirundinidae '
+generos: Progne
 especie: subis
 nombre_comun: 'Martín Purpúrea '
 nombre_ingles: Purple Martin

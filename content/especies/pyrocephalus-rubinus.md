@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pyrocephalus rubinus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Pyrocephalus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Pyrocephalus
 especie: 'rubinus '
 nombre_comun: Mosquerito Rojo
 nombre_ingles: Vermilion Flycatcher

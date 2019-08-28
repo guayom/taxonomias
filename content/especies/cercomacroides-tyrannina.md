@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cercomacroides tyrannina
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thamnophilidae '
-generos:
-  - Cercomacroides
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thamnophilidae '
+generos: Cercomacroides
 especie: 'tyrannina '
 nombre_comun: Hormiguero Negruzco
 nombre_ingles: Dusky Antbird

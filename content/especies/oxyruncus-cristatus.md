@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Oxyruncus cristatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Oxyruncidae '
-generos:
-  - Oxyruncus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Oxyruncidae '
+generos: Oxyruncus
 especie: cristatus
 nombre_comun: Picoagudo
 nombre_ingles: Sharpbill

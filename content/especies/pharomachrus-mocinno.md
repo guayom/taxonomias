@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pharomachrus mocinno
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Trogoniformes
-familias:
-  - 'Trogonidae '
-generos:
-  - Pharomachrus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Trogoniformes
+familias: 'Trogonidae '
+generos: Pharomachrus
 especie: 'mocinno '
 nombre_comun: 'Quetzal '
 nombre_ingles: Resplendent Quetzal

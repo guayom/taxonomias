@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Columba livia
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Columbiformes
-familias:
-  - 'Columbidae '
-generos:
-  - Columba
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Columbiformes
+familias: 'Columbidae '
+generos: Columba
 especie: 'livia '
 nombre_comun: 'Paloma Doméstica '
 nombre_ingles: Rock Pigeon

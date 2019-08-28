@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Hylophylax naevioides
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thamnophilidae '
-generos:
-  - Hylophylax
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thamnophilidae '
+generos: Hylophylax
 especie: 'naevioides '
 nombre_comun: Hormiguero Moteado
 nombre_ingles: Spotted Antbird

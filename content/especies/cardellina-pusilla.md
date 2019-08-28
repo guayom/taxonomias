@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cardellina pusilla
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Cardellina
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Cardellina
 especie: 'pusilla '
 nombre_comun: 'Reinita Gorrinegra '
 nombre_ingles: Wilson's Warbler

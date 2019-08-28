@@ -1,18 +1,12 @@
 ---
 nombre_cientifico: Elaenia frantzii
 title: Elaenia frantzii, Mountain Elaenia, Elainia Montañera
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - Tyrannidae
-generos:
-  - Elaenia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: Tyrannidae
+generos: Elaenia
 especie: frantzii
 nombre_comun: Elainia Montañera
 nombre_ingles: Mountain Elaenia

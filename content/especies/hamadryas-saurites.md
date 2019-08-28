@@ -1,18 +1,12 @@
 ---
 nombre_cientifico: Hamadryas saurites
 title: Hamadryas saurites, Starry Night Cracker, undefined
-reinos:
-  - Animalia
-divisiones:
-  - Arthropoda
-clases:
-  - Insecta
-ordenes:
-  - Lepidoptera
-familias:
-  - Nymphalidae
-generos:
-  - Hamadryas
+reinos: "Animalia"
+divisiones: Arthropoda
+clases: Insecta
+ordenes: Lepidoptera
+familias: Nymphalidae
+generos: Hamadryas
 especie: saurites
 nombre_ingles: Starry Night Cracker
 links: >-

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Saltator striatipectus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Saltator
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Saltator
 especie: 'striatipectus '
 nombre_comun: Saltator Listado
 nombre_ingles: Streaked Saltator

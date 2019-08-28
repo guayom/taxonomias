@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Morphnus guianensis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Morphnus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Morphnus
 especie: 'guianensis '
 nombre_comun: Águila Crestada
 nombre_ingles: Crested Eagle

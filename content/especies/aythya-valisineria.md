@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Aythya valisineria
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Anseriformes
-familias:
-  - 'Anatidae '
-generos:
-  - Aythya
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Anseriformes
+familias: 'Anatidae '
+generos: Aythya
 especie: valisineria
 nombre_comun: Porrón Picudo
 nombre_ingles: Canvasback

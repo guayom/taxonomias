@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Catharus minimus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Turdidae '
-generos:
-  - Catharus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Turdidae '
+generos: Catharus
 especie: 'minimus '
 nombre_comun: 'Zorzal Carigrís '
 nombre_ingles: Gray-cheeked Thrush

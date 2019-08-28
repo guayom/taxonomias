@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Sayornis nigricans
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Sayornis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Sayornis
 especie: nigricans
 nombre_comun: Mosquero de Agua
 nombre_ingles: Black Phoebe

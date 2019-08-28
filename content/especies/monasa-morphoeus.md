@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Monasa morphoeus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Piciformes
-familias:
-  - 'Bucconidae '
-generos:
-  - Monasa
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Piciformes
+familias: 'Bucconidae '
+generos: Monasa
 especie: 'morphoeus '
 nombre_comun: 'Monja Frentiblanca '
 nombre_ingles: White-fronted Nunbird

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Querula purpurata
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Cotingidae '
-generos:
-  - Querula
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Cotingidae '
+generos: Querula
 especie: purpurata
 nombre_comun: Querula Gorgimorada
 nombre_ingles: Purple-throated Fruitcrow

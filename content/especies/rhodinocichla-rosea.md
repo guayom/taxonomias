@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Rhodinocichla rosea
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Rhodinocichla
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Rhodinocichla
 especie: 'rosea '
 nombre_comun: 'Tangara Pechirrosada '
 nombre_ingles: Rosy Thrush-Tanager

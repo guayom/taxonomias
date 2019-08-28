@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Jacamerops aureus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Piciformes
-familias:
-  - 'Galbulidae '
-generos:
-  - Jacamerops
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Piciformes
+familias: 'Galbulidae '
+generos: Jacamerops
 especie: 'aureus '
 nombre_comun: Jacamar Grande
 nombre_ingles: Great Jacamar

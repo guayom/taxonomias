@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Notharchus tectus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Piciformes
-familias:
-  - 'Bucconidae '
-generos:
-  - Notharchus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Piciformes
+familias: 'Bucconidae '
+generos: Notharchus
 especie: tectus
 nombre_comun: Buco Pinto
 nombre_ingles: Pied Puffbird

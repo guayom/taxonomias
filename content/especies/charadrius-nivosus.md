@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Charadrius nivosus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Charadriidae '
-generos:
-  - Charadrius
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Charadriidae '
+generos: Charadrius
 especie: nivosus
 nombre_comun: 'Chorlitejo Patinegro '
 nombre_ingles: Snowy Plover

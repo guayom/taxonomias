@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Ciccaba nigrolineata
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Strigidae '
-generos:
-  - Ciccaba
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Strigidae '
+generos: Ciccaba
 especie: 'nigrolineata '
 nombre_comun: Lechuza Blanco y Negro
 nombre_ingles: Black-and-white Owl

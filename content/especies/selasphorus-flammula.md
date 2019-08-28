@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Selasphorus flammula
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Selasphorus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Selasphorus
 especie: 'flammula '
 nombre_comun: 'Colibrí Chispita Volcanera '
 nombre_ingles: Volcano Hummingbird

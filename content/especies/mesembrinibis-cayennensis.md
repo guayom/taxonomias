@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Mesembrinibis cayennensis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Pelecaniformes
-familias:
-  - 'Threskiornithidae '
-generos:
-  - Mesembrinibis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Pelecaniformes
+familias: 'Threskiornithidae '
+generos: Mesembrinibis
 especie: 'cayennensis '
 nombre_comun: 'Ibis Verde '
 nombre_ingles: Green Ibis

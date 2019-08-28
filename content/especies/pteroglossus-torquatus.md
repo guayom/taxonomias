@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pteroglossus torquatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Piciformes
-familias:
-  - Ramphastidae
-generos:
-  - Pteroglossus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Piciformes
+familias: Ramphastidae
+generos: Pteroglossus
 especie: torquatus
 title: Pteroglossus torquatus, Collared Aracari, Tucancillo Collarejo
 nombre_comun: Tucancillo Collarejo

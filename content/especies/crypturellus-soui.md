@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Crypturellus soui
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Tinamiformes
-familias:
-  - 'Tinamidae '
-generos:
-  - Crypturellus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Tinamiformes
+familias: 'Tinamidae '
+generos: Crypturellus
 especie: 'soui '
 nombre_comun: 'Tinamú Chico '
 nombre_ingles: Little Tinamou

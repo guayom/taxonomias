@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Manacus candei
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Pipridae '
-generos:
-  - Manacus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Pipridae '
+generos: Manacus
 especie: 'candei '
 nombre_comun: 'Saltarín Cuelliblanco '
 nombre_ingles: White-collared Manakin

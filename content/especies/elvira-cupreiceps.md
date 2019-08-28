@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Elvira cupreiceps
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Elvira
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Elvira
 especie: cupreiceps
 nombre_comun: Esmeralda de Coronilla Cobriza
 nombre_ingles: Coppery-headed Emerald

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Agamia agami
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Pelecaniformes
-familias:
-  - 'Ardeidae '
-generos:
-  - Agamia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Pelecaniformes
+familias: 'Ardeidae '
+generos: Agamia
 especie: agami
 nombre_comun: 'Garza Pechicastaña '
 nombre_ingles: Agami Heron

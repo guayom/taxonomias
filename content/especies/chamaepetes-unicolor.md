@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Chamaepetes unicolor
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Galliformes
-familias:
-  - 'Cracidae '
-generos:
-  - Chamaepetes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Galliformes
+familias: 'Cracidae '
+generos: Chamaepetes
 especie: unicolor
 nombre_comun: 'Pava Negra '
 nombre_ingles: Black Guan

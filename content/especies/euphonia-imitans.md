@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Euphonia imitans
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Fringillidae '
-generos:
-  - Euphonia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Fringillidae '
+generos: Euphonia
 especie: 'imitans '
 nombre_comun: 'Eufonia Vientrirrojiza '
 nombre_ingles: Spot-crowned Euphonia

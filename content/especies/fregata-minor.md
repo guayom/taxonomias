@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Fregata minor
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Suliformes
-familias:
-  - 'Fregatidae '
-generos:
-  - Fregata
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Suliformes
+familias: 'Fregatidae '
+generos: Fregata
 especie: 'minor '
 nombre_comun: 'Rabihorcado Grande '
 nombre_ingles: Great Frigatebird

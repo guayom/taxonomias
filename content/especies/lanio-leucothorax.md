@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Lanio leucothorax
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Lanio
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Lanio
 especie: leucothorax
 nombre_comun: Tangara Piquiganchuda
 nombre_ingles: White-throated Shrike-Tanager

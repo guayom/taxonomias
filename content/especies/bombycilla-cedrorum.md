@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Bombycilla cedrorum
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Bombycillidae '
-generos:
-  - Bombycilla
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Bombycillidae '
+generos: Bombycilla
 especie: cedrorum
 nombre_comun: 'Ampelis Americano '
 nombre_ingles: Cedar Waxwing

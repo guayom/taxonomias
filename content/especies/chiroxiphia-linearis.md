@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Chiroxiphia linearis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Pipridae '
-generos:
-  - Chiroxiphia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Pipridae '
+generos: Chiroxiphia
 especie: 'linearis '
 nombre_comun: 'Saltarín Toledo '
 nombre_ingles: Long-tailed Manakin

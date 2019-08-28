@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Henicorhina leucophrys
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Troglodytidae '
-generos:
-  - Henicorhina
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Troglodytidae '
+generos: Henicorhina
 especie: 'leucophrys '
 nombre_comun: Soterrey de Selva Pechigrís
 nombre_ingles: Gray-breasted Wood-Wren

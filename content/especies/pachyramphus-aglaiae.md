@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pachyramphus aglaiae
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tityridae '
-generos:
-  - Pachyramphus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tityridae '
+generos: Pachyramphus
 especie: 'aglaiae '
 nombre_comun: Cabezón Plomizo
 nombre_ingles: Rose-throated Becard

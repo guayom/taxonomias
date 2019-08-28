@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Parabuteo unicinctus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Parabuteo
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Parabuteo
 especie: 'unicinctus '
 nombre_comun: Gavilán Alicastaño
 nombre_ingles: Harris's Hawk

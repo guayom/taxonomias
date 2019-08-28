@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Electron platyrhynchum
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Coraciiformes
-familias:
-  - 'Momotidae '
-generos:
-  - Electron
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Coraciiformes
+familias: 'Momotidae '
+generos: Electron
 especie: 'platyrhynchum '
 nombre_comun: 'Momoto Piquiancho '
 nombre_ingles: Broad-billed Motmot

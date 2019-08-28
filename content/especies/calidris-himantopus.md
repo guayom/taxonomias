@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Calidris himantopus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Scolopacidae '
-generos:
-  - Calidris
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Scolopacidae '
+generos: Calidris
 especie: himantopus
 nombre_comun: 'Correlimos Patilargo '
 nombre_ingles: Stilt Sandpiper

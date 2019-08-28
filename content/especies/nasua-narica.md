@@ -1,18 +1,12 @@
 ---
 nombre_cientifico: Nasua narica
 title: Nasua narica, White-nosed coati, Pizote 
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Mammalia
-ordenes:
-  - Carnivora
-familias:
-  - Procyonidae
-generos:
-  - Nasua
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: Mammalia
+ordenes: Carnivora
+familias: Procyonidae
+generos: Nasua
 especie: narica
 nombre_comun: 'Pizote '
 nombre_ingles: White-nosed coati

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Catharus gracilirostris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Turdidae '
-generos:
-  - Catharus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Turdidae '
+generos: Catharus
 especie: gracilirostris
 nombre_comun: 'Zorzal Piquinegro '
 nombre_ingles: Black-billed Nightingale-Thrush

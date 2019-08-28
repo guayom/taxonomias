@@ -2,12 +2,12 @@
 title: "Lurocalis semitorquatus, Short-tailed Nighthawk, Añapero Colicorto"
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Caprimulgiformes"]
-familias: ["Caprimulgidae "]
-generos: ["Lurocalis"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Caprimulgiformes"
+familias: "Caprimulgidae "
+generos: "Lurocalis"
 especie: "semitorquatus"
 nombre_cientifico: "Lurocalis semitorquatus"
 nombre_comun: "Añapero Colicorto"

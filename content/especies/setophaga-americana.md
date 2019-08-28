@@ -2,18 +2,12 @@
 title: "Setophaga americana, Northern Parula, Parula Norteña"
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: 
-  - "Animalia"
-divisiones: 
-  - "Chordata"
-clases: 
-  - "Aves"
-ordenes: 
-  - "Passeriformes"
-familias: 
-  - "Parulidae"
-generos: 
-  - "Setophaga"
+reinos: "Animalia"
+divisiones: Chordata"
+clases: Aves"
+ordenes: Passeriformes"
+familias: Parulidae"
+generos: Setophaga"
 especie: "americana"
 nombre_cientifico: "Setophaga americana"
 nombre_comun: "Parula Norteña"

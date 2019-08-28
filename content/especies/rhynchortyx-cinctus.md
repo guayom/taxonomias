@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Rhynchortyx cinctus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Galliformes
-familias:
-  - 'Odontophoridae '
-generos:
-  - Rhynchortyx
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Galliformes
+familias: 'Odontophoridae '
+generos: Rhynchortyx
 especie: 'cinctus '
 nombre_comun: Codorniz Carirrufa
 nombre_ingles: Tawny-faced Quail

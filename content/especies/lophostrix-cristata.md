@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Lophostrix cristata
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Strigidae '
-generos:
-  - Lophostrix
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Strigidae '
+generos: Lophostrix
 especie: 'cristata '
 nombre_comun: Búho Penachudo
 nombre_ingles: Crested Owl

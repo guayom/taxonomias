@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cyanerpes cyaneus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Cyanerpes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Cyanerpes
 especie: 'cyaneus '
 nombre_comun: 'Mielero Patirrojo '
 nombre_ingles: Red-legged Honeycreeper

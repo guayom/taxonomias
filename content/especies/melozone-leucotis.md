@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Melozone leucotis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Emberizidae '
-generos:
-  - Melozone
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Emberizidae '
+generos: Melozone
 especie: leucotis
 nombre_comun: 'Pinzón Orejiblanco '
 nombre_ingles: White-eared Ground-Sparrow

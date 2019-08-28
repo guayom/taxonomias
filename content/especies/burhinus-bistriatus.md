@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Burhinus bistriatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Burhinidae '
-generos:
-  - Burhinus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Burhinidae '
+generos: Burhinus
 especie: bistriatus
 nombre_comun: 'Alcaraván Americano '
 nombre_ingles: Double-striped Thick-Knee

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pittasoma michleri
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Conopophagidae '
-generos:
-  - Pittasoma
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Conopophagidae '
+generos: Pittasoma
 especie: 'michleri '
 nombre_comun: 'Tororoi Pechiescamoso '
 nombre_ingles: Black-crowned Antpitta

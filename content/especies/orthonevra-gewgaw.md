@@ -2,12 +2,12 @@
 title: "Orthonevra gewgaw"
 date: 2017-08-18T20:46:32-06:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Arthropoda"]
-clases: ["Insecta"]
-ordenes: ["Diptera"]
-familias: ["Syrphidae"]
-generos: ["Orthonevra"]
+reinos: "Animalia"
+divisiones: "Arthropoda"
+clases: "Insecta"
+ordenes: "Diptera"
+familias: "Syrphidae"
+generos: "Orthonevra"
 especie: "gewgaw"
 nombre_cientifico: "Orthonevra gewgaw"
 nombre_comun: ""

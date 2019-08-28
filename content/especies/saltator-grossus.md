@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Saltator grossus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Saltator
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Saltator
 especie: grossus
 nombre_comun: Picogrueso Piquirrojo
 nombre_ingles: Slate-colored Grosbeak

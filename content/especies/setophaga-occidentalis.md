@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Setophaga occidentalis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Setophaga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Setophaga
 especie: occidentalis
 nombre_comun: Reinita Cabecigualda
 nombre_ingles: Hermit Warbler

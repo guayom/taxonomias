@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Chlorospingus canigularis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Emberizidae '
-generos:
-  - Chlorospingus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Emberizidae '
+generos: Chlorospingus
 especie: 'canigularis '
 nombre_comun: Tangara de Monte Gargantigrís
 nombre_ingles: Ashy-throated Chlorospingus

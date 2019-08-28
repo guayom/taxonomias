@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Geothlypis philadelphia
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Geothlypis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Geothlypis
 especie: 'philadelphia '
 nombre_comun: Reinita Enlutada
 nombre_ingles: Mourning Warbler

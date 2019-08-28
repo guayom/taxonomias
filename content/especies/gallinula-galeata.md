@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Gallinula galeata
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Gruiformes
-familias:
-  - 'Rallidae '
-generos:
-  - Gallinula
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Gruiformes
+familias: 'Rallidae '
+generos: Gallinula
 especie: 'galeata '
 nombre_comun: 'Gallareta Frentirroja '
 nombre_ingles: Common Gallinule

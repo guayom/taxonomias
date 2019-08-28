@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Anas acuta
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Anseriformes
-familias:
-  - 'Anatidae '
-generos:
-  - Anas
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Anseriformes
+familias: 'Anatidae '
+generos: Anas
 especie: acuta
 nombre_comun: 'Pato Rabudo '
 nombre_ingles: Northern Pintail

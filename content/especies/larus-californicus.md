@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Larus californicus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Laridae '
-generos:
-  - Larus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Laridae '
+generos: Larus
 especie: 'californicus '
 nombre_comun: Gaviota Californiana
 nombre_ingles: California Gull

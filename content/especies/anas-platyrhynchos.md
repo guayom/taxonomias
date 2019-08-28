@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Anas platyrhynchos
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Anseriformes
-familias:
-  - 'Anatidae '
-generos:
-  - Anas
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Anseriformes
+familias: 'Anatidae '
+generos: Anas
 especie: platyrhynchos
 nombre_comun: 'Pato Cabeciverde '
 nombre_ingles: Mallard

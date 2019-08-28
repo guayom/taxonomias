@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Dacnis venusta
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Dacnis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Dacnis
 especie: 'venusta '
 nombre_comun: 'Mielero Celeste y Negro '
 nombre_ingles: Scarlet-thighed Dacnis

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Setophaga castanea
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Setophaga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Setophaga
 especie: 'castanea '
 nombre_comun: Reinita Castaña
 nombre_ingles: Bay-breasted Warbler

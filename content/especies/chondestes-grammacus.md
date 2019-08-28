@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Chondestes grammacus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Emberizidae '
-generos:
-  - Chondestes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Emberizidae '
+generos: Chondestes
 especie: 'grammacus '
 nombre_comun: Sabanero Arlequín
 nombre_ingles: Lark Sparrow

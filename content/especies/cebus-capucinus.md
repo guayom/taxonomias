@@ -1,18 +1,12 @@
 ---
 nombre_cientifico: Cebus capucinus
 title: Cebus capucinus, White-headed capuchin, Mono carablanca
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Mammalia
-ordenes:
-  - Primates
-familias:
-  - Cebidae
-generos:
-  - Cebus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: Mammalia
+ordenes: Primates
+familias: Cebidae
+generos: Cebus
 especie: capucinus
 nombre_comun: Mono carablanca
 nombre_ingles: White-headed capuchin

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Calidris minutilla
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Scolopacidae '
-generos:
-  - Calidris
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Scolopacidae '
+generos: Calidris
 especie: minutilla
 nombre_comun: 'Correlimos Menudo '
 nombre_ingles: Least Sandpiper

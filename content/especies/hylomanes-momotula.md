@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Hylomanes momotula
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Coraciiformes
-familias:
-  - 'Momotidae '
-generos:
-  - Hylomanes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Coraciiformes
+familias: 'Momotidae '
+generos: Hylomanes
 especie: 'momotula '
 nombre_comun: 'Momoto Enano '
 nombre_ingles: Tody Motmot

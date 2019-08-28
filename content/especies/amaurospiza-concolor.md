@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Amaurospiza concolor
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Cardinalidae '
-generos:
-  - Amaurospiza
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Cardinalidae '
+generos: Amaurospiza
 especie: concolor
 nombre_comun: Semillero Azulado
 nombre_ingles: Blue Seedeater

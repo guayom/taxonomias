@@ -2,12 +2,12 @@
 title: "Egretta caerulea, Little Blue Heron, Garceta Azul "
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Pelecaniformes"]
-familias: ["Ardeidae "]
-generos: ["Egretta"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Pelecaniformes"
+familias: "Ardeidae "
+generos: "Egretta"
 especie: "caerulea"
 nombre_cientifico: "Egretta caerulea"
 nombre_comun: "Garceta Azul "

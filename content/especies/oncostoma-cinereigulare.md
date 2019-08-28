@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Oncostoma cinereigulare
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Oncostoma
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Oncostoma
 especie: 'cinereigulare '
 nombre_comun: 'Piquitorcido Norteño '
 nombre_ingles: Northern Bentbill

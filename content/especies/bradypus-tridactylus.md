@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Bradypus tridactylus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Mammalia
-ordenes:
-  - Pilosa
-familias:
-  - Bradypodidae
-generos:
-  - Bradypus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: Mammalia
+ordenes: Pilosa
+familias: Bradypodidae
+generos: Bradypus
 especie: tridactylus
 title: Bradypus tridactylus, Pale-throated sloth, Perezoso
 nombre_comun: Perezoso

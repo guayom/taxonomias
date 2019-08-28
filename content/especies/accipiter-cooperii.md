@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Accipiter cooperii
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Accipiter
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Accipiter
 especie: cooperii
 nombre_comun: 'Gavilán de Cooper '
 nombre_ingles: Cooper's Hawk

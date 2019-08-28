@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pseudastur albicollis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Pseudastur
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Pseudastur
 especie: albicollis
 nombre_comun: Gavilán Blanco
 nombre_ingles: White Hawk

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Eubucco bourcierii
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Piciformes
-familias:
-  - 'Capitonidae '
-generos:
-  - Eubucco
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Piciformes
+familias: 'Capitonidae '
+generos: Eubucco
 especie: 'bourcierii '
 nombre_comun: 'Barbudo Cabecirrojo '
 nombre_ingles: Red-headed Barbet

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Electron carinatum
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Coraciiformes
-familias:
-  - 'Momotidae '
-generos:
-  - Electron
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Coraciiformes
+familias: 'Momotidae '
+generos: Electron
 especie: carinatum
 nombre_comun: 'Momoto Pico Quilla '
 nombre_ingles: Keel-billed Motmot

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Megarynchus pitangua
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Megarynchus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Megarynchus
 especie: 'pitangua '
 nombre_comun: 'Mosquerón Picudo '
 nombre_ingles: Boat-billed Flycatcher

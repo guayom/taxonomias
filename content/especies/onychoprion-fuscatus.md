@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Onychoprion fuscatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Laridae '
-generos:
-  - Onychoprion
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Laridae '
+generos: Onychoprion
 especie: fuscatus
 nombre_comun: Charrán Sombrío
 nombre_ingles: Sooty Tern

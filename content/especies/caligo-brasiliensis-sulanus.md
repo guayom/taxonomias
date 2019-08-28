@@ -1,18 +1,12 @@
 ---
 nombre_cientifico: Caligo sulanus
 title: Caligo brasiliensis sulanus, Owl butterfly, Buhito pardo
-reinos:
-  - Animalia
-divisiones:
-  - Arthropoda
-clases:
-  - Insecta
-ordenes:
-  - Lepidoptera
-familias:
-  - Ninphalidae
-generos:
-  - Caligo
+reinos: "Animalia"
+divisiones: Arthropoda
+clases: Insecta
+ordenes: Lepidoptera
+familias: Ninphalidae
+generos: Caligo
 especie: brasiliensis sulanus
 nombre_comun: Buhito pardo
 nombre_ingles: Owl butterfly

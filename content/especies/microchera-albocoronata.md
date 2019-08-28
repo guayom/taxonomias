@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Microchera albocoronata
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Microchera
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Microchera
 especie: 'albocoronata '
 nombre_comun: Colibrí Copete de Nieve
 nombre_ingles: Snowcap

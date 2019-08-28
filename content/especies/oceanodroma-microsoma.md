@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Oceanodroma microsoma
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - 'Hydrobatidae '
-generos:
-  - Oceanodroma
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: 'Hydrobatidae '
+generos: Oceanodroma
 especie: 'microsoma '
 nombre_comun: Paiño Menudo
 nombre_ingles: Least Storm-Petrel

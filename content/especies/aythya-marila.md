@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Aythya marila
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Anseriformes
-familias:
-  - 'Anatidae '
-generos:
-  - Aythya
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Anseriformes
+familias: 'Anatidae '
+generos: Aythya
 especie: marila
 nombre_comun: 'Porrón Mayor '
 nombre_ingles: Greater Scaup

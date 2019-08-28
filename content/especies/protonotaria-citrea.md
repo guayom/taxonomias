@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Protonotaria citrea
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Protonotaria
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Protonotaria
 especie: citrea
 nombre_comun: Reinita Cabecidorada
 nombre_ingles: Prothonotary Warbler

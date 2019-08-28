@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Manacus aurantiacus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Pipridae '
-generos:
-  - Manacus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Pipridae '
+generos: Manacus
 especie: aurantiacus
 nombre_comun: 'Saltarín Cuellinaranja '
 nombre_ingles: Orange-collared Manakin

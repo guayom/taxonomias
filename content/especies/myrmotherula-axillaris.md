@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Myrmotherula axillaris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thamnophilidae '
-generos:
-  - Myrmotherula
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thamnophilidae '
+generos: Myrmotherula
 especie: 'axillaris '
 nombre_comun: Hormiguerito Flanquiblanco
 nombre_ingles: White-flanked Antwren

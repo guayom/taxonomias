@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Florisuga mellivora
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Florisuga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Florisuga
 especie: mellivora
 nombre_comun: Jacobino Nuquiblanco
 nombre_ingles: White-necked Jacobin

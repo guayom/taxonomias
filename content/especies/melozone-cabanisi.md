@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Melozone cabanisi
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Emberizidae '
-generos:
-  - Melozone
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Emberizidae '
+generos: Melozone
 especie: cabanisi
 nombre_comun: 'Pinzón Cafetalero '
 nombre_ingles: Cabanis's Ground-Sparrow

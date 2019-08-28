@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: 'Setophaga chrysoparia '
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Setophaga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Setophaga
 especie: 'chrysoparia '
 nombre_comun: 'Reinita Caridorada '
 nombre_ingles: Golden-cheeked Warbler

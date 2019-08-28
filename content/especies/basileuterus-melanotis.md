@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Basileuterus melanotis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Basileuterus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Basileuterus
 especie: melanotis
 nombre_comun: Reinita Costarricense
 nombre_ingles: 'Costa Rican Warbler '

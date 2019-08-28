@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Carpodectes antoniae
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Cotingidae '
-generos:
-  - Carpodectes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Cotingidae '
+generos: Carpodectes
 especie: 'antoniae '
 nombre_comun: Cotinga Piquiamarillo
 nombre_ingles: Yellow-billed Cotinga

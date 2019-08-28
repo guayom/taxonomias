@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Brotogeris jugularis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Psittaciformes
-familias:
-  - 'Psittacidae '
-generos:
-  - Brotogeris
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Psittaciformes
+familias: 'Psittacidae '
+generos: Brotogeris
 especie: jugularis
 nombre_comun: 'Periquito Barbinaranja '
 nombre_ingles: Orange-chinned Parakeet

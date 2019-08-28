@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Passer domesticus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Passeridae '
-generos:
-  - Passer
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Passeridae '
+generos: Passer
 especie: domesticus
 nombre_comun: 'Gorrión Común '
 nombre_ingles: House Sparrow

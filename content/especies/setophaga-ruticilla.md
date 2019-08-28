@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Setophaga ruticilla
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Setophaga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Setophaga
 especie: ruticilla
 nombre_comun: 'Candelita Norteña '
 nombre_ingles: American Redstart

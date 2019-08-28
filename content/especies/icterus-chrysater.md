@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Icterus chrysater
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Icteridae '
-generos:
-  - Icterus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Icteridae '
+generos: Icterus
 especie: 'chrysater '
 nombre_comun: Bolsero Dorsidorado
 nombre_ingles: Yellow-backed Oriole

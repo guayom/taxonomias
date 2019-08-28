@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Dendrocincla fuliginosa
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Furnariidae '
-generos:
-  - Dendrocincla
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Furnariidae '
+generos: Dendrocincla
 especie: 'fuliginosa '
 nombre_comun: Trepador Pardo
 nombre_ingles: Plain-brown Woodcreeper

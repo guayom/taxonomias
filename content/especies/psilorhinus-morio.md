@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Psilorhinus morio
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Corvidae '
-generos:
-  - Psilorhinus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Corvidae '
+generos: Psilorhinus
 especie: 'morio '
 nombre_comun: 'Urraca Parda '
 nombre_ingles: Brown Jay

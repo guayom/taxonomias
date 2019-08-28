@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Athene cunicularia
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Strigidae '
-generos:
-  - Athene
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Strigidae '
+generos: Athene
 especie: cunicularia
 nombre_comun: Lechuza Llanera
 nombre_ingles: Burrowing Owl

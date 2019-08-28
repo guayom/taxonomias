@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Myrmeciza exsul
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thamnophilidae '
-generos:
-  - Myrmeciza
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thamnophilidae '
+generos: Myrmeciza
 especie: 'exsul '
 nombre_comun: Hormiguero Dorsicastaño
 nombre_ingles: Chestnut-backed Antbird

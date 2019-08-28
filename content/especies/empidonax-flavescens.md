@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Empidonax flavescens
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Empidonax
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Empidonax
 especie: flavescens
 nombre_comun: Mosquerito Amarillento
 nombre_ingles: Yellowish Flycatcher

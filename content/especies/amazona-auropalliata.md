@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Amazona auropalliata
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Psittaciformes
-familias:
-  - 'Psittacidae '
-generos:
-  - Amazona
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Psittaciformes
+familias: 'Psittacidae '
+generos: Amazona
 especie: auropalliata
 nombre_comun: 'Lora de Nuca Amarilla '
 nombre_ingles: Yellow-naped Parrot

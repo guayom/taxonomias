@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Basileuterus culicivorus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Basileuterus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Basileuterus
 especie: culicivorus
 nombre_comun: Reinita Coronidorada
 nombre_ingles: Golden-crowned Warbler

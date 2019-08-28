@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Helmitheros vermivorum
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Helmitheros
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Helmitheros
 especie: vermivorum
 nombre_comun: Reinita Gusanera
 nombre_ingles: Worm-eating Warbler

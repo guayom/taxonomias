@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Melanerpes hoffmannii
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Piciformes
-familias:
-  - 'Picidae '
-generos:
-  - Melanerpes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Piciformes
+familias: 'Picidae '
+generos: Melanerpes
 especie: 'hoffmannii '
 nombre_comun: Carpintero de Hoffmann
 nombre_ingles: Hoffmann's Woodpecker

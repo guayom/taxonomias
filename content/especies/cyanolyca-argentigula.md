@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cyanolyca argentigula
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Corvidae '
-generos:
-  - Cyanolyca
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Corvidae '
+generos: Cyanolyca
 especie: 'argentigula '
 nombre_comun: Urraca Gorgiplateada
 nombre_ingles: Silvery-throated Jay

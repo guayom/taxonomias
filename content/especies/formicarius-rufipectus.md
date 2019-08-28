@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Formicarius rufipectus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Formicariidae '
-generos:
-  - Formicarius
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Formicariidae '
+generos: Formicarius
 especie: rufipectus
 nombre_comun: Gallito Hormiguero Pechicastaño
 nombre_ingles: Rufous-breasted Antthrush

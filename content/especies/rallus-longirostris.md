@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Rallus longirostris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Gruiformes
-familias:
-  - 'Rallidae '
-generos:
-  - Rallus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Gruiformes
+familias: 'Rallidae '
+generos: Rallus
 especie: longirostris
 nombre_comun: Rascón Picudo
 nombre_ingles: Mangrove Rail

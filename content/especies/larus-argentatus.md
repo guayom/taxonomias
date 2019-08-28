@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Larus argentatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Laridae '
-generos:
-  - Larus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Laridae '
+generos: Larus
 especie: argentatus
 nombre_comun: Gaviota Argéntea
 nombre_ingles: Herring Gull

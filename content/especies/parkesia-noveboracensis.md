@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Parkesia noveboracensis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Parkesia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Parkesia
 especie: ' noveboracensis'
 nombre_comun: 'Reinita Acuática Norteña '
 nombre_ingles: Northern Waterthrush

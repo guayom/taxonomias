@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Icterus pectoralis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Icteridae '
-generos:
-  - Icterus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Icteridae '
+generos: Icterus
 especie: pectoralis
 nombre_comun: 'Bolsero Pechimanchado '
 nombre_ingles: Spot-breasted Oriole

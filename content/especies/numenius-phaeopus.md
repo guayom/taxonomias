@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Numenius phaeopus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Scolopacidae '
-generos:
-  - Numenius
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Scolopacidae '
+generos: Numenius
 especie: 'phaeopus '
 nombre_comun: 'Zarapito Trinador '
 nombre_ingles: Whimbrel

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Icteria virens
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Icteria
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Icteria
 especie: 'virens '
 nombre_comun: Reinita Grande
 nombre_ingles: Yellow-breasted Chat

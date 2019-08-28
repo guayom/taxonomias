@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Buteogallus urubitinga
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Buteogallus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Buteogallus
 especie: urubitinga
 nombre_comun: 'Gavilán Negro Mayor '
 nombre_ingles: Great Black Hawk

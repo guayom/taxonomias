@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: 'Aramides albiventris '
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Gruiformes
-familias:
-  - 'Rallidae '
-generos:
-  - Aramides
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Gruiformes
+familias: 'Rallidae '
+generos: Aramides
 especie: 'albiventris '
 nombre_comun: Rascón Pomponé
 nombre_ingles: 'Russet-naped Wood-Rail '

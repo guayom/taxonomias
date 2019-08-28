@@ -2,12 +2,12 @@
 title: "Crypturellus cinnamomeus, Thicket Tinamou, Tinamú Canelo "
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Tinamiformes"]
-familias: ["Tinamidae "]
-generos: ["Crypturellus"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Tinamiformes"
+familias: "Tinamidae "
+generos: "Crypturellus"
 especie: "cinnamomeus"
 nombre_cientifico: "Crypturellus cinnamomeus"
 nombre_comun: "Tinamú Canelo "

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Ammodramus savannarum
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Emberizidae '
-generos:
-  - Ammodramus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Emberizidae '
+generos: Ammodramus
 especie: savannarum
 nombre_comun: Sabanero Colicorto
 nombre_ingles: Grasshopper Sparrow

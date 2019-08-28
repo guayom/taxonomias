@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cyphorhinus phaeocephalus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Troglodytidae '
-generos:
-  - Cyphorhinus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Troglodytidae '
+generos: Cyphorhinus
 especie: 'phaeocephalus '
 nombre_comun: Soterrey Canoro
 nombre_ingles: Song Wren

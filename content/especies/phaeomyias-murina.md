@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Phaeomyias murina
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Phaeomyias
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Phaeomyias
 especie: murina
 nombre_comun: Mosquerito Cafecito
 nombre_ingles: Mouse-colored Tyrannulet

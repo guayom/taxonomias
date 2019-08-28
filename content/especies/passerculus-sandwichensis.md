@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Passerculus sandwichensis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Emberizidae '
-generos:
-  - Passerculus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Emberizidae '
+generos: Passerculus
 especie: sandwichensis
 nombre_comun: Sabanero Zanjero
 nombre_ingles: Savannah Sparrow

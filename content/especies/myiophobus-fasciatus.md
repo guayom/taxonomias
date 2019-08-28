@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Myiophobus fasciatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Myiophobus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Myiophobus
 especie: fasciatus
 nombre_comun: Mosquerito Pechirrayado
 nombre_ingles: Bran-colored Flycatcher

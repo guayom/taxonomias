@@ -2,12 +2,12 @@
 title: "Calocitta formosa, White-throated Magpie-Jay, Urraca Copetona "
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Passeriformes"]
-familias: ["Corvidae "]
-generos: ["Calocitta"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: "Corvidae "
+generos: "Calocitta"
 especie: "formosa"
 nombre_cientifico: "Calocitta formosa"
 nombre_comun: "Urraca Copetona "

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Automolus ochrolaemus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Furnariidae '
-generos:
-  - Automolus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Furnariidae '
+generos: Automolus
 especie: ochrolaemus
 nombre_comun: Hojarrasquero Gorgianteado
 nombre_ingles: Buff-throated Foliage-gleaner

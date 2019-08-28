@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Setophaga pinus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Setophaga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Setophaga
 especie: pinus
 nombre_comun: Reinita de Pinos
 nombre_ingles: Pine Warbler

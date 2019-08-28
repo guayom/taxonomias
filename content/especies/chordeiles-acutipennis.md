@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Chordeiles acutipennis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Caprimulgiformes
-familias:
-  - 'Caprimulgidae '
-generos:
-  - Chordeiles
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Caprimulgiformes
+familias: 'Caprimulgidae '
+generos: Chordeiles
 especie: 'acutipennis '
 nombre_comun: 'Añapero Menor '
 nombre_ingles: Lesser Nighthawk

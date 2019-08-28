@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Ptiliogonys caudatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Ptiliogonatidae '
-generos:
-  - Ptiliogonys
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Ptiliogonatidae '
+generos: Ptiliogonys
 especie: 'caudatus '
 nombre_comun: 'Capulinero Colilargo '
 nombre_ingles: Long-tailed Silky-Flycatcher

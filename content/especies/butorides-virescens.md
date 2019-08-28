@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Butorides virescens
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Pelecaniformes
-familias:
-  - Ardeidae
-generos:
-  - Butorides
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Pelecaniformes
+familias: Ardeidae
+generos: Butorides
 especie: virescens
 title: Butorides virescens, Green Heron, Garcilla Verde
 nombre_comun: Garcilla Verde

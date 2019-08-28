@@ -2,12 +2,12 @@
 title: "Columbina passerina, Common Ground-Dove, Tortolita Común "
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Columbiformes"]
-familias: ["Columbidae "]
-generos: ["Columbina"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Columbiformes"
+familias: "Columbidae "
+generos: "Columbina"
 especie: "passerina"
 nombre_cientifico: "Columbina passerina"
 nombre_comun: "Tortolita Común "

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Tachycineta bicolor
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - Hirundinidae
-generos:
-  - Tachycineta
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: Hirundinidae
+generos: Tachycineta
 especie: bicolor
 nombre_comun: Golondrina Bicolor
 nombre_ingles: Tree Swallow

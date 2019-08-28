@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: 'Phoebastria irrorata '
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - 'Diomedeidae '
-generos:
-  - Phoebastria
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: 'Diomedeidae '
+generos: Phoebastria
 especie: 'irrorata '
 nombre_comun: Albatros de Galápagos
 nombre_ingles: Waved Albatross

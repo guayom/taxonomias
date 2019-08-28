@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Amblycercus holosericeus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Icteridae '
-generos:
-  - Amblycercus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Icteridae '
+generos: Amblycercus
 especie: holosericeus
 nombre_comun: 'Cacique Picoplata '
 nombre_ingles: Yellow-billed Cacique

@@ -2,12 +2,12 @@
 title: "Bartramia longicauda, Upland Sandpiper, Pradero "
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Charadriiformes"]
-familias: ["Scolopacidae "]
-generos: ["Bartramia"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Charadriiformes"
+familias: "Scolopacidae "
+generos: "Bartramia"
 especie: "longicauda"
 nombre_cientifico: "Bartramia longicauda"
 nombre_comun: "Pradero "

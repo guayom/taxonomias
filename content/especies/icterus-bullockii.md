@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Icterus bullockii
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Icteridae '
-generos:
-  - Icterus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Icteridae '
+generos: Icterus
 especie: 'bullockii '
 nombre_comun: Bolsero de Bullock
 nombre_ingles: Bullock's Oriole

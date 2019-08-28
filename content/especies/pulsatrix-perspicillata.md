@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pulsatrix perspicillata
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Strigidae '
-generos:
-  - Pulsatrix
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Strigidae '
+generos: Pulsatrix
 especie: perspicillata
 nombre_comun: 'Búho de Anteojos '
 nombre_ingles: Spectacled Owl

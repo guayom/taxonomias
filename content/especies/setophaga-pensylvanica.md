@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Setophaga pensylvanica
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Setophaga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Setophaga
 especie: pensylvanica
 nombre_comun: Reinita de Costillas Castañas
 nombre_ingles: Chestnut-sided Warbler

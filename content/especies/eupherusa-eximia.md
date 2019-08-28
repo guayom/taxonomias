@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Eupherusa eximia
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Eupherusa
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Eupherusa
 especie: eximia
 nombre_comun: 'Colibrí Colirrayado '
 nombre_ingles: Stripe-tailed Hummingbird

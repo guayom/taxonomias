@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pitangus sulphuratus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Pitangus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Pitangus
 especie: 'sulphuratus '
 nombre_comun: 'Bienteveo Grande '
 nombre_ingles: Great Kiskadee

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Quiscalus mexicanus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Icteridae '
-generos:
-  - Quiscalus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Icteridae '
+generos: Quiscalus
 especie: 'mexicanus '
 nombre_comun: 'Zanate Grande '
 nombre_ingles: Great-tailed Grackle

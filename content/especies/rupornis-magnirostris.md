@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Rupornis magnirostris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Rupornis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Rupornis
 especie: magnirostris
 nombre_comun: 'Gavilán Chapulinero '
 nombre_ingles: Roadside Hawk

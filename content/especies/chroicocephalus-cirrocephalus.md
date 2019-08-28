@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Chroicocephalus cirrocephalus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Laridae '
-generos:
-  - Chroicocephalus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Laridae '
+generos: Chroicocephalus
 especie: 'cirrocephalus '
 nombre_comun: Gaviota Cabecigris
 nombre_ingles: Gray-hooded Gull

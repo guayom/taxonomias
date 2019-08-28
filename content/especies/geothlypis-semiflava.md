@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Geothlypis semiflava
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Geothlypis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Geothlypis
 especie: semiflava
 nombre_comun: Antifacito Coroniolivo
 nombre_ingles: Olive-crowned Yellowthroat

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Setophaga pitiayumi
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Setophaga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Setophaga
 especie: pitiayumi
 nombre_comun: Parula Tropical
 nombre_ingles: Tropical Parula

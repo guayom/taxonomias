@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Leptopogon amaurocephalus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Leptopogon
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Leptopogon
 especie: 'amaurocephalus '
 nombre_comun: Mosquerito Cabecipardo
 nombre_ingles: Sepia-capped Flycatcher

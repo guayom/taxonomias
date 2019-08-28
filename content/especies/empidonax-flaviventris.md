@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Empidonax flaviventris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Empidonax
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Empidonax
 especie: flaviventris
 nombre_comun: Mosquerito Vientriamarillo
 nombre_ingles: Yellow-bellied Flycatcher

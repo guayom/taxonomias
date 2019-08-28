@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Icterus galbula
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Icteridae '
-generos:
-  - Icterus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Icteridae '
+generos: Icterus
 especie: galbula
 nombre_comun: 'Bolsero Norteño '
 nombre_ingles: Baltimore Oriole

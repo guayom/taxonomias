@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Lophornis adorabilis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Lophornis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Lophornis
 especie: adorabilis
 nombre_comun: Coqueta Crestiblanca
 nombre_ingles: White-crested Coquette

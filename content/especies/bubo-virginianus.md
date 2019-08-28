@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Bubo virginianus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Strigidae '
-generos:
-  - Bubo
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Strigidae '
+generos: Bubo
 especie: virginianus
 nombre_comun: Búho Grande
 nombre_ingles: Great Horned Owl

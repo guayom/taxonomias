@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Chlorostilbon canivetii
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Chlorostilbon
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Chlorostilbon
 especie: 'canivetii '
 nombre_comun: Esmeralda Rabihorcada
 nombre_ingles: Canivet's Emerald

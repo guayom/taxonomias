@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Mitrephanes phaeocercus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Mitrephanes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Mitrephanes
 especie: 'phaeocercus '
 nombre_comun: Mosquerito Moñudo
 nombre_ingles: Tufted Flycatcher

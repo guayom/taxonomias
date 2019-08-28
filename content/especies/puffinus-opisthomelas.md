@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Puffinus opisthomelas
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - 'Procellariidae '
-generos:
-  - Puffinus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: 'Procellariidae '
+generos: Puffinus
 especie: 'opisthomelas '
 nombre_comun: Pardela Culinegra
 nombre_ingles: Black-vented Shearwater

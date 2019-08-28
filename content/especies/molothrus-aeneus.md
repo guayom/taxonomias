@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Molothrus aeneus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Icteridae '
-generos:
-  - Molothrus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Icteridae '
+generos: Molothrus
 especie: 'aeneus '
 nombre_comun: 'Vaquero Ojirrojo '
 nombre_ingles: Bronzed Cowbird

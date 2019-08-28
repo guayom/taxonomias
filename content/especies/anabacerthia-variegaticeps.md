@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Anabacerthia variegaticeps
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Furnariidae '
-generos:
-  - Anabacerthia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Furnariidae '
+generos: Anabacerthia
 especie: variegaticeps
 nombre_comun: Trepamusgo de Anteojos
 nombre_ingles: Scaly-throated Foliage-gleaner

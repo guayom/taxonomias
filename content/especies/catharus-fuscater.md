@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Catharus fuscater
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Turdidae '
-generos:
-  - Catharus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Turdidae '
+generos: Catharus
 especie: fuscater
 nombre_comun: 'Zorzal Sombrío '
 nombre_ingles: Slaty-backed Nightingale-Thrush

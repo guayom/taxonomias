@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Ramphocelus sanguinolentus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Ramphocelus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Ramphocelus
 especie: sanguinolentus
 nombre_comun: 'Tangara Capuchirroja '
 nombre_ingles: Crimson-collared Tanager

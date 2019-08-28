@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Oreothlypis celata
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Oreothlypis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Oreothlypis
 especie: 'celata '
 nombre_comun: Reinita Olivácea
 nombre_ingles: Orange-crowned Warbler

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Peucaea botterii
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Emberizidae '
-generos:
-  - Peucaea
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Emberizidae '
+generos: Peucaea
 especie: 'botterii '
 nombre_comun: Sabanero Pechianteado
 nombre_ingles: Botteri's Sparrow

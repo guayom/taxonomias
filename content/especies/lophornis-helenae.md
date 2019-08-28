@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Lophornis helenae
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Lophornis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Lophornis
 especie: helenae
 nombre_comun: Coqueta Crestinegra
 nombre_ingles: Black-crested Coquette

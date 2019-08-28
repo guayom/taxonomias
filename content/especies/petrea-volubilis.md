@@ -1,17 +1,11 @@
 ---
 title: Petrea volubilis, Queen's wreath, Choreque
-reinos:
-  - Plantae
-divisiones:
-  - Magnoliophyta
-clases:
-  - Magnoliopsida
-ordenes:
-  - Lamiales
-familias:
-  - Verbenaceae
-generos:
-  - Petrea
+reinos: Plantae
+divisiones: Magnoliophyta
+clases: Magnoliopsida
+ordenes: Lamiales
+familias: Verbenaceae
+generos: Petrea
 nombre_cientifico: Petrea volubilis
 nombre_comun: Choreque
 nombre_ingles: Queen's wreath

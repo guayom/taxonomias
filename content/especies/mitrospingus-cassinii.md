@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Mitrospingus cassinii
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Mitrospingus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Mitrospingus
 especie: 'cassinii '
 nombre_comun: Tangara Carinegruzca
 nombre_ingles: Dusky-faced Tanager

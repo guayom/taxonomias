@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cephalopterus glabricollis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Cotingidae '
-generos:
-  - Cephalopterus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Cotingidae '
+generos: Cephalopterus
 especie: 'glabricollis '
 nombre_comun: 'Pájaro-sombrilla Cuellinudo '
 nombre_ingles: Bare-necked Umbrellabird

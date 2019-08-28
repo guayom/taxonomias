@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Colonia colonus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Colonia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Colonia
 especie: 'colonus '
 nombre_comun: Mosquero Coludo
 nombre_ingles: Long-tailed Tyrant

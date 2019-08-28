@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Agelaius phoeniceus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Icteridae '
-generos:
-  - Agelaius
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Icteridae '
+generos: Agelaius
 especie: phoeniceus
 nombre_comun: 'Tordo Sargento '
 nombre_ingles: Red-winged Blackbird

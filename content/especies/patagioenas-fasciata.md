@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Patagioenas fasciata
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Columbiformes
-familias:
-  - 'Columbidae '
-generos:
-  - Patagioenas
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Columbiformes
+familias: 'Columbidae '
+generos: Patagioenas
 especie: fasciata
 nombre_comun: Paloma Collareja
 nombre_ingles: Band-tailed Pigeon

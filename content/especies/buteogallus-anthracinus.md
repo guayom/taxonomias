@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Buteogallus anthracinus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Buteogallus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Buteogallus
 especie: anthracinus
 nombre_comun: Gavilán Cangrejero
 nombre_ingles: Common Black Hawk

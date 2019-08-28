@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Chlorospingus flavopectus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Emberizidae '
-generos:
-  - Chlorospingus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Emberizidae '
+generos: Chlorospingus
 especie: flavopectus
 nombre_comun: 'Tangara de Monte Ojeruda '
 nombre_ingles: Common Chlorospingus

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Onychoprion anaethetus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Laridae '
-generos:
-  - Onychoprion
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Laridae '
+generos: Onychoprion
 especie: 'anaethetus '
 nombre_comun: Charrán Embridado
 nombre_ingles: Bridled Tern

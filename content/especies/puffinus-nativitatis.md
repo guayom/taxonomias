@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Puffinus nativitatis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - 'Procellariidae '
-generos:
-  - Puffinus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: 'Procellariidae '
+generos: Puffinus
 especie: nativitatis
 nombre_comun: Pardela de Navidad
 nombre_ingles: Christmas Shearwater

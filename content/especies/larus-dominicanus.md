@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Larus dominicanus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Laridae '
-generos:
-  - Larus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Laridae '
+generos: Larus
 especie: 'dominicanus '
 nombre_comun: Gaviota Cocinera
 nombre_ingles: Kelp Gull

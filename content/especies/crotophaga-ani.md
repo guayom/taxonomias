@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Crotophaga ani
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Cuculiformes
-familias:
-  - 'Cuculidae '
-generos:
-  - Crotophaga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Cuculiformes
+familias: 'Cuculidae '
+generos: Crotophaga
 especie: 'ani '
 nombre_comun: 'Garrapatero Piquiliso '
 nombre_ingles: Smooth-billed Ani

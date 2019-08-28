@@ -2,12 +2,12 @@
 title: "Phalaropus tricolor, Wilson's Phalarope, Falaropo Tricolor"
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Charadriiformes"]
-familias: ["Scolopacidae "]
-generos: ["Phalaropus"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Charadriiformes"
+familias: "Scolopacidae "
+generos: "Phalaropus"
 especie: "tricolor"
 nombre_cientifico: "Phalaropus tricolor"
 nombre_comun: "Falaropo Tricolor"

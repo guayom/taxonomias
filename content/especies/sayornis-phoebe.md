@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Sayornis phoebe
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Sayornis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Sayornis
 especie: 'phoebe '
 nombre_comun: Mosquero Fibí
 nombre_ingles: Eastern Phoebe

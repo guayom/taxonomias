@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Morpho
-reinos:
-  - Animalia
-divisiones:
-  - Arthropoda
-clases:
-  - Insecta
-ordenes:
-  - Lepidoptera
-familias:
-  - Nymphalidae
-generos:
-  - Morpho
+reinos: "Animalia"
+divisiones: Arthropoda
+clases: Insecta
+ordenes: Lepidoptera
+familias: Nymphalidae
+generos: Morpho
 title: 'Morpho helenor marinita, Peleides blue morpho, morfo azul, Celeste común'
 nombre_comun: 'morfo azul, Celeste común'
 nombre_ingles: Peleides blue morpho

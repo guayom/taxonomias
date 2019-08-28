@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Gymnocichla nudiceps
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thamnophilidae '
-generos:
-  - Gymnocichla
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thamnophilidae '
+generos: Gymnocichla
 especie: nudiceps
 nombre_comun: Hormiguero Calvo
 nombre_ingles: Bare-crowned Antbird

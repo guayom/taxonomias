@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Geranoaetus albicaudatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Geranoaetus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Geranoaetus
 especie: 'albicaudatus '
 nombre_comun: 'Gavilán Coliblanco '
 nombre_ingles: White-tailed Hawk

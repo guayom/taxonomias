@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pheugopedius rutilus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Troglodytidae '
-generos:
-  - Pheugopedius
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Troglodytidae '
+generos: Pheugopedius
 especie: 'rutilus '
 nombre_comun: Soterrey Carimoteado
 nombre_ingles: Rufous-breasted Wren

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Microrhopias quixensis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thamnophilidae '
-generos:
-  - Microrhopias
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thamnophilidae '
+generos: Microrhopias
 especie: 'quixensis '
 nombre_comun: Hormiguerito Alipunteado
 nombre_ingles: Dot-winged Antwren

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Mionectes olivaceus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - Tyrannidae
-generos:
-  - Mionectes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: Tyrannidae
+generos: Mionectes
 especie: olivaceus
 nombre_comun: Mosquerito Ojimanchado
 nombre_ingles: Olive-striped Flycatcher

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pheugopedius maculipectus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Troglodytidae '
-generos:
-  - Pheugopedius
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Troglodytidae '
+generos: Pheugopedius
 especie: maculipectus
 nombre_comun: Soterrey Pechimoteado
 nombre_ingles: Spot-breasted Wren

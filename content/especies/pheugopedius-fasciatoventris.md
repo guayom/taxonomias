@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pheugopedius fasciatoventris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Troglodytidae '
-generos:
-  - Pheugopedius
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Troglodytidae '
+generos: Pheugopedius
 especie: 'fasciatoventris '
 nombre_comun: Soterrey Vientrinegro
 nombre_ingles: Black-bellied Wren

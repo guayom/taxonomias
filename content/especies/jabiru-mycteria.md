@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Jabiru mycteria
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Ciconiiformes
-familias:
-  - 'Ciconiidae '
-generos:
-  - Jabiru
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Ciconiiformes
+familias: 'Ciconiidae '
+generos: Jabiru
 especie: 'mycteria '
 nombre_comun: 'Jabirú '
 nombre_ingles: Jabiru

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pterodroma rostrata
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - 'Procellariidae '
-generos:
-  - Pterodroma
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: 'Procellariidae '
+generos: Pterodroma
 especie: 'rostrata '
 nombre_comun: Petrel de Tahiti
 nombre_ingles: Tahiti Petrel

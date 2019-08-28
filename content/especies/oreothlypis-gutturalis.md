@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Oreothlypis gutturalis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Oreothlypis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Oreothlypis
 especie: gutturalis
 nombre_comun: Reinita Garganta de Fuego
 nombre_ingles: Flame-throated Warbler

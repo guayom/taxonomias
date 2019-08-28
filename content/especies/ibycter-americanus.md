@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Ibycter americanus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Falconiformes
-familias:
-  - 'Falconidae '
-generos:
-  - Ibycter
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Falconiformes
+familias: 'Falconidae '
+generos: Ibycter
 especie: 'americanus '
 nombre_comun: 'Caracara Avispera '
 nombre_ingles: Red-throated Caracara

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Geothlypis aequinoctialis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Geothlypis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Geothlypis
 especie: 'aequinoctialis '
 nombre_comun: Antifacito Sureño
 nombre_ingles: Masked Yellowthroat

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pluvialis squatarola
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Charadriidae '
-generos:
-  - Pluvialis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Charadriidae '
+generos: Pluvialis
 especie: 'squatarola '
 nombre_comun: 'Chorlito Gris '
 nombre_ingles: Black-bellied Plover

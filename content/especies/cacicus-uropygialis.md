@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cacicus uropygialis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Icteridae '
-generos:
-  - Cacicus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Icteridae '
+generos: Cacicus
 especie: uropygialis
 nombre_comun: 'Cacique Lomiescarlata '
 nombre_ingles: Scarlet-rumped Cacique

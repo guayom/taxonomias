@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Chaetura vauxi
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Apodidae '
-generos:
-  - Chaetura
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Apodidae '
+generos: Chaetura
 especie: 'vauxi '
 nombre_comun: Vencejo Común
 nombre_ingles: Vaux's Swift

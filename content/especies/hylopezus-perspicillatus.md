@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Hylopezus perspicillatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Grallariidae '
-generos:
-  - Hylopezus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Grallariidae '
+generos: Hylopezus
 especie: 'perspicillatus '
 nombre_comun: 'Tororoi Pechilistado '
 nombre_ingles: Streak-chested Antpitta

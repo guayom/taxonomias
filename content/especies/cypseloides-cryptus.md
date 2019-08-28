@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cypseloides cryptus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Apodidae '
-generos:
-  - Cypseloides
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Apodidae '
+generos: Cypseloides
 especie: 'cryptus '
 nombre_comun: Vencejo Sombrío
 nombre_ingles: White-chinned Swift

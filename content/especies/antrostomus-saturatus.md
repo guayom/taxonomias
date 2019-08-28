@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Antrostomus saturatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Caprimulgiformes
-familias:
-  - 'Caprimulgidae '
-generos:
-  - Antrostomus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Caprimulgiformes
+familias: 'Caprimulgidae '
+generos: Antrostomus
 especie: saturatus
 nombre_comun: 'Chotacabras Sombrío '
 nombre_ingles: Dusky Nightjar

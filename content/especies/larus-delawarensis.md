@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Larus delawarensis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Laridae '
-generos:
-  - Larus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Laridae '
+generos: Larus
 especie: 'delawarensis '
 nombre_comun: Gaviota Piquianillada
 nombre_ingles: Ring-billed Gull

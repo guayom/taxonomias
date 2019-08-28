@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Charadrius vociferus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Charadriidae '
-generos:
-  - Charadrius
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Charadriidae '
+generos: Charadrius
 especie: vociferus
 nombre_comun: 'Chorlitejo de Dos Collares '
 nombre_ingles: Killdeer

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Coragyps atratus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Cathartiformes
-familias:
-  - 'Cathartidae '
-generos:
-  - Coragyps
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Cathartiformes
+familias: 'Cathartidae '
+generos: Coragyps
 especie: atratus
 nombre_comun: 'Zopilote Negro '
 nombre_ingles: Black Vulture

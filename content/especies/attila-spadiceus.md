@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Attila spadiceus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Attila
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Attila
 especie: spadiceus
 nombre_comun: Atila Lomiamarilla
 nombre_ingles: Bright-rumped Attila

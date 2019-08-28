@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Piranga leucoptera
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Cardinalidae '
-generos:
-  - Piranga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Cardinalidae '
+generos: Piranga
 especie: leucoptera
 nombre_comun: 'Tangara Aliblanca '
 nombre_ingles: White-winged Tanager

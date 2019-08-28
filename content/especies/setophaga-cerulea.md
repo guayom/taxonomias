@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Setophaga cerulea
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Setophaga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Setophaga
 especie: cerulea
 nombre_comun: Reinita Cerulea
 nombre_ingles: Cerulean Warbler

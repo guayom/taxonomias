@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Philydor rufum
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Furnariidae '
-generos:
-  - Philydor
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Furnariidae '
+generos: Philydor
 especie: 'rufum '
 nombre_comun: Trepamusgo Rojizo
 nombre_ingles: Buff-fronted Foliage-gleaner

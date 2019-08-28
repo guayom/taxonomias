@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Empidonax alnorum
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Empidonax
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Empidonax
 especie: alnorum
 nombre_comun: Mosquerito de Charral
 nombre_ingles: Alder Flycatcher

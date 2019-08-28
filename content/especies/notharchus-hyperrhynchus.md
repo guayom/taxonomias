@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Notharchus hyperrhynchus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Piciformes
-familias:
-  - 'Bucconidae '
-generos:
-  - Notharchus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Piciformes
+familias: 'Bucconidae '
+generos: Notharchus
 especie: 'hyperrhynchus '
 nombre_comun: Buco Collarejo
 nombre_ingles: White-necked Puffbird

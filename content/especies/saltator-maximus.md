@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Saltator maximus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Saltator
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Saltator
 especie: 'maximus '
 nombre_comun: 'Saltator Gorgianteado '
 nombre_ingles: Buff-throated Saltator

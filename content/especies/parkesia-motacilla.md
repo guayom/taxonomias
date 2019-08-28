@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Parkesia motacilla
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Parkesia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Parkesia
 especie: motacilla
 nombre_comun: 'Reinita Acuática Piquigrande '
 nombre_ingles: Louisiana Waterthrush

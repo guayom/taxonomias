@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pterodroma phaeopygia
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - 'Procellariidae '
-generos:
-  - Pterodroma
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: 'Procellariidae '
+generos: Pterodroma
 especie: 'phaeopygia '
 nombre_comun: Petrel Lomioscuro
 nombre_ingles: Galapagos Petrel

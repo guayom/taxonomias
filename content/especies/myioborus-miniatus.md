@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Myioborus miniatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Myioborus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Myioborus
 especie: miniatus
 nombre_comun: 'Candelita Pechinegra '
 nombre_ingles: Slate-throated Redstart

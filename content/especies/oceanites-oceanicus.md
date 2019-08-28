@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Oceanites oceanicus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - 'Hydrobatidae '
-generos:
-  - Oceanites
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: 'Hydrobatidae '
+generos: Oceanites
 especie: 'oceanicus '
 nombre_comun: Paiño de Wilson
 nombre_ingles: Wilson's Storm-Petrel

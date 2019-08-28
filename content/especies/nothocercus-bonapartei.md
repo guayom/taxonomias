@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Nothocercus bonapartei
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Tinamiformes
-familias:
-  - 'Tinamidae '
-generos:
-  - Nothocercus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Tinamiformes
+familias: 'Tinamidae '
+generos: Nothocercus
 especie: 'bonapartei '
 nombre_comun: 'Tinamú Serrano '
 nombre_ingles: 'Highland Tinamou '

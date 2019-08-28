@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Lampornis hemileucus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Lampornis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Lampornis
 especie: 'hemileucus '
 nombre_comun: Colibrí Montañes Vientriblanco
 nombre_ingles: White-bellied Mountain-gem

@@ -1,18 +1,12 @@
 ---
 nombre_cientifico: Nyctibius griseus 
 title: Nyctibius griseus, Common Potoo, Nictibio Común
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Nyctibiiformes
-familias:
-  - Nyctibiidae
-generos:
-  - Nyctibius
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Nyctibiiformes
+familias: Nyctibiidae
+generos: Nyctibius
 especie: griseus
 nombre_comun: Nictibio Común
 nombre_ingles: Common Potoo

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cyanerpes lucidus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Cyanerpes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Cyanerpes
 especie: 'lucidus '
 nombre_comun: 'Mielero Luciente '
 nombre_ingles: Shining Honeycreeper

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Celeus loricatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Piciformes
-familias:
-  - 'Picidae '
-generos:
-  - Celeus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Piciformes
+familias: 'Picidae '
+generos: Celeus
 especie: loricatus
 nombre_comun: Carpintero Canelo
 nombre_ingles: Cinnamon Woodpecker

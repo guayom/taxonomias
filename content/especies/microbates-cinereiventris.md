@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Microbates cinereiventris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Polioptilidae '
-generos:
-  - Microbates
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Polioptilidae '
+generos: Microbates
 especie: 'cinereiventris '
 nombre_comun: Soterillo Caricafé
 nombre_ingles: Tawny-faced Gnatwren

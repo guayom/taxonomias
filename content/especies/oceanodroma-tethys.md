@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Oceanodroma tethys
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - 'Hydrobatidae '
-generos:
-  - Oceanodroma
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: 'Hydrobatidae '
+generos: Oceanodroma
 especie: tethys
 nombre_comun: Paiño Danzarin
 nombre_ingles: Wedge-rumped Storm-Petrel

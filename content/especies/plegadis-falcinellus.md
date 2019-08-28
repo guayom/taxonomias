@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Plegadis falcinellus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Pelecaniformes
-familias:
-  - 'Threskiornithidae '
-generos:
-  - Plegadis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Pelecaniformes
+familias: 'Threskiornithidae '
+generos: Plegadis
 especie: falcinellus
 nombre_comun: 'Ibis Morito '
 nombre_ingles: Glossy Ibis

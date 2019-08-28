@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Setophaga citrina
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Setophaga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Setophaga
 especie: citrina
 nombre_comun: Reinita Encapuchada
 nombre_ingles: Hooded Warbler

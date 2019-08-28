@@ -2,12 +2,12 @@
 title: "Numenius americanus, Long-billed Curlew, Zarapito Piquilargo"
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Charadriiformes"]
-familias: ["Scolopacidae "]
-generos: ["Numenius"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Charadriiformes"
+familias: "Scolopacidae "
+generos: "Numenius"
 especie: "americanus"
 nombre_cientifico: "Numenius americanus"
 nombre_comun: "Zarapito Piquilargo"

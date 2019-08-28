@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Junco vulcani
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Emberizidae '
-generos:
-  - Junco
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Emberizidae '
+generos: Junco
 especie: 'vulcani '
 nombre_comun: 'Junco Paramero '
 nombre_ingles: Volcano Junco

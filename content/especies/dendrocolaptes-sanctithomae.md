@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Dendrocolaptes sanctithomae
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Furnariidae '
-generos:
-  - Dendrocolaptes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Furnariidae '
+generos: Dendrocolaptes
 especie: sanctithomae
 nombre_comun: Trepador Barreteado
 nombre_ingles: Northern-barred Woodcreeper

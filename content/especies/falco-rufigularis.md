@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Falco rufigularis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Falconiformes
-familias:
-  - 'Falconidae '
-generos:
-  - Falco
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Falconiformes
+familias: 'Falconidae '
+generos: Falco
 especie: rufigularis
 nombre_comun: Halcón Cuelliblanco
 nombre_ingles: Bat Falcon

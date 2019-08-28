@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cyclarhis gujanensis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Vireonidae '
-generos:
-  - Cyclarhis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Vireonidae '
+generos: Cyclarhis
 especie: 'gujanensis '
 nombre_comun: Vireón Cejirrufo
 nombre_ingles: Rufous-browed Peppershrike

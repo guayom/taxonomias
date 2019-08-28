@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Empidonax traillii
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Empidonax
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Empidonax
 especie: 'traillii '
 nombre_comun: Mosquerito de Traill
 nombre_ingles: Willow Flycatcher

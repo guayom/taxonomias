@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Dacnis cayana
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Dacnis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Dacnis
 especie: 'cayana '
 nombre_comun: 'Mielero Azulejo '
 nombre_ingles: Blue Dacnis

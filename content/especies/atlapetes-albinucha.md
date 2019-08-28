@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Atlapetes albinucha
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Emberizidae '
-generos:
-  - Atlapetes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Emberizidae '
+generos: Atlapetes
 especie: albinucha
 nombre_comun: 'Saltón Gargantiamarilla '
 nombre_ingles: White-naped Brushfinch

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Larus heermanni
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Laridae '
-generos:
-  - Larus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Laridae '
+generos: Larus
 especie: 'heermanni '
 nombre_comun: Gaviota de Heermann
 nombre_ingles: Heermann's Gull

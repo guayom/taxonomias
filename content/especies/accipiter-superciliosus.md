@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Accipiter superciliosus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Accipiter
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Accipiter
 especie: superciliosus
 nombre_comun: 'Gavilán Enano '
 nombre_ingles: Tiny Hawk

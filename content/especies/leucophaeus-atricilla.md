@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Leucophaeus atricilla
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Laridae '
-generos:
-  - Leucophaeus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Laridae '
+generos: Leucophaeus
 especie: 'atricilla '
 nombre_comun: Gaviota Reidora
 nombre_ingles: Laughing Gull

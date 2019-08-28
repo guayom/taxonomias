@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Gelochelidon nilotica
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Laridae '
-generos:
-  - Gelochelidon
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Laridae '
+generos: Gelochelidon
 especie: nilotica
 nombre_comun: Charrán Piquinegro
 nombre_ingles: Gull-billed Tern

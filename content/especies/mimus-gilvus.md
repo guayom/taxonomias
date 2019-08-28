@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Mimus gilvus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Mimidae '
-generos:
-  - Mimus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Mimidae '
+generos: Mimus
 especie: 'gilvus '
 nombre_comun: Pájaro-imitador Tropical
 nombre_ingles: Tropical Mockingbird

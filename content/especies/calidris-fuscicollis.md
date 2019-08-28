@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Calidris fuscicollis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Scolopacidae '
-generos:
-  - Calidris
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Scolopacidae '
+generos: Calidris
 especie: fuscicollis
 nombre_comun: 'Correlimos Lomiblanco '
 nombre_ingles: White-rumped Sandpiper

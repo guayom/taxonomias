@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Caracara cheriway
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Falconiformes
-familias:
-  - 'Falconidae '
-generos:
-  - Caracara
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Falconiformes
+familias: 'Falconidae '
+generos: Caracara
 especie: 'cheriway '
 nombre_comun: 'Caracara Cargahuesos '
 nombre_ingles: Crested Caracara

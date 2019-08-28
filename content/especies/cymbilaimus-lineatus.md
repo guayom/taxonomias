@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cymbilaimus lineatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thamnophilidae '
-generos:
-  - Cymbilaimus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thamnophilidae '
+generos: Cymbilaimus
 especie: 'lineatus '
 nombre_comun: Batará Lineado
 nombre_ingles: Fasciated Antshrike

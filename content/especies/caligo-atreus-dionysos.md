@@ -1,18 +1,12 @@
 ---
 nombre_cientifico: Caligo dionysos
 title: Caligo atreus dionysos, Caligo Owl Butterfly, undefined
-reinos:
-  - Animalia
-divisiones:
-  - Arthropoda
-clases:
-  - Insecta
-ordenes:
-  - Lepidoptera
-familias:
-  - Nymphalidae
-generos:
-  - Caligo
+reinos: "Animalia"
+divisiones: Arthropoda
+clases: Insecta
+ordenes: Lepidoptera
+familias: Nymphalidae
+generos: Caligo
 especie: atreus dionysos
 nombre_ingles: Caligo Owl Butterfly
 links: >-

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cantorchilus zeledoni
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Troglodytidae '
-generos:
-  - Cantorchilus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Troglodytidae '
+generos: Cantorchilus
 especie: 'zeledoni '
 nombre_comun: Soterrey de Zeledón
 nombre_ingles: Canebrake Wren

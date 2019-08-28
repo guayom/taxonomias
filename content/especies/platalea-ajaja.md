@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Platalea ajaja
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Pelecaniformes
-familias:
-  - 'Threskiornithidae '
-generos:
-  - Platalea
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Pelecaniformes
+familias: 'Threskiornithidae '
+generos: Platalea
 especie: 'ajaja '
 nombre_comun: 'Espátula Rosada '
 nombre_ingles: Roseate Spoonbill

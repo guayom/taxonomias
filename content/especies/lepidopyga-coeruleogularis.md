@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Lepidopyga coeruleogularis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Lepidopyga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Lepidopyga
 especie: coeruleogularis
 nombre_comun: Colibrí Garganta de Zafiro
 nombre_ingles: Sapphire-throated Hummingbird

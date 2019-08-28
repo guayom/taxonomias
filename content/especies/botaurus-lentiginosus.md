@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Botaurus lentiginosus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Pelecaniformes
-familias:
-  - 'Ardeidae '
-generos:
-  - Botaurus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Pelecaniformes
+familias: 'Ardeidae '
+generos: Botaurus
 especie: lentiginosus
 nombre_comun: 'Avetoro Norteño '
 nombre_ingles: American Bittern

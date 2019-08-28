@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Aramides cajaneus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Gruiformes
-familias:
-  - 'Rallidae '
-generos:
-  - Aramides
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Gruiformes
+familias: 'Rallidae '
+generos: Aramides
 especie: cajaneus
 nombre_comun: 'Rascón Cuelligrís '
 nombre_ingles: Gray-cowled Wood-Rail

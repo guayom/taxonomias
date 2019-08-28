@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Hylocichla mustelina
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Turdidae '
-generos:
-  - Hylocichla
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Turdidae '
+generos: Hylocichla
 especie: mustelina
 nombre_comun: Zorzal del Bosque
 nombre_ingles: Wood Thrush

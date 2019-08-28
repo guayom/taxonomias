@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Grallaricula flavirostris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Grallariidae '
-generos:
-  - Grallaricula
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Grallariidae '
+generos: Grallaricula
 especie: flavirostris
 nombre_comun: 'Tororoi Piquigualdo '
 nombre_ingles: Ochre-breasted Antpitta

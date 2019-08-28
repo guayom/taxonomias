@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Basileuterus melanogenys
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Basileuterus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Basileuterus
 especie: melanogenys
 nombre_comun: Reinita Carinegra
 nombre_ingles: Black-cheeked Warbler

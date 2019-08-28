@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Hapalocrex flaviventer
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Gruiformes
-familias:
-  - 'Rallidae '
-generos:
-  - Hapalocrex
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Gruiformes
+familias: 'Rallidae '
+generos: Hapalocrex
 especie: flaviventer
 nombre_comun: Polluela Pechiamarilla
 nombre_ingles: Yellow-breasted Crake

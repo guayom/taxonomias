@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Doryfera ludovicae
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Doryfera
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Doryfera
 especie: 'ludovicae '
 nombre_comun: Pico de Lanza Frentiverde
 nombre_ingles: Green-fronted Lancebill

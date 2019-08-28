@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Myiopagis viridicata
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Myiopagis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Myiopagis
 especie: viridicata
 nombre_comun: 'Elainia Verdosa '
 nombre_ingles: Greenish Elaenia

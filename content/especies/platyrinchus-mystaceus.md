@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Platyrinchus mystaceus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Platyrinchus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Platyrinchus
 especie: 'mystaceus '
 nombre_comun: Piquichato Gargantiblanco
 nombre_ingles: White-throated Spadebill

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Ornithion brunneicapillus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Ornithion
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Ornithion
 especie: 'brunneicapillus '
 nombre_comun: Mosquerito Gorricafé
 nombre_ingles: Brown-capped Tyrannulet

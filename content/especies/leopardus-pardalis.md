@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Leopardus pardalis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Mammalia
-ordenes:
-  - Carnivora
-familias:
-  - Felidae
-generos:
-  - Leopardus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: Mammalia
+ordenes: Carnivora
+familias: Felidae
+generos: Leopardus
 title: 'Leopardus pardalis, Ocelot, Ocelote '
 nombre_comun: 'Ocelote '
 nombre_ingles: Ocelot

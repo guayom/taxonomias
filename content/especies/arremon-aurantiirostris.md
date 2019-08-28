@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Arremon aurantiirostris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Emberizidae '
-generos:
-  - Arremon
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Emberizidae '
+generos: Arremon
 especie: aurantiirostris
 nombre_comun: 'Pinzón Piquinaranja '
 nombre_ingles: Orange-billed Sparrow

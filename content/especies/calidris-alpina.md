@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Calidris alpina
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Scolopacidae '
-generos:
-  - Calidris
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Scolopacidae '
+generos: Calidris
 especie: alpina
 nombre_comun: Correlimos Pechinegro
 nombre_ingles: Dunlin

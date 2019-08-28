@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Psittacara finschi
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Psittaciformes
-familias:
-  - 'Psittacidae '
-generos:
-  - Psittacara
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Psittaciformes
+familias: 'Psittacidae '
+generos: Psittacara
 especie: 'finschi '
 nombre_comun: 'Perico Frentirrojo '
 nombre_ingles: Crimson-fronted Parakeet

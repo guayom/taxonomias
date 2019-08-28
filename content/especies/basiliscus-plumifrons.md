@@ -1,18 +1,12 @@
 ---
 nombre_cientifico: Basiliscus plumifrons
 title: Basiliscus plumifrons, Green basilisk, Basilisco verde
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Sauropsida
-ordenes:
-  - Squamata
-familias:
-  - Corytophanidae
-generos:
-  - Basiliscus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: Sauropsida
+ordenes: Squamata
+familias: Corytophanidae
+generos: Basiliscus
 especie: plumifrons
 nombre_comun: Basilisco verde
 nombre_ingles: Green basilisk

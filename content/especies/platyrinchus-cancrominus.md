@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Platyrinchus cancrominus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Platyrinchus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Platyrinchus
 especie: 'cancrominus '
 nombre_comun: Piquichato Norteño
 nombre_ingles: Stub-tailed Spadebill

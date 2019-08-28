@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Emberizoides herbicola
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Emberizoides
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Emberizoides
 especie: herbicola
 nombre_comun: 'Sabanero Coludo '
 nombre_ingles: Wedge-tailed Grass-Finch

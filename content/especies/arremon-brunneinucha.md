@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Arremon brunneinucha
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Emberizidae '
-generos:
-  - Arremon
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Emberizidae '
+generos: Arremon
 especie: brunneinucha
 nombre_comun: Saltón Cabecicastaño
 nombre_ingles: Chestnut-capped Brushfinch

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Campylorhynchus zonatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Troglodytidae '
-generos:
-  - Campylorhynchus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Troglodytidae '
+generos: Campylorhynchus
 especie: zonatus
 nombre_comun: Soterrey Matraquero
 nombre_ingles: Band-backed Wren

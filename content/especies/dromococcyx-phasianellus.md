@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Dromococcyx phasianellus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Cuculiformes
-familias:
-  - 'Cuculidae '
-generos:
-  - Dromococcyx
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Cuculiformes
+familias: 'Cuculidae '
+generos: Dromococcyx
 especie: 'phasianellus '
 nombre_comun: Cuclillo Faisán
 nombre_ingles: Pheasant Cuckoo

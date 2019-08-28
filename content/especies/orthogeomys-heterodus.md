@@ -1,18 +1,12 @@
 ---
 nombre_cientifico: Orthogeomys heterodus
 title: "Orthogeomys heterodus, Variable pocket gopher, Taltuza"
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Mammalia
-ordenes:
-  - Rodentia
-familias:
-  - Geomyidae
-generos:
-  - Orthogeomys
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: Mammalia
+ordenes: Rodentia
+familias: Geomyidae
+generos: Orthogeomys
 especie: heterodus
 nombre_comun: Taltuza
 nombre_ingles: Variable pocket gopher

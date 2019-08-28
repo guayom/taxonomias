@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Euphonia luteicapilla
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Fringillidae '
-generos:
-  - Euphonia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Fringillidae '
+generos: Euphonia
 especie: 'luteicapilla '
 nombre_comun: 'Eufonia Coroniamarilla '
 nombre_ingles: Yellow-crowned Euphonia

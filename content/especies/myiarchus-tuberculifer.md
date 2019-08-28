@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Myiarchus tuberculifer
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Myiarchus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Myiarchus
 especie: 'tuberculifer '
 nombre_comun: 'Copetón Crestioscuro '
 nombre_ingles: Dusky-capped Flycatcher

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Piranga rubra
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Cardinalidae '
-generos:
-  - Piranga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Cardinalidae '
+generos: Piranga
 especie: rubra
 nombre_comun: 'Tangara Veranera '
 nombre_ingles: Summer Tanager

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Hylophilus flavipes
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Vireonidae '
-generos:
-  - Hylophilus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Vireonidae '
+generos: Hylophilus
 especie: flavipes
 nombre_comun: Verdillo Matorralero
 nombre_ingles: Scrub Greenlet

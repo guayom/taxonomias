@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cranioleuca erythrops
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Furnariidae '
-generos:
-  - Cranioleuca
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Furnariidae '
+generos: Cranioleuca
 especie: 'erythrops '
 nombre_comun: Colaespina Carirroja
 nombre_ingles: Red-faced Spinetail

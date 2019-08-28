@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Amazona farinosa
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Psittaciformes
-familias:
-  - 'Psittacidae '
-generos:
-  - Amazona
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Psittaciformes
+familias: 'Psittacidae '
+generos: Amazona
 especie: farinosa
 nombre_comun: 'Loro Verde '
 nombre_ingles: Mealy Parrot

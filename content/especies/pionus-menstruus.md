@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pionus menstruus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Psittaciformes
-familias:
-  - 'Psittacidae '
-generos:
-  - Pionus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Psittaciformes
+familias: 'Psittacidae '
+generos: Pionus
 especie: 'menstruus '
 nombre_comun: 'Loro Cabeciazul '
 nombre_ingles: Blue-headed Parrot

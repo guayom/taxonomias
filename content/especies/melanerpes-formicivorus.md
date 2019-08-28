@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Melanerpes formicivorus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Piciformes
-familias:
-  - 'Picidae '
-generos:
-  - Melanerpes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Piciformes
+familias: 'Picidae '
+generos: Melanerpes
 especie: 'formicivorus '
 nombre_comun: 'Carpintero Careto '
 nombre_ingles: Acorn Woodpecker

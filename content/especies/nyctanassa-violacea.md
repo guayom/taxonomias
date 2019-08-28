@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Nyctanassa violacea
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Pelecaniformes
-familias:
-  - 'Ardeidae '
-generos:
-  - Nyctanassa
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Pelecaniformes
+familias: 'Ardeidae '
+generos: Nyctanassa
 especie: 'violacea '
 nombre_comun: Martinete Cabecipinto
 nombre_ingles: Yellow-crowned Night-Heron

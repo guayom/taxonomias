@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Dysithamnus striaticeps
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thamnophilidae '
-generos:
-  - Dysithamnus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thamnophilidae '
+generos: Dysithamnus
 especie: 'striaticeps '
 nombre_comun: Batarito Pechirrayado
 nombre_ingles: Streak-crowned Antvireo

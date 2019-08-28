@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Icterus prosthemelas
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Icteridae '
-generos:
-  - Icterus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Icteridae '
+generos: Icterus
 especie: prosthemelas
 nombre_comun: 'Bolsero Capuchinegro '
 nombre_ingles: Black-cowled Oriole

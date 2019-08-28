@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Ciconia maguari
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Ciconiiformes
-familias:
-  - 'Ciconiidae '
-generos:
-  - Ciconia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Ciconiiformes
+familias: 'Ciconiidae '
+generos: Ciconia
 especie: 'maguari '
 nombre_comun: Cigüeña Maguari
 nombre_ingles: Maguari Stork

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cochlearius cochlearius
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Pelecaniformes
-familias:
-  - 'Ardeidae '
-generos:
-  - Cochlearius
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Pelecaniformes
+familias: 'Ardeidae '
+generos: Cochlearius
 especie: 'cochlearius '
 nombre_comun: 'Pico Cuchara '
 nombre_ingles: Boat-billed Heron

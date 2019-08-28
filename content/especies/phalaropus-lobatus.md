@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Phalaropus lobatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Scolopacidae '
-generos:
-  - Phalaropus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Scolopacidae '
+generos: Phalaropus
 especie: lobatus
 nombre_comun: Falaropo Picofino
 nombre_ingles: Red-necked Phalarope

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Riparia riparia
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Hirundinidae '
-generos:
-  - Riparia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Hirundinidae '
+generos: Riparia
 especie: riparia
 nombre_comun: Golondrina Ribereña
 nombre_ingles: Bank Swallow

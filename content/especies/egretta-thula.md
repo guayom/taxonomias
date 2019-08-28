@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Egretta thula
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Pelecaniformes
-familias:
-  - 'Ardeidae '
-generos:
-  - Egretta
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Pelecaniformes
+familias: 'Ardeidae '
+generos: Egretta
 especie: 'thula '
 nombre_comun: Garceta Nivosa
 nombre_ingles: Snowy Egret

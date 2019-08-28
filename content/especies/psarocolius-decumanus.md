@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Psarocolius decumanus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Icteridae '
-generos:
-  - Psarocolius
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Icteridae '
+generos: Psarocolius
 especie: 'decumanus '
 nombre_comun: 'Oropéndola Crestada '
 nombre_ingles: Crested Oropendola

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Haplospiza rustica
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Haplospiza
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Haplospiza
 especie: 'rustica '
 nombre_comun: 'Fringilo Plomizo '
 nombre_ingles: Slaty Finch

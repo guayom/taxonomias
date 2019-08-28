@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pelagodroma marina
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - 'Hydrobatidae '
-generos:
-  - Pelagodroma
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: 'Hydrobatidae '
+generos: Pelagodroma
 especie: 'marina '
 nombre_comun: Paiño Pechialbo
 nombre_ingles: White-faced Storm-Petrel

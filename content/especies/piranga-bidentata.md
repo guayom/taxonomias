@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Piranga bidentata
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Cardinalidae '
-generos:
-  - Piranga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Cardinalidae '
+generos: Piranga
 especie: 'bidentata '
 nombre_comun: 'Tangara Dorsirrayada '
 nombre_ingles: Flame-colored Tanager

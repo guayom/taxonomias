@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Procnias tricarunculatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Cotingidae '
-generos:
-  - Procnias
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Cotingidae '
+generos: Procnias
 especie: tricarunculatus
 nombre_comun: 'Campanero Tricarunculado '
 nombre_ingles: Three-wattled Bellbird

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Glyphorynchus spirurus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Furnariidae '
-generos:
-  - Glyphorynchus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Furnariidae '
+generos: Glyphorynchus
 especie: spirurus
 nombre_comun: 'Trepadorcito Pico de Cuña '
 nombre_ingles: Wedge-billed Woodcreeper

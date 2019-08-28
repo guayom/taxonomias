@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Patagioenas leucocephala
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Columbiformes
-familias:
-  - 'Columbidae '
-generos:
-  - Patagioenas
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Columbiformes
+familias: 'Columbidae '
+generos: Patagioenas
 especie: leucocephala
 nombre_comun: Paloma Coroniblanca
 nombre_ingles: White-crowned Pigeon

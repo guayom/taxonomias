@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pachyramphus versicolor
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tityridae '
-generos:
-  - Pachyramphus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tityridae '
+generos: Pachyramphus
 especie: 'versicolor '
 nombre_comun: Cabezón Ondeado
 nombre_ingles: Barred Becard

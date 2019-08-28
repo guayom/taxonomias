@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Dives dives
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Icteridae '
-generos:
-  - Dives
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Icteridae '
+generos: Dives
 especie: dives
 nombre_comun: Tordo Cantor
 nombre_ingles: Melodious Blackbird

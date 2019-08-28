@@ -2,12 +2,12 @@
 title: "Ocyptamus giganteus"
 date: 2017-08-18T20:46:32-06:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Arthropoda"]
-clases: ["Insecta"]
-ordenes: ["Diptera"]
-familias: ["Syrphidae"]
-generos: ["Ocyptamus"]
+reinos: "Animalia"
+divisiones: "Arthropoda"
+clases: "Insecta"
+ordenes: "Diptera"
+familias: "Syrphidae"
+generos: "Ocyptamus"
 especie: "giganteus"
 nombre_cientifico: "Ocyptamus giganteus"
 nombre_comun: ""

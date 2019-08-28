@@ -2,12 +2,12 @@
 title: "Memphis chrysophana"
 date: 2017-08-18T20:46:32-06:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Arthropoda"]
-clases: ["Insecta"]
-ordenes: ["Lepidoptera"]
-familias: ["Nymphalidae"]
-generos: ["Memphis"]
+reinos: "Animalia"
+divisiones: "Arthropoda"
+clases: "Insecta"
+ordenes: "Lepidoptera"
+familias: "Nymphalidae"
+generos: "Memphis"
 especie: "chrysophana"
 nombre_cientifico: "Memphis chrysophana"
 nombre_comun: ""

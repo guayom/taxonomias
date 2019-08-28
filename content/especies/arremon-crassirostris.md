@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Arremon crassirostris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Emberizidae '
-generos:
-  - Arremon
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Emberizidae '
+generos: Arremon
 especie: crassirostris
 nombre_comun: Pinzón Barranquero
 nombre_ingles: Sooty-faced Finch

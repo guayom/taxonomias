@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Legatus leucophaius
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Legatus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Legatus
 especie: 'leucophaius '
 nombre_comun: 'Mosquero Pirata '
 nombre_ingles: Piratic Flycatcher

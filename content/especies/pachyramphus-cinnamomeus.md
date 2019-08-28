@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pachyramphus cinnamomeus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tityridae '
-generos:
-  - Pachyramphus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tityridae '
+generos: Pachyramphus
 especie: 'cinnamomeus '
 nombre_comun: Cabezón Canelo
 nombre_ingles: Cinnamon Becard

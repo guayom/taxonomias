@@ -2,12 +2,12 @@
 title: "Calidris alba, Sanderling, Playero Arenero"
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Charadriiformes"]
-familias: ["Scolopacidae "]
-generos: ["Calidris"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Charadriiformes"
+familias: "Scolopacidae "
+generos: "Calidris"
 especie: "alba"
 nombre_cientifico: "Calidris alba"
 nombre_comun: "Playero Arenero"

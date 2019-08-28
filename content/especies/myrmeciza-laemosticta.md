@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Myrmeciza laemosticta
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thamnophilidae '
-generos:
-  - Myrmeciza
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thamnophilidae '
+generos: Myrmeciza
 especie: 'laemosticta '
 nombre_comun: Hormiguero Alimaculado
 nombre_ingles: Dull-mantled Antbird

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Archilochus colubris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Archilochus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Archilochus
 especie: colubris
 nombre_comun: Colibrí Garganta de Rubí
 nombre_ingles: Ruby-throated Hummingbird

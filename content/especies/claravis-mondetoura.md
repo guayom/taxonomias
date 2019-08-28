@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Claravis mondetoura
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Columbiformes
-familias:
-  - 'Columbidae '
-generos:
-  - Claravis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Columbiformes
+familias: 'Columbidae '
+generos: Claravis
 especie: 'mondetoura '
 nombre_comun: Tortolita Serranera
 nombre_ingles: Maroon-chested Ground-Dove

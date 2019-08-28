@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cyanolyca cucullata
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Corvidae '
-generos:
-  - Cyanolyca
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Corvidae '
+generos: Cyanolyca
 especie: 'cucullata '
 nombre_comun: 'Urraca de Toca Celeste '
 nombre_ingles: Azure-hooded Jay

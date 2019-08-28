@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Oceanodroma melania
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - 'Hydrobatidae '
-generos:
-  - Oceanodroma
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: 'Hydrobatidae '
+generos: Oceanodroma
 especie: 'melania '
 nombre_comun: Paiño Negro
 nombre_ingles: Black Storm-Petrel

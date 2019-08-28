@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Schiffornis veraepacis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tityridae '
-generos:
-  - Schiffornis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tityridae '
+generos: Schiffornis
 especie: veraepacis
 nombre_comun: Tordo-saltarín
 nombre_ingles: Northern Schiffornis

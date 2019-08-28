@@ -2,12 +2,12 @@
 title: "Trogon rufus, Black-throated Trogon, Trogón Cabeciverde"
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Trogoniformes"]
-familias: ["Trogonidae "]
-generos: ["Trogon"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Trogoniformes"
+familias: "Trogonidae "
+generos: "Trogon"
 especie: "rufus"
 nombre_cientifico: "Trogon rufus"
 nombre_comun: "Trogón Cabeciverde"

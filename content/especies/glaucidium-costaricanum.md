@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Glaucidium costaricanum
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Strigidae '
-generos:
-  - Glaucidium
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Strigidae '
+generos: Glaucidium
 especie: 'costaricanum '
 nombre_comun: Mochuelo Montañero
 nombre_ingles: Costa Rican Pygmy-Owl

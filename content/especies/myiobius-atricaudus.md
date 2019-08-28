@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Myiobius atricaudus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Myiobius
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Myiobius
 especie: 'atricaudus '
 nombre_comun: Mosquerito Colinegro
 nombre_ingles: Black-tailed Flycatcher

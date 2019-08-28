@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: 'Campylorhamphus pusillus '
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Furnariidae '
-generos:
-  - Campylorhamphus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Furnariidae '
+generos: Campylorhamphus
 especie: 'pusillus '
 nombre_comun: Trepador Pico de Hoz
 nombre_ingles: Brown-billed Scythebill

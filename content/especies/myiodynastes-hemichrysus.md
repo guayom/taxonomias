@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Myiodynastes hemichrysus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Myiodynastes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Myiodynastes
 especie: 'hemichrysus '
 nombre_comun: 'Mosquero Vientridorado '
 nombre_ingles: Golden-bellied Flycatcher

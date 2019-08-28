@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Anas crecca
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Anseriformes
-familias:
-  - 'Anatidae '
-generos:
-  - Anas
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Anseriformes
+familias: 'Anatidae '
+generos: Anas
 especie: crecca
 nombre_comun: 'Cerceta Aliverde '
 nombre_ingles: Green-winged Teal

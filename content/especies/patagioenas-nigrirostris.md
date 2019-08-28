@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Patagioenas nigrirostris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Columbiformes
-familias:
-  - 'Columbidae '
-generos:
-  - Patagioenas
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Columbiformes
+familias: 'Columbidae '
+generos: Patagioenas
 especie: nigrirostris
 nombre_comun: 'Paloma Piquicorta '
 nombre_ingles: Short-billed Pigeon

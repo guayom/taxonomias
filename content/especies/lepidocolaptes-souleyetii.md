@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Lepidocolaptes souleyetii
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Furnariidae '
-generos:
-  - Lepidocolaptes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Furnariidae '
+generos: Lepidocolaptes
 especie: 'souleyetii '
 nombre_comun: Trepador Cabecirrayado
 nombre_ingles: Streak-headed Woodcreeper

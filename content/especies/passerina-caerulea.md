@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Passerina caerulea
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Cardinalidae '
-generos:
-  - Passerina
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Cardinalidae '
+generos: Passerina
 especie: caerulea
 nombre_comun: 'Picogrueso Azul '
 nombre_ingles: Blue Grosbeak

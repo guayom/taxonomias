@@ -2,12 +2,12 @@
 title: "Phyllophaga guapilana"
 date: 2017-08-18T20:46:32-06:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Arthropoda"]
-clases: ["Insecta"]
-ordenes: ["Coleoptera"]
-familias: ["Scarabaeidae"]
-generos: ["Phyllophaga"]
+reinos: "Animalia"
+divisiones: "Arthropoda"
+clases: "Insecta"
+ordenes: "Coleoptera"
+familias: "Scarabaeidae"
+generos: "Phyllophaga"
 especie: "guapilana"
 nombre_cientifico: "Phyllophaga guapilana"
 nombre_comun: ""

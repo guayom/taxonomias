@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Chondrohierax uncinatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Chondrohierax
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Chondrohierax
 especie: 'uncinatus '
 nombre_comun: Gavilán Piquiganchudo
 nombre_ingles: Hook-billed Kite

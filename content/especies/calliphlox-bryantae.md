@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Calliphlox bryantae
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Calliphlox
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Calliphlox
 especie: bryantae
 nombre_comun: Colibrí Estrellita Gorgimorada
 nombre_ingles: Magenta-throated Woodstar

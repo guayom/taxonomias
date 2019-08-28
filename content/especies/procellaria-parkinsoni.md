@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Procellaria parkinsoni
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - 'Procellariidae '
-generos:
-  - Procellaria
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: 'Procellariidae '
+generos: Procellaria
 especie: parkinsoni
 nombre_comun: Petrel de Parkinson
 nombre_ingles: Parkinson’s Petrel

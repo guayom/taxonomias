@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Amazilia saucerottei
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Amazilia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Amazilia
 especie: saucerottei
 nombre_comun: 'Amazilia Culiazul '
 nombre_ingles: Steely-vented Hummingbird

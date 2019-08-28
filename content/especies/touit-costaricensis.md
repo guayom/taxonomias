@@ -2,12 +2,12 @@
 title: "Touit costaricensis, Red-fronted Parrotlet, Periquito Alirrojo"
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Psittaciformes"]
-familias: ["Psittacidae "]
-generos: ["Touit"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Psittaciformes"
+familias: "Psittacidae "
+generos: "Touit"
 especie: "costaricensis"
 nombre_cientifico: "Touit costaricensis"
 nombre_comun: "Periquito Alirrojo"

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Corapipo altera
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Pipridae '
-generos:
-  - Corapipo
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Pipridae '
+generos: Corapipo
 especie: altera
 nombre_comun: Saltarín Gorgiblanco
 nombre_ingles: White-ruffed Manakin

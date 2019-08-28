@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Puffinus puffinus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - 'Procellariidae '
-generos:
-  - Puffinus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: 'Procellariidae '
+generos: Puffinus
 especie: puffinus
 nombre_comun: Pardela Manx
 nombre_ingles: Manx Shearwater

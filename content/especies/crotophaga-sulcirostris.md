@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Crotophaga sulcirostris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Cuculiformes
-familias:
-  - 'Cuculidae '
-generos:
-  - Crotophaga
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Cuculiformes
+familias: 'Cuculidae '
+generos: Crotophaga
 especie: 'sulcirostris '
 nombre_comun: 'Garrapatero Piquiestriado '
 nombre_ingles: Groove-billed Ani

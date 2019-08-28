@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Contopus cooperi
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Contopus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Contopus
 especie: 'cooperi '
 nombre_comun: 'Pibí Boreal '
 nombre_ingles: Olive-sided Flycatcher

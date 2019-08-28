@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Calidris ferruginea
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Scolopacidae '
-generos:
-  - Calidris
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Scolopacidae '
+generos: Calidris
 especie: ferruginea
 nombre_comun: Correlimos Zarapitín
 nombre_ingles: Curlew Sandpiper

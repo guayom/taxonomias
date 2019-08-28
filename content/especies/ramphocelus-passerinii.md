@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Ramphocelus passerinii
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Ramphocelus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Ramphocelus
 especie: 'passerinii '
 nombre_comun: 'Tangara de Passerini '
 nombre_ingles: Passerini's Tanager

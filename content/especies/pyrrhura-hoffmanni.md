@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pyrrhura hoffmanni
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Psittaciformes
-familias:
-  - 'Psittacidae '
-generos:
-  - Pyrrhura
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Psittaciformes
+familias: 'Psittacidae '
+generos: Pyrrhura
 especie: 'hoffmanni '
 nombre_comun: Perico Aliazufrado
 nombre_ingles: Sulphur-winged Parakeet

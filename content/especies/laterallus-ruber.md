@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Laterallus ruber
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Gruiformes
-familias:
-  - 'Rallidae '
-generos:
-  - Laterallus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Gruiformes
+familias: 'Rallidae '
+generos: Laterallus
 especie: ruber
 nombre_comun: Polluela Colorada
 nombre_ingles: Ruddy Crake

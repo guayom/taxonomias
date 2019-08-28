@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pandion haliaetus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Pandionidae '
-generos:
-  - Pandion
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Pandionidae '
+generos: Pandion
 especie: 'haliaetus '
 nombre_comun: 'Águila Pescadora '
 nombre_ingles: Osprey

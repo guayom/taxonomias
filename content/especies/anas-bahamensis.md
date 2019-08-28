@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Anas bahamensis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Anseriformes
-familias:
-  - 'Anatidae '
-generos:
-  - Anas
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Anseriformes
+familias: 'Anatidae '
+generos: Anas
 especie: bahamensis
 nombre_comun: Pato Gargantilla
 nombre_ingles: White-cheeked Pintail

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Phylloscartes superciliaris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Phylloscartes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Phylloscartes
 especie: superciliaris
 nombre_comun: Mosquerito Cejirrufo
 nombre_ingles: Rufous-browed Tyrannulet

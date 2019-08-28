@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Mniotilta varia
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Mniotilta
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Mniotilta
 especie: varia
 nombre_comun: 'Reinita Trepadora '
 nombre_ingles: Black-and-white Warbler

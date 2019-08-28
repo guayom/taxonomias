@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Arremonops rufivirgatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Emberizidae '
-generos:
-  - Arremonops
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Emberizidae '
+generos: Arremonops
 especie: rufivirgatus
 nombre_comun: 'Pinzón Aceitunado '
 nombre_ingles: Olive Sparrow

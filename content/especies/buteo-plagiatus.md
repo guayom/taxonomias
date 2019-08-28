@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Buteo plagiatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Buteo
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Buteo
 especie: plagiatus
 nombre_comun: 'Gavilán Gris '
 nombre_ingles: Gray Hawk

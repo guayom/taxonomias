@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Leucophaeus pipixcan
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Laridae '
-generos:
-  - Leucophaeus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Laridae '
+generos: Leucophaeus
 especie: 'pipixcan '
 nombre_comun: Gaviota de Franklin
 nombre_ingles: Franklin's Gull

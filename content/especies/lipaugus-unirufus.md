@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Lipaugus unirufus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Cotingidae '
-generos:
-  - Lipaugus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Cotingidae '
+generos: Lipaugus
 especie: 'unirufus '
 nombre_comun: Piha Rojiza
 nombre_ingles: Rufous Piha

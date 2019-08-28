@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Phaenostictus mcleannani
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thamnophilidae '
-generos:
-  - Phaenostictus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thamnophilidae '
+generos: Phaenostictus
 especie: 'mcleannani '
 nombre_comun: Hormiguero Ocelado
 nombre_ingles: Ocellated Antbird

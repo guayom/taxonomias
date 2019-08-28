@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Amazilia edward
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Amazilia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Amazilia
 especie: edward
 nombre_comun: 'Amazilia Vientriblanca '
 nombre_ingles: Snowy-bellied Hummingbird

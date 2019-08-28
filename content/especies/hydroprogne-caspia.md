@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Hydroprogne caspia
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Laridae '
-generos:
-  - Hydroprogne
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Laridae '
+generos: Hydroprogne
 especie: caspia
 nombre_comun: Pagaza Mayor
 nombre_ingles: Caspian Tern

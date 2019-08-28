@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Patagioenas speciosa
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Columbiformes
-familias:
-  - 'Columbidae '
-generos:
-  - Patagioenas
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Columbiformes
+familias: 'Columbidae '
+generos: Patagioenas
 especie: speciosa
 nombre_comun: 'Paloma Escamosa '
 nombre_ingles: Scaled Pigeon

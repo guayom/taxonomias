@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Myiornis atricapillus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Myiornis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Myiornis
 especie: atricapillus
 nombre_comun: Mosquerito Colicorto
 nombre_ingles: Black-capped Pygmy-Tyrant

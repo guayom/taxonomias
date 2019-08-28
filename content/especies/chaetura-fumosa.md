@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Chaetura fumosa
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Apodidae '
-generos:
-  - Chaetura
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Apodidae '
+generos: Chaetura
 especie: 'fumosa '
 nombre_comun: Vencejo de Rabadilla Clara
 nombre_ingles: Costa Rican Swift

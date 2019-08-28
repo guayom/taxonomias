@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Arenaria interpres
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Scolopacidae '
-generos:
-  - Arenaria
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Scolopacidae '
+generos: Arenaria
 especie: interpres
 nombre_comun: Vuelvepiedras Rojizo
 nombre_ingles: Ruddy Turnstone

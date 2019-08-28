@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Heterospingus rubrifrons
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Heterospingus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Heterospingus
 especie: 'rubrifrons '
 nombre_comun: Tangara Lomiazufrada
 nombre_ingles: Sulphur-rumped Tanager

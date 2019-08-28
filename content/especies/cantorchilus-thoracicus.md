@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cantorchilus thoracicus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Troglodytidae '
-generos:
-  - Cantorchilus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Troglodytidae '
+generos: Cantorchilus
 especie: 'thoracicus '
 nombre_comun: Soterrey Pechirrayado
 nombre_ingles: Stripe-breasted Wren

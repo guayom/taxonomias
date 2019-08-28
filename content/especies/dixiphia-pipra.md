@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Dixiphia pipra
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Pipridae '
-generos:
-  - Dixiphia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Pipridae '
+generos: Dixiphia
 especie: 'pipra '
 nombre_comun: Saltarín Coroniblanco
 nombre_ingles: White-crowned Manakin

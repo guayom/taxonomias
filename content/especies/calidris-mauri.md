@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Calidris mauri
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Scolopacidae '
-generos:
-  - Calidris
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Scolopacidae '
+generos: Calidris
 especie: mauri
 nombre_comun: 'Correlimos Occidental '
 nombre_ingles: Western Sandpiper

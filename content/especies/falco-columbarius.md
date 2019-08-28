@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Falco columbarius
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Falconiformes
-familias:
-  - 'Falconidae '
-generos:
-  - Falco
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Falconiformes
+familias: 'Falconidae '
+generos: Falco
 especie: 'columbarius '
 nombre_comun: Esmerejón
 nombre_ingles: Merlin

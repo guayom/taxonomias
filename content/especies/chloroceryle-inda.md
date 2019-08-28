@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Chloroceryle inda
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Coraciiformes
-familias:
-  - 'Alcedinidae '
-generos:
-  - Chloroceryle
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Coraciiformes
+familias: 'Alcedinidae '
+generos: Chloroceryle
 especie: inda
 nombre_comun: Martín Pescador Vientrirrufo
 nombre_ingles: Green-and-rufous Kingfisher

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Picoides villosus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Piciformes
-familias:
-  - 'Picidae '
-generos:
-  - Picoides
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Piciformes
+familias: 'Picidae '
+generos: Picoides
 especie: villosus
 nombre_comun: Carpintero Serranero
 nombre_ingles: Hairy Woodpecker

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Calidris subruficollis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Scolopacidae '
-generos:
-  - Calidris
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Scolopacidae '
+generos: Calidris
 especie: subruficollis
 nombre_comun: 'Praderito Pechianteado '
 nombre_ingles: Buff-breasted Sandpiper

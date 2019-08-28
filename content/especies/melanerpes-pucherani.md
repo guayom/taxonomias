@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Melanerpes pucherani
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Piciformes
-familias:
-  - 'Picidae '
-generos:
-  - Melanerpes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Piciformes
+familias: 'Picidae '
+generos: Melanerpes
 especie: 'pucherani '
 nombre_comun: Carpintero Carinegro
 nombre_ingles: Black-cheeked Woodpecker

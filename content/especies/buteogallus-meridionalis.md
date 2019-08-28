@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Buteogallus meridionalis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Buteogallus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Buteogallus
 especie: meridionalis
 nombre_comun: Gavilán Sabanero
 nombre_ingles: Savanna Hawk

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pygochelidon cyanoleuca
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Hirundinidae '
-generos:
-  - Pygochelidon
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Hirundinidae '
+generos: Pygochelidon
 especie: 'cyanoleuca '
 nombre_comun: Golondrina Azul y Blanco
 nombre_ingles: 'Blue-and-white Swallow '

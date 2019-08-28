@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Coccyzus erythropthalmus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Cuculiformes
-familias:
-  - 'Cuculidae '
-generos:
-  - Coccyzus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Cuculiformes
+familias: 'Cuculidae '
+generos: Coccyzus
 especie: 'erythropthalmus '
 nombre_comun: Cuclillo Piquinegro
 nombre_ingles: Black-billed Cuckoo

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Campylopterus hemileucurus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Campylopterus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Campylopterus
 especie: 'hemileucurus '
 nombre_comun: Ala de Sable Violáceo
 nombre_ingles: Violet Sabrewing

@@ -2,12 +2,12 @@
 title: "Parandra polita"
 date: 2017-08-18T20:46:32-06:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Arthropoda"]
-clases: ["Insecta"]
-ordenes: ["Coleoptera"]
-familias: ["Cerambycidae"]
-generos: ["Parandra"]
+reinos: "Animalia"
+divisiones: "Arthropoda"
+clases: "Insecta"
+ordenes: "Coleoptera"
+familias: "Cerambycidae"
+generos: "Parandra"
 especie: "polita"
 nombre_cientifico: "Parandra polita"
 nombre_comun: ""

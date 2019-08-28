@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Accipiter striatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Accipiter
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Accipiter
 especie: striatus
 nombre_comun: 'Gavilán Pajarero '
 nombre_ingles: Sharp-shinned Hawk

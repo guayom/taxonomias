@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Falco sparverius
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Falconiformes
-familias:
-  - 'Falconidae '
-generos:
-  - Falco
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Falconiformes
+familias: 'Falconidae '
+generos: Falco
 especie: 'sparverius '
 nombre_comun: 'Cernícalo Americano '
 nombre_ingles: American Kestrel

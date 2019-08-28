@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Myiarchus tyrannulus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Myiarchus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Myiarchus
 especie: 'tyrannulus '
 nombre_comun: 'Copetón Crestipardo '
 nombre_ingles: Brown-crested Flycatcher

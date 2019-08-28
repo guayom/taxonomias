@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pseudocolaptes lawrencii
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Furnariidae '
-generos:
-  - Pseudocolaptes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Furnariidae '
+generos: Pseudocolaptes
 especie: 'lawrencii '
 nombre_comun: Trepamusgo Cachetón
 nombre_ingles: Buffy Tuftedcheek

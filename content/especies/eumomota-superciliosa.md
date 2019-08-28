@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Eumomota superciliosa
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Coraciiformes
-familias:
-  - 'Momotidae '
-generos:
-  - Eumomota
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Coraciiformes
+familias: 'Momotidae '
+generos: Eumomota
 especie: 'superciliosa '
 nombre_comun: 'Momoto Cejiceleste '
 nombre_ingles: Turquoise-browed Motmot

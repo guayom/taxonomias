@@ -1,17 +1,11 @@
 ---
 title: Dendrobium nobile, null, Orquídea
-reinos:
-  - Plantae
-divisiones:
-  - Monocots
-clases:
-  - Liliopsida
-ordenes:
-  - Asparagales
-familias:
-  - Orchidaceae
-generos:
-  - Dendrobium
+reinos: Plantae
+divisiones: Monocots
+clases: Liliopsida
+ordenes: Asparagales
+familias: Orchidaceae
+generos: Dendrobium
 nombre_cientifico: Dendrobium nobile
 nombre_comun: Orquídea
 nombre_ingles: null

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pionus senilis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Psittaciformes
-familias:
-  - 'Psittacidae '
-generos:
-  - Pionus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Psittaciformes
+familias: 'Psittacidae '
+generos: Pionus
 especie: 'senilis '
 nombre_comun: 'Loro Coroniblanco '
 nombre_ingles: White-crowned Parrot

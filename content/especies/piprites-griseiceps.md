@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Piprites griseiceps
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Piprites
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Piprites
 especie: 'griseiceps '
 nombre_comun: Saltarín Cabecigrís
 nombre_ingles: Gray-headed Piprites

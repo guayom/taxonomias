@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Megaceryle alcyon
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Coraciiformes
-familias:
-  - 'Alcedinidae '
-generos:
-  - Megaceryle
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Coraciiformes
+familias: 'Alcedinidae '
+generos: Megaceryle
 especie: alcyon
 nombre_comun: Martín Pescador Norteño
 nombre_ingles: Belted Kingfisher

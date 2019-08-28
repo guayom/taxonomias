@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Passerina ciris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Cardinalidae '
-generos:
-  - Passerina
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Cardinalidae '
+generos: Passerina
 especie: 'ciris '
 nombre_comun: 'Azulillo Sietecolores '
 nombre_ingles: Painted Bunting

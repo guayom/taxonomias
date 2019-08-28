@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: 'Cantorchilus elutus '
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Troglodytidae '
-generos:
-  - Cantorchilus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Troglodytidae '
+generos: Cantorchilus
 especie: 'elutus '
 nombre_comun: Soterrey de Panama
 nombre_ingles: Isthmian Wren

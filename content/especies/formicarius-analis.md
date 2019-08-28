@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Formicarius analis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Formicariidae '
-generos:
-  - Formicarius
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Formicariidae '
+generos: Formicarius
 especie: 'analis '
 nombre_comun: Gallito Hormiguero Carinegro
 nombre_ingles: Black-faced Antthrush

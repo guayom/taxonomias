@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Chlorospingus pileatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Emberizidae '
-generos:
-  - Chlorospingus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Emberizidae '
+generos: Chlorospingus
 especie: 'pileatus '
 nombre_comun: Tangara de Monte Cejiblanca
 nombre_ingles: Sooty-capped Chlorospingus

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Nyctiphrynus ocellatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Caprimulgiformes
-familias:
-  - 'Caprimulgidae '
-generos:
-  - Nyctiphrynus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Caprimulgiformes
+familias: 'Caprimulgidae '
+generos: Nyctiphrynus
 especie: ocellatus
 nombre_comun: Chotacabras Ocelado
 nombre_ingles: Ocellated Poorwill

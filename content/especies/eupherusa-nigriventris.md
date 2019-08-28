@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Eupherusa nigriventris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Eupherusa
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Eupherusa
 especie: nigriventris
 nombre_comun: Colibrí Pechinegro
 nombre_ingles: Black-bellied Hummingbird

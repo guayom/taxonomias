@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pelecanus erythrorhynchos
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Pelecaniformes
-familias:
-  - 'Pelecanidae '
-generos:
-  - Pelecanus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Pelecaniformes
+familias: 'Pelecanidae '
+generos: Pelecanus
 especie: erythrorhynchos
 nombre_comun: Pelícano Blanco Americano
 nombre_ingles: American White Pelican

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cairina moschata
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Anseriformes
-familias:
-  - 'Anatidae '
-generos:
-  - Cairina
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Anseriformes
+familias: 'Anatidae '
+generos: Cairina
 especie: moschata
 nombre_comun: 'Pato Real '
 nombre_ingles: Muscovy Duck

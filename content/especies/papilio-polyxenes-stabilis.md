@@ -1,18 +1,12 @@
 ---
 nombre_cientifico: polyxenes stabilis 
 title: Papilio polyxenes stabilis, Costa Rican Black Swallowtail, undefined
-reinos:
-  - Animalia
-divisiones:
-  - Arthropoda
-clases:
-  - Insecta
-ordenes:
-  - Lepidoptera
-familias:
-  - Papilionidae
-generos:
-  - Papilio
+reinos: "Animalia"
+divisiones: Arthropoda
+clases: Insecta
+ordenes: Lepidoptera
+familias: Papilionidae
+generos: Papilio
 especie: polyxenes stabilis
 nombre_ingles: Costa Rican Black Swallowtail
 links: >-

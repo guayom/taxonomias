@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Oceanodroma leucorhoa
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - 'Hydrobatidae '
-generos:
-  - Oceanodroma
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: 'Hydrobatidae '
+generos: Oceanodroma
 especie: leucorhoa
 nombre_comun: Paiño de Leach
 nombre_ingles: Leach's Storm-Petrel

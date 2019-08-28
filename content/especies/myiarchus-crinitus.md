@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Myiarchus crinitus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Myiarchus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Myiarchus
 especie: 'crinitus '
 nombre_comun: 'Copetón Viajero '
 nombre_ingles: Great Crested Flycatcher

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Micrastur mirandollei
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Falconiformes
-familias:
-  - 'Falconidae '
-generos:
-  - Micrastur
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Falconiformes
+familias: 'Falconidae '
+generos: Micrastur
 especie: 'mirandollei '
 nombre_comun: Halcón de Monte Dorsigrís
 nombre_ingles: Slaty-backed Forest-Falcon

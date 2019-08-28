@@ -1,17 +1,11 @@
 ---
 title: Hibiscus schizopetalus, null, Amapola
-reinos:
-  - Plantae
-divisiones:
-  - Magnoliophyta
-clases:
-  - Magnoliopsida
-ordenes:
-  - Malvales
-familias:
-  - Malvaceae
-generos:
-  - Hibiscus
+reinos: Plantae
+divisiones: Magnoliophyta
+clases: Magnoliopsida
+ordenes: Malvales
+familias: Malvaceae
+generos: Hibiscus
 nombre_cientifico: Hibiscus schizopetalus
 nombre_comun: Amapola
 nombre_ingles: null

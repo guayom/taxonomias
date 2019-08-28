@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Campylorhynchus rufinucha
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Troglodytidae '
-generos:
-  - Campylorhynchus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Troglodytidae '
+generos: Campylorhynchus
 especie: rufinucha
 nombre_comun: 'Soterrey Nuquirrufo '
 nombre_ingles: Rufous-naped Wren

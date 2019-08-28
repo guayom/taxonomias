@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Anthracothorax prevostii
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Anthracothorax
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Anthracothorax
 especie: prevostii
 nombre_comun: Colibrí Manguito Pechiverde
 nombre_ingles: Green-breasted Mango

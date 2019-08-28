@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Dumetella carolinensis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Mimidae '
-generos:
-  - Dumetella
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Mimidae '
+generos: Dumetella
 especie: carolinensis
 nombre_comun: Pájaro-gato Gris
 nombre_ingles: Gray Catbird

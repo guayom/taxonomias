@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Oceanodroma castro
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Procellariiformes
-familias:
-  - 'Hydrobatidae '
-generos:
-  - Oceanodroma
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Procellariiformes
+familias: 'Hydrobatidae '
+generos: Oceanodroma
 especie: 'castro '
 nombre_comun: Paiño Rabifajeado
 nombre_ingles: Band-rumped Storm-Petrel

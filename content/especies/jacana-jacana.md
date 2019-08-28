@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Jacana jacana
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Jacanidae '
-generos:
-  - Jacana
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Jacanidae '
+generos: Jacana
 especie: jacana
 nombre_comun: Jacana Sureña
 nombre_ingles: Wattled Jacana

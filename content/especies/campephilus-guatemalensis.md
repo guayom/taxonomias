@@ -2,12 +2,12 @@
 title: "Campephilus guatemalensis, Pale-billed Woodpecker, Carpintero Picoplata "
 date: 2018-03-26T20:00:00-00:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Chordata"]
-clases: ["Aves"]
-ordenes: ["Piciformes"]
-familias: ["Picidae "]
-generos: ["Campephilus"]
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Piciformes"
+familias: "Picidae "
+generos: "Campephilus"
 especie: "guatemalensis"
 nombre_cientifico: "Campephilus guatemalensis"
 nombre_comun: "Carpintero Picoplata "

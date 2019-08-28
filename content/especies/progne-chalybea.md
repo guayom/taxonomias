@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Progne chalybea
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Hirundinidae '
-generos:
-  - Progne
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Hirundinidae '
+generos: Progne
 especie: 'chalybea '
 nombre_comun: Martín Pechigrís
 nombre_ingles: Gray-breasted Martin

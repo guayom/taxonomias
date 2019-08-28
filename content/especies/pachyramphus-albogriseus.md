@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pachyramphus albogriseus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tityridae '
-generos:
-  - Pachyramphus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tityridae '
+generos: Pachyramphus
 especie: 'albogriseus '
 nombre_comun: Cabezón Cejiblanco
 nombre_ingles: Black-and-white Becard

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Myadestes melanops
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Turdidae '
-generos:
-  - Myadestes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Turdidae '
+generos: Myadestes
 especie: melanops
 nombre_comun: 'Solitario Carinegro '
 nombre_ingles: Black-faced Solitaire

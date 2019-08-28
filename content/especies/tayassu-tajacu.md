@@ -1,18 +1,12 @@
 ---
 nombre_cientifico: Tayassu tajacu
 title: Tayassu tajacu, Peccary, Saino
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Mammalia
-ordenes:
-  - Artiodactyla
-familias:
-  - Tayassuidae
-generos:
-  - Tayassu
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: Mammalia
+ordenes: Artiodactyla
+familias: Tayassuidae
+generos: Tayassu
 nombre_comun: Saino
 nombre_ingles: Peccary
 otros_nombres:

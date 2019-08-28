@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Rynchops niger
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Laridae '
-generos:
-  - Rynchops
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Laridae '
+generos: Rynchops
 especie: niger
 nombre_comun: Rayador Negro
 nombre_ingles: Black Skimmer

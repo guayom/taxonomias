@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Seiurus aurocapilla
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Parulidae '
-generos:
-  - Seiurus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Parulidae '
+generos: Seiurus
 especie: 'aurocapilla '
 nombre_comun: Reinita Hornera
 nombre_ingles: Ovenbird

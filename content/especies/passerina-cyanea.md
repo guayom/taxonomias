@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Passerina cyanea
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Cardinalidae '
-generos:
-  - Passerina
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Cardinalidae '
+generos: Passerina
 especie: 'cyanea '
 nombre_comun: 'Azulillo Norteño '
 nombre_ingles: Indigo Bunting

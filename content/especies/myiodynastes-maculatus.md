@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Myiodynastes maculatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Myiodynastes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Myiodynastes
 especie: 'maculatus '
 nombre_comun: 'Mosquero Listado '
 nombre_ingles: Streaked Flycatcher

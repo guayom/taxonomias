@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Saltator coerulescens
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Thraupidae '
-generos:
-  - Saltator
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Thraupidae '
+generos: Saltator
 especie: coerulescens
 nombre_comun: 'Saltator Grisáceo '
 nombre_ingles: Grayish Saltator

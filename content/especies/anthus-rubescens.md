@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Anthus rubescens
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Motacillidae '
-generos:
-  - Anthus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Motacillidae '
+generos: Anthus
 especie: rubescens
 nombre_comun: Bisbita Americana
 nombre_ingles: American Pipit

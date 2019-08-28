@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Anous stolidus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Charadriiformes
-familias:
-  - 'Laridae '
-generos:
-  - Anous
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Charadriiformes
+familias: 'Laridae '
+generos: Anous
 especie: stolidus
 nombre_comun: 'Tiñosa Común '
 nombre_ingles: Brown Noddy

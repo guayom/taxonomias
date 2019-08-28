@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Pachyramphus polychopterus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tityridae '
-generos:
-  - Pachyramphus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tityridae '
+generos: Pachyramphus
 especie: polychopterus
 nombre_comun: Cabezón Aliblanco
 nombre_ingles: White-winged Becard

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Ardea herodias
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Pelecaniformes
-familias:
-  - 'Ardeidae '
-generos:
-  - Ardea
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Pelecaniformes
+familias: 'Ardeidae '
+generos: Ardea
 especie: herodias
 nombre_comun: 'Garzón Azulado '
 nombre_ingles: Great Blue Heron

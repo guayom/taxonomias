@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Lampornis castaneoventris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Lampornis
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Lampornis
 especie: 'castaneoventris '
 nombre_comun: Colibrí Montañes Gorgiblanco
 nombre_ingles: White-throated Mountain-gem

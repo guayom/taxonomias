@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: 'Colibri cyanotus '
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Apodiformes
-familias:
-  - 'Trochilidae '
-generos:
-  - Colibri
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Apodiformes
+familias: 'Trochilidae '
+generos: Colibri
 especie: 'cyanotus '
 nombre_comun: Colibrí Orejivioláceo Verde
 nombre_ingles: Lesser Violetear

@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Ramphocaenus melanurus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Polioptilidae '
-generos:
-  - Ramphocaenus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Polioptilidae '
+generos: Ramphocaenus
 especie: melanurus
 nombre_comun: Soterillo Picudo
 nombre_ingles: Long-billed Gnatwren

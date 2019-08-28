@@ -2,12 +2,12 @@
 title: "Anomalon anae"
 date: 2017-08-18T20:46:32-06:00
 draft: false
-reinos: ["Animalia"]
-divisiones: ["Arthropoda"]
-clases: ["Insecta"]
-ordenes: ["Hymenoptera"]
-familias: ["Ichneumonidae"]
-generos: ["Anomalon"]
+reinos: "Animalia"
+divisiones: "Arthropoda"
+clases: "Insecta"
+ordenes: "Hymenoptera"
+familias: "Ichneumonidae"
+generos: "Anomalon"
 especie: "anae"
 nombre_cientifico: "Anomalon anae"
 nombre_comun: ""

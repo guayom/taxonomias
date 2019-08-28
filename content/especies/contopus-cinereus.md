@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Contopus cinereus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Contopus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Contopus
 especie: cinereus
 nombre_comun: 'Pibí Tropical '
 nombre_ingles: Tropical Pewee

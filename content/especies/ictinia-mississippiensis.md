@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Ictinia mississippiensis
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Ictinia
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Ictinia
 especie: mississippiensis
 nombre_comun: Elanio Colinegro
 nombre_ingles: Mississippi Kite

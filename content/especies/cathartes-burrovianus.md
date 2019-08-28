@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Cathartes burrovianus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Cathartiformes
-familias:
-  - 'Cathartidae '
-generos:
-  - Cathartes
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Cathartiformes
+familias: 'Cathartidae '
+generos: Cathartes
 especie: 'burrovianus '
 nombre_comun: 'Zopilote Cabecigualdo '
 nombre_ingles: Lesser Yellow-headed Vulture

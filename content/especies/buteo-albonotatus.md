@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Buteo albonotatus
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Accipitriformes
-familias:
-  - 'Accipitridae '
-generos:
-  - Buteo
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: Accipitriformes
+familias: 'Accipitridae '
+generos: Buteo
 especie: albonotatus
 nombre_comun: Gavilán Colifajeado
 nombre_ingles: Zone-tailed Hawk

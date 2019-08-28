@@ -1,17 +1,11 @@
 ---
 nombre_cientifico: Contopus lugubris
-reinos:
-  - Animalia
-divisiones:
-  - Chordata
-clases:
-  - Aves
-ordenes:
-  - Passeriformes
-familias:
-  - 'Tyrannidae '
-generos:
-  - Contopus
+reinos: "Animalia"
+divisiones: "Chordata"
+clases: "Aves"
+ordenes: "Passeriformes"
+familias: 'Tyrannidae '
+generos: Contopus
 especie: 'lugubris '
 nombre_comun: 'Pibí Sombrío '
 nombre_ingles: Dark Pewee
