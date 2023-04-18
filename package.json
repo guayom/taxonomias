@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/guayom/taxonomias#readme",
   "dependencies": {
-    "csv": "^2.0.0",
+    "csv": "^6.2.10",
     "parser-front-matter": "^1.6.4",
     "replace-in-file": "^3.4.0",
     "slug": "^0.9.1"
